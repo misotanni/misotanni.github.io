@@ -187,7 +187,7 @@ Arithmetic.
 
 $$\frac{a}{b} = \frac{\prod_{i = 1}^{n}{\operatorname{p}{(i)}}^{r_{i}}}{\prod_{i = 1}^{m}{\operatorname{p}{(i)}}^{s_{i}}}$$
 
-Now consider $t = \max{(n,m)}$ and expand at most one of these
+Now consider \(t = \max{(n,m)}\) and expand at most one of these
 products until both of them are that length, just by adding further
 primes raised to the power 0. Then simplify.
 
@@ -244,7 +244,7 @@ interval, but as a unit to compare the sizes of other intervals to.
 From a corollary to the theorems established before, multiplying
 an interval means exponentiating its ratio, and dividing an interval
 means taking the corresponding root of its ratio. Hence, the ratio of
-the cent is $\sqrt[1200]{2}$ and that of a semitone is $\sqrt[12]{2}$.
+the cent is \(\sqrt[1200]{2}\) and that of a semitone is $\sqrt[12]{2}$.
 Thus the cent size of an interval can be calculated directly from its
 ratio as follows: it is the power to which the ratio of the cent must be
 raised to obtain the given interval. The cent size scale is logarithmic,
@@ -252,7 +252,7 @@ and the cent size is calculated as follows:
 
 $$\operatorname{C}{(d)} = \operatorname{}d$$
 
-Here, $\operatorname{C}{(d)}$ is the cent size function, $d$ is
+Here, \(\operatorname{C}{(d)}\) is the cent size function, \(d\) is
 the ratio of the interval in question, and the symbol
 $¢ = \sqrt[1200]{2}$ stands for the ratio of the cent.
 
@@ -316,19 +316,19 @@ how long. This will be proven below, but the theorem in question is
 actually more general: no interval with a prime number ratio will make a
 cycle to align with an interval of a different prime number ratio.
 
-> **Theorem 3.** If $p,q$ are two different prime numbers, then
-> $p^{n} \neq q^{m}$ for any nonzero $n,m$ out of the set of integers.
+> **Theorem 3.** If \(p,q\) are two different prime numbers, then
+> \(p^{n} \neq q^{m}\) for any nonzero \(n,m\) out of the set of integers.
 
 Proving this requires a technique known as proof by
 contradiction. Assume the negation, and show that such an assumption
 contradicts what is already known. In this case, we assume that there
-exist some two unequal prime numbers $p,q$ and two integers $n,m$ such
+exist some two unequal prime numbers \(p,q\) and two integers \(n,m\) such
 that:
 
 $$p^{n} = q^{m}$$
 
 Factorize both of them with the Fundamental Theorem of
-Arithmetic. This is not too difficult in this case, since $p,q$ are
+Arithmetic. This is not too difficult in this case, since \(p,q\) are
 already prime:
 
 $$p^{n} = q^{m}$$
@@ -337,9 +337,9 @@ This is an immediate contradiction, since by the Fundamental
 Theorem of Arithmetic, the decomposition of any positive integer into
 primes is unique, and here we have two different prime factorizations of
 the same positive integer. The only case where this is not a
-contradiction is if $n,m$ are both zero. Then the positive integer in
+contradiction is if \(n,m\) are both zero. Then the positive integer in
 question is 1. But this is a contradiction with the assumption that
-$n,m$ are both nonzero. If we now take $p = 2,q = 3$ as our prime
+$n,m$ are both nonzero. If we now take \(p = 2,q = 3\) as our prime
 numbers, we obtain the statement for octaves and perfect twelfths,
 equivalent to the statement for octaves and perfect fifths. ∎
 
@@ -504,30 +504,30 @@ exactly one comma for every prime.
 
 > **Theorem 5.** Any JI interval can be represented uniquely as a
 > product of a Pythagorean interval and commas of the form
-> $2^{a}\ 3^{b}\ p^{r}$ where $p$ is a prime greater than 3, $a,b$ are
+> \(2^{a}\ 3^{b}\ p^{r}\) where \(p\) is a prime greater than 3, \(a,b\) are
 > integers, and $r^{2} = 1$.
 
 I will make use of a proof technique known as proof by
 induction. I will prove the general statement by showing that it holds
-for the base case, $p = 5$ in this example, and also by showing that if
+for the base case, \(p = 5\) in this example, and also by showing that if
 it holds for some case, then this ensures that it also holds for the
 next case. At its core, the proof is purely algebraic.
 
-Let $C_{p} = 2^{a_{p}}\ 3^{b_{p}}\ p^{r_{p}}$ be an interval
-chosen for the prime number $p$ with some particular integers
-$a_{p},b_{p}$ and some particular $r_{p}$ such that
+Let \(C_{p} = 2^{a_{p}}\ 3^{b_{p}}\ p^{r_{p}}\) be an interval
+chosen for the prime number \(p\) with some particular integers
+$a_{p},b_{p}$ and some particular \(r_{p}\) such that
 $\left( r_{p} \right)^{2} = 1$. Note that in this context, it need not
 be small in size; it just needs to be an arbitrary, but known, interval.
 
 For the base case, consider a known
 $C_{5} = 2^{a_{5}}\ 3^{b_{5}}\ 5^{r_{5}}$ and a quintal JI interval with
 a known unique prime factorization:
-$d = 2^{x_{2}}\ 3^{x_{3}}\ 5^{x_{5}}$ where $x_{2},x_{3},x_{5}$ are
+$d = 2^{x_{2}}\ 3^{x_{3}}\ 5^{x_{5}}$ where \(x_{2},x_{3},x_{5}\) are
 integers.
 
-Since $r_{5}$ is either 1 or −1, $\frac{x_{5}}{r_{5}}$ will
+Since \(r_{5}\) is either 1 or −1, \(\frac{x_{5}}{r_{5}}\) will
 certainly be an integer. (Note that it is not necessarily an integer if
-$r_{5}$ is not 1 or −1.) Let's call that quotient $u_{5}$ and proceed:
+$r_{5}$ is not 1 or −1.) Let's call that quotient \(u_{5}\) and proceed:
 
 $$d = 2^{x_{2}}\ 3^{x_{3}}\ 5^{x_{5}}$$
 
@@ -539,7 +539,7 @@ $$d = \left( 2^{a_{5}}\ 3^{b_{5}}\ 5^{r_{5}} \right)^{u_{5}}\  \times 2^{x_{2} -
 
 $$d = \left( C_{5} \right)^{u_{5}} \times 2^{x_{2} - u_{5}a_{5}}\ 3^{x_{3} - u_{5}b_{5}}\ 5^{x_{5} - u_{5}r_{5}}$$
 
-But $x_{5} = u_{5}r_{5}$ so $x_{5} - u_{5}r_{5} = 0$ and
+But \(x_{5} = u_{5}r_{5}\) so \(x_{5} - u_{5}r_{5} = 0\) and
 therefore the power of 5 outside the comma disappears. Finally we have:
 
 $$d = 2^{x_{2} - u_{5}a_{5}}\ 3^{x_{3} - u_{5}b_{5}}\ \left( C_{5} \right)^{u_{5}}$$
@@ -549,18 +549,18 @@ power of 2 and 3 raised to integer exponents, multiplied by the given
 arbitrary quintal comma. The base case holds.
 
 For the induction step, assume the statement is true for some
-prime number $\operatorname{p}{(n)}$ so that we may show that this
+prime number \(\operatorname{p}{(n)}\) so that we may show that this
 ensures its truth for the next prime number,
 $\operatorname{p}{(n + 1)}$.
 
-Let $d$ be a JI interval with factors up to and including
+Let \(d\) be a JI interval with factors up to and including
 $\operatorname{p}{(n + 1)}$. Therefore it can be uniquely factorized
 into primes up to and including that prime:
 
 $$d = \prod_{i = 1}^{n + 1}{\operatorname{p}{(i)}}^{x_{\operatorname{p}{(i)}}}$$
 
-Here, the $x_{p}$ represent the integer exponents to which the
-primes $\operatorname{p}{(i)}$ are raised. Split this product into two
+Here, the \(x_{p}\) represent the integer exponents to which the
+primes \(\operatorname{p}{(i)}\) are raised. Split this product into two
 parts:
 
 $$d = \prod_{i = 1}^{n}{\operatorname{p}{(i)}}^{x_{\operatorname{p}{(i)}}} \times {\operatorname{p}{(n + 1)}}^{x_{\operatorname{p}{(n + 1)}}}$$
@@ -570,10 +570,10 @@ the term on the left with commas.
 
 $$d = \left( 2^{f}\ 3^{g} \times \prod_{i = 3}^{n}\left( C_{\operatorname{p}{(i)}} \right)^{u_{\operatorname{p}{(i)}}} \right) \times {\operatorname{p}{(n + 1)}}^{x_{\operatorname{p}{(n + 1)}}}$$
 
-Here, $f,g$ are arbitrary integers resulting from the
+Here, \(f,g\) are arbitrary integers resulting from the
 conversion into prime commas up to $\operatorname{p}{(n)}$.
 
-Let's refer to the Pi notation product term as $\gamma$ for
+Let's refer to the Pi notation product term as \(\gamma\) for
 convenience, and similarly, let's refer to $\operatorname{p}{(n + 1)}$
 as $q$; then the statement above becomes
 
@@ -597,7 +597,7 @@ $$d = \gamma \times \left( 2^{a_{q}}\ 3^{b_{q}}\ q^{r_{q}} \right)^{u_{q}} \time
 
 $$d = \gamma \times \left( C_{q} \right)^{u_{q}} \times 2^{f - u_{q}a_{q}}\ 3^{g - u_{q}b_{q}}\ q^{x_{q} - u_{q}r_{q}}$$
 
-As before, $x_{q} - u_{q}r_{q} = 0$ and so the power of $q$
+As before, \(x_{q} - u_{q}r_{q} = 0\) and so the power of $q$
 outside the comma disappears again. Converting back into Pi notation:
 
 $$d = \gamma \times \left( C_{q} \right)^{u_{q}} \times 2^{f - u_{q}a_{q}}\ 3^{g - u_{q}b_{q}}$$
@@ -610,7 +610,7 @@ final term into the Pi notation product:
 $$d = 2^{f - u_{q}a_{q}}\ 3^{g - u_{q}b_{q}} \times \prod_{i = 3}^{n + 1}\left( C_{\operatorname{p}{(i)}} \right)^{u_{\operatorname{p}{(i)}}}$$
 
 This is a unique representation of a JI interval with factors
-up to $\operatorname{p}{(n + 1)}$ in terms of the factors up to
+up to \(\operatorname{p}{(n + 1)}\) in terms of the factors up to
 $\operatorname{p}{(n)}$. The induction step holds.
 
 As the statement has also been proven for the base case
@@ -651,7 +651,7 @@ close to "C, E, G".
 On the other side of the spectrum, we can get arbitrarily close
 to any just interval with only Pythagorean tuning. Beyond the
 Pythagorean diminished second, which is the octave-reduced version of
-the number $3^{12}$ and has a cent size of approximately 23.46¢, there
+the number \(3^{12}\) and has a cent size of approximately 23.46¢, there
 exist many much smaller Pythagorean intervals:
 
 -   The 41-comma, the octave-reduced version of $3^{41}$, is
@@ -688,7 +688,7 @@ to define a few terms.
 
 The *reduced form* of an interval, with respect to some
 parameter $k$, is equal to that interval, but octave-reduced until it is
-between $2^{k}$ (inclusive) and $2^{k + 1}$ (exclusive). In particular,
+between \(2^{k}\) (inclusive) and \(2^{k + 1}\) (exclusive). In particular,
 the reduced form of an interval with respect to 0 is equal to that
 interval, but octave-reduced until it is between the unison (inclusive)
 and the octave (exclusive). This renders intervals such as the golden
@@ -698,7 +698,7 @@ as follows:
 
 $$\operatorname{}{(d)} = d \times 2^{k - \left\lfloor \operatorname{}d \right\rfloor}$$
 
-Here $\left\lfloor x \right\rfloor$ is the floor function, which
+Here \(\left\lfloor x \right\rfloor\) is the floor function, which
 returns the greatest integer not greater than its input.
 
 The *shuffle function* is used to create a bijective mapping
@@ -714,13 +714,13 @@ $$\operatorname{shp}{(n)}:\left\{ \begin{matrix}
 \operatorname{shp}{(n + 1)} = - \operatorname{shp}\left( n \right);n\ \mathrm{\text{odd}} \\
 \end{matrix} \right.\ $$
 
-The negative shuffle function $\operatorname{shn}{(n)}$ can be
-described in an analogical way by using $- 1$ instead of $+ 1$ in the
-formula when $n$ is even. Alternatively, it is simply the additive
+The negative shuffle function \(\operatorname{shn}{(n)}\) can be
+described in an analogical way by using \(- 1\) instead of \(+ 1\) in the
+formula when \(n\) is even. Alternatively, it is simply the additive
 inverse of the positive shuffle function for the same value.
 
 This means that the values of the positive shuffle function for
-the ascending natural numbers $n = 0,1,2,3,4,5,6\ldots$ are
+the ascending natural numbers \(n = 0,1,2,3,4,5,6\ldots\) are
 $0, + 1, - 1, + 2, - 2, + 3, - 3\ldots$ and those of the negative
 shuffle function would be $0, - 1, + 1, - 2, + 2, - 3, + 3\ldots$
 
@@ -744,7 +744,7 @@ representation of a JI ratio, which will ultimately be mapped to an
 accidental. I have devised at least two different versions of the FJS
 with two different values of $\lambda$.
 
-My preferred choice for $\lambda$ is 256/243 (which I will call
+My preferred choice for \(\lambda\) is 256/243 (which I will call
 $L$), the ratio of the Pythagorean diatonic semitone. That way, if ↑
 represents an arbitrary upward FJS accidental, and ↓ an arbitrary (the
 same or different) downward accidental, we can be certain that
@@ -768,7 +768,7 @@ the first two primes greater than 3, which are 5 and 7. They also return
 the same representations for 17 and 19.)
 
 There are some additional radii of tolerance that I have also
-considered. I conjecture that $\sqrt{\frac{33}{31}}$ is an interesting
+considered. I conjecture that \(\sqrt{\frac{33}{31}}\) is an interesting
 and potentially highly useful (maybe even optimal) choice, since it
 should give the optimal representations (P4, M6, A4, and M7
 respectively) for 11, 13, 23, and 31. This is because this number is the
@@ -804,7 +804,7 @@ $J = \left( \left( \ln h \right)^{2} < \left( \ln\lambda \right)^{2} \right)$
 
 09 **RETURN** $\operatorname{gen}{(p)} = - \operatorname{shn}{(k)}$
 
-10 **IF** $I$ **THEN {**
+10 **IF** \(I\) **THEN {**
 
 11 **RETURN** $\operatorname{pol}{(p)} = 1$
 
@@ -812,7 +812,7 @@ $J = \left( \left( \ln h \right)^{2} < \left( \ln\lambda \right)^{2} \right)$
 
 13 **}**
 
-14 **IF** $J$ **THEN {**
+14 **IF** \(J\) **THEN {**
 
 15 **RETURN** $\operatorname{pol}{(p)} = - 1$
 
@@ -832,7 +832,7 @@ As mentioned, the FJS takes any prime number greater than 3 and
 finds a corresponding comma which can be used to represent it in the
 alternate commatic representation. To do this, it "scans" the
 Pythagorean spiral of fifths, looking for the simplest Pythagorean
-interval which is close enough – within less than $\lambda$ – of the
+interval which is close enough – within less than \(\lambda\) – of the
 target octave-reduced prime interval. Now we can formally define the
 term "comma" instead of using it in an ambiguous and qualitative way:
 **A comma is an interval used as an accidental in the FJS.**
@@ -863,7 +863,7 @@ interval using that accidental. **Appendix 1** shows this algorithm
 written in the programming language C++.
 
 This algorithm returns three functions:
-$\operatorname{gen}{(p)}$, $\operatorname{pol}{(p)}$ and
+$\operatorname{gen}{(p)}$, \(\operatorname{pol}{(p)}\) and
 $\operatorname{comma}{(p)}$, in that order. All three are necessary to
 describe an FJS accidental.
 
@@ -904,7 +904,7 @@ including 31.
 for a tolerance of L**
 
 It may perhaps not at all be obvious that the algorithm will
-always halt, but it will. Furthermore, for a value of $\lambda$ as large
+always halt, but it will. Furthermore, for a value of \(\lambda\) as large
 as 256/243, the algorithm will halt quite fast; the maximum number of
 iterations of the main loop is 12. This corresponds to a maximum range
 of outputs of the *gen* function from −6 to +6. In fact, depending on
@@ -1060,7 +1060,7 @@ To find the *comma* function from the *gen* function:
 
 -   You have just obtained the *comma* function for that prime.
 
-Example: Given $p = 5,\operatorname{gen}{(p)} = 4$ we take
+Example: Given \(p = 5,\operatorname{gen}{(p)} = 4\) we take
 $3^{4} = 81$ and octave-reduce this number to obtain
 $2^{- 6}\ 3^{4} = \frac{81}{64}$. This is the Pythagorean approximation
 to octave-reduced 5, which is $\frac{5}{4}$. So the *comma* function for
@@ -1170,7 +1170,7 @@ accidentals from the commas found by the FJS algorithm.
     notation. So the interval C-E is 81/64, the interval C-D♭ is
     256/243, the interval D♭-C♯ is 531441/524288, etc.
 
-2.  A single comma of the prime $p$ (greater than 3) will use the
+2.  A single comma of the prime \(p\) (greater than 3) will use the
     appended number "p" (preferably as a superscript) to represent a
     deviation by that comma **in its original direction**. E.g. E^5^ is
     an interval of 81/80 [below]{.underline} E; F^11^ is an interval of
@@ -1182,7 +1182,7 @@ accidentals from the commas found by the FJS algorithm.
     change depends on the polarity. The reason for this will be
     explained later.
 
-3.  A single comma of the prime $p$ will use the appended number "p" as
+3.  A single comma of the prime \(p\) will use the appended number "p" as
     a subscript to represent a deviation by that comma **in the opposite
     of its original direction**. E.g. E♭~5~ is an interval of 81/80
     [above]{.underline} E♭; E~19~ is an interval of 513/512
@@ -1199,7 +1199,7 @@ accidentals from the commas found by the FJS algorithm.
     primes. Therefore, from the final product, we can always uniquely
     deduce which primes were multiplied. Order does not matter. E.g.
     G♯^25^ is two 81/80 intervals below G♯ and there is no other
-    interpretation, since $25 = 5 \times 5$ and no other prime
+    interpretation, since \(25 = 5 \times 5\) and no other prime
     decomposition exists.
 
 5.  Usually the product allows the deduction of the prime factorization
@@ -1215,14 +1215,14 @@ accidentals from the commas found by the FJS algorithm.
 
 6.  Products of positive and negative commas are independent. They are
     preferably written as a combined subscript and superscript, e.g.
-    $F_{5}^{7}$ represents F lowered by 64/63 and then raised by 81/80
+    \(F_{5}^{7}\) represents F lowered by 64/63 and then raised by 81/80
     (or in the opposite order; first raised by 81/80 and then lowered by
     64/63; the result is the same). Where such notation is unavailable,
     the positive shift prepends the negative shift, e.g. F^7^~5~
     represents the same note as before. Note that the products used to
     represent positive and negative commas will always be coprime,
     otherwise there is an unnecessary shift in one direction that is
-    canceled out in the other one; $\mathrm{*C}_{5}^{35}$ is the same
+    canceled out in the other one; \(\mathrm{*C}_{5}^{35}\) is the same
     note as C^7^.
 
 7.  The number 1 represents canceling any microtonal commas, similar to
@@ -1292,13 +1292,13 @@ notate octaves: C3 – E5^5^ is an interval of 5/1. It looks a little
 strange, but is unambiguous. German octave notation can also be used: c
 – eʺ^5^ is the same 5/1 interval. Where superscripts and subscripts are
 unavailable (e.g. in ASCII), a superscript can be marked with +, and a
-subscript with −. Then, the note $F_{5}^{7}$ becomes F+7−5, and the same
+subscript with −. Then, the note \(F_{5}^{7}\) becomes F+7−5, and the same
 note in the fourth octave (${\mathrm{F}4}_{5}^{7}$) becomes F4+7−5.
 Where it is understood from context that the first number following a
 Pythagorean note name refers to a microtonal accidental and not an
 octave, the + sign can even be omitted, so F7 can mean F^7^, and as in
 common practice, the underscore sign \_ can be used to represent the
-subscript, so F7\_5 can also mean $\mathrm{F}_{5}^{7}$ where it is
+subscript, so F7\_5 can also mean \(\mathrm{F}_{5}^{7}\) where it is
 unambiguous that it does not instead refer to F7~5~.
 
 To sum up, notating a JI note with the FJS requires the
@@ -1355,7 +1355,7 @@ To determine the FJS interval name between two FJS notes:
 Example: One of the more iconic harmonies of *The Well-Tuned
 Piano* is known as the shimmering minor third. Its ratio is 147/128, and
 this interval is notated in the FJS as D~7~-F^7^. We apply +7 to both
-notes: $D_{7}^{7}\mathrm{-}\mathrm{F}^{49}$ and we cancel the 7s:
+notes: \(D_{7}^{7}\mathrm{-}\mathrm{F}^{49}\) and we cancel the 7s:
 D-F^49^. Now we have no FJS accidentals on the lower note, so the
 interval is a m3^49^ (minor third forty-nine).
 
@@ -1366,7 +1366,7 @@ To build an FJS interval from an FJS note:
 -   Then, apply the FJS accidentals of the interval, canceling as
     necessary.
 
-Example: The interval ${M2}_{13}^{5}$ is very close to dividing
+Example: The interval \({M2}_{13}^{5}\) is very close to dividing
 the perfect fourth in two. To find this interval from A^13^, we first
 build the major second: B^13^, then we apply the remaining accidentals:
 $\mathrm{B}_{13}^{5.13}$ and cancel the 13s: B^5^. It was simpler in
@@ -1384,9 +1384,9 @@ To find a ratio from an FJS interval:
 -   Then apply the accidentals.
 
 Example: An interval known as the *lesser septimal tritone* is
-called ${\mathrm{d}5}_{5}^{7}$ in the FJS. To determine its ratio, start
+called \({\mathrm{d}5}_{5}^{7}\) in the FJS. To determine its ratio, start
 with d5. It is made from 6 fifths in the negative direction, so its
-ratio is the octave-reduced form of $3^{- 6}$ which is
+ratio is the octave-reduced form of \(3^{- 6}\) which is
 $2^{10}\ 3^{- 6} = \frac{1024}{729}$. Now we apply the accidentals to
 this ratio. +7 means multiply by
 $\operatorname{comma}{(7)} = \frac{63}{64}$ and −5 means divide by
@@ -1723,7 +1723,7 @@ of them – 43 – is in canonical form. Why is this a problem? While
 these can still be represented, they require two accidentals combined
 from two different primes, which is unnecessarily confusing. It seems as
 though all commas after the 23-comma were specifically selected to be a
-ratio of the form $\frac{(n + 1)}{n}$ (referred to as superparticular),
+ratio of the form \(\frac{(n + 1)}{n}\) (referred to as superparticular),
 often at the cost of having a complicated prime factorization. What is
 particularly notable is that such a form does not even guarantee that
 the resulting comma is small. One famous comma, 1029/1024, the
@@ -2026,7 +2026,7 @@ implemented in C++**
 
 Below are values of the *gen*, *pol*, and *comma* functions as outputs
 of the FJS algorithm, tabulated for inputs ranging from 5 to 127, for
-both $L$ and $l$ as the choices of the radius of tolerance.
+both \(L\) and \(l\) as the choices of the radius of tolerance.
 
 Note the long-term behaviors of my preferred choice $L$. It never
 exceeds −6 or +6 for the *gen* function, as expected. However, what is
