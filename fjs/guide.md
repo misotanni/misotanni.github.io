@@ -72,7 +72,7 @@ It is common knowledge that sound is a result of motion, and
 pitched sound is a result of periodic motion, where pitch is a
 psychological correlate of the frequency of that motion, i.e. the number
 of oscillations per unit time. The hertz, equal to an inverse second,
-\\(\text{Hz} = \mathrm{s}^{-1}\\) is the SI unit for frequency.
+\\(\text{Hz} = \text{s}^{-1}\\) is the SI unit for frequency.
 For example, standard concert pitch A is a tone of 440 Hz.
 
 However, what is less known among musicians is that intervals
@@ -103,7 +103,7 @@ frequency of any tone is necessarily a positive number of oscillations
 per second, every interval is necessarily the quotient of two positive
 numbers, hence necessarily positive. This means that just intonation
 consists entirely of positive rational numbers describing the magnitudes
-of intervals. **Table 1** lists a few.
+of intervals. **Table 1.** lists a few.
 
 | Interval                          | Ratio | 
 | --------------------------------- | ----- | 
@@ -118,7 +118,7 @@ of intervals. **Table 1** lists a few.
 | Weak whole tone                   | 10/9  |
 | Just quintal diatonic semitone    | 16/15 |
 
-[]{#_Toc5207165 .anchor}**Table** **1. Selected JI intervals and their ratios**
+<a name="table-1">**Table 1. Selected JI intervals and their ratios**</a>
 
 
 [TODO UWAGA: nie ma żadnych ‘adjectives in parentheses’!]
@@ -782,47 +782,27 @@ behaviors of further radii of tolerance.
 
 ## The Description of the FJS
 
-01 **LET** \\(k = - 1\\)
+[TODO WAŻNE: zamienić na blok `<code>`]
 
-02 **DO {**
-
-03 \\(k + = 1\\)
-
-04
+``LET`` \\(k = - 1\\)
+``DO {``
+\\(k + = 1\\)
 \\(g = \operatorname{}\left( p \times 3^{\operatorname{shn}{(k)}} \right)\\)
-
-05
 \\(h = \operatorname{}\left( p \times 3^{\operatorname{shn}{(k)}} \right)\\)
-
-06
 \\(I = \left( \left( \ln g \right)^{2} < \left( \ln\lambda \right)^{2} \right)\\)
-
-07
 \\(J = \left( \left( \ln h \right)^{2} < \left( \ln\lambda \right)^{2} \right)\\)
-
-08 **} UNTIL** \\((I \vee J)\\)
-
-09 **RETURN** \\(\operatorname{gen}{(p)} = - \operatorname{shn}{(k)}\\)
-
-10 **IF** \\(I\\) **THEN {**
-
-11 **RETURN** \\(\operatorname{pol}{(p)} = 1\\)
-
-12 **RETURN** \\(\operatorname{comma}{(p)} = g\\)
-
-13 **}**
-
-14 **IF** \\(J\\) **THEN {**
-
-15 **RETURN** \\(\operatorname{pol}{(p)} = - 1\\)
-
-16 **RETURN** \\(\operatorname{comma}{(p)} = h\\)
-
-17 **}**
-
-18 **END**
-
-[]{#_Toc5182876 .anchor}**Algorithm** **1. The FJS algorithm**
+``} UNTIL`` \\((I \vee J)\\)
+``RETURN`` \\(\operatorname{gen}{(p)} = - \operatorname{shn}{(k)}\\)
+``IF`` \\(I\\) ``THEN {``
+``RETURN`` \\(\operatorname{pol}{(p)} = 1\\)
+``RETURN`` \\(\operatorname{comma}{(p)} = g\\)
+``}``
+``IF`` \\(J\\) ``THEN {``
+``RETURN`` \\(\operatorname{pol}{(p)} = - 1\\)
+``RETURN`` \\(\operatorname{comma}{(p)} = h\\)
+``}``
+``END``
+<a name="algorithm-1">**Algorithm** **1. The FJS algorithm**</a>
 
 What I depicted above has been the FJS algorithm, the core of
 the FJS. It provides a deterministic way of finding every element of the
@@ -884,7 +864,7 @@ interval must be lowered to reach the target interval, *pol* is equal to
 Finally, the *comma* function returns the interval which must be
 added to the located Pythagorean interval to obtain the target interval.
 
-**Table 2** lists values of *gen*, *pol*, and *comma* for
+**Table 2.** lists values of *gen*, *pol*, and *comma* for
 \\(\lambda = \frac{256}{243}\\) for primes greater than 3, up to and
 including 31.
 
@@ -900,8 +880,8 @@ including 31.
 | 29      | 29/16        | 16/9                      | −2 (m7)   | \+        | 261/256     | 
 | 31      | 31/16        | 2/1                       | 0 (P8)    | −         | 31/32       | 
 
-[]{#_Toc5207166 .anchor}**Table** **2. The values of gen, pol, and comma
-for a tolerance of L**
+<a name="table-2">**Table 2. The values of gen, pol, and comma
+for a tolerance of L**</a>
 
 It may perhaps not at all be obvious that the algorithm will
 always halt, but it will. Furthermore, for a value of \\(\lambda\\) as large
@@ -941,8 +921,8 @@ with *shn* or *shp*:
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | m2   | A1   | m2   | A1   | m2   | M2   | m2   | A1   | m2   | A1   | m2   | 
 
-[]{#_Toc5207167 .anchor}**Table** **3. The Pythagorean scale with 11
-intervals**
+<a name="table-3">**Table 3. The Pythagorean scale with 11
+intervals**</a>
 
 The top row represents intervals above the tonic, while the
 bottom row represents intervals between consecutive scale degrees. All
@@ -980,8 +960,8 @@ P1-m2-A1-M2-m3-d4-M3-P4-d5-A4-P5-m6-A5-M6-m7-d8-M7-P8.
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | m2   | d2   | m2   | m2   | m2   | d2   | m2   | m2   | d2   | m2   | m2   | d2   | m2   | m2   | m2   | d2   | m2   |
 
-[]{#_Toc5207168 .anchor}**Table** **4. The Pythagorean scale with 17
-intervals**
+<a name="table-4">**Table 4. The Pythagorean scale with 17
+intervals**</a>
 
 For comparison, below is the table of values of the *gen*,
 *pol*, and *comma* function for a radius of tolerance of
@@ -999,8 +979,8 @@ For comparison, below is the table of values of the *gen*,
 | 29      | 29/16        | 16/9          |             | −2 (m7)   | \+        | 261/256     |
 | 31      | 31/16        | 243/128       |             | +5 (M7)   | \+        | 248/243     | 
 
-[]{#_Toc5207169 .anchor}**Table** **5. The values of gen, pol, and comma
-for a tolerance of l**
+<a name="table-5">**Table 5. The values of gen, pol, and comma
+for a tolerance of l**</a>
 
 Luckily, the values are the same for 5 and 7. They also
 coincide for 17, 19, and 29. However, 23 and 31 – being, respectively,
@@ -1944,83 +1924,46 @@ the FJS used for JI note naming and notation in future microtonal works.
 
 ## Appendix 1: The FJS Algorithm in C++
 
-\#include \<iostream\>
-
-\#include \<math.h\>
-
+```
+#include <iostream>
+#include <math.h>
 using namespace std;
-
 int shn(int k) {
-
-if (k % 2) {
-
-return -(k + 1) / 2; //*replace this line with "return (k + 1) / 2;"...*
-
-} else {
-
-return k / 2; //...*and this line with "return –k / 2;" to change shn
-into shp*
-
+  if (k % 2) {
+    return -(k + 1) / 2; //*replace this line with "return (k + 1) / 2;"...*
+  } else {
+    return k / 2; //...*and this line with "return –k / 2;" to change shn into shp*
+  }
 }
-
-}
-
 double red(double x) {
-
-return x \* exp(log(2) \* (-floor(log2(x))));
-
+  return x * exp(log(2) * (-floor(log2(x))));
 }
-
 int main() {
-
-short unsigned p; //*p is the prime; must be a prime greater than 3*
-
-short k = -1;
-
-double g, h, l; //*l is the radius of tolerance; must be a real number
-greater than 1*
-
-bool i, j;
-
-cin \>\> p;
-
-cin \>\> l; //*replace this line with "l = ..." for a fixed l*
-
-do {
-
-k++;
-
-g = red(p \* pow(3,shn(k)));
-
-h = g / 2;
-
-i = (pow(log(g),2) \< pow(log(l),2));
-
-j = (pow(log(h),2) \< pow(log(l),2));
-
-} while (!(i \|\| j));
-
-cout \<\< -shn(k) \<\< endl; //*the program outputs gen(p) first, then
-pol(p), finally comma(p)*
-
-if (i) {
-
-cout \<\< 1 \<\< endl \<\< g;
-
+  short unsigned p; // *p is the prime; must be a prime greater than 3*
+  short k = -1;
+  double g, h, l; // *l is the radius of tolerance; must be a real number greater than 1*
+  bool i, j;
+  cin >> p;
+  cin >> l; //*replace this line with "l = ..." for a fixed l*
+  do {
+    k++;
+    g = red(p * pow(3,shn(k)));
+    h = g / 2;
+    i = (pow(log(g),2) < pow(log(l),2));
+    j = (pow(log(h),2) < pow(log(l),2));
+  } while (!(i || j));
+  cout << -shn(k) << endl; // *the program outputs gen(p) first, then pol(p), finally comma(p)*
+  if (i) {
+    cout << 1 << endl << g;
+  }
+  if (j) {
+    cout << -1 << endl << h;
+  }
+  return 0;
 }
+```
 
-if (j) {
-
-cout \<\< -1 \<\< endl \<\< h;
-
-}
-
-return 0;
-
-}
-
-[]{#_Toc5182877 .anchor}**Algorithm** **2. The FJS algorithm,
-implemented in C++**
+<a name="algorithm-2">**Algorithm** **2. The FJS algorithm, implemented in C++**</a>
 
 ## Appendix 2: The Comma Function
 
@@ -2075,8 +2018,8 @@ semitone.
 | 113     | 113/64       | 16/9                | −2 (m7)   | −         | 1017/1024   |
 | 127     | 127/64       | 2/1                 | 0 (P8)    | −         | 127/128     |   
 
-[]{#_Toc5207170 .anchor}**Table** **6. The values of gen, pol, and comma
-up to 127, for λ = L**
+<a name="table-6">**Table 6. The values of gen, pol, and comma
+up to 127, for λ = L**</a>
 
 Below is the table for \\(l = \sqrt{\frac{256}{243}}\\), half of the
 Pythagorean diatonic semitone. The first two columns remain the same,
@@ -2126,8 +2069,8 @@ radius of tolerance give the same values.
 | 113     | 113/64       | 16/9                | −2 (m7)   | −         | 1017/1024       |
 | 127     | 127/64       | 2/1                 | 0 (P8)    | −         | 127/128         |
 
-[]{#_Toc5207171 .anchor}**Table** **7. The values of gen, pol, and comma
-up to 127, for λ = l**
+<a name="table-7">**Table 7. The values of gen, pol, and comma
+up to 127, for λ = l**</a>
 
 ## Appendix 3: FJS Note Naming Examples
 
@@ -2144,8 +2087,8 @@ naming just intonation notes in a few common JI contexts.
 | A♭^49^   | G♯^25^   | A♭^17^   | A^13^   | A^53^    | A        | A^11^   | B♭^7^   |
 | B♭^19^   | B♭^29^   | B♭^59^   | B^5^    | C^61^    | C^31^    | C^7^    | C       |
 
-[]{#_Toc5207172 .anchor}**Table** **8. The overtone series 1-64 in the
-FJS**
+<a name="table-8">**Table 8. The overtone series 1-64 in the
+FJS**</a>
 
 | Pythagorean major scale                                   |        |         |        |         |         |           |         |        |         |        |         |       |
 | --------------------------------------------------------- | ------ | ------- | ------ | ------- | ------- | --------- | ------- | ------ | ------- | ------ | ------- | ----- |
@@ -2161,8 +2104,8 @@ FJS**
 | C                                                         | D^5^   | D       | E^5^   | E       | F^7^    | F         | G       | A^5^   | A       | B^5^   | C^7^    | C     |
 | 1/1                                                       | 10/9   | 9/8     | 5/4    | 81/64   | 21/16   | 4/3       | 3/2     | 5/3    | 27/16   | 15/8   | 63/32   | 2/1   |
 
-[]{#_Toc5207173 .anchor}**Table** **9. JI extensions of the major scale
-in the FJS**
+<a name="table-9">**Table 9. JI extensions of the major scale
+in the FJS**</a>
 
 | **+ 7:4**   |        |        |        |     |             |
 | ----------- | ------ | ------ | ------ | --- | ----------- |
@@ -2170,16 +2113,16 @@ in the FJS**
 | C           | G      | D      | A      | E   |             |
 | D~7~        | A~7~   | E~7~   |        |     | **+ 3:2**   |
 
-[]{#_Toc5207174 .anchor}**Table** **10. La Monte Young\'s Well-Tuned
-Piano tuning in the FJS**
+<a name="table-10">**Table 10. La Monte Young\'s Well-Tuned
+Piano tuning in the FJS**</a>
 
 | **+ 7:4**   |         |        |        |        |     |     |             |
 | ----------- | ------- | ------ | ------ | ------ | --- | --- | -----------
 | E♭^7^       | B♭^7^   | F^7^   | C^7^   | G^7^   |     |     | 
 | F           | C       | G      | D      | A      | E   | B   | **+ 3:2**
 
-[]{#_Toc5207175 .anchor}**Table** **11. Michael Harrison\'s Revelation
-tuning in the FJS**
+<a name="table-11">**Table 11. Michael Harrison\'s Revelation
+tuning in the FJS**</a>
 
 | **+ 5:4**   |          |          |          |         |             |
 | ----------- | -------- | -------- | -------- | ------- | ----------- |
@@ -2187,8 +2130,8 @@ tuning in the FJS**
 | B^5^        | F♯^5^    | C♯^5^    | G♯^5^    | D♯^5^   |             |
 | G           | D        | A        | E        |         | **+ 3:2**   |
 
-[]{#_Toc5207176 .anchor}**Table** **12. Terry Riley\'s New Albion tuning
-in the FJS**
+<a name="table-12">**Table 12. Terry Riley\'s New Albion tuning
+in the FJS**</a>
 
 | D                                         | F^7^    | $$G_{11}^{7}$$                             | $${\mathrm{A}\mathrm{\flat}}_{5}^{7}$$    | B♭^7^   | C^7^    |
 | ----------------------------------------- | ------- | ------------------------------------------ | ----------------------------------------- | ------- | ------- |
@@ -2198,8 +2141,8 @@ in the FJS**
 | F♯~7~                                     | A       | B~11~                                      | C~5~                                      | D       | E       |
 | E~7~                                      | G       | A~11~                                      | B♭~5~                                     | C       | D       |
 
-[]{#_Toc5207177 .anchor}**Table** **13. Harry Partch\'s 11-limit
-tonality diamond on D in the FJS**
+<a name="table-13">**Table 13. Harry Partch\'s 11-limit
+tonality diamond on D in the FJS**</a>
 
 | **Ratio**       | **Young**   | **Helmholtz-Ellis**   | **Ben Johnston**   | **FJS**   |
 | --------------- | ----------- | --------------------- | ------------------ | --------- |
@@ -2216,8 +2159,8 @@ tonality diamond on D in the FJS**
 | **7/4**         | C           | D♭7−                  | D7♭                | C         |
 | **63/32**       | D           | E♭7−                  | E7♭+               | D         |
 
-[]{#_Toc5207178 .anchor}**Table** **14. Young\'s Well-Tuned Piano in
-different notation systems**
+<a name="table-14">**Table 14. Young\'s Well-Tuned Piano in
+different notation systems**</a>
 
 This final example is a comparison of how well Helmholtz-Ellis, Johnston
 notation and the FJS all cope with writing down Young's *Well-Tuned
@@ -2271,152 +2214,98 @@ and A♭^17^.
 
 ## List of Figures
 
-[**Table 1. Selected JI intervals and their ratios** 3](#_Toc5207165)
 
-[**Table 2. The values of gen, pol, and comma for a tolerance of L**
-21](#_Toc5207166)
-
-[**Table 3. The Pythagorean scale with 11 intervals** 22](#_Toc5207167)
-
-[**Table 4. The Pythagorean scale with 17 intervals** 23](#_Toc5207168)
-
-[**Table 5. The values of gen, pol, and comma for a tolerance of l**
-23](#_Toc5207169)
-
-[**Table 6. The values of gen, pol, and comma up to 127, for λ = L**
-48](#_Toc5207170)
-
-[**Table 7. The values of gen, pol, and comma up to 127, for λ = l**
-49](#_Toc5207171)
-
-[**Table 8. The overtone series 1-64 in the FJS** 50](#_Toc5207172)
-
-[**Table 9. JI extensions of the major scale in the FJS**
-50](#_Toc5207173)
-
-[**Table 10. La Monte Young\'s Well-Tuned Piano tuning in the FJS**
-51](#_Toc5207174)
-
-[**Table 11. Michael Harrison\'s Revelation tuning in the FJS**
-51](#_Toc5207175)
-
-[**Table 12. Terry Riley\'s New Albion tuning in the FJS**
-51](#_Toc5207176)
-
-[**Table 13. Harry Partch\'s 11-limit tonality diamond on D in the FJS**
-51](#_Toc5207177)
-
-[**Table 14. Young\'s Well-Tuned Piano in different notation systems**
-52](#_Toc5207178)
-
-[**Algorithm 1. The FJS algorithm** 19](#_Toc5182876)
-
-[**Algorithm 2. The FJS algorithm, implemented in C++**
-46](#_Toc5182877)
+* [Table 1. Selected JI intervals and their ratios](#table-1)
+* [Table 2. The values of gen, pol, and comma for a tolerance of L](#table-2)
+* [Table 3. The Pythagorean scale with 11 intervals](#table-3)
+* [Table 4. The Pythagorean scale with 17 intervals](#table-4)
+* [Table 5. The values of gen, pol, and comma for a tolerance of l](#table-5)
+* [Table 6. The values of gen, pol, and comma up to 127, for λ = L](#table-6)
+* [Table 7. The values of gen, pol, and comma up to 127, for λ = l](#table-7)
+* [Table 8. The overtone series 1-64 in the FJS](#table-8)
+* [Table 9. JI extensions of the major scale in the FJS](#table-9)
+* [Table 10. La Monte Young\'s Well-Tuned Piano tuning in the FJS](#table-10)
+* [Table 11. Michael Harrison\'s Revelation tuning in the FJS](#table-11)
+* [Table 12. Terry Riley\'s New Albion tuning in the FJS](#table-12)
+* [Table 13. Harry Partch\'s 11-limit tonality diamond on D in the FJS](#table-13)
+* [Table 14. Young\'s Well-Tuned Piano in different notation systems](#table-14)
+* [Algorithm 1. The FJS algorithm](#algorithm-1)
+* [Algorithm 2. The FJS algorithm, implemented in C++](#algorithm-2)
 
 ## Bibliography
 
-Benson, David. *Music: A Mathematical Offering*. Cambridge University
+* Benson, David. *Music: A Mathematical Offering*. Cambridge University
 Press, 2007.
-
-Blackwood, Easley. *The Structure of Recognizable Diatonic Tunings*.
+* Blackwood, Easley. *The Structure of Recognizable Diatonic Tunings*.
 Princeton University Press, 1985.
-
-Bowling, Daniel L.; Purves, Dale. "A biological rationale for musical
+* Bowling, Daniel L.; Purves, Dale. "A biological rationale for musical
 consonance." *PNAS* 112 (2015), pp. 11155-11160.
-
-Duffin, Ross W. *How Equal Temperament Ruined Harmony (and Why You
+* Duffin, Ross W. *How Equal Temperament Ruined Harmony (and Why You
 Should Care)*. W. W. Norton & Company, 2008.
-
-Duffin, Ross W. "Just Intonation in Renaissance Theory and Practice."
+* Duffin, Ross W. "Just Intonation in Renaissance Theory and Practice."
 *Music Theory Online*.
 http://www.mtosmt.org/issues/mto.06.12.3/mto.06.12.3.duffin.html
 (accessed November 3, 2018).
-
-Erlich, Paul. "Tuning, Tonality, and Twenty-Two-Tone Temperament."
+* Erlich, Paul. "Tuning, Tonality, and Twenty-Two-Tone Temperament."
 *Xenharmonikôn* 17 (1998).
-
-Fonville, John. "Ben Johnston's Extended Just Intonation: A Guide for
+* Fonville, John. "Ben Johnston's Extended Just Intonation: A Guide for
 Interpreters." *Perspectives of New Music* 29 (1991), pp. 106-137.
-
-Forster, Cristiano. "Musical Mathematics: Meyer's Diamond." *Chrysalis
+* Forster, Cristiano. "Musical Mathematics: Meyer's Diamond." *Chrysalis
 Foundation*. http://www.chrysalis-foundation.org/Meyer-s\_Diamond.htm
 (accessed April 2, 2019).
-
-Gann, Kyle. "Combatting Anti-Just-Intonation Propaganda." *Kyle Gann's
+* Gann, Kyle. "Combatting Anti-Just-Intonation Propaganda." *Kyle Gann's
 Home Page*. https://www.kylegann.com/AntiJI.html (accessed November 3,
 2018).
-
-Gann, Kyle. "How to Use Ben Johnston's Just Intonation Notation." *Kyle
+* Gann, Kyle. "How to Use Ben Johnston's Just Intonation Notation." *Kyle
 Gann's Home Page*. https://www.kylegann.com/\~kylegann/BJNotation.html
 (accessed April 2, 2019).
-
-Gann, Kyle. "Just Intonation Explained." *Kyle Gann's Home Page*.
+* Gann, Kyle. "Just Intonation Explained." *Kyle Gann's Home Page*.
 https://www.kylegann.com/tuning.html (accessed November 3, 2018).
-
-Gann, Kyle. "La Monte Young's The Well-Tuned Piano." *Kyle Gann's Home
+* Gann, Kyle. "La Monte Young's The Well-Tuned Piano." *Kyle Gann's Home
 Page*. https://www.kylegann.com/wtp.html (accessed November 3, 2018).
-
-Gann, Kyle. "La Monte Young's The Well-Tuned Piano." *Perspectives of
+* Gann, Kyle. "La Monte Young's The Well-Tuned Piano." *Perspectives of
 New Music* 31 (1993), pp. 134-162.
-
-Gann, Kyle. "My Idiosyncratic Reasons for Using Just Intonation." *Kyle
+* Gann, Kyle. "My Idiosyncratic Reasons for Using Just Intonation." *Kyle
 Gann's Home Page*. https://www.kylegann.com/JIreasons.html (accessed
 November 3, 2018).
-
-Gill, Kamraan Z. "A Biological Rationale for Musical Scales." *PLoS ONE*
+* Gill, Kamraan Z. "A Biological Rationale for Musical Scales." *PLoS ONE*
 4 (2009).
-
-Haack, Joel K. "The Mathematics of the Just Intonation Used in the Music
+* Haack, Joel K. "The Mathematics of the Just Intonation Used in the Music
 of Terry Riley." *Bridges* 2 (1999), pp. 101-110.
-
-Harrison, Michael. "Just Intonation Harmonic Piano." *Michael Harrison's
+* Harrison, Michael. "Just Intonation Harmonic Piano." *Michael Harrison's
 Home Page*. http://michaelharrison.com/Pure\_piano.aspx (accessed
 November 3, 2018).
-
-Harrison, Michael. "Music in Just Intonation." *Michael Harrison's Home
+* Harrison, Michael. "Music in Just Intonation." *Michael Harrison's Home
 Page*. http://michaelharrison.com/Just\_intonation.aspx (accessed
 November 3, 2018).
-
-Helmholtz, Hermann*. On the Sensations of Tone as a Physiological Basis
+* Helmholtz, Hermann*. On the Sensations of Tone as a Physiological Basis
 for the Theory of Music*. Translated by Alexander J. Ellis. Longmans,
 Green, and Co., 1875.
-
-Kopiez, Reinhard. "Intonation of Harmonic Intervals: Adaptability of
+* Kopiez, Reinhard. "Intonation of Harmonic Intervals: Adaptability of
 Expert Musicians to Equal Temperament and Just Intonation." *Music
 Perception* 20 (2003), pp. 383-410.
-
-Krumhansl, Carol L. "Music Psychology: Tonal Structures in Perception
+* Krumhansl, Carol L. "Music Psychology: Tonal Structures in Perception
 and Memory." *Annual Review of Psychology* 42 (1991), pp. 277-303.
-
-Loosen, Franz. "Tuning of diatonic scales by violinists, pianists, and
+* Loosen, Franz. "Tuning of diatonic scales by violinists, pianists, and
 nonmusicians." *Perception & Psychophysics* 56 (1994), pp. 221-226.
-
-Monzo, Joe. "Johnston notation." *Tonalsoft: encyclopedia of microtonal
+* Monzo, Joe. "Johnston notation." *Tonalsoft: encyclopedia of microtonal
 music theory*. http://www.tonalsoft.com/enc/j/johnston.aspx (accessed
 April 3, 2019).
-
-Partch, Harry. *Genesis of a Music*. University of Wisconsin Press,
+* Partch, Harry. *Genesis of a Music*. University of Wisconsin Press,
 1949.
-
-Polansky, Larry; et al. "A Mathematical Model for Optimal Tuning
+* Polansky, Larry; et al. "A Mathematical Model for Optimal Tuning
 Systems." *Perspectives of New Music* 47 (2009), pp. 69-110.
-
-Russell, Jim. "Towards a Difference Limen of Musical Scale Perception."
+* Russell, Jim. "Towards a Difference Limen of Musical Scale Perception."
 *21harmony*.
 http://www.21harmony.com/blog/towards-a-difference-limen-of-musical-scale-perception
 (accessed June 28, 2018).
-
-Sabat, Marc. "On Ben Johnston's Notation and the Performance Practice of
+* Sabat, Marc. "On Ben Johnston's Notation and the Performance Practice of
 Extended Just Intonation." *Marc Sabat's Home Page*.
 http://www.marcsabat.com/pdfs/EJItext.pdf (accessed November 3, 2018).
-
-Sabat, Marc. "The Extended Helmholtz-Ellis JI Pitch Notation." *Marc
+* Sabat, Marc. "The Extended Helmholtz-Ellis JI Pitch Notation." *Marc
 Sabat's Home Page*. http://www.marcsabat.com/pdfs/notation.pdf (accessed
 November 3, 2018).
-
-Secor, George D. "The 17-tone Puzzle – And the Neo-medieval Key That
+* Secor, George D. "The 17-tone Puzzle – And the Neo-medieval Key That
 Unlocks It." *Xenharmonikôn* 18 (2006).
-
-Secor, George D.; Keenan, David C. "Sagittal: A Microtonal Notation
+* Secor, George D.; Keenan, David C. "Sagittal: A Microtonal Notation
 System." *Xenharmonikôn* 18 (2006).
