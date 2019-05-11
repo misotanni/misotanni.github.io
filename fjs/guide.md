@@ -176,7 +176,7 @@ exponents (0 is included in the natural numbers).
 For the proof, we begin with the Fundamental Theorem of
 Arithmetic, the ability to factorize any positive integer uniquely into
 primes with natural exponents. Here the notation \\(\operatorname{p}{(n)}\\)
-refers to the n^th^ prime number, so $\operatorname{p}{(1)} = 2$.
+refers to the n^th^ prime number, so \\(\operatorname{p}{(1)} = 2\\).
 
 $$a = \prod_{i = 1}^{n}{\operatorname{p}{(i)}}^{r_{i}},a \in \mathbb{Z}_{+},n,r_{i}\mathbb{\in N}$$
 
@@ -244,7 +244,7 @@ interval, but as a unit to compare the sizes of other intervals to.
 From a corollary to the theorems established before, multiplying
 an interval means exponentiating its ratio, and dividing an interval
 means taking the corresponding root of its ratio. Hence, the ratio of
-the cent is \\(\sqrt[1200]{2}\\) and that of a semitone is $\sqrt[12]{2}$.
+the cent is \\(\sqrt[1200]{2}\\) and that of a semitone is \\(\sqrt[12]{2}\\).
 Thus the cent size of an interval can be calculated directly from its
 ratio as follows: it is the power to which the ratio of the cent must be
 raised to obtain the given interval. The cent size scale is logarithmic,
@@ -505,7 +505,7 @@ exactly one comma for every prime.
 > **Theorem 5.** Any JI interval can be represented uniquely as a
 > product of a Pythagorean interval and commas of the form
 > \\(2^{a}\ 3^{b}\ p^{r}\\) where \\(p\\) is a prime greater than 3, \\(a,b\\) are
-> integers, and $r^{2} = 1$.
+> integers, and \\(r^{2} = 1\\).
 
 I will make use of a proof technique known as proof by
 induction. I will prove the general statement by showing that it holds
@@ -516,7 +516,7 @@ next case. At its core, the proof is purely algebraic.
 Let \\(C_{p} = 2^{a_{p}}\ 3^{b_{p}}\ p^{r_{p}}\\) be an interval
 chosen for the prime number \\(p\\) with some particular integers
 \\(a_{p},b_{p}\\) and some particular \\(r_{p}\\) such that
-$\left( r_{p} \right)^{2} = 1$. Note that in this context, it need not
+\\(\left( r_{p} \right)^{2} = 1\\). Note that in this context, it need not
 be small in size; it just needs to be an arbitrary, but known, interval.
 
 For the base case, consider a known
@@ -551,10 +551,10 @@ arbitrary quintal comma. The base case holds.
 For the induction step, assume the statement is true for some
 prime number \\(\operatorname{p}{(n)}\\) so that we may show that this
 ensures its truth for the next prime number,
-$\operatorname{p}{(n + 1)}$.
+\\(\operatorname{p}{(n + 1)}\\).
 
 Let \\(d\\) be a JI interval with factors up to and including
-$\operatorname{p}{(n + 1)}$. Therefore it can be uniquely factorized
+\\(\operatorname{p}{(n + 1)}\\). Therefore it can be uniquely factorized
 into primes up to and including that prime:
 
 $$d = \prod_{i = 1}^{n + 1}{\operatorname{p}{(i)}}^{x_{\operatorname{p}{(i)}}}$$
@@ -571,19 +571,19 @@ the term on the left with commas.
 $$d = \left( 2^{f}\ 3^{g} \times \prod_{i = 3}^{n}\left( C_{\operatorname{p}{(i)}} \right)^{u_{\operatorname{p}{(i)}}} \right) \times {\operatorname{p}{(n + 1)}}^{x_{\operatorname{p}{(n + 1)}}}$$
 
 Here, \\(f,g\\) are arbitrary integers resulting from the
-conversion into prime commas up to $\operatorname{p}{(n)}$.
+conversion into prime commas up to \\(\operatorname{p}{(n)}\\).
 
 Let's refer to the Pi notation product term as \\(\gamma\\) for
 convenience, and similarly, let's refer to \\(\operatorname{p}{(n + 1)}\\)
-as $q$; then the statement above becomes
+as \\(q\\); then the statement above becomes
 
 $$d = 2^{f}\ 3^{g} \times \gamma \times q^{x_{q}}$$
 
 Also, let's assume that
 \\(C_{q} = 2^{a_{q}}\ 3^{b_{q}}\ q^{r_{q}}\\) is given and known. Since
-$\left( r_{q} \right)^{2} = 1$, as before, \\(\frac{x_{q}}{r_{q}} = u_{q}\\)
+\\(\left( r_{q} \right)^{2} = 1\\), as before, \\(\frac{x_{q}}{r_{q}} = u_{q}\\)
 is necessarily an integer, but this is not necessarily the case if
-$\left( r_{q} \right)^{2} \neq 1$.
+\\(\left( r_{q} \right)^{2} \neq 1\\).
 
 The algebra is essentially the same as before:
 
@@ -604,17 +604,17 @@ $$d = \gamma \times \left( C_{q} \right)^{u_{q}} \times 2^{f - u_{q}a_{q}}\ 3^{g
 
 $$d = 2^{f - u_{q}a_{q}}\ 3^{g - u_{q}b_{q}} \times \prod_{i = 3}^{n}\left( C_{\operatorname{p}{(i)}} \right)^{u_{\operatorname{p}{(i)}}} \times \left( C_{q} \right)^{u_{q}}$$
 
-Finally, since $q = \operatorname{p}{(n + 1)}$, we can join the
+Finally, since \\(q = \operatorname{p}{(n + 1)}\\), we can join the
 final term into the Pi notation product:
 
 $$d = 2^{f - u_{q}a_{q}}\ 3^{g - u_{q}b_{q}} \times \prod_{i = 3}^{n + 1}\left( C_{\operatorname{p}{(i)}} \right)^{u_{\operatorname{p}{(i)}}}$$
 
 This is a unique representation of a JI interval with factors
 up to \\(\operatorname{p}{(n + 1)}\\) in terms of the factors up to
-$\operatorname{p}{(n)}$. The induction step holds.
+\\(\operatorname{p}{(n)}\\). The induction step holds.
 
 As the statement has also been proven for the base case
-$\operatorname{p}{(n)} = 5$, it also holds for all the prime numbers
+\\(\operatorname{p}{(n)} = 5\\), it also holds for all the prime numbers
 greater than 3 by the principle of mathematical induction. ∎
 
 ## Comma Scavenger Hunt
@@ -654,11 +654,11 @@ Pythagorean diminished second, which is the octave-reduced version of
 the number \\(3^{12}\\) and has a cent size of approximately 23.46¢, there
 exist many much smaller Pythagorean intervals:
 
--   The 41-comma, the octave-reduced version of $3^{41}$, is
+-   The 41-comma, the octave-reduced version of \\(3^{41}\\), is
     approximately 19.85¢. It equals
     36893488147419103232/36472996377170786403.
 
--   The 53-comma, the octave-reduced version of $3^{53}$, is only
+-   The 53-comma, the octave-reduced version of \\(3^{53}\\), is only
     approximately 3.62¢. It equals
     19383245667680019896796723/19342813113834066795298816.
 
@@ -687,7 +687,7 @@ accurately represent JI as an extension of staff notation – I will need
 to define a few terms.
 
 The *reduced form* of an interval, with respect to some
-parameter $k$, is equal to that interval, but octave-reduced until it is
+parameter \\(k\\), is equal to that interval, but octave-reduced until it is
 between \\(2^{k}\\) (inclusive) and \\(2^{k + 1}\\) (exclusive). In particular,
 the reduced form of an interval with respect to 0 is equal to that
 interval, but octave-reduced until it is between the unison (inclusive)
@@ -712,7 +712,7 @@ $$\operatorname{shp}{(n)}:\left\{ \begin{matrix}
 \operatorname{shp}{(0)} = 0 \\
 \operatorname{shp}\left( n + 1 \right) = - \operatorname{shp}\left( n \right) + 1;n\ \mathrm{\text{even}} \\
 \operatorname{shp}{(n + 1)} = - \operatorname{shp}\left( n \right);n\ \mathrm{\text{odd}} \\
-\end{matrix} \right.\ \\(\\)
+\end{matrix} \right.\ $$
 
 The negative shuffle function \\(\operatorname{shn}{(n)}\\) can be
 described in an analogical way by using \\(- 1\\) instead of \\(+ 1\\) in the
@@ -731,21 +731,21 @@ function:
 $$\operatorname{shp}{(n)} = \left\{ \begin{matrix}
  - \frac{n}{2};n\ \mathrm{\text{even}} \\
 \frac{(n + 1)}{2};n\ \mathrm{\text{odd}} \\
-\end{matrix} \right.\ \\(\\)
+\end{matrix} \right.\ $$
 
 Again, the negative shuffle function is simply its additive
 inverse.
 
 The final term that needs to be defined preliminarily is the
-radius of tolerance, which I will represent with the symbol $\lambda$.
+radius of tolerance, which I will represent with the symbol \\(\lambda\\).
 The radius of tolerance is the maximum possible ratio of an interval
 which can be used as a "comma" – i.e. an interval used in the alternate
 representation of a JI ratio, which will ultimately be mapped to an
 accidental. I have devised at least two different versions of the FJS
-with two different values of $\lambda$.
+with two different values of \\(\lambda\\).
 
 My preferred choice for \\(\lambda\\) is 256/243 (which I will call
-$L$), the ratio of the Pythagorean diatonic semitone. That way, if ↑
+\\(L\\)), the ratio of the Pythagorean diatonic semitone. That way, if ↑
 represents an arbitrary upward FJS accidental, and ↓ an arbitrary (the
 same or different) downward accidental, we can be certain that
 
@@ -753,7 +753,7 @@ E↑ is lower than F;\
 E is lower than F↓.
 
 Another possible choice is the square root of the above;
-$\sqrt{\frac{256}{243}} = \frac{16\sqrt{3}}{27} = l$. This way, we can
+\\(\sqrt{\frac{256}{243}} = \frac{16\sqrt{3}}{27} = l\\). This way, we can
 be further certain that
 
 E↑ is lower than F↓.
@@ -845,7 +845,7 @@ by a Pythagorean diminished second, it has no FJS accidental.
 
 What I have shown on the previous page has been the algorithm
 used to determine the interval in question, for any prime number \\(p\\)
-greater than 3 and any radius of tolerance $\lambda$. I have chosen to
+greater than 3 and any radius of tolerance \\(\lambda\\). I have chosen to
 use *shn* in lines 4, 5, and 9, but a nearly equivalent algorithm may
 exist with *shn* changed to *shp* (everywhere consistently, not in free
 variation). Most outputs would be the same. The difference will be
@@ -863,8 +863,8 @@ interval using that accidental. **Appendix 1** shows this algorithm
 written in the programming language C++.
 
 This algorithm returns three functions:
-$\operatorname{gen}{(p)}$, \\(\operatorname{pol}{(p)}\\) and
-$\operatorname{comma}{(p)}$, in that order. All three are necessary to
+\\(\operatorname{gen}{(p)}\\), \\(\operatorname{pol}{(p)}\\) and
+\\(\operatorname{comma}{(p)}\\), in that order. All three are necessary to
 describe an FJS accidental.
 
 The *gen* function is the "generator interval" function. It
@@ -928,7 +928,7 @@ correspond to a number of fifths which is equal to every output of *shn*
 or *shp* up to and including the given number of steps. In our case, the
 radius of tolerance is 256/243, meaning that all gaps between
 consecutive intervals must be strictly less than
-$\left( \frac{256}{243} \right)^{2} \approx 180.45¢$, which is the
+\\(\left( \frac{256}{243} \right)^{2} \approx 180.45¢\\), which is the
 Pythagorean diminished third. Note that the strong whole tone, i.e. the
 Pythagorean major second, 9/8, approximately 203.91¢, is greater than
 the diminished third, too large. However, the chromatic semitone,
@@ -961,11 +961,11 @@ $$\bigcup_{i = 0}^{12}\left\{ \operatorname{shp}{(i)} \right\} = \left\lbrack - 
 $$\bigcup_{i = 0}^{12}\left\{ \operatorname{shn}{(i)} \right\} = \left\lbrack - 6,\ 5 \right\rbrack,\ \mathrm{\text{if\ shp\ was\ chosen}}$$
 
 The situation is very similar to my second preferred choice of
-the radius of tolerance, which is $\sqrt{\frac{256}{243}}$. In this
+the radius of tolerance, which is \\(\sqrt{\frac{256}{243}}\\). In this
 case, all gaps between consecutive intervals must be strictly less than
 256/243; but in this case, they can also be exactly equal to 256/243,
 since the radius of tolerance is not a just interval (its simplest form
-involves a factor of $\sqrt{3}$, making it irrational). 256/243 is the
+involves a factor of \\(\sqrt{3}\\), making it irrational). 256/243 is the
 Pythagorean minor second; the chromatic semitone or augmented prime is
 slightly greater, but the diminished second or Pythagorean "comma" is
 small enough. In this case, 17 iterations with either function is the
@@ -985,7 +985,7 @@ intervals**
 
 For comparison, below is the table of values of the *gen*,
 *pol*, and *comma* function for a radius of tolerance of
-$\sqrt{\frac{256}{243}}$.
+\\(\sqrt{\frac{256}{243}}\\).
 
 | **p**   | **Target**   | **Pythagorean | Approx.**   | **gen**   | **pol**   | **comma**   |
 | ------- | ------------ | --------------| ----------- | --------- | --------- | ----------- |
@@ -1030,7 +1030,7 @@ fifth and the 13^th^ as an augmented one. I will give reasons why I
 dismiss the idea of mixing approximations from both radii later in this
 article. **Appendix 2** gives outputs of the FJS algorithm for both
 radii up to and including 127, the greatest prime less than
-$128 = 2^{7}$. This gives FJS commas for the first seven octaves of the
+\\(128 = 2^{7}\\). This gives FJS commas for the first seven octaves of the
 harmonic series. One should keep in mind, however, that the FJS is
 procedurally generated and therefore exists in infinitely many octaves.
 ∎
@@ -1044,7 +1044,7 @@ is extremely easy; if the *comma* is less than 1, *pol* is −1; if the
 *comma* is greater than 1, *pol* is +1. The other two conversions are a
 little more complicated. They are described in detail below; they can
 also be rendered as algorithms and automated if need be. Both of these
-conversions are independent of the size of $\lambda$.
+conversions are independent of the size of \\(\lambda\\).
 
 To find the *comma* function from the *gen* function:
 
@@ -1062,9 +1062,9 @@ To find the *comma* function from the *gen* function:
 
 Example: Given \\(p = 5,\operatorname{gen}{(p)} = 4\\) we take
 \\(3^{4} = 81\\) and octave-reduce this number to obtain
-$2^{- 6}\ 3^{4} = \frac{81}{64}$. This is the Pythagorean approximation
-to octave-reduced 5, which is $\frac{5}{4}$. So the *comma* function for
-5 is $\frac{(\frac{5}{4})}{(\frac{81}{64})} = \frac{80}{81}$.
+\\(2^{- 6}\ 3^{4} = \frac{81}{64}\\). This is the Pythagorean approximation
+to octave-reduced 5, which is \\(\frac{5}{4}\\). So the *comma* function for
+5 is \\(\frac{(\frac{5}{4})}{(\frac{81}{64})} = \frac{80}{81}\\).
 
 To find the *gen* function from the *comma* function:
 
@@ -1206,7 +1206,7 @@ accidentals from the commas found by the FJS algorithm.
     immediately at first sight. Some of the most frequent products are
     all recognizable: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121 are all
     familiar. If it is completely unclear at first sight what a number
-    factorizes to, e.g. $119 = 7 \times 17$, an alternative notation can
+    factorizes to, e.g. \\(119 = 7 \times 17\\), an alternative notation can
     be used where all factors are listed, separated with full stops. The
     example from above could alternatively be written as G♯^5.5^ and
     both notations are equally correct. If commas are listed out
@@ -1293,7 +1293,7 @@ strange, but is unambiguous. German octave notation can also be used: c
 – eʺ^5^ is the same 5/1 interval. Where superscripts and subscripts are
 unavailable (e.g. in ASCII), a superscript can be marked with +, and a
 subscript with −. Then, the note \\(F_{5}^{7}\\) becomes F+7−5, and the same
-note in the fourth octave (${\mathrm{F}4}_{5}^{7}$) becomes F4+7−5.
+note in the fourth octave (\\({\mathrm{F}4}_{5}^{7}\\)) becomes F4+7−5.
 Where it is understood from context that the first number following a
 Pythagorean note name refers to a microtonal accidental and not an
 octave, the + sign can even be omitted, so F7 can mean F^7^, and as in
@@ -1387,10 +1387,10 @@ Example: An interval known as the *lesser septimal tritone* is
 called \\({\mathrm{d}5}_{5}^{7}\\) in the FJS. To determine its ratio, start
 with d5. It is made from 6 fifths in the negative direction, so its
 ratio is the octave-reduced form of \\(3^{- 6}\\) which is
-$2^{10}\ 3^{- 6} = \frac{1024}{729}$. Now we apply the accidentals to
+\\(2^{10}\ 3^{- 6} = \frac{1024}{729}\\). Now we apply the accidentals to
 this ratio. +7 means multiply by
 \\(\operatorname{comma}{(7)} = \frac{63}{64}\\) and −5 means divide by
-$\operatorname{comma}{(5)} = \frac{80}{81}$. Therefore we have
+\\(\operatorname{comma}{(5)} = \frac{80}{81}\\). Therefore we have
 \\(\frac{1024}{729} \times \frac{63}{64} \div \frac{80}{81} = \frac{7}{5}\\)
 and so the ratio is 7/5.
 
@@ -1413,12 +1413,12 @@ To find an FJS interval from the ratio:
 
 Example: We will name the weak quintal chromatic semitone,
 25/24, in the FJS. Factorizing this ratio, we obtain
-$2^{- 3}\ 3^{- 1}\ 5^{2}$. There is a factor of 5 (exponent +2) and it
+\\(2^{- 3}\ 3^{- 1}\ 5^{2}\\). There is a factor of 5 (exponent +2) and it
 is the only non-Pythagorean factor. Hence we multiply by a comma with
-the negated exponents, $\left( \operatorname{comma}{(5)} \right)^{- 2}$,
+the negated exponents, \\(\left( \operatorname{comma}{(5)} \right)^{- 2}\\),
 to obtain
-$\frac{25}{24} \times \left( \frac{80}{81} \right)^{- 2} = \frac{2187}{2048}$.
-Factorizing that new ratio, we obtain $2^{- 11}\ 3^{7}$, so the interval
+\\(\frac{25}{24} \times \left( \frac{80}{81} \right)^{- 2} = \frac{2187}{2048}\\).
+Factorizing that new ratio, we obtain \\(2^{- 11}\ 3^{7}\\), so the interval
 class is +7 fifths, which is A1 (as expected; a chromatic semitone, i.e.
 an augmented prime). But since the original interval had a factor of 5
 (exponent +2), we add two +5 accidentals. The resulting interval class
@@ -1537,7 +1537,7 @@ Here are the rules governing FJS key signatures:
     overwrite those that would be due to an FJS key signature. An E~7~
     indicated by writing E with a −7 accidental before it is still E~7~,
     even if there is an FJS key signature that says E^5^ instead. (It
-    does not become $\mathrm{E}_{7}^{5}$.)
+    does not become \\(\mathrm{E}_{7}^{5}\\).)
 
 4.  A Pythagorean key signature change does not automatically also
     trigger an FJS key signature change. A piece which begins with the
@@ -1616,7 +1616,7 @@ accidentals, completely overwrite changes due to FJS key signatures.
 This means that in the key of quintal C major (B5 E5 A5), if one E is
 marked with an accidental of −7 and a black dot, then both that E and a
 further E in the same staff (e.g. an octave higher and in the next bar)
-will be E~7~, rather than something like $\mathrm{E}_{7}^{5}$. If the
+will be E~7~, rather than something like \\(\mathrm{E}_{7}^{5}\\). If the
 black dot is canceled with a white dot, then an E is once again E^5^.
 
 While these rules regarding the shorthand elements of the FJS
@@ -2028,7 +2028,7 @@ Below are values of the *gen*, *pol*, and *comma* functions as outputs
 of the FJS algorithm, tabulated for inputs ranging from 5 to 127, for
 both \\(L\\) and \\(l\\) as the choices of the radius of tolerance.
 
-Note the long-term behaviors of my preferred choice $L$. It never
+Note the long-term behaviors of my preferred choice \\(L\\). It never
 exceeds −6 or +6 for the *gen* function, as expected. However, what is
 notable is that beyond the 17-limit, it never even exceeds −3 or +3, and
 the only cases where it does is for 5 and 17! As a result, the ratios
@@ -2040,7 +2040,7 @@ simplest of all small ratios, i.e. superparticular ratios. The *shn* vs.
 prime whose octave-reduced form is between the Pythagorean diminished
 fifth and augmented fourth.
 
-Below is the table for $L = \frac{256}{243}$, the Pythagorean diatonic
+Below is the table for \\(L = \frac{256}{243}\\), the Pythagorean diatonic
 semitone.
 
 | **p**   | **Target**   | **Pyth. Approx.**   | **gen**   | **pol**   | **comma**   |
@@ -2078,7 +2078,7 @@ semitone.
 []{#_Toc5207170 .anchor}**Table** **6. The values of gen, pol, and comma
 up to 127, for λ = L**
 
-Below is the table for $l = \sqrt{\frac{256}{243}}$, half of the
+Below is the table for \\(l = \sqrt{\frac{256}{243}}\\), half of the
 Pythagorean diatonic semitone. The first two columns remain the same,
 the others are different.
 
@@ -2087,7 +2087,7 @@ As opposed to the table above, these results are significantly more
 already at the 13-limit, and hits it two more times (at 79 and 103) in
 the primes from 17 to 127. For 59, 67, 79, and 89, the commas exceed
 four-digit numbers, with the most complex comma occurring for 79, with a
-denominator of $524288 = 2^{19}$. Nevertheless, simple commas (even
+denominator of \\(524288 = 2^{19}\\). Nevertheless, simple commas (even
 superparticular ones) also occur from time to time, and some
 representations are even better than those for a wider radius of
 tolerance, e.g. the 23-, 31-, and 61-commas. At some points, including
