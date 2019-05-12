@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
 In other languages: [de](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - en - [fr](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [jbo](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [pl](https://misotanni.bandcamp.com/album/6-digit-computer-ost)
 
 ***
@@ -28,6 +30,20 @@ But let's not forget that staff notation predates even the thought of using 12-E
 
 In other words, enharmonic equivalence is the only 12-EDO feature in staff notation. Everything else is independent.
 
+## Preliminary
+
+Before you start learning about the FJS, there are three mathematical concepts that are FJS-specific that you must be acquainted with.
+
+The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C-G-D. Similarly a **minor third** is **-3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C-F-B♭-E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
+
+The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>-1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](https://misotanni.github.io/fjs/math_en.html) for the curious reader. From this point onwards, the symbol (\*) will indicate a reference to the mathematics page.)
+
+The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
+
+$$\red (d)=d \times 2^{-\log_2 (d)}$$
+
+This is just about all you need, so let's get started!
+
 ## Lesson 1: Pythagorean Tuning
 
 You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
@@ -42,6 +58,26 @@ In that case, you might think that there might exist some middle ground, a subse
 
 **FJS Rule \#1: Conventional staff notation represents Pythagorean tuning.**
 
-This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection.
+This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection. (\*)
 
 I should note that this requires something that some musicians may not be aware exists: multiples, beyond double, of the sharp and flat. While extremely rarely used in conventional music, they are required here. In the FJS, sharps and flats can appear with any multiplicity. This is not to say that they are common; just do not panic when you have to use them.
+
+You are now ready to learn the first two FJS techniques.
+
+**FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.**
+
+~~~
+1. Factorize the ratio.
+2. Initially ignore octaves (powers of two).
+3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
+4. Adjust octaves as required.
+~~~
+
+**FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.**
+
+~~~
+1. Initially ignore octaves.
+2. Convert the interval to the number of steps by fifths.
+3. Raise three to that power and take the reduced form.
+4. Adjust octaves as required.
+~~~
