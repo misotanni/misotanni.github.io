@@ -55,6 +55,16 @@ The following seven rules are all the components needed to express everything re
 
 7. All else is shorthand.
 
+## Why the FJS?
+
+Why even the need for the FJS? What is the motivation that drove me to create this notation system? What benefits for musicians are tied to the usage of this system? Why use it, and how does it help with composing and analyzing Just Intonation music? Why even try to map Just Intonation onto staff notation in the first place? After all, staff notation is designed for music revolving around the circle of fifths and the diatonic scale, while Just Intonation is a bunch of ratios connected in beautiful, but musically alien, ways. Just Intonation music works very differently from the music we are used to notating, and so any attempt to present Just Intonation music in such a way seems like it should be clunky and unnatural.
+
+Why, then, did I choose to pursue this idea despite this difficulty? The reason is because staff notation is a language for communication between musicians, and while it is not perfect, it is universal - every musician can communicate in it. Furthermore, as musicians, we are accustomed to thinking in its terms. Wouldn't it be very useful to translate the beautiful and regular, but quite unintuitive, language of Just Intonation into the old, familiar language of staff notation? Wouldn't it allow musicians to comprehend Just Intonation with more intuition, and extend its tools to all the processes - composition, analysis, and performance - of conventional music?
+
+**Indeed, it would.**
+
+The FJS is much more than just a notation system for Just Intonation. The construction of the FJS not only allowed me to make sense of the seemingly shapeless mess that Just Intonation first presented to me. It also showed me that staff notation is much more logical and much more connected to Just Intonation than I ever would have thought. I invite you, as well, to comprehend the beauty and simplicity of the FJS, and understand how its inner musical cogs connect the workings of two concepts that seem completely alien to each other.
+
 ## What Now?
 
 - Go here for a [crash course](https://misotanni.bandcamp.com/album/6-digit-computer-ost) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
