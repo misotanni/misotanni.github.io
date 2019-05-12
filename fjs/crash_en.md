@@ -8,11 +8,7 @@ So, you are intrigued by what the FJS has to offer, and would like to learn to u
 
 This "crash course" was designed specifically with a focus on fast acquisition of all the fundamental elements of the system. It puts less focus on its shorthand system, which is not necessary. If you already have had exposure to Just Intonation, the FJS will be extremely easy for you to learn - you can learn it all in one sitting within a few minutes. Its beauty and simplicity are at your grasp.
 
-The course has a very simple structure. It elaborates on the seven rules of the FJS by explaining each one in turn.
-
-## Lesson 1: Abandoning Enharmony
-
-> **All notes with conventional accidentals represent Pythagorean tuning. All octaves are 2/1 and all perfect fifths are 3/2.**
+## Introduction: Abandoning Enharmony
 
 We are all familiar with standard staff notation and its conventional sharps and flats. But what we may not realize is that we learn staff notation as adapted for our omnipresent tuning system, twelve-tone equal temperament (from now on, this course will use the abbreviation 12-EDO, for Equal Divisions of the Octave).
 
@@ -32,9 +28,20 @@ But let's not forget that staff notation predates even the thought of using 12-E
 
 In other words, enharmonic equivalence is the only 12-EDO feature in staff notation. Everything else is independent.
 
-The first step of the FJS is actually to **remove enharmonic equivalence** while preserving everything else. The FJS assigns the octave to the JI ratio 2/1, which already is its value in 12-EDO as well. It then assigns the perfect fifth to the JI ratio 3/2. This means that conventional staff notation is assigned to Pythagorean tuning.
+## Lesson 1: Pythagorean Tuning
 
-Assigning the fifth to 3/2 has particular implications. Unless you are already familiar with this idea, this may seem strange to you at first: in the FJS, G♯ and A♭ are no longer the same note. In fact, no two notes of different names have the same pitch, and no two notes of different pitches have the same name. There is only one correct spelling for every note. There exists a **bijection** between Pythagorean tuning and conventional staff notation.
+You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
 
-## Lesson 2
+Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below:
 
+<audio controls><source src="" type=""></audio>
+
+All of them are "some type of major second" to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
+
+In that case, you might think that there might exist some middle ground, a subset of JI, which can be mapped exactly onto staff notation without enharmonic equivalence, and again you would be correct. That middle ground is none other than 3-limit JI, also known as Pythagorean tuning.
+
+**FJS Rule \#1: Conventional staff notation represents Pythagorean tuning.**
+
+This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection.
+
+I should note that this requires something that some musicians may not be aware exists: multiples, beyond double, of the sharp and flat. While extremely rarely used in conventional music, they are required here. In the FJS, sharps and flats can appear with any multiplicity. This is not to say that they are common; just do not panic when you have to use them.
