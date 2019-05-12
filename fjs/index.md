@@ -1,3 +1,5 @@
+In other languages: [de](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - en - [fr](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [jbo](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [pl](https://misotanni.bandcamp.com/album/6-digit-computer-ost)
+
 > *Such is the advantage of a well-constructed language that its simplified notation often becomes the source of profound theories.*
 > \- Pierre-Simon Laplace
 
