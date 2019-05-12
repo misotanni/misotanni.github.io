@@ -19,6 +19,8 @@ The Functional Just System:
 - has fundamental elements that are exceptionally simple and sufficient for all purposes, but also a **shorthand** system optimized for **common situations**;
 - is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables. (This website contains several calculators for these purposes.)
 
+**Start discovering the Functional Just System now!**
+
 ## What Is Just Intonation?
 
 If you have to ask this question, then you are probably in the wrong place!
@@ -46,3 +48,14 @@ The following seven rules are all the components needed to express everything re
 6. For staff notation, the positive compound accidental is written first (if any), then the negative compound accidental with a minus sign in front (if any), then any conventional accidental, then the note.
 
 7. All else is shorthand.
+
+## What Now?
+
+- Go here for a [crash course](https://misotanni.bandcamp.com/album/6-digit-computer-ost) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
+- Read the [complete formal description](https://misotanni.bandcamp.com/album/6-digit-computer-ost) for a reference of the exact rules when in doubt.
+- See the [mathematics](https://misotanni.bandcamp.com/album/6-digit-computer-ost) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
+- See a [comparison](https://misotanni.bandcamp.com/album/6-digit-computer-ost) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
+- Use the website's [calculators](https://misotanni.bandcamp.com/album/6-digit-computer-ost) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
+- See many more [examples](https://misotanni.bandcamp.com/album/6-digit-computer-ost) of the FJS in usage.
+
+**What will the FJS mean for you?**
