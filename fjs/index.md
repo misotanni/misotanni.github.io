@@ -14,9 +14,10 @@ The Functional Just System:
 - is a means of **translation** between the raw ratios of Just Intonation and the musical language understood universally by all musicians - staff notation;
 - is **extremely easy** to learn to read and write, and its simplicity far surpasses that of other Just Intonation notation systems;
 - provides a **bijection** or isomorphism between notation and sound, every tone can be notated in exactly one way and can be written and read unambiguously;
-- can notate **all of the infinity** of Just Intonation, not only up to a certain fixed prime limit;
+- can notate **all of the infinity** of Just Intonation, not only up to a certain fixed prime limit, and can hence express a **superset** of the meanings possible in other notation systems;
 - has **infinite resolution**, thus each tone is notated "pitch perfect", not only up to a certain fixed precision;
-- is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables.
+- has fundamental elements that are exceptionally simple, but also a **shorthand** system optimized for **common situations**;
+- is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables. (This website contains several calculators for these purposes.)
 
 ## What Is Just Intonation?
 
@@ -26,3 +27,22 @@ If you have to ask this question, then you are probably in the wrong place! Most
 
 A basic level of familiarity with, and understanding of, Just Intonation is required (in addition to elementary music theory) to be able to understand and use the FJS effectively. In general, **more experience** with Just Intonation leads to **higher proficiency and fluency** in using the FJS.
 
+For the most basic acquaintance with Just Intonation, I recommend [Just Intonation Explained](https://www.kylegann.com/tuning.html) by Kyle Gann.
+
+## How Simple Is the FJS?
+
+The following seven rules are all the components needed to express everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right - only seven rules.
+
+1. All notes with conventional accidentals represent Pythagorean tuning. All octaves are 2/1 and all perfect fifths are 3/2.
+
+2. Every prime interval above 3/2 (that is, 5/4, 7/4, 11/8, etc.) is given a unique Pythagorean approximation according to the FJS master algorithm. This algorithm finds the simplest Pythagorean approximation that is within the radius of tolerance of the target. The difference between them is assigned a unique accidental for that prime, and the prime number itself is used as the symbol.
+
+3. All FJS accidentals are positive in the direction in which the Pythagorean approximation becomes the target prime interval, and negative otherwise. Positive is not always upward and negative is not always downward; positive is always otonal, while negative is always utonal.
+
+4. Compound accidentals are represented by multiplying the otonal parts and multiplying the utonal parts, so a double +5 is +25. Otonal and utonal are always written separately. If the numbers are too large, the factors may be written out with commas in between.
+
+5. For note names, the positive compound accidental is added as a superscript and the negative compound accidental is added as a subscript to the right of the conventional name.
+
+6. For staff notation, the positive compound accidental is written first (if any), then the negative compound accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+
+7. All else is shorthand.
