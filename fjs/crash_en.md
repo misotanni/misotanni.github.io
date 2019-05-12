@@ -81,3 +81,18 @@ You are now ready to learn the first two FJS techniques.
 3. Raise three to that power and take the reduced form.
 4. Adjust octaves as required.
 ~~~
+
+Below is a table of some common ones:
+
+| Interval | Steps | Ratio   |
+|----------|-------|---------|
+| m2       | -5    | 256/243 |
+| M2       | +2    | 9/8     |
+| m3       | -3    | 32/27   |
+| M3       | +4    | 81/64   |
+| P4       | -1    | 4/3     |
+| P5       | +1    | 3/2     |
+| m6       | -4    | 128/81  |
+| M6       | +3    | 27/16   |
+| m7       | -2    | 16/9    |
+| M7       | +5    | 243/128 |
