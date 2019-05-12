@@ -1,6 +1,11 @@
 defaults:
   -
     scope:
+      path: "fjs/en"
+    values:
+      otherlang: "In other languages:"
+  -
+    scope:
       path: "fjs"
     values:
       layout: "fjs"
