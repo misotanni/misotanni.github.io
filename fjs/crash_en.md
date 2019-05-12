@@ -40,7 +40,7 @@ The second is the ability to prime-factorize a rational number. Much like any **
 
 The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
 
-$$\text{red}(d)=d \cdot 2^{-\lceil\log_2 d\rceil}$$
+$$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 This is just about all you need, so let's get started!
 
