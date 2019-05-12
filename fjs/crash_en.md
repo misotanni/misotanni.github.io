@@ -5,6 +5,9 @@ In other languages: [de](https://misotanni.bandcamp.com/album/6-digit-computer-o
 ---
 
 # The FJS Crash Course
+{% capture page.title %}
+The FJS Crash Course
+{% endcapture %}
 
 So, you are intrigued by what the FJS has to offer, and would like to learn to use it.
 
@@ -56,7 +59,7 @@ All of them are "some type of major second" to most listeners, but it would be w
 
 In that case, you might think that there might exist some middle ground, a subset of JI, which can be mapped exactly onto staff notation without enharmonic equivalence, and again you would be correct. That middle ground is none other than 3-limit JI, also known as Pythagorean tuning.
 
-**FJS Rule \#1: Conventional staff notation represents Pythagorean tuning.**
+> **FJS Rule \#1: Conventional staff notation represents Pythagorean tuning.**
 
 This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection. (\*)
 
@@ -64,23 +67,19 @@ I should note that this requires something that some musicians may not be aware 
 
 You are now ready to learn the first two FJS techniques.
 
-**FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.**
+### FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.
 
-~~~
 1. Factorize the ratio.
 2. Initially ignore octaves (powers of two).
 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
 4. Adjust octaves as required.
-~~~
 
-**FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.**
+### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
 
-~~~
 1. Initially ignore octaves.
 2. Convert the interval to the number of steps by fifths.
 3. Raise three to that power and take the reduced form.
 4. Adjust octaves as required.
-~~~
 
 Below is a table of some common ones:
 
