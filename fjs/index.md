@@ -16,7 +16,7 @@ The Functional Just System:
 - provides a **bijection** or isomorphism between notation and sound, every tone can be notated in exactly one way and can be written and read unambiguously;
 - can notate **all of the infinity** of Just Intonation, not only up to a certain fixed prime limit, and can hence express a **superset** of the meanings possible in other notation systems;
 - has **infinite resolution**, thus each tone is notated "pitch perfect", not only up to a certain fixed precision;
-- has fundamental elements that are exceptionally simple, but also a **shorthand** system optimized for **common situations**;
+- has fundamental elements that are exceptionally simple and sufficient for all purposes, but also a **shorthand** system optimized for **common situations**;
 - is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables. (This website contains several calculators for these purposes.)
 
 ## What Is Just Intonation?
