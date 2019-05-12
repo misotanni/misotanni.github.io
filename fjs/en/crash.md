@@ -1,13 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
-
-In other languages: [de](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - en - [fr](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [jbo](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [pl](https://misotanni.bandcamp.com/album/6-digit-computer-ost)
-
----
-
 # The FJS Crash Course
-{% capture page.title %}
-The FJS Crash Course
-{% endcapture %}
 
 So, you are intrigued by what the FJS has to offer, and would like to learn to use it.
 
@@ -19,11 +10,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="scale-1.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
+<img src="../scale-1.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="scale-2.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
+<img src="../scale-2.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
@@ -39,7 +30,7 @@ Before you start learning about the FJS, there are three mathematical concepts t
 
 The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C-G-D. Similarly a **minor third** is **-3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C-F-B♭-E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
 
-The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>-1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](https://misotanni.github.io/fjs/math_en.html) for the curious reader. From this point onwards, the symbol (\*) will indicate a reference to the mathematics page.)
+The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>-1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](math.html) for the curious reader. From this point onwards, the symbol (\*) will indicate a reference to the mathematics page.)
 
 The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
 

@@ -1,4 +1,6 @@
-In other languages: [de](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - en - [fr](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [jbo](https://misotanni.bandcamp.com/album/6-digit-computer-ost) - [pl](https://misotanni.bandcamp.com/album/6-digit-computer-ost)
+---
+title: The Functional Just System
+---
 
 ---
 
@@ -11,7 +13,7 @@ In other languages: [de](https://misotanni.bandcamp.com/album/6-digit-computer-o
 
 Welcome to the website of the Functional Just System (FJS)!
 
-## What Is the FJS?
+## What is the FJS?
 
 The **Functional Just System** (or **FJS**) is a new revolutionary notation system for music in **Just Intonation** (**JI**). It uses an extension of traditional staff notation to notate any Just Intonation based tuning system. With its beauty, ingenuity and simplicity, it outmatches existing notation systems for this purpose, including both Helmholtz-Ellis notation and Ben Johnston notation; it is my greatest invention and proudest accomplishment so far in the domain of microtonal music.
 
