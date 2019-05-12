@@ -16,11 +16,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
+<img src="scale-1.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
+<img src="scale-2.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
