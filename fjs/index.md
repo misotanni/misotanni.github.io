@@ -55,6 +55,7 @@ The following seven rules are all the components needed to express everything re
 
 - Go here for a [crash course](https://misotanni.bandcamp.com/album/6-digit-computer-ost) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
 - Read the [complete formal description](https://misotanni.bandcamp.com/album/6-digit-computer-ost) for a reference of the exact rules when in doubt.
+- Read the [original article](https://misotanni.github.io/fjs/guide.html) on the FJS. (ZATRZYMAĆ TO, CZY NIE?)
 - See the [mathematics](https://misotanni.bandcamp.com/album/6-digit-computer-ost) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
 - See a [comparison](https://misotanni.bandcamp.com/album/6-digit-computer-ost) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
 - Use the website's [calculators](https://misotanni.bandcamp.com/album/6-digit-computer-ost) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
