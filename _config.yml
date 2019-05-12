@@ -1,6 +1,11 @@
 defaults:
   -
     scope:
+      path: "fjs"
+    values:
+      layout: "fjs"
+  -
+    scope:
       path: ""
     values:
       layout: "default"
