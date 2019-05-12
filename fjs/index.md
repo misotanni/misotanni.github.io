@@ -21,9 +21,9 @@ The Functional Just System:
 
 ## What Is Just Intonation?
 
-If you have to ask this question, then you are probably in the wrong place! Most modern music relies on a tuning system known as **twelve-tone equal temperament** (or simply **equal temperament**), which divides the octave into twelve equal intervals.
+If you have to ask this question, then you are probably in the wrong place!
 
-**Just Intonation** (**JI**) is a method of tuning which differs significantly from this mainstream tuning system. Its principles of tuning are based on the harmonic series and the natural acoustic properties of sound. Although JI is no longer used in conventional music, it remains important to music theory because it was commonplace in ancient cultures and the Middle Ages, is still widely used in traditional music of non-Western cultures, and has been employed in avant-garde music. (Not mentioning its aesthetic merit, of course.)
+Most modern music relies on a tuning system known as **twelve-tone equal temperament** (or simply **equal temperament**), which divides the octave into twelve equal intervals. **Just Intonation** (**JI**) is a method of tuning which differs significantly from this mainstream tuning system. Its principles of tuning are based on the harmonic series and the natural acoustic properties of sound. Although JI is no longer used in conventional music, it remains important to music theory because it was commonplace in ancient cultures and the Middle Ages, is still widely used in traditional music of non-Western cultures, and has been employed in avant-garde music. (Not mentioning its aesthetic merit, of course.)
 
 A basic level of familiarity with, and understanding of, Just Intonation is required (in addition to elementary music theory) to be able to understand and use the FJS effectively. In general, **more experience** with Just Intonation leads to **higher proficiency and fluency** in using the FJS.
 
