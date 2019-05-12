@@ -1,5 +1,7 @@
-# Test
+# misotanni
 
-…I am Misotanni, a music theorist currently working on a naming scheme for Just Intonation. Here's a photo of me:
+I am misotanni, a microtonal music theorist.
 
-<img src="miso.jpg" alt="Me.">
+## My projects
+
+[The Functional Just System](https://misotanni.github.io/fjs/index_en.html)
