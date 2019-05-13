@@ -36,6 +36,11 @@ The third is taking the reduced form of an interval. In practice, it consists of
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
+Aside from that, you should also be familiar with cent measure for interval size. 100 cents is one 12-EDO semitone and 1200 cents is one octave. To calculate the cent size of an interval, use one of these formulae:
+
+$$\text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}$$
+$$\text{C}(d)=\log_c d \text{ , where }c=\sqrt[1200]{2}$$
+
 This is just about all you need, so let's get started!
 
 ## Lesson 1: Pythagorean Tuning
@@ -86,3 +91,17 @@ Below is a table of some common ones:
 | M6       | +3    | 27/16   |
 | m7       | -2    | 16/9    |
 | M7       | +5    | 243/128 |
+
+You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above.
+
+### Exercise
+
+1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
+2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
+3. Find the ratio of the Pythagorean comma (d2 in the FJS).
+4. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
+
+Answers to all exercises are given at the end of this page.
+
+## Lesson 2: The Prime Intervals
+
