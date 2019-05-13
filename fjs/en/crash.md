@@ -110,3 +110,19 @@ Answers to all exercises are given at the end of this page.
 ## Lesson 2: The Prime Intervals
 
 All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much - aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
+
+The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
+
+2, 3, 5, 7, 11, 13, 17, 19, ...
+
+...and we take the reduced form of all of them:
+
+1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+
+We already know how to notate the first two primes: the octave and the fifth. Those are covered.
+
+Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" - a form of "minor seventh". Chances are, this language may not have seemed strange to you at first place. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
+
+But if we consider this on a formal level, things start to get weird.
+
+Say we accept this at first: 5/4 is a type of major third. The difference from the Pythagorean major third, 81/64, is the small interval of 81/80, about 22 cents. This should be fine, why would it be problematic? The reason is because the Pythagorean diminished fourth, 8192/6561, is *much* closer. The difference between that and 5/4 is only 32805/32768, only about 2 cents!
