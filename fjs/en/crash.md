@@ -38,8 +38,8 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 Aside from that, you should also be familiar with cent measure for interval size. 100 cents is one 12-EDO semitone and 1200 cents is one octave. To calculate the cent size of an interval, use one of these formulae:
 
-$$\text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}\\$$
-$$\text{C}(d)=\log_c d \text{ , where }c=\sqrt[1200]{2}$$
+$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}\\$$
+$$\displaystyle \text{C}(d)=\log_c d \text{ , where }c=\sqrt[1200]{2}$$
 
 This is just about all you need, so let's get started!
 
