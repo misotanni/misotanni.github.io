@@ -10,11 +10,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="../scale-1.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
+<img src="../scale_1.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="../scale-2.png" alt="The chromatic scale from C, ascending: C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
+<img src="../scale_2.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
@@ -99,10 +99,14 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 
 1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the ratio of the Pythagorean comma (d2 in the FJS).
-4. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
+3. Find the Pythagorean ratios between consecutive steps in this scale:
+	<img src="../exercise_1.png" alt="E-F♯-A-B-D-E">
+4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
+5. Find the ratio of the Pythagorean comma (d2 in the FJS).
+6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
 
 Answers to all exercises are given at the end of this page.
 
 ## Lesson 2: The Prime Intervals
 
+All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much - aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
