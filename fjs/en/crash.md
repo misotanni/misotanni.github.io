@@ -38,7 +38,8 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 Aside from that, you should also be familiar with cent measure for interval size. 100 cents is one 12-EDO semitone and 1200 cents is one octave. To calculate the cent size of an interval, use one of these formulae:
 
-$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}\\$$
+$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}$$
+
 $$\text{C}(d)=\log_c d \text{ , where }c=\sqrt[1200]{2}$$
 
 This is just about all you need, so let's get started!
@@ -92,7 +93,7 @@ Below is a table of some common ones:
 | m7       | -2    | 16/9    |
 | M7       | +5    | 243/128 |
 
-You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above.
+You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above. Don't be afraid to use calculators to help you; you'll find one very useful when working with the FJS until you become fluent and simply know the common results.
 
 ### Exercise
 
