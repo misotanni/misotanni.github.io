@@ -130,6 +130,14 @@ Say we accept this at first: 5/4 is a type of major third. So we'll notate it as
 
 Why should we choose the major third over the diminished fourth to notate 5/4? Ah, simplicity, I hear you say. The major third is only +4 fifths, while the diminished fourth is the much more complicated -8 fifths. But then in that case, why don't we use the *minor* third to notate 5/4 - clearly it is simpler, only -3 as opposed to +4 fifths. Oh, it's too far away now? Who are *you* to decide the exactly correct balance between simplicity and proximity?
 
+Listen to the difference between 81/64 and 5/4:
+
+<audio controls><source src="" type=""></audio>
+
+And the difference between 8192/6561 and 5/4:
+
+<audio controls><source src="" type=""></audio>
+
 OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question "How do we choose the approximations for each prime interval?" is simple - we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
@@ -168,9 +176,13 @@ Here is the same using staff notation:
 
 <img src="../scale_3.png" alt="A-A-E-A-C♯5-E-G7-A">
 
+Listen to this scale:
+
+<audio controls><source src="" type=""></audio>
+
 As you can see (and this is true for the whole harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use.
 
-One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or G above E♭<sub>5</sub>, etc.
+One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or B<sup>5</sup> above G, etc.
 
 OK, that's all you need to know to notate the prime intervals. Below are a few more techniques.
 
