@@ -120,7 +120,7 @@ The next step in being able to cover all of JI is to cover the so-called prime i
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
-We already know how to notate the first two primes: the octave and the fifth. Those are covered.
+We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to "prime intervals", I refer exclusively to the ones corresponding to primes greater than 3.
 
 Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" - a form of "minor seventh". Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
 
@@ -150,7 +150,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 
 > ### The FJS Master Algorithm
 > 
-> 1. Input the desired prime interval, of a prime greater than 3, in octave-reduced form.
+> 1. Input the desired prime interval in octave-reduced form.
 > 2. Let k = 0.
 > 3. Consider the interval of k fifths, in octave-reduced form.
 > 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
@@ -217,3 +217,58 @@ OK, that's all you need to know to notate the prime intervals. Below are a few m
 4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Notate the harmonic series on A up to the fourteenth harmonic.
 6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
+
+## Lesson 3: Compound Accidentals
+
+You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime, like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
+
+For the purposes of this crash course, I've divided the intervals not yet covered into two groups:
+
+- Intervals, like 15/8 or 9/7, which consist of a Pythagorean interval plus a single otonal or utonal prime interval.
+- Intervals, like 25/16 or 7/5, which require more than one prime interval to be built.
+
+When it comes to the first group, you can already write them - you just don't know that yet. This is because the FJS has a number of really useful identities that will often allow you to skip having to carry out the techniques I've given (remember that intervals are compounded by multiplying their ratios):
+
+> ### FJS Shortcut Identities
+>
+> - The sum of the FJS representations of two JI ratios is the FJS representation of the product of these ratios.
+> - The difference of the FJS representations of two JI ratios is the FJS representation of the quotient of these ratios.
+> - The inversion of the FJS representation of a JI ratio is the FJS representation of the reciprocal of the ratio.
+
+These identities have several really nice corollaries that are useful to keep in the back of your mind for fluency. For example, if you have two notes with identical FJS accidentals, you know that the interval between them must be Pythagorean. E<sup>5</sup> and F♯<sup>5</sup>? You may have no idea what they are in the key of B♭<sub>7</sub>, but you know the interval between them is a Pythagorean major second - that is, 9/8. Neat, huh?
+
+These identities can also be used to write the first group of missing intervals. Take 15/8. Break it up into its Pythagorean part and the remainder: 3/2 and 5/4. Write each of these in the FJS in turn, and then add those representations together. 3/2 becomes P5, and 5/4 becomes M3<sup>5</sup>. The sum is M7<sup>5</sup>. You just add the intervals as you normally would, and affix the FJS accidentals at the end. This indeed is the representation of 15/8 in the FJS!
+
+Another way to think about it is like so: the fifteenth harmonic is like the fifth harmonic in the dominant key. So to notate 15/8 in the key of C, you can start with an "imaginary modulation" to the key of G. There, your target is simply the fifth harmonic, which becomes B<sup>5</sup>. This is therefore also the representation of 15/8 in the key of C.
+
+Yet another way to think about it: you may not know what 15/8 is in the FJS in the key of C, but you know what 5/4 is: it's E<sup>5</sup>. You also know that between 5/4 and 15/8 there's 3/2, a Pythagorean interval. So they must have the same FJS accidentals. You also know that this Pythagorean interval between them is a perfect fifth. That uniquely describes the note B<sup>5</sup>, which is correct.
+
+Try using these methods to tackle the next exercise.
+
+### Exercise
+
+1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
+2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
+3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
+4. Take the following scale. Is it a mode of the above?
+
+	<img src="../exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
+
+(At the end of this lesson, you will be provided with techniques to translate *any* ratio to an FJS representation and backwards. However it's useful to keep these methods in mind because they are much quicker and you will generally be using them instead. It's like choosing factorization over the quadratic formula to solve quadratics; it's much faster if you can.)
+
+While you were using the identities you were given to tackle these exercises, you may have asked yourself a question: "How would I add, for instance, two M3<sup>5</sup> intervals to each other? What would the result be?" Would it be A5<sup>5</sup>? No, that would be the result of adding M3 to M3<sup>5</sup>. Our case is different, it's adding M3<sup>5</sup> to another M3<sup>5</sup>.
+
+The answer to this question happens to simultaneously be the way the FJS notates the second group of remaining JI intervals: *compound accidentals*.
+
+Any FJS note or interval may have not just one, but any number of FJS accidentals appended to it. The otonal and utonal accidentals are always kept separate, but if there is more than one otonal or utonal accidental, they are merged. FJS accidentals merge by multiplication. Why? Because they are all primes; multiplying them, as opposed to - say - adding or concatenating the digits in base ten, will never make you lose information about the original primes, because every positive integer can be uniquely factorized back into its primes, and order does not matter.
+
+So to answer the original question, the sum of two M3<sup>5</sup> is A5<sup>25</sup>, which neatly fits as the FJS name of the ratio 25/16. Similarly, given that a 7/4 is a m7<sup>7</sup>, you immediately know that a 49/32 will be a m6<sup>49</sup> and a 35/32 will be a M2<sup>35</sup>.
+
+As mentioned, otonal and utonal does not mix. So if a note G♭ happened to have both +7 and -5 accidentals, it would be written as G♭<sup>7</sup><sub>5</sub>. The exact rules are as follows:
+
+- In note naming, use one superscript representing the merged positive accidentals, followed by one subscript representing the merged negative accidentals.
+- In music notation, the merged positive accidental is written first (if any), then the merged negative accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+
+So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
+
+<img src="../scale_4.png" alt="G♭7_5-F♯5_7">
