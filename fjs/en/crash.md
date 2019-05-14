@@ -10,11 +10,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="../scale_1.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
+<img src="../assets/scale_1.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="../scale_2.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
+<img src="../assets/scale_2.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
@@ -101,7 +101,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
 3. Find the Pythagorean ratios between consecutive steps in this scale:
 	
-	<img src="../exercise_1.png" alt="E-F♯-A-B-D-E">
+	<img src="../assets/exercise_1.png" alt="E-F♯-A-B-D-E">
 4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Find the ratio of the Pythagorean comma (d2 in the FJS).
 6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
@@ -174,7 +174,7 @@ Here is the harmonic series on A, up to the eighth harmonic, notated using the F
 
 Here is the same using staff notation:
 
-<img src="../scale_3.png" alt="A-A-E-A-C♯5-E-G7-A">
+<img src="../assets/scale_3.png" alt="A-A-E-A-C♯5-E-G7-A">
 
 Listen to this scale:
 
@@ -252,7 +252,7 @@ Try using these methods to tackle the next exercise.
 3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
 4. Take the following scale. Is it a mode of the above?
 
-	<img src="../exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
+	<img src="../assets/exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
 
 (At the end of this lesson, you will be provided with techniques to translate *any* ratio to an FJS representation and backwards. However it's useful to keep these methods in mind because they are much quicker and you will generally be using them instead. It's like choosing factorization over the quadratic formula to solve quadratics; it's much faster if you can.)
 
@@ -271,4 +271,4 @@ As mentioned, otonal and utonal does not mix. So if a note G♭ happened to have
 
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 
-<img src="../scale_4.png" alt="G♭7_5-F♯5_7">
+<img src="../assets/scale_4.png" alt="G♭7_5-F♯5_7">
