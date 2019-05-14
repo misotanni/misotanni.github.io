@@ -64,34 +64,34 @@ I should note that this requires something that some musicians may not be aware 
 
 You are now ready to learn the first two FJS techniques.
 
-### FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.
+> ### FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.
+> 
+> 1. Factorize the ratio.
+> 2. Initially ignore octaves (powers of two).
+> 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
+> 4. Adjust octaves as required.
 
-1. Factorize the ratio.
-2. Initially ignore octaves (powers of two).
-3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
-4. Adjust octaves as required.
-
-### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
-
-1. Initially ignore octaves.
-2. Convert the interval to the number of steps by fifths.
-3. Raise three to that power and take the reduced form.
-4. Adjust octaves as required.
+> ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
+> 
+> 1. Initially ignore octaves.
+> 2. Convert the interval to the number of steps by fifths.
+> 3. Raise three to that power and take the reduced form.
+> 4. Adjust octaves as required.
 
 Below is a table of some common ones:
 
-| Interval | Steps | Ratio   |
-|----------|-------|---------|
-| m2       | -5    | 256/243 |
-| M2       | +2    | 9/8     |
-| m3       | -3    | 32/27   |
-| M3       | +4    | 81/64   |
-| P4       | -1    | 4/3     |
-| P5       | +1    | 3/2     |
-| m6       | -4    | 128/81  |
-| M6       | +3    | 27/16   |
-| m7       | -2    | 16/9    |
-| M7       | +5    | 243/128 |
+| Interval | Steps | Ratio       |
+|---------:|:-----:|:------------|
+| m2       | -5    | 256/**243** |
+| m6       | -4    | 128/**81**  |
+| m3       | -3    | 32/**27**   |
+| m7       | -2    | 16/**9**    |
+| P4       | -1    | 4/**3**     |
+| P5       | +1    | **3**/2     |
+| M2       | +2    | **9**/8     |
+| M6       | +3    | **27**/16   |
+| M3       | +4    | **81**/64   |
+| M7       | +5    | **243**/128 |
 
 You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above. Don't be afraid to use calculators to help you; you'll find one very useful when working with the FJS until you become fluent and simply know the common results.
 
@@ -114,11 +114,11 @@ All right, you've learned to write all of Pythagorean tuning. This is pretty bor
 
 The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
 
-2, 3, 5, 7, 11, 13, 17, 19, ...
+> 2, 3, 5, 7, 11, 13, 17, 19, ...
 
 ...and we take the reduced form of all of them:
 
-1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
 We already know how to notate the first two primes: the octave and the fifth. Those are covered.
 
@@ -148,14 +148,14 @@ What does the FJS do with this number? The next step is the most important eleme
 
 The **FJS master algorithm** outputs the so-called **generator function** for each prime number input with a radius of tolerance. I will explain below what the algorithm does, how it is used, and what the generator function is used for.
 
-### The FJS Master Algorithm
-
-1. Input the desired prime interval, of a prime greater than 3, in octave-reduced form.
-2. Let k = 0.
-3. Consider the interval of k fifths, in octave-reduced form.
-4. Is this interval, and the target prime interval, closer to each other than the radius of tolerance?
-5. If so: k is the generator function. Output. End.
-6. If not: move to the next k in the sequence: (0, 1, -1, 2, -2, 3, -3, ...) and repeat from step 3.
+> ### The FJS Master Algorithm
+> 
+> 1. Input the desired prime interval, of a prime greater than 3, in octave-reduced form.
+> 2. Let k = 0.
+> 3. Consider the interval of k fifths, in octave-reduced form.
+> 4. Are this interval and the target prime interval closer to each other than the radius of tolerance?
+> 5. If so: k is the generator function. Output. End.
+> 6. If not: move to the next k in the sequence: (0, 1, -1, 2, -2, 3, -3, ...) and repeat from step 3.
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the cent sizes of many intervals by heart.
 
@@ -170,7 +170,7 @@ This may seem unnecessarily confusing at first glance, but it actually simplifie
 
 Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
 
-A, A, E, A, C♯<sup>5</sup>, E, G<sup>7</sup>, A.
+> A, A, E, A, C♯<sup>5</sup>, E, G<sup>7</sup>, A.
 
 Here is the same using staff notation:
 
@@ -186,24 +186,24 @@ One more note: the FJS also allows interval names to include these superscripts 
 
 OK, that's all you need to know to notate the prime intervals. Below are a few more techniques.
 
-### FJS Technique \#3: To find the value of a formal comma for a given prime greater than 3.
+> ### FJS Technique \#3: To find the value of a formal comma for a given prime greater than 3.
+> 
+> 1. Compute the generator function of the prime.
+> 2. Raise 3 to that power and take the reduced form. This is the Pythagorean approximation.
+> 3. Divide the octave-reduced version of the prime interval by the Pythagorean approximation. This is the formal comma.
+> 4. DO NOT take the reduced form. If you get a number less than 1, so be it.
 
-1. Compute the generator function of the prime.
-2. Raise 3 to that power and take the reduced form. This is the Pythagorean approximation.
-3. Divide the octave-reduced version of the prime interval by the Pythagorean approximation. This is the formal comma.
-4. DO NOT take the reduced form. If you get a number less than 1, so be it.
+> ### FJS Technique \#4: To find the generator function of a prime given the value of the formal comma, without using the master algorithm.
+> 
+> 1. Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation.
+> 2. Factorize this approximation.
+> 3. The exponent of the factor of three is the generator function.
 
-### FJS Technique \#4: To find the generator function of a prime given the value of the formal comma, without using the master algorithm.
-
-1. Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation.
-2. Factorize this approximation.
-3. The exponent of the factor of three is the generator function.
-
-### FJS Technique \#5: To convert any arbitrary otonal prime interval into its FJS representation.
-
-1. Compute the generator function of the prime.
-2. Write the interval generated by that number of fifths.
-3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
+> ### FJS Technique \#5: To convert any arbitrary otonal prime interval into its FJS representation.
+> 
+> 1. Compute the generator function of the prime.
+> 2. Write the interval generated by that number of fifths.
+> 3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
 
 (Deducing the inverse - the identity of an interval from its FJS representation given that it is an otonal prime interval - is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
 
