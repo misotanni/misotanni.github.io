@@ -266,6 +266,8 @@ The answer to this question happens to simultaneously be the way the FJS notates
 
 Any FJS note or interval may have not just one, but any number of FJS accidentals appended to it. The otonal and utonal accidentals are always kept separate, but if there is more than one otonal or utonal accidental, they are merged. FJS accidentals merge by multiplication. Why? Because they are all primes; multiplying them, as opposed to - say - adding or concatenating the digits in base ten, will never make you lose information about the original primes, because every positive integer can be uniquely factorized back into its primes, and order does not matter.
 
+If the accidentals merge in such a way that you can't easily factorize them in your head (e.g. 119 = 7 × 17), you can write them out as a list with commas between each prime ("commas" being, of course, the punctuation mark, not a tiny musical interval). For example, D<sup>7,17</sup> would mean the exact same thing as D<sup>119</sup>. The convention is to write these primes in non-descending order, but any order is correct.
+
 So to answer the original question, the sum of two M3<sup>5</sup> is A5<sup>25</sup>, which neatly fits as the FJS name of the ratio 25/16. Similarly, given that a 7/4 is a m7<sup>7</sup>, you immediately know that a 49/32 will be a m6<sup>49</sup> and a 35/32 will be a M2<sup>35</sup>.
 
 As mentioned, otonal and utonal does not mix. So if a note G♭ happened to have both +7 and -5 accidentals, it would be written as G♭<sup>7</sup><sub>5</sub>. The exact rules are as follows:
@@ -276,3 +278,4 @@ As mentioned, otonal and utonal does not mix. So if a note G♭ happened to have
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 
 <img src="../assets/scale_4.png" alt="G♭7_5-F♯5_7">
+
