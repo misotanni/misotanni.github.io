@@ -30,7 +30,7 @@ Before you start learning about the FJS, there are three mathematical concepts t
 
 The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C-G-D. Similarly a **minor third** is **-3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C-F-B♭-E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
 
-The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>-1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](math.html) for the curious reader. From this point onwards, the symbol (\*) will indicate a reference to the mathematics page.)
+The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>-1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](math.html) for the curious reader. Anywhere in this course where a mathematical fact is taken for granted, look for a proof in the mathematics page.)
 
 The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
 
@@ -58,7 +58,7 @@ In that case, you might think that there might exist some middle ground, a subse
 
 > **FJS Rule \#1: Conventional staff notation represents Pythagorean tuning.**
 
-This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection. (\*)
+This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection.
 
 I should note that this requires something that some musicians may not be aware exists: multiples, beyond double, of the sharp and flat. While extremely rarely used in conventional music, they are required here. In the FJS, sharps and flats can appear with any multiplicity. This is not to say that they are common; just do not panic when you have to use them.
 
@@ -100,6 +100,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
 3. Find the Pythagorean ratios between consecutive steps in this scale:
+	
 	<img src="../exercise_1.png" alt="E-F♯-A-B-D-E">
 4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Find the ratio of the Pythagorean comma (d2 in the FJS).
@@ -121,7 +122,7 @@ The next step in being able to cover all of JI is to cover the so-called prime i
 
 We already know how to notate the first two primes: the octave and the fifth. Those are covered.
 
-Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" - a form of "minor seventh". Chances are, this language may not have seemed strange to you at first place. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
+Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" - a form of "minor seventh". Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
 
 But if we consider this on a formal level, things start to get weird.
 
@@ -149,3 +150,58 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 6. If not: move to the next k in the sequence: (0, 1, -1, 2, -2, 3, -3, ...) and repeat from step 3.
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the cent sizes of many intervals by heart.
+
+The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Just like the sharp and flat, this accidental can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
+
+- In note naming, positive accidentals are written as a superscript and negative ones as a subscript. Intervals may also be written this way.
+- In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
+
+You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that, in the FJS, an accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval. For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
+
+This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 +17. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator.
+
+Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
+
+A, A, E, A, C♯<sup>5</sup>, E, G<sup>7</sup>, A.
+
+Here is the same using staff notation:
+
+<img src="../scale_3.png" alt="A-A-E-A-C♯5-E-G7-A">
+
+As you can see (and this is true for the whole harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use.
+
+One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, etc.
+
+OK, that's all you need to know to notate the prime intervals. Below are a few more techniques.
+
+### FJS Technique \#3: To find the value of a formal comma for a given prime greater than 3.
+
+1. Compute the generator function of the prime.
+2. Raise 3 to that power and take the reduced form. This is the Pythagorean approximation.
+3. Divide the octave-reduced version of the prime interval by the Pythagorean approximation. This is the formal comma.
+4. DO NOT take the reduced form. If you get a number less than 1, so be it.
+
+### FJS Technique \#4: To find the generator function of a prime given the value of the formal comma, without using the master algorithm.
+
+1. Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation.
+2. Factorize this approximation.
+3. The exponent of the factor of three is the generator function.
+
+### FJS Technique \#5: To convert any arbitrary otonal prime interval into its FJS representation.
+
+1. Compute the generator function of the prime.
+2. Write the interval generated by that number of fifths.
+3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
+
+(Deducing the inverse - the identity of an otonal prime interval from its FJS representation - is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
+
+### Exercise
+
+(From this point onwards, the radius of tolerance is always assumed to be λ.)
+
+1. Determine the generator function for the primes 11 and 13.
+2. Given that the generator for the prime 19 is -3, find the formal comma for 19.
+3. Given that the formal comma for the prime 47 is 47/48, find its generator.
+4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
+5. Notate the harmonic series on A up to the fourteenth harmonic.
+6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
