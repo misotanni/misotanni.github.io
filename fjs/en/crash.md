@@ -106,7 +106,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 5. Find the ratio of the Pythagorean comma (d2 in the FJS).
 6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
 
-Answers to all exercises are given at the end of this page.
+You can check your answers [here](solutions.html).
 
 ## Lesson 2: The Prime Intervals
 
@@ -218,6 +218,8 @@ OK, that's all you need to know to notate the prime intervals. Below are a few m
 5. Notate the harmonic series on A up to the fourteenth harmonic.
 6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
 
+You can check your answers [here](solutions.html).
+
 ## Lesson 3: Compound Accidentals
 
 You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime, like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
@@ -253,6 +255,8 @@ Try using these methods to tackle the next exercise.
 4. Take the following scale. Is it a mode of the above?
 
 	<img src="../assets/exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
+
+You can check your answers [here](solutions.html).
 
 (At the end of this lesson, you will be provided with techniques to translate *any* ratio to an FJS representation and backwards. However it's useful to keep these methods in mind because they are much quicker and you will generally be using them instead. It's like choosing factorization over the quadratic formula to solve quadratics; it's much faster if you can.)
 
