@@ -153,7 +153,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 > 1. Input the desired prime interval, of a prime greater than 3, in octave-reduced form.
 > 2. Let k = 0.
 > 3. Consider the interval of k fifths, in octave-reduced form.
-> 4. Are this interval and the target prime interval closer to each other than the radius of tolerance?
+> 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
 > 5. If so: k is the generator function. Output. End.
 > 6. If not: move to the next k in the sequence: (0, 1, -1, 2, -2, 3, -3, ...) and repeat from step 3.
 
