@@ -1,3 +1,33 @@
+html {
+  width: 100%;
+}
+
 body {
-  background-color: wheat;
+  background-color: #aeff80;
+  font-family: "Libre Baskerville", serif;
+  width: 100%;
+}
+
+h1, h2, h3 {
+  font-family: "Work Sans", sans-serif;
+  color: #d81b60;
+}
+
+h1 { font-weight: 300; }
+h2 { font-weight: 500; }
+h3 { font-weight: 700; }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+hr {
+  margin: 1px solid #880e4f;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #1888db;
 }
