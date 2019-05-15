@@ -70,6 +70,8 @@ You are now ready to learn the first two FJS techniques.
 > 2. Initially ignore octaves (powers of two).
 > 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
 > 4. Adjust octaves as required.
+>
+> **Example:** To convert 9/8 to the FJS, we factorize: 2<sup>-3</sup> 3<sup>2</sup>. We ignore the factor of two. The power of three is positive, so we move two fifths clockwise: C-G-D. We have a major second. No octave adjustment needs to be made. The answer is M2.
 
 > ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
 > 
@@ -77,6 +79,8 @@ You are now ready to learn the first two FJS techniques.
 > 2. Convert the interval to the number of steps by fifths.
 > 3. Raise three to that power and take the reduced form.
 > 4. Adjust octaves as required.
+>
+> **Example:** To convert the FJS interval m3 to a Pythagorean ratio, we convert it first to -3 fifths: C-F-B♭-E♭. We now raise 3 to that power: 3<sup>-3</sup>. This is 1/27. To bring this number between 1 (inclusive) and 2 (exclusive), we multiply by 32 to get the answer: 32/27.
 
 Below is a table of some common ones:
 
@@ -95,7 +99,7 @@ Below is a table of some common ones:
 
 You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above. Don't be afraid to use calculators to help you; you'll find one very useful when working with the FJS until you become fluent and simply know the common results.
 
-### Exercise
+### Exercise 1
 
 1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
@@ -184,12 +188,13 @@ One more note: the FJS also allows interval names to include these superscripts 
 
 OK, that's all you need to know to notate the prime intervals. Below are a few more techniques.
 
-> ### FJS Technique \#3: To find the value of a formal comma for a given prime greater than 3.
+> ### FJS Technique \#3: To find the value of a formal comma for a prime given the value of the generator function.
 > 
-> 1. Compute the generator function of the prime.
-> 2. Raise 3 to that power and take the reduced form. This is the Pythagorean approximation.
+> 1. Raise 3 to the power of the generator function and take the reduced form. This is the Pythagorean approximation.
 > 3. Divide the octave-reduced version of the prime interval by the Pythagorean approximation. This is the formal comma.
 > 4. DO NOT take the reduced form. If you get a number less than 1, so be it.
+>
+> **Example:**
 
 > ### FJS Technique \#4: To find the generator function of a prime given the value of the formal comma, without using the master algorithm.
 > 
@@ -205,7 +210,7 @@ OK, that's all you need to know to notate the prime intervals. Below are a few m
 
 (Deducing the inverse - the identity of an interval from its FJS representation given that it is an otonal prime interval - is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
 
-### Exercise
+### Exercise 2
 
 (From this point onwards, the radius of tolerance is always assumed to be λ.)
 
@@ -245,7 +250,7 @@ Yet another way to think about it: you may not know what 15/8 is in the FJS in t
 
 Try using these methods to tackle the next exercise.
 
-### Exercise
+### Exercise 3
 
 1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
 2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
@@ -274,4 +279,29 @@ As mentioned, otonal and utonal does not mix. So if a note G♭ happened to have
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 
 <img src="../assets/scale_4.png" alt="G♭7_5-F♯5_7">
+
+Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
+
+> ### FJS Interval Arithmetic
+>
+> - To add two FJS intervals, add their Pythagorean parts (conventional interval classes) and merge the accidentals.
+> - To subtract two FJS intervals, subtract their Pythagorean parts, then swap the otonal with the utonal accidental for the second interval, then merge. Subtracting an FJS interval is the same as adding its inverse.
+> - To invert an FJS interval, invert its Pythagorean part and swap the otonal with the utonal accidental.
+
+When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives "P5<sup>5</sup><sub>5</sub>" which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> gives "m3<sup>49</sup><sub>7</sub>" which becomes m3<sup>7</sup> (7/6).
+
+Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. Here are techniques for this. NOTE: The techniques given below always work, but are only useful when the intervals in question don't involve many primes.
+
+> ### FJS Technique \#6: To convert any JI ratio to an FJS representation.
+> 
+> 1. Factorize the numerator into a Pythagorean interval plus primes. Build the Pythagorean interval, and each prime as a prime interval, and add them up.
+> 2. Repeat for the denominator.
+> 3. Subtract the numerator's interval from the denominator's interval.
+> 4. Adjust octaves as required.
+
+> ### FJS Technique \#7: To convert any FJS representation into a JI ratio.
+> 
+> 1. Try (otonal accidental)/(utonal accidental). You don't even need to factorize the accidentals. That's a perk of using multiplication to merge them.
+> 2. If you are off, then only by a Pythagorean interval. Adjust accordingly.
+> 3. Adjust octaves as required.
 
