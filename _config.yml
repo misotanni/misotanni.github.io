@@ -13,5 +13,6 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "fjs"
+      # layout: "default"
       author: "misotanni"
