@@ -99,9 +99,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 
 1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the Pythagorean ratios between consecutive steps in this scale:
-	
-	<img src="../assets/exercise_1.png" alt="E-F♯-A-B-D-E">
+3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/exercise_1.png" alt="E-F♯-A-B-D-E">
 4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Find the ratio of the Pythagorean comma (d2 in the FJS).
 6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
@@ -252,9 +250,7 @@ Try using these methods to tackle the next exercise.
 1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
 2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
 3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. Take the following scale. Is it a mode of the above?
-
-	<img src="../assets/exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
+4. Take the following scale. Is it a mode of the above? <img src="../assets/exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
 
 You can check your answers [here](solutions.html).
 

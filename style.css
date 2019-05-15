@@ -28,7 +28,7 @@ img {
 }
 
 hr {
-  border: 1px solid #880e4f;
+  border: none, none, 1px solid #880e4f, none;
 }
 
 a {
