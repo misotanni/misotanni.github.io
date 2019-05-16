@@ -25,7 +25,7 @@ The Functional Just System:
 - has fundamental elements that are exceptionally simple, and sufficient for all purposes, but also a **shorthand** system optimized for **common situations**;
 - is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables. (This website contains several calculators for these purposes.)
 
-**Start discovering the Functional Just System now!**
+**What will the FJS mean for you?**
 
 ## What Is Just Intonation?
 
@@ -65,6 +65,8 @@ Why, then, did I choose to pursue this idea despite this difficulty? The reason 
 
 The FJS is much more than just a notation system for Just Intonation. The construction of the FJS not only allowed me to make sense of the seemingly shapeless mess that Just Intonation first presented to me. It also showed me that staff notation is much more logical and much more connected to Just Intonation than I ever would have thought. I invite you, as well, to comprehend the beauty and simplicity of the FJS, and understand how its inner musical cogs connect the workings of two concepts that seem completely alien to each other.
 
+Lojban is a constructed language that was created to see what would happen to people's thinking when the language they used was completely logical and actually made sense. I believe the FJS to be a Lojban for microtonal music. I think that, in the same way Lojban makes people think in logic terms, the FJS will help musicians *think* in JI, and their composition, analysis, and performance will be able to blend in much better with their existing knowledge of music theory, as the FJS allows existing music theory to be intertwined with JI music theory.
+
 ## What Now?
 
 - Go here for a [crash course](https://misotanni.bandcamp.com/album/6-digit-computer-ost) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
@@ -75,40 +77,4 @@ The FJS is much more than just a notation system for Just Intonation. The constr
 - Use the website's [calculators](https://misotanni.bandcamp.com/album/6-digit-computer-ost) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
 - See many more [examples](https://misotanni.bandcamp.com/album/6-digit-computer-ost) of the FJS in usage.
 
-**What will the FJS mean for you?**
-
-– that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep –
-No more – and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. 'Tis a consummation
-Devoutly to be wished. To die, to sleep –
-To sleep – perchance to dream: ay, there's the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th' oppressor's wrong, the proud man's contumely
-The pangs of despised love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th' unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. – Soft you now,
-The fair Ophelia! – Nymph, in thy orisons
-Be all my sins remembered.
+**Start discovering the Functional Just System now!**
