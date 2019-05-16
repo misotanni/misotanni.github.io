@@ -37,10 +37,9 @@ hr {
 a {
   font-weight: bold;
   text-decoration: none;
-  color: #1888db;
+  color: #1839db;
 }
 
-/* https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/ */
 sup, sub {
   vertical-align: baseline;
   position: relative;
