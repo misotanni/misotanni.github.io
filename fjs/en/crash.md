@@ -381,7 +381,7 @@ There's one last thing that you might want before trying your accumulated skills
 | 29    | -2        | 261/256      |
 | 31    | +5        | 248/243      |
 
-Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be d5, since A4 is further away from 11/8 than P4). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8, which it would be if 32/31 was within the radius of tolerance. Clever, huh?
+Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be an absurd d5). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8. Clever, huh?
 
 ### Exercise 4
 
