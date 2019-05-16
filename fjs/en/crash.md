@@ -211,7 +211,7 @@ Why so? Because when this rule is considered in this way, it is much more logica
 <img src="../assets/scale_4.png" alt="C♯5-C, C♯5-C1, C♯5-C♮, C♯5-C♮5">
 
 - In the first bar, we have a C♯<sup>5</sup> followed by just a bare C. Because it's the same letter-pitch in the same octave, it absorbs the sharp. Because it's now a C♯ in the same octave, it also absorbs the +5. So it reads C♯<sup>5</sup>, C♯<sup>5</sup>.
-- In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural.** So this reads C♯<sup>5</sup>, C♯.
+- In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural; it cancels any FJS accidentals, but nothing else.** So this reads C♯<sup>5</sup>, C♯.
 - In the third bar, there is a C♯<sup>5</sup> followed by a C-natural. Since it is now a different Pythagorean pitch, the +5 is not absorbed, so this reads C♯<sup>5</sup>, C.
 - In the fourth bar, there is a C♯<sup>5</sup> followed by a C-natural with a +5 accidental. Now we have C♯<sup>5</sup>, C<sup>5</sup>; this case is least likely to be used.
 
