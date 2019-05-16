@@ -30,7 +30,7 @@
 1. m2<sup>7</sup>, A2<sup>5</sup><sub>13</sub>, d4<sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solution_4_3.png" alt="C5-D5-E♭-G5-B♭, F-C1-E♭7-F-A5, B♭-C-D5-F-A5">
-4.
+4. The following five chords:
 	- I chord: 1/1, 3/2, 5/4, 1/1
 	- vi chord: 5/3, 5/3, 5/4, 1/1
 	- ii chord: 4/3, 5/3, 4/3, 10/9
