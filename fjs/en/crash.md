@@ -388,7 +388,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
 4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic:
 	
-	<img src="../assets/exercise_3" alt="E♭-B♭-G5-E♭, C5-C5-G5-E♭, A♭-C5-A♭-F5, B♭-B♭-F1-D5, E♭-B♭-G5-E♭">
+	<img src="../assets/exercise_3.png" alt="E♭-B♭-G5-E♭, C5-C5-G5-E♭, A♭-C5-A♭-F5, B♭-B♭-F1-D5, E♭-B♭-G5-E♭">
 	
 5. Given that the base note is A, notate the first audio example in this crash course using the FJS.
 6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
