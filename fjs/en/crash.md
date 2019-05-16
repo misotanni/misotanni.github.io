@@ -26,7 +26,19 @@ In other words, enharmonic equivalence is the only 12-EDO feature in staff notat
 
 ## Preliminary
 
-Before you start learning about the FJS, there are three mathematical concepts that are FJS-specific that you must be acquainted with.
+Before you start learning about the FJS, there are a few pieces of information that I must be sure you are familiar and comfortable with.
+
+- Knowing that Just Intonation is defined as a tuning system where every interval between any two notes is a rational number.
+- Recognizing some very familiar JI ratios, such as 2/1, 3/2, 5/4, 7/4.
+- Knowing that intervals are added by multiplying their ratios, and subtracted by dividing them.
+- Being able to use cent measure for interval size and knowing that 100 cents is one 12-EDO semitone and 1200 cents is one octave.
+- Being able to calculate the cent size of a given interval using one of these formulae:
+	
+	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}$$
+	
+	$$\text{C}(d)=\log_c d \text{ , }c=\sqrt[1200]{2}$$
+	
+In addition to this, there are three mathematical concepts that are FJS-specific that you must be acquainted with.
 
 The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C-G-D. Similarly a **minor third** is **-3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C-F-B♭-E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
 
@@ -35,12 +47,6 @@ The second is the ability to prime-factorize a rational number. Much like any **
 The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
-
-Aside from that, you should also be familiar with cent measure for interval size. 100 cents is one 12-EDO semitone and 1200 cents is one octave. To calculate the cent size of an interval, use one of these formulae:
-
-$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , where log is to an arbitrary base}$$
-
-$$\text{C}(d)=\log_c d \text{ , }c=\sqrt[1200]{2}$$
 
 This is just about all you need, so let's get started!
 
@@ -166,6 +172,8 @@ The FJS master algorithm finds the simplest possible Pythagorean approximation o
 - In note naming, positive accidentals are written as a superscript and negative ones as a subscript. Intervals may also be written this way.
 - In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
 
+Also, you use a "1" accidental as a kind of "natural" for FJS accidentals. If you write E<sup>5</sup> on a staff, followed by E, then the +5 accidental carries until the end of the bar, just like conventional accidentals. To prevent this from happening, the next E must be written with a "1" accidental in front.
+
 You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that, in the FJS, an accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval. For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
 
 This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 +17. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator.
@@ -259,7 +267,7 @@ Try using these methods to tackle the next exercise.
 1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
 2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
 3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. Take the following scale. Is it a mode of the above? <img src="../assets/exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
+4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/exercise_2.png" alt="C-D-E♭_5-F-G-A♭_5-B♭_5-C">
 
 You can check your answers [here](solutions.html).
 
@@ -296,7 +304,7 @@ When you combine accidentals, you cancel out identical factors in the otonal and
 
 Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. Here are techniques for this. NOTE: The techniques given below always work, but are only useful when the intervals in question don't involve many primes.
 
-> ### FJS Technique \#6: To convert any JI ratio to an FJS representation.
+> ### FJS Technique \#6: To convert a simple JI ratio quickly to an FJS representation.
 > 
 > 1. Factorize the numerator into a Pythagorean interval plus primes. Build the Pythagorean interval, and each prime as a prime interval, and add them up.
 > 2. Repeat for the denominator.
@@ -305,7 +313,7 @@ Using interval arithmetic, you can now in fact represent *any* JI ratio using th
 >
 > **Example:** To convert 36/25, we first build the numerator: 36, which is 9/8, which is M2. Then we build the denominator: 25. It splits to 5 and 5, which is two M3<sup>5</sup>, which becomes A5<sup>25</sup>. Now we subtract; M2 - A5 = d5, and the accidentals are (0) - (+25) = (-25). So the final answer is d5<sub>25</sub>.
 
-> ### FJS Technique \#7: To convert any FJS representation into a JI ratio.
+> ### FJS Technique \#7: To convert a simple FJS representation quickly into a JI ratio.
 > 
 > 1. Try (otonal accidental)/(utonal accidental). You don't even need to factorize the accidentals. That's a perk of using multiplication to merge them.
 > 2. If you are off, then only by a Pythagorean interval. Adjust accordingly.
@@ -313,14 +321,17 @@ Using interval arithmetic, you can now in fact represent *any* JI ratio using th
 >
 > **Example:** Trying to convert A1<sup>5</sup><sub>7</sub>. We try 5/7, which is 10/7; when we apply Technique 6 to this, we obtain A4<sup>5</sup><sub>7</sub>, which isn't too far off. We only need to adjust by one Pythagorean fifth upwards. So the correct answer is actually (3/2) × (5/7) = 15/14.
 
-These techniques will, 99% of the time, be enough to read and write in the FJS, and as you can see, they are easy to use. However, one of the virtues of the FJS is that it can be fully automated. These techniques may rely a little on intuition, and are not very useful for complex intervals. In the case of complex intervals, you can *always* perform the forward and backward conversions using these final two techniques:
+These techniques will, 99% of the time, be enough to read and write in the FJS, and as you can see, they are easy to use. In fact, much of the time, you don't even have to use these techniques; skimming the harmonic series is often enough to perform forwards and backwards conversions in mere seconds. Want to convert 14/13 into the FJS? You know that 13 is a m6 and 14 is a m7, so 14/13 must be a M2. Then because of 14 in the numerator you stick a +7, and because of 13 in the denominator you stick a -13, and voilà, you have found the correct FJS representation: M2<sup>7</sup><sub>13</sub>.
+
+However, one of the virtues of the FJS is that it can be fully automated. These techniques may rely a little on intuition, and are not very useful for complex intervals. In the case of complex intervals, you can *always* perform the forward and backward conversions using these final two techniques:
 
 > ### FJS Technique \#8: To convert any JI ratio automatically to an FJS representation.
 >
 > 1. Factorize the ratio.
 > 2. For every prime *p* greater than 3 with an exponent of α<sub>*p*</sub>, remember the α<sub>p</sub> for every *p* and multiply the initial ratio by
 >
-> 	$$(\comma (p))^{-\alpha _p}$$
+> 	$$(\text{comma} (p))^{-\alpha _p}$$
+>
 >	where comma(*p*) is the formal comma of *p*.
 >
 > 3. The result will be Pythagorean. Transform it into FJS form.
@@ -337,14 +348,28 @@ These techniques will, 99% of the time, be enough to read and write in the FJS, 
 >
 > **Example:** One of the most iconic harmonies of La Monte Young's *Well-Tuned Piano* is written m3<sup>49</sup> in the FJS. To find its ratio, we start by converting m3 to 32/27. Then, +49 means multiply by the formal comma of 7 twice. So (32/27) × (63/64)<sup>2</sup> = 147/128.
 
+One final note is on pronunciation and ASCII. If you want to communicate using the FJS, that ought to be possible using more than just one medium. Here are the simple and logical pronunciation rules:
+
+> ### FJS Pronunciation
+>
+> 1. Pronounce the conventional (Pythagorean) part of the note name, or the conventional (Pythagorean) interval.
+> 2. Then, attach the compound otonal accidental (if any) pronounced simply as the number itself, optionally with a "super" prefix.
+> 3. Then, attach the compound utonal accidental (if any) pronounced simply as the number itself with a "sub" prefix.
+
+So for example, E<sup>5</sup> is pronounced "E-five" or "E-super-five", and E♭<sub>5</sub> is pronounced "E-flat-sub-five". An interval such as P4<sup>7</sup><sub>11</sub> would be pronounced "perfect fourth (super) seven sub eleven", where the word "super" is optional and is used to emphasize the division between the name of the interval and the start of the FJS accidentals.
+
+As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written E^5 or simply E5, but M3<sup>5</sup> can only be written M3^5 (not M35, obviously, as that would be a "major thirty-fifth", or a major seventh plus four octaves).
+
 That's it!
 
 This is all you need to know to use the *entirety* of the FJS and represent *any* JI you wish! There is no memorization to be done, no lookup tables to be bookmarked, nothing! One of the largest virtues of this system is that it's all completely portable; all you need to set it up anywhere is calculation and your radius of tolerance. The techniques you've just been given can be automated and the entire system can be handled by a computer.
 
+The FJS has a lot of beautiful properties that make it incredibly logical. The most important property is that it is *bijective* to JI; every positive rational number has exactly one FJS representation, and every positive FJS representation has exactly one rational number it represents. Another property - which has already been given above - is that it is *linear*; it doesn't matter if you combine ratios and then transform them into the FJS, or first transform them, then combine; the result is the same.
+
 There's one last thing that you might want before trying your accumulated skills at the last exercise. Again, this is just for reference; you could have calculated this table yourself if you wanted (which you wouldn't, so that's why I did it for you).
 
 | Prime | Generator | Formal Comma |
-|-------|-----------|--------------|
+|------:|:---------:|:------------:|
 | 5     | +4        | 80/81        |
 | 7     | -2        | 63/64        |
 | 11    | -1        | 33/32        |
@@ -354,3 +379,20 @@ There's one last thing that you might want before trying your accumulated skills
 | 23    | +6        | 736/729      |
 | 29    | -2        | 261/256      |
 | 31    | +5        | 248/243      |
+
+Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be d5, since A4 is further away from 11/8 than P4). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8, which it would be if 32/31 was within the radius of tolerance. Clever, huh?
+
+### Exercise 4
+
+1. Convert the following JI ratios into the FJS using any technique you like: 28/27, 15/13, 33/25.
+2. Convert the following FJS representations into JI ratios using any technique you like: M6<sub>7</sub>, d4<sup>13</sup><sub>5</sub>, m3<sub>25</sub>.
+3. Notate a JI rendition of the famous ii-V-I progression in the FJS in the key of B♭, given the following JI ratios from B♭:
+	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
+	- V chord: 3/2, 9/8, 21/16, 3/2, 15/8
+	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
+4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic:
+	
+	<img src="../assets/exercise_3" alt="E♭-B♭-G5-E♭, C5-C5-G5-E♭, A♭-C5-A♭-F5, B♭-B♭-F1-D5, E♭-B♭-G5-E♭">
+	
+5. Given that the base note is A, notate the first audio example in this crash course using the FJS.
+6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
