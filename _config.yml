@@ -4,7 +4,7 @@ defaults:
       path: "fjs/en"
     values:
       otherlang: "In other languages:"
-      anyquestions: "If you have any questions, you are encourage to contact the author at"
+      anyquestions: "If you have any questions, you are encouraged to contact the author at"
   -
     scope:
       path: "fjs"
