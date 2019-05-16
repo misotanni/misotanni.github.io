@@ -66,16 +66,16 @@ Why, then, did I choose to pursue this idea despite this difficulty? The reason 
 
 The FJS is much more than just a notation system for Just Intonation. The construction of the FJS not only allowed me to make sense of the seemingly shapeless mess that Just Intonation first presented to me. It also showed me that staff notation is much more logical and much more connected to Just Intonation than I ever would have thought. I invite you, as well, to comprehend the beauty and simplicity of the FJS, and understand how its inner musical cogs connect the workings of two concepts that seem completely alien to each other.
 
-Lojban is a constructed language that was created to see what would happen to people's thinking when the language they used was completely logical and actually made sense. I believe the FJS to be a Lojban for microtonal music. I think that, in the same way Lojban makes people think in logic terms, the FJS will help musicians *think* in JI, and their composition, analysis, and performance will be able to blend in much better with their existing knowledge of music theory, as the FJS allows existing music theory to be intertwined with JI music theory.
+One concept I would compare the FJS to is Lojban: a constructed language that was created to see what would happen to people's thinking when the language they used was completely logical and actually made sense. I believe the FJS to be a Lojban for microtonal music. I think that, in the same way Lojban makes people think in logic terms, the FJS will help musicians *think* in JI, and their composition, analysis, and performance will be able to blend in much better with their existing knowledge of music theory, as the FJS allows existing music theory to be intertwined with JI music theory.
 
 ## What Now?
 
 - Go here for a [crash course](crash.html) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
-- Read the [complete formal description](https://misotanni.bandcamp.com/album/6-digit-computer-ost) for a reference of the exact rules when in doubt.
-- Read the [original article](https://misotanni.github.io/fjs/guide.html) on the FJS. (ZATRZYMAĆ TO, CZY NIE?)
-- See the [mathematics](https://misotanni.bandcamp.com/album/6-digit-computer-ost) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
-- See a [comparison](https://misotanni.bandcamp.com/album/6-digit-computer-ost) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
-- Use the website's [calculators](https://misotanni.bandcamp.com/album/6-digit-computer-ost) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
-- See many more [examples](https://misotanni.bandcamp.com/album/6-digit-computer-ost) of the FJS in usage.
+- Read the [complete formal description](rules.html) for a reference of the exact rules when in doubt.
+- Read the [original article](guide.html) on the FJS.
+- See the [mathematics](math.html) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
+- See a [comparison](compare.html) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
+- Use the website's [calculators](calc.html) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
+- See many more [examples](examples.html) of the FJS in usage.
 
 **Start discovering the Functional Just System now!**
