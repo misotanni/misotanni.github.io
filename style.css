@@ -34,7 +34,7 @@ hr {
   border-width: 0 0 1px 0;
 }
 
-a {
+a:not([name]) {
   font-weight: bold;
   text-decoration: none;
   color: #1839db;
