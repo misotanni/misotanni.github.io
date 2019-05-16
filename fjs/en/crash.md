@@ -7,10 +7,15 @@ This "crash course" was designed specifically with a focus on fast acquisition o
 ## Contents
 
 [Introduction: Abandoning Enharmony](#introduction)
+
 [Lesson 0: Preliminary](#lesson_0)
+
 [Lesson 1: Pythagorean Tuning](#lesson_1)
+
 [Lesson 2: The Prime Intervals](#lesson_2)
+
 [Lesson 3: Compound Accidentals](#lesson_3)
+
 [Coda: What Else?](#coda)
 
 ## <a name="introduction">Introduction: Abandoning Enharmony</a>
