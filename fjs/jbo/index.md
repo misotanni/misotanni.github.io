@@ -10,7 +10,7 @@ title: la fancu ke curve ciste
 
 # fi'i
 
-ni'o fi'i'e lo kibystu pe la fancu ke curve ciste no'u fy jy sy iau ui
+ni'o ui fi'i'e lo kibystu pe la fancu ke curve ciste no'u fy jy sy
 
 ## fy jy sy mo
 
