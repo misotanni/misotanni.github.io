@@ -5,6 +5,7 @@ defaults:
     values:
       otherlang: "In other languages:"
       anyquestions: "If you have any questions, you are encouraged to contact the author at"
+      return: "Return to the main page"
   -
     scope:
       path: "fjs"
