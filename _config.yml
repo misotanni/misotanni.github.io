@@ -8,6 +8,20 @@ defaults:
       return: "Return to the main page"
   -
     scope:
+      path: "fjs/pl"
+    values:
+      otherlang: "W innym języku:"
+      anyquestions: "Jeżeli masz jakieś pytania, nie krępuj się zapytać autora:"
+      return: "Powróć do strony głównej"
+  -
+    scope:
+      path: "fjs/jbo"
+    values:
+      otherlang: "bau lo drata zo'u:"
+      anyquestions: "fau lo nu do djica lo ka retsku su'o da zo'u ko benji .e'e sai lo xatra do'e"
+      return: "xruzva lo ralju"
+  -
+    scope:
       path: "fjs"
     values:
       layout: "fjs"
