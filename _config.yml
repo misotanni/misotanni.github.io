@@ -18,7 +18,7 @@ defaults:
       path: "fjs/jbo"
     values:
       otherlang: "bau lo drata zo'u:"
-      anyquestions: "fau lo nu do djica lo ka retsku su'o da zo'u ko benji .e'e sai lo xatra do'e"
+      anyquestions: "fau lo nu do djica lo ka retsku su'o da zo'u ko benji e'e sai lo xatra do'e"
       return: "xruzva lo ralju"
   -
     scope:
