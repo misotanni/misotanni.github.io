@@ -16,7 +16,7 @@ This "crash course" was designed specifically with a focus on fast acquisition o
 
 [Lesson 3: Compound Accidentals](#lesson_3)
 
-[Coda: What Else?](#da_capo_al_fine)
+[Da Capo Al Fine: What Else?](#da_capo_al_fine)
 
 ## <a name="introduction">Introduction: Abandoning Enharmony</a>
 
@@ -400,7 +400,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 
 You can check your answers [here](solutions.html).
 
-## <a name="da_capo_al_fine">Da Capo al Fine: What Else?</a>
+## <a name="da_capo_al_fine">Da Capo Al Fine: What Else?</a>
 
 This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and special shortcut accidentals. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
 
