@@ -3,6 +3,7 @@ title: The Functional Just System
 ---
 
 > *Such is the advantage of a well-constructed language that its simplified notation often becomes the source of profound theories.*
+>
 > \- Pierre-Simon Laplace
 
 ---
@@ -69,7 +70,7 @@ Lojban is a constructed language that was created to see what would happen to pe
 
 ## What Now?
 
-- Go here for a [crash course](https://misotanni.bandcamp.com/album/6-digit-computer-ost) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
+- Go here for a [crash course](crash.html) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
 - Read the [complete formal description](https://misotanni.bandcamp.com/album/6-digit-computer-ost) for a reference of the exact rules when in doubt.
 - Read the [original article](https://misotanni.github.io/fjs/guide.html) on the FJS. (ZATRZYMAĆ TO, CZY NIE?)
 - See the [mathematics](https://misotanni.bandcamp.com/album/6-digit-computer-ost) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
