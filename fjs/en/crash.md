@@ -19,11 +19,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="../assets/scale_1.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
+<img src="../assets/example_1.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-A♯-B-C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="../assets/scale_2.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
+<img src="../assets/example_2.png" alt="C-C♯-D-D♯-E-F-F♯-G-G♯-A-B♭-B-C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
@@ -191,7 +191,7 @@ Here is the harmonic series on A, up to the eighth harmonic, notated using the F
 
 Here is the same using staff notation:
 
-<img src="../assets/scale_3.png" alt="A-A-E-A-C♯5-E-G7-A">
+<img src="../assets/example_3.png" alt="A-A-E-A-C♯5-E-G7-A">
 
 Listen to this scale:
 
@@ -208,7 +208,7 @@ At this point, I'd like to explain how these accidentals interact with each othe
 
 Why so? Because when this rule is considered in this way, it is much more logical, and because this is much more useful. Below is a demonstration of this rule:
 
-<img src="../assets/scale_4.png" alt="C♯5-C, C♯5-C1, C♯5-C♮, C♯5-C♮5">
+<img src="../assets/example_4.png" alt="C♯5-C, C♯5-C1, C♯5-C♮, C♯5-C♮5">
 
 - In the first bar, we have a C♯<sup>5</sup> followed by just a bare C. Because it's the same letter-pitch in the same octave, it absorbs the sharp. Because it's now a C♯ in the same octave, it also absorbs the +5. So it reads C♯<sup>5</sup>, C♯<sup>5</sup>.
 - In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural; it cancels any FJS accidentals, but nothing else.** So this reads C♯<sup>5</sup>, C♯.
@@ -313,7 +313,7 @@ As mentioned, otonal and utonal do not mix. So if a note G♭ happened to have b
 
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 
-<img src="../assets/scale_5.png" alt="G♭7_5-F♯5_7">
+<img src="../assets/example_5.png" alt="G♭7_5-F♯5_7">
 
 Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
 
