@@ -2,22 +2,22 @@
 title: la fancu ke curve ciste
 ---
 
-> *lo prali ri'a lo nu pilno lo xamgu se zbasu se gerna cu du'u lo frili se cusku po'e gy cu so'i roi binxo co rinka lo pe'a condi ente'ori*
+> *i prali fi lo ka pilno lo se gerna poi xamgu se zbasu kei fa lo du'u lo frili snici'e pe gy cu rinka so'i smucfu ente'ori*
 >
-> \- sei la pi'er simon laplas cusku
+> — sei la pi'er simon laplas cu cusku
 
 ---
 
 # fi'i
 
-ni'o ui fi'i'e lo kibystu pe la fancu ke curve ciste no'u fy jy sy
+ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku no'u fy jy sy
 
 ## fy jy sy mo
 
-ni'o la **fancu ke curve ciste** ku no'u la'o glico **Functional Just System** glico to goi **fy jy sy** toi cu cnino je nu binxo kei ciste te zu'e tu'a lo zgike pe lo **cuvyto'aci'e** to goi **jy i bu** toi
-i pilno lo nu sibypevyfanva lo zgika'usni ke fadni ciste vau te zu'e lo nu cusku lu'e ro cuvyto'aci'e
-i zmadu lo drata ciste po'u ge lo me la xelmxolts elis ciste gi lo me la ben djonston ciste po'o nai lo ka te zukte kei ma'i lo ka melbi gi'e finkai gi'e frili
-i lo cmato'aku'e zgike zo'u traji lo ka mi jgira kei fo lo se finti je jai se snada be mi
+ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy je lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** to **jy i bu** toi zgike
+i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste lo ka kuspe ma kau ku'o lo ka sepli skicu ro cuvyto'aci'e
+i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'ei la xelmxolts elis lu'u e zo'ei la ben djonston lo po'o nai ka melbi je finkai je frili
+i fy jy sy traji lo ka mi jgira kei fo lo'i be mi se finti ja se snada poi srana lo cmato'aku'e zgike
 
 The Functional Just System:
 
