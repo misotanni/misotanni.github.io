@@ -302,30 +302,17 @@ Once compound accidentals have been defined, you can do a lot more with the FJS.
 
 When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives "P5<sup>5</sup><sub>5</sub>" which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> gives "m3<sup>49</sup><sub>7</sub>" which becomes m3<sup>7</sup> (7/6).
 
-Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. Here are techniques for this. NOTE: The techniques given below always work, but are only useful when the intervals in question don't involve many primes.
+Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. You can use the a few simple methods if the ratios in question don't involve many primes.
 
-> ### FJS Technique \#6: To convert a simple JI ratio quickly to an FJS representation.
-> 
-> 1. Factorize the numerator into a Pythagorean interval plus primes. Build the Pythagorean interval, and each prime as a prime interval, and add them up.
-> 2. Repeat for the denominator.
-> 3. Subtract the numerator's interval from the denominator's interval.
-> 4. Adjust octaves as required.
->
-> **Example:** To convert 36/25, we first build the numerator: 36, which is 9/8, which is M2. Then we build the denominator: 25. It splits to 5 and 5, which is two M3<sup>5</sup>, which becomes A5<sup>25</sup>. Now we subtract; M2 - A5 = d5, and the accidentals are (0) - (+25) = (-25). So the final answer is d5<sub>25</sub>.
+To convert a simple JI ratio quickly to an FJS representation, factorize the numerator into a Pythagorean interval plus primes. Build the Pythagorean interval, and each prime as a prime interval, and add them up. Repeat for the denominator. Then, subtract the numerator's interval from the denominator's interval. For example, to convert 36/25, we first build the numerator: 36, which is 9/8, which is M2. Then we build the denominator: 25. It splits to 5 and 5, which is two M3<sup>5</sup>, which becomes A5<sup>25</sup>. Now we subtract; M2 - A5 = d5, and the accidentals are (0) - (+25) = (-25). So the final answer is d5<sub>25</sub>.
 
-> ### FJS Technique \#7: To convert a simple FJS representation quickly into a JI ratio.
-> 
-> 1. Try (otonal accidental)/(utonal accidental). You don't even need to factorize the accidentals. That's a perk of using multiplication to merge them.
-> 2. If you are off, then only by a Pythagorean interval. Adjust accordingly.
-> 3. Adjust octaves as required.
->
-> **Example:** Trying to convert A1<sup>5</sup><sub>7</sub>. We try 5/7, which is 10/7; when we apply Technique 6 to this, we obtain A4<sup>5</sup><sub>7</sub>, which isn't too far off. We only need to adjust by one Pythagorean fifth upwards. So the correct answer is actually (3/2) × (5/7) = 15/14.
+Similarly, you can also easily convert a simple FJS representation back into a JI ratio. Try [otonal accidental]/[utonal accidental]. (You don't even need to factorize the accidentals. That's a perk of using multiplication to merge them.) If you are off, then only by a Pythagorean interval. Adjust accordingly. For example, let's try to convert A1<sup>5</sup><sub>7</sub>. We try 5/7, which is 10/7; when we apply Technique 6 to this, we obtain A4<sup>5</sup><sub>7</sub>, which isn't too far off. We only need to adjust by one Pythagorean fifth upwards. So the correct answer is actually (3/2) × (5/7) = 15/14.
 
-These techniques will, 99% of the time, be enough to read and write in the FJS, and as you can see, they are easy to use. In fact, much of the time, you don't even have to use these techniques; skimming the harmonic series is often enough to perform forwards and backwards conversions in mere seconds. Want to convert 14/13 into the FJS? You know that 13 is a m6 and 14 is a m7, so 14/13 must be a M2. Then because of 14 in the numerator you stick a +7, and because of 13 in the denominator you stick a -13, and voilà, you have found the correct FJS representation: M2<sup>7</sup><sub>13</sub>.
+These methods will, 99% of the time, be enough to read and write in the FJS, and as you can see, they are easy to use. In fact, much of the time, you don't even have to use these; skimming the harmonic series is often enough to perform forwards and backwards conversions in mere seconds. Want to convert 14/13 into the FJS? You know that 13 is a m6 and 14 is a m7, so 14/13 must be a M2. Then because of 14 in the numerator you stick a +7, and because of 13 in the denominator you stick a -13, and voilà, you have found the correct FJS representation: M2<sup>7</sup><sub>13</sub>.
 
 However, one of the virtues of the FJS is that it can be fully automated. These techniques may rely a little on intuition, and are not very useful for complex intervals. In the case of complex intervals, you can *always* perform the forward and backward conversions using these final two techniques:
 
-> ### FJS Technique \#8: To convert any JI ratio automatically to an FJS representation.
+> ### FJS Technique \#6: To convert any JI ratio automatically to an FJS representation.
 >
 > 1. Factorize the ratio.
 > 2. For every prime *p* greater than 3 with an exponent of α<sub>*p*</sub>, remember the α<sub>p</sub> for every *p* and multiply the initial ratio by
@@ -340,7 +327,7 @@ However, one of the virtues of the FJS is that it can be fully automated. These 
 >
 > **Example:** Let's convert the weak just chromatic semitone, 25/24, into FJS form using this technique. 25/24 = 2<sup>3</sup> 3<sup>-1</sup> 5<sup>2</sup>. Because of 5<sup>2</sup>, remember 2 and multiply by (80/81)<sup>-2</sup>. The result is 2187/2048, which is Pythagorean and converts to A1. Now we add a double +5 (because of the 2) and we get A1<sup>25</sup>.
 
-> ### FJS Technique \#9: To convert any FJS representation automatically into a JI ratio.
+> ### FJS Technique \#7: To convert any FJS representation automatically into a JI ratio.
 >
 > 1. Convert the Pythagorean part of the FJS interval into a Pythagorean ratio.
 > 2. For every otonal accidental *p*, multiply by the formal comma of *p*. If utonal, then divide.
@@ -364,7 +351,7 @@ That's it!
 
 This is all you need to know to use the *entirety* of the FJS and represent *any* JI you wish! There is no memorization to be done, no lookup tables to be bookmarked, nothing! One of the largest virtues of this system is that it's all completely portable; all you need to set it up anywhere is calculation and your radius of tolerance. The techniques you've just been given can be automated and the entire system can be handled by a computer.
 
-The FJS has a lot of beautiful properties that make it incredibly logical. The most important property is that it is *bijective* to JI; every positive rational number has exactly one FJS representation, and every positive FJS representation has exactly one rational number it represents. Another property - which has already been given above - is that it is *linear*; it doesn't matter if you combine ratios and then transform them into the FJS, or first transform them, then combine; the result is the same.
+The FJS has a lot of beautiful properties that make it incredibly logical. The most important property is that it is *bijective* to JI; every positive rational number has exactly one FJS representation, and every positive FJS representation has exactly one rational number it represents. Another property - which has already been given above - is that it is *linear*; it doesn't matter if you combine ratios and then transform them into the FJS, or first transform them, then combine; the result is the same. These properties make transposition in the FJS extremely easy. To transpose by, say, M2<sup>5</sup>, you would first transpose by a M2 (which is exactly the same as a normal transposition by a major second; the FJS accidentals remain unchanged) and then add a +5 accidental to every note, merging as necessary (so that e.g. +5 becomes +25, +7 becomes +35, -5 becomes 1).
 
 There's one last thing that you might want before trying your accumulated skills at the last exercise. Again, this is just for reference; you could have calculated this table yourself if you wanted (which you wouldn't, so that's why I did it for you).
 
@@ -396,3 +383,13 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	
 5. Given that the base note is A, notate the first audio example in this crash course using the FJS.
 6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
+
+You can check your answers [here](solutions.html).
+
+## What Else?
+
+This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and special shortcut accidentals. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
+
+Except for those, that's it! You have already learned the entirety of the FJS in mere minutes. Go now, and may the FJS simplify your thinking when you next encounter Just Intonation.
+
+**The End.**
