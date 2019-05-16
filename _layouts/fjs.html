@@ -12,7 +12,7 @@
     {% endif %}
   </head>
   <body>
-    {{ page.otherlang }} <a href="../en/{{ page.name }}">en</a> · <a href="../pl/{{ page.name }}">pl</a> · <a href="../jbo/{{ page.name }}">jbo</a>
+    {{ page.otherlang }} <a href="../en/{{ page.name | replace: ".md", ".html" }}">en</a> · <a href="../pl/{{ page.name | replace: ".md", ".html" }}">pl</a> · <a href="../jbo/{{ page.name | replace: ".md", ".html" }}">jbo</a>
 
 
     <hr />
