@@ -384,7 +384,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 2. Convert the following FJS representations into JI ratios using any technique you like: M6<sub>7</sub>, d4<sup>13</sup><sub>5</sub>, m3<sub>25</sub>.
 3. Notate a JI rendition of the famous ii-V-I progression in the FJS in the key of B♭, given the following JI ratios from B♭:
 	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
-	- V chord: 3/2, 9/8, 21/16, 3/2, 15/8
+	- V chord: 3/2, 9/8, 21/16, 27/16, 15/8
 	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
 4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic:
 	
