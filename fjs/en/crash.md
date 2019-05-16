@@ -4,7 +4,16 @@ So, you are intrigued by what the FJS has to offer, and would like to learn to u
 
 This "crash course" was designed specifically with a focus on fast acquisition of all the fundamental elements of the system. It puts no focus on its shorthand system, which is not necessary for completeness. If you already have had exposure to Just Intonation, the FJS will be extremely easy for you to learn - you can learn it all in one sitting within a few minutes. Its beauty and simplicity are at your grasp.
 
-## Introduction: Abandoning Enharmony
+## Contents
+
+[Introduction: Abandoning Enharmony](#introduction)
+[Lesson 0: Preliminary](#lesson_0)
+[Lesson 1: Pythagorean Tuning](#lesson_1)
+[Lesson 2: The Prime Intervals](#lesson_2)
+[Lesson 3: Compound Accidentals](#lesson_3)
+[Coda: What Else?](#coda)
+
+## <a name="introduction">Introduction: Abandoning Enharmony</a>
 
 We are all familiar with standard staff notation and its conventional sharps and flats. But what we may not realize is that we learn staff notation as adapted for our omnipresent tuning system, twelve-tone equal temperament (from now on, this course will use the abbreviation 12-EDO, for Equal Divisions of the Octave).
 
@@ -24,7 +33,7 @@ But let's not forget that staff notation predates even the thought of using 12-E
 
 In other words, enharmonic equivalence is the only 12-EDO feature in staff notation. Everything else is independent.
 
-## Preliminary
+## <a name="lesson_0">Lesson 0: Preliminary</a>
 
 Before you start learning about the FJS, there are a few pieces of information that I must be sure you are familiar and comfortable with.
 
@@ -50,7 +59,7 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 This is just about all you need, so let's get started!
 
-## Lesson 1: Pythagorean Tuning
+## <a name="lesson_1">Lesson 1: Pythagorean Tuning</a>
 
 You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
 
@@ -116,7 +125,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 
 You can check your answers [here](solutions.html).
 
-## Lesson 2: The Prime Intervals
+## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
 
 All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much - aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
 
@@ -235,7 +244,7 @@ OK, that's all you need to know to notate the prime intervals. Below are a few m
 
 You can check your answers [here](solutions.html).
 
-## Lesson 3: Compound Accidentals
+## <a name="lesson_3">Lesson 3: Compound Accidentals</a>
 
 You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime (including 3), like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
 
@@ -386,7 +395,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 
 You can check your answers [here](solutions.html).
 
-## What Else?
+## <a name="coda">Coda: What Else?</a>
 
 This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and special shortcut accidentals. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
 
