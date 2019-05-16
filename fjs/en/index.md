@@ -4,7 +4,7 @@ title: The Functional Just System
 
 > *Such is the advantage of a well-constructed language that its simplified notation often becomes the source of profound theories.*
 >
-> \- Pierre-Simon Laplace
+> — Pierre-Simon Laplace
 
 ---
 
