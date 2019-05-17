@@ -782,24 +782,25 @@ behaviors of further radii of tolerance.
 
 [TODO WAŻNE: zamienić na blok `<code>`]
 
-``LET`` \\(k = - 1\\)
-``DO {``
-\\(k + = 1\\)
-\\(g = \operatorname{}\left( p \times 3^{\operatorname{shn}{(k)}} \right)\\)
-\\(h = \operatorname{}\left( p \times 3^{\operatorname{shn}{(k)}} \right)\\)
-\\(I = \left( \left( \ln g \right)^{2} < \left( \ln\lambda \right)^{2} \right)\\)
-\\(J = \left( \left( \ln h \right)^{2} < \left( \ln\lambda \right)^{2} \right)\\)
-``} UNTIL`` \\((I \vee J)\\)
-``RETURN`` \\(\operatorname{gen}{(p)} = - \operatorname{shn}{(k)}\\)
-``IF`` \\(I\\) ``THEN {``
-``RETURN`` \\(\operatorname{pol}{(p)} = 1\\)
-``RETURN`` \\(\operatorname{comma}{(p)} = g\\)
-``}``
-``IF`` \\(J\\) ``THEN {``
-``RETURN`` \\(\operatorname{pol}{(p)} = - 1\\)
-``RETURN`` \\(\operatorname{comma}{(p)} = h\\)
-``}``
-``END``
+> ``LET`` \\(k = - 1\\)  
+> ``DO {``  
+> \\(k + = 1\\)  
+> \\(g = \operatorname{}\left( p \times 3^{\operatorname{shn}{(k)}} \right)\\)  
+> \\(h = \operatorname{}\left( p \times 3^{\operatorname{shn}{(k)}} \right)\\)  
+> \\(I = \left( \left( \ln g \right)^{2} < \left( \ln\lambda \right)^{2} \right)\\)  
+> \\(J = \left( \left( \ln h \right)^{2} < \left( \ln\lambda \right)^{2} \right)\\)  
+> ``} UNTIL`` \\((I \vee J)\\)  
+> ``RETURN`` \\(\operatorname{gen}{(p)} = - \operatorname{shn}{(k)}\\)  
+> ``IF`` \\(I\\) ``THEN {``  
+> ``RETURN`` \\(\operatorname{pol}{(p)} = 1\\)  
+> ``RETURN`` \\(\operatorname{comma}{(p)} = g\\)  
+> ``}``  
+> ``IF`` \\(J\\) ``THEN {``  
+> ``RETURN`` \\(\operatorname{pol}{(p)} = - 1\\)  
+> ``RETURN`` \\(\operatorname{comma}{(p)} = h\\)  
+> ``}``  
+> ``END``  
+
 <a name="algorithm-1">**Algorithm** **1. The FJS algorithm**</a>
 
 What I depicted above has been the FJS algorithm, the core of

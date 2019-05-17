@@ -18,12 +18,12 @@ The **Functional Just System** (or **FJS**) is a new revolutionary notation syst
 
 The Functional Just System:
 
-- is a means of **translation** between the raw ratios of Just Intonation and the musical language understood universally by all musicians - staff notation;
+- is a means of **translation** between the raw ratios of Just Intonation and the musical language understood universally by all musicians – staff notation;
 - is **extremely easy** to learn to read and write, and its simplicity far surpasses that of other Just Intonation notation systems;
 - provides a **bijection** or isomorphism between notation and sound, every tone can be notated in exactly one way and can be written and read unambiguously;
 - can notate **all of the infinity** of Just Intonation, not only up to a certain fixed prime limit, and can hence express a **superset** of the meanings possible in other notation systems;
 - has **infinite resolution**, thus each tone is notated "pitch perfect", not only up to a certain fixed precision;
-- is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables. (This website contains several calculators for these purposes.)
+- is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or lookup tables. (This website contains several calculators for these purposes.)
 
 **What will the FJS mean for you?**
 
@@ -39,7 +39,7 @@ For the most basic acquaintance with Just Intonation, I recommend [Just Intonati
 
 ## How Simple Is the FJS?
 
-The following seven rules are all the components needed to express everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right - only seven rules.
+The following seven rules are all the components needed to express everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right – only seven rules.
 
 1. All notes with conventional accidentals represent Pythagorean tuning. All octaves are 2/1 and all perfect fifths are 3/2.
 
@@ -59,7 +59,7 @@ The following seven rules are all the components needed to express everything re
 
 Why even the need for the FJS? What is the motivation that drove me to create this notation system? What benefits for musicians are tied to the usage of this system? Why use it, and how does it help with composing and analyzing Just Intonation music? Why even try to map Just Intonation onto staff notation in the first place? After all, staff notation is designed for music revolving around the circle of fifths and the diatonic scale, while Just Intonation is a bunch of ratios connected in beautiful, but musically alien, ways. Just Intonation music works very differently from the music we are used to notating, and so any attempt to present Just Intonation music in such a way seems like it should be clunky and unnatural.
 
-Why, then, did I choose to pursue this idea despite this difficulty? The reason is because staff notation is a language for communication between musicians, and while it is not perfect, it is universal - every musician can communicate in it. Furthermore, as musicians, we are accustomed to thinking in its terms. Wouldn't it be very useful to translate the beautiful and regular, but quite unintuitive, language of Just Intonation into the old, familiar language of staff notation? Wouldn't it allow musicians to comprehend Just Intonation with more intuition, and extend its tools to all the processes - composition, analysis, and performance - of conventional music?
+Why, then, did I choose to pursue this idea despite this difficulty? The reason is because staff notation is a language for communication between musicians, and while it is not perfect, it is universal – every musician can communicate in it. Furthermore, as musicians, we are accustomed to thinking in its terms. Wouldn't it be very useful to translate the beautiful and regular, but quite unintuitive, language of Just Intonation into the old, familiar language of staff notation? Wouldn't it allow musicians to comprehend Just Intonation with more intuition, and extend its tools to all the processes – composition, analysis, and performance – of conventional music?
 
 **Indeed, it would.**
 
