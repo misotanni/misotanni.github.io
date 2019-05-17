@@ -24,7 +24,7 @@ i la fancu ke curve ciste ku zo'u tu'e
 - i jai tadji lo nu **fanva** fi lo parbi pe lo cuvyto'aci'e lo zgike bangu poi jai se jimpe ro zgipre ku'o no'u lo zgisnici'e ge'u soi vo'i
 - i lo nu cilre lo nu tcidu je ciska cu **tcetce frili** i je fy jy sy cu mutce zmadu lo cuvyto'aci'e snici'e poi drata ku'o lo ka sampu
 - i sabji lo nu ro sinxa e ro sance cu **pavysmu** i je ro tonga cu se sinxa ta'i pa da i je pavysmu se tcidu je se ciska
-- i jai tadji lo nu ciska lu'e **lo cuvyto'aci'e li ci'i** e nai li so'i poi stodi i ja'e bo **zmadu** lo drata lo ka lo smuni cu se cusku se pi'o ce'u
+- i jai tadji lo nu ciska lu'e **lo cuvyto'aci'e li ci'i** e nai li so'i poi stodi i ja'e bo **zmadu** lo drata lo ni lo smuni cu se cusku se pi'o ce'u
 - i **cimni** lo ka lo ce'u sinxa cu satci i ja'e bo ro tonga cu se sinxa co pe'a prane gi'e nai drani fo lo se satci poi stodi
 - i se pagbu lo sampu poi tcetce frili gi'e banzu ro da i ku'i ji'a se pagbu lo **cmavlaka'i ciste** be te zu'e lo **cafne**
 - i jai se zbasu ta'i tu'a lo **algoritma** ve pu'e ro da i ja'e bo prane lo ka pilno ce'u lo skami zgike i je ka'e zmiku se cau lo nu morji ja zvafa'i be lo datni i to vi urli so'o skami la'e di'u toi
