@@ -2,7 +2,7 @@
 title: la fancu ke curve ciste
 ---
 
-> *i prali fi lo ka pilno lo se gerna poi xamgu se zbasu kei fa lo du'u lo frili snici'e pe gy cu rinka so'i smucfu ente'ori*
+> *i prali fi lo ka pilno lo se gerna poi xamgu se zbasu kei fa lo du'u lo frili snici'e pe gy cu rinka tu'a so'i smucfu ente'ori*
 >
 > — sei la pi'er simon laplas cu cusku
 
@@ -10,26 +10,28 @@ title: la fancu ke curve ciste
 
 # fi'i
 
-ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku no'u fy jy sy
+ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
 
 ## fy jy sy mo
 
-ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy je lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** to **jy i bu** toi zgike
-i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste lo ka kuspe ma kau ku'o lo ka sepli skicu ro cuvyto'aci'e
-i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'ei la xelmxolts elis lu'u e zo'ei la ben djonston lo po'o nai ka melbi je finkai je frili
-i fy jy sy traji lo ka mi jgira kei fo lo'i be mi se finti ja se snada poi srana lo cmato'aku'e zgike
+ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy je lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike
+i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste ku'o lo ka sepli skicu ro cuvyto'aci'e
+i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmyxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
+i fy jy sy traji lo ka mi jgira kei fo lo'i se ke snada co finti ke'e be mi be'o poi srana lo cmato'aku'e zgike
 
-The Functional Just System:
+i la fancu ke curve ciste ku zo'u tu'e
 
-- is a means of **translation** between the raw ratios of Just Intonation and the musical language understood universally by all musicians - staff notation;
-- is **extremely easy** to learn to read and write, and its simplicity far surpasses that of other Just Intonation notation systems;
-- provides a **bijection** or isomorphism between notation and sound, every tone can be notated in exactly one way and can be written and read unambiguously;
-- can notate **all of the infinity** of Just Intonation, not only up to a certain fixed prime limit, and can hence express a **superset** of the meanings possible in other notation systems;
-- has **infinite resolution**, thus each tone is notated "pitch perfect", not only up to a certain fixed precision;
-- has fundamental elements that are exceptionally simple, and sufficient for all purposes, but also a **shorthand** system optimized for **common situations**;
-- is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or look-up tables. (This website contains several calculators for these purposes.)
+- jai tadji lo nu **fanva** fi lo parbi pe lo cuvyto'aci'e lo zgike bangu poi jai se jimpe ro zgipre ku'o no'u lo zgisnici'e ge'u soi vo'i
+- lo nu cilre lo nu tcidu je ciska cu **tcetce frili** i je fy jy sy cu mutce zmadu lo cuvyto'aci'e snici'e poi drata ku'o lo ka sampu
+- sabji lo nu ro sinxa e ro sance cu **pavysmu** i je ro tonga cu se sinxa ta'i pa da i je pavysmu se tcidu je se ciska
+- jai tadji lo nu ciska lu'e **lo cuvyto'aci'e li ci'i** e nai li so'i poi stodi i ja'e bo **zmadu** lo drata lo ka lo smuni cu se cusku se pi'o ce'u
+- **cimni** lo ka lo ce'u sinxa cu satci i ja'e bo ro tonga cu se sinxa co pe'a prane gi'e nai drani fo lo se satci poi stodi
+- se pagbu lo sampu poi tcetce frili gi'e banzu ro da i ku'i ji'a se pagbu lo **cmavlaka'i ciste** be te zu'e lo **cafne**
+- jai se zbasu ta'i tu'a lo **algoritma** ve pu'e ro da i ja'e bo prane lo ka pilno ce'u lo skami zgike i je ka'e zmiku se cau lo nu morji ja zvafa'i be lo datni i to vi urli so'o skami la'e di'u
 
-**What will the FJS mean for you?**
+tu'u
+
+**i ma ba smuni fy jy sy do**
 
 ## What Is Just Intonation?
 
