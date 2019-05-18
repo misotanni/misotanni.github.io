@@ -19,7 +19,7 @@ i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste ku'o lo ka sepli s
 i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmyxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
 i fy jy sy traji lo ka mi jgira kei fo lo'i se ke snada co finti ke'e be mi be'o poi srana lo cmato'aku'e zgike
 
-i la fancu ke curve ciste ku zo'u tu'e
+ni'o la fancu ke curve ciste ku zo'u tu'e
 
 - i jai tadji lo nu **fanva** fi lo parbi pe lo cuvyto'aci'e lo zgike bangu poi jai se jimpe ro zgipre ku'o no'u lo zgisnici'e ge'u soi vo'i
 - i lo ka cilre lo nu tcidu je ciska do'e cu **tcetce frili** i je fy jy sy mutce zmadu lo cuvyto'aci'e snici'e poi drata vau lo ka sampu
@@ -30,7 +30,7 @@ i la fancu ke curve ciste ku zo'u tu'e
 
 tu'u
 
-**i fy jy sy ba mo do**
+**ni'o fy jy sy ba mo do**
 
 ## lo cuvyto'aci'e cu mo
 
@@ -48,7 +48,7 @@ i to li'a lo ka melbi kei cu na te tavla toi
 ni'o sarcu fa lo nu do djuno je jimpe so'o da lo cuvyto'aci'e vau e so'u tu'a lo zgike ente'ori lu'u lo nu do ka'e jimpe fi fy jy sy gi'e sutra pilno ri
 i su'a lo nu lo su'u **djuno** fi lo cuvyto'aci'e cu **zenba** cu nibli lo nu do **zenba certu je sutra pilno** fy jy sy
 
-i lo su'u djuno fi lo cuvyto'aci'e vau poi saprai zo'u ko tcidu e'u la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
+ni'o lo su'u djuno fi lo cuvyto'aci'e vau poi saprai zo'u ko tcidu e'u la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
 
 ## How Simple Is the FJS?
 
