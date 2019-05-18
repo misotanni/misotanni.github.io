@@ -14,7 +14,7 @@ ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
 
 ## fy jy sy mo
 
-ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy je lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike
+ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy e lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike
 i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste ku'o lo ka sepli skicu ro cuvyto'aci'e
 i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmyxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
 i fy jy sy traji lo ka mi jgira kei fo lo'i se ke snada co finti ke'e be mi be'o poi srana lo cmato'aku'e zgike
@@ -32,15 +32,23 @@ tu'u
 
 **i fy jy sy ba mo do**
 
-## What Is Just Intonation?
+## lo cuvyto'aci'e cu mo
 
-If you have to ask this question, then you are probably in the wrong place!
+ni'o do ca'a retsku di'u i jo o'i do zvati lo toldra
 
-Most modern music relies on a tuning system known as **twelve-tone equal temperament** (or simply **equal temperament**), which divides the octave into twelve equal intervals. **Just Intonation** (**JI**) is a method of tuning which differs significantly from this mainstream tuning system. Its principles of tuning are based on the harmonic series and the natural acoustic properties of sound. Although JI is no longer used in conventional music, it remains important to music theory because it was commonplace in ancient cultures and the Middle Ages, is still widely used in traditional music of non-Western cultures, and has been employed in avant-garde music. (Not mentioning its aesthetic merit, of course.)
+ni'o so'e zgike poi cabna cu se jicmu lo togyci'e poi se cmene lu **dunto'aci'e li pa re** li'u a sa'u zo **dunto'aci'e**
+i dy jai fendi li re fi'u lo pa re togyku'e poi simxu lo nu dunli
+i lo **cuvyto'aci'e** goi **cy ty** cu tonga tadji gi'e mutce drata lo bi'u nai fadni togyci'e
+i lo tonga jicmu be cy ty cu jai se nibli tu'a lo rarna se ckaji be lo sance
+i cy ty na jai ca se pilno lo fadni zgike
+i se ju za'o vajni lo zgike ente'ori
+i ki'u bo pu fadni va'o lo kulnu poi purci ku'o gi'e ca fadni va'o lo tcaci zgike pe su'o kulnu ge'u gi'e ta'e se pilno lo zgike poi nalfadni
+i to li'a lo ka melbi kei cu na te tavla toi
 
-A basic level of familiarity with, and understanding of, Just Intonation is required (in addition to elementary music theory) to be able to understand and use the FJS effectively. In general, **more experience** with Just Intonation leads to **higher proficiency and fluency** in using the FJS.
+ni'o sarcu fa lo nu do djuno je jimpe so'o da lo cuvyto'aci'e vau e so'u tu'a lo zgike ente'ori lu'u lo nu do ka'e jimpe fi fy jy sy gi'e sutra pilno ri
+i su'a lo nu lo su'u **djuno** fi lo cuvyto'aci'e cu **zenba** cu nibli lo nu do **zenba certu je sutra pilno** fy jy sy
 
-For the most basic acquaintance with Just Intonation, I recommend [Just Intonation Explained](https://www.kylegann.com/tuning.html) by Kyle Gann.
+i lo su'u djuno fi lo cuvyto'aci'e vau poi saprai zo'u ko tcidu e'u la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
 
 ## How Simple Is the FJS?
 
