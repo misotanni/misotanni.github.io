@@ -78,7 +78,7 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 ## Rules for Using FJS Transposition Lines (\*)
 
-1. There exist FJS transposition lines, which work analogically to octave lines, but apply an FJS accidental instead of shifting by an octave. These are a more friendly version of the mechanism possible by using the black dot.
+1. There exist FJS transposition lines, which work analogically to octave lines, but apply an FJS accidental instead of shifting by an octave.
 2. An FJS transposition line can be written either as alta or bassa, with no difference in meaning.
 3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with "5", a transposition line of +7−5 will begin with "7−5", etc. As with octave lines, "loco" following such a line is optional.
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals, FJS key signatures, and the special shortcut accidentals.
