@@ -20,7 +20,7 @@ $$d_{1,3}=\frac{f_3}{f_1}$$
 
 But this is also equal to the following:
 
-$$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \frac{f_1}{f_2}=d_{1,2} \cdot d_{2,3} \blacksquare$$
+$$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \frac{f_1}{f_2}=d_{1,2} \cdot d_{2,3} \quad \blacksquare$$
 
 **Corollary.** The difference of two intervals is a quotient of magnitudes.
 
