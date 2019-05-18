@@ -315,13 +315,14 @@ So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (resp
 
 <img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
 
-Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
+Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. You can also add an interval to a note (e.g. G + M3<sup>5</sup> = B<sup>5</sup>) and you can subtract a note from another note (e.g. F<sup>7</sup> - C = P4<sup>7</sup>). That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
 
 > ### FJS Interval Arithmetic
 >
 > - To add two FJS intervals, add their Pythagorean parts (conventional interval classes) and merge the accidentals.
 > - To subtract two FJS intervals, subtract their Pythagorean parts, then swap the otonal with the utonal accidental for the second interval, then merge. Subtracting an FJS interval is the same as adding its inverse.
 > - To invert an FJS interval, invert its Pythagorean part and swap the otonal with the utonal accidental.
+> - You can also add an FJS interval to an FJS note, or subtract an FJS note from another FJS note.
 
 When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives "P5<sup>5</sup><sub>5</sub>" which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> (8/7) gives "m3<sup>49</sup><sub>7</sub>" which becomes m3<sup>7</sup> (7/6).
 
