@@ -36,7 +36,7 @@ Consider now an interval, which – if it is just – must be capable of being r
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{n} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{m} \text{p}(j)^{\beta _j}}$$
 
-Now consider *t*=max⁡(*n*,*m*) and expand at most one of these products until both of them are length *t*, just by adding further primes raised to the power 0. Then simplify.
+Now consider $$t=\text{max}(n,m)$$ and expand at most one of these products until both of them are length *t*, just by adding further primes raised to the power 0. Then simplify.
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{t} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{t} \text{p}(j)^{\beta _j}}=\prod_{k=1}^{t} \text{p}(k)^{\gamma _k}$$
 
@@ -57,6 +57,32 @@ This is an immediate contradiction, since by the Fundamental Theorem of Arithmet
 **Corollary.** Taking *p* = 2, *q* = 3, we obtain the statement for octaves and perfect twelfths, equivalent to the statement for octaves and perfect fifths. This implies that a "circle" of just 3/2 fifths never closes.
 
 ## Theorem 4
+
+**Pythagorean tuning is bijective to staff notation.**
+
+Consider the diatonic scale on C, sorted by fifths:
+
+F, C, G, D, A, E, B
+
+This is a fragment of a chain of fifths originating on D, as follows:
+
+−3, −2, −1, 0, +1, +2, +3
+
+Here, these integers represent the number of motions around this infinite "spiral of fifths"; positive integers corresponding to the addition of fifths, and negative integers corresponding to the subtraction of fifths.
+
+However, note that we already know how to extend this chain. The sharp and the flat are specifically defined as accidentals such that B♭ to F = B to F♯ = a perfect fifth. Adding a flat and sharp copy of the diatonic scale extends the chain to −10 on the left and +10 on the right, as follows:
+
+F♭, C♭, G♭, D♭, A♭, E♭, B♭, F, C, G, D, A, E, B, F♯, C♯, G♯, D♯, A♯, E♯, B♯
+
+−10, −9, −8, −7, −6, −5, −4, −3, −2, −1, 0, +1, +2, +3, +4, +5, +6, +7, +8, +9, +10
+
+Using double flats and double sharps extends the chain to 17, using triple flats and triple sharps extends it even further to 24, etc.
+
+*The chain will never close to form a circle*, which we have proved in Theorem 3. Thus it is infinite in both directions, and so every note will correspond to an integer on the number line, which corresponds to a number of motions of fifths. $$\qed$$
+
+**Corollary.** Any Pythagorean ratio corresponds exactly to one conventional interval class, in the same way the FJS associates Pythagorean tuning with conventional interval classes.
+
+## Theorem 5
 
 **Definition:** A *bridge number* for a prime number *p* is a number of the form $$2^{a_p}\cdot 3^{b_p}\cdot p$$ where *p* is a prime greater than 3 and *a*, *b* are integers.
 
@@ -80,17 +106,17 @@ $$d=(C_5)^{\alpha _5} \cdot 2^{\alpha _2 - \alpha_5 a_5} \cdot 3^{\alpha _3 - \a
 
 This is a unique representation as a Pythagorean ratio, i.e. a power of 2 and 3 raised to integer exponents, multiplied by the given arbitrary 5-bridge raised to an integer exponent. The base case holds.
 
-For the induction step, we assume the truth for p(*n*) and prove that this implies the truth for p(*n* + 1).
+For the induction step, we assume the truth for $$\text{p}(n)$$ and prove that this implies the truth for $$\text{p}(n+1)$$.
 
-Let *g* be a JI interval with factors up to and including p⁡(*n* + 1). Therefore it can be uniquely factorized into primes up to and including that prime:
+Let *g* be a JI interval with factors up to and including $$\text{p}(n+1)$$. Therefore it can be uniquely factorized into primes up to and including that prime:
 
 $$\displaystyle g=\prod_{i=1}^{n+1} \text{p}(i)^{\alpha _{\text{p}(i)}}$$
 
-Split the product, referring to p(*n* + 1) as *q* for convenience:
+Split the product, referring to $$\text{p}(n+1)$$ as *q* for convenience:
 
 $$\displaystyle g=\prod_{i=1}^n \text{p}(i)^{\alpha _{\text{p}(i)}} \cdot q^{\alpha _q}$$
 
-Due to the induction hypothesis, we may now immediately represent the term on the left with bridges. Here *x*, *y* are arbitrary integers resulting from the conversion into prime bridges up to p(*n*).
+Due to the induction hypothesis, we may now immediately represent the term on the left with bridges. Here *x*, *y* are arbitrary integers resulting from the conversion into prime bridges up to $$\text{p}(n)$$.
 
 $$\displaystyle g=(2^x \cdot 3^y \cdot \prod_{i=3}^n (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}}) \cdot q^{\alpha _q}$$
 
@@ -116,30 +142,8 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^n (C_{\t
 
 $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}})$$
 
-This is a unique representation of a JI interval with factors up to p⁡(*n* + 1) in terms of the factors up to p⁡(*n*). The induction step holds.
+This is a unique representation of a JI interval with factors up to $$\text{p}(n+1)$$ in terms of the factors up to $$\text{p}(n)$$. The induction step holds.
 
-As the statement has also been proven for the base case p⁡(*n*) = 5, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction. $$\qed$$
+As the statement has also been proven for the base case $$\text{p}(n)=5$$, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction. $$\qed$$
 
-## Theorem 5
-
-**Pythagorean tuning is bijective to staff notation.**
-
-Consider the diatonic scale on C, sorted by fifths:
-
-F, C, G, D, A, E, B
-
-This is a fragment of a chain of fifths originating on D, as follows:
-
-−3, −2, −1, 0, +1, +2, +3
-
-Here, these integers represent the number of motions around this infinite "spiral of fifths"; positive integers corresponding to the addition of fifths, and negative integers corresponding to the subtraction of fifths.
-
-However, note that we already know how to extend this chain. The sharp and the flat are specifically defined as accidentals such that B♭ to F = B to F♯ = a perfect fifth. Adding a flat and sharp copy of the diatonic scale extends the chain to −10 on the left and +10 on the right, as follows:
-
-F♭, C♭, G♭, D♭, A♭, E♭, B♭, F, C, G, D, A, E, B, F♯, C♯, G♯, D♯, A♯, E♯, B♯
-
-−10, −9, −8, −7, −6, −5, −4, −3, −2, −1, 0, +1, +2, +3, +4, +5, +6, +7, +8, +9, +10
-
-Using double flats and double sharps extends the chain to 17, using triple flats and triple sharps extends it even further to 24, etc.
-
-*The chain will never close to form a circle*, which we have proved in Theorem 3. Thus it is infinite in both directions, and so every note will correspond to an integer on the number line, which corresponds to a number of motions of fifths. $$\qed$$
+**Corollary.** Since a formal comma is a bridge number, for any given list of formal commas - one for every prime - every JI ratio can be uniquely represented as a Pythagorean ratio multiplied by formal commas raised to integer powers. This is exactly what the FJS does.
