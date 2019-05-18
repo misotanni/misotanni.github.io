@@ -50,23 +50,28 @@ i su'a do zenba lo ka jimpe fi lo sidbo be cy ty kei na a lo ka sutra jijnu fi f
 
 ni'o lo ka frili ke binxo co slabu cy ty cu te mapti fi la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
 
-## How Simple Is the FJS? – ‘Do you allow “not at all” as an answer?’
+## ma ni fy jy sy frili
 
-The following seven rules are all the components needed to express everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right - only seven rules.
+ni'o lo ze vi javni cu banzu lo nu cusku ro cuvyto'aci'e zgiselfi'i se pi'o fy jy sy
+i ja'a go'i
+i ze javni ku po'o
+i tu'e
 
-1. All notes with conventional accidentals represent Pythagorean tuning. All octaves are 2/1 and all perfect fifths are 3/2.
+1. i ro lo zgika'usni joi lo togystika poi fadni cu sinxa lo cistrpitagora i ro me'o py bi fa'u me'o py mu cu sinxa li re fi'u fa'u li ci fi'u re
 
-2. Every prime interval above 3/2 (that is, 5/4, 7/4, 11/8, etc.) is given a unique Pythagorean approximation according to the FJS master algorithm. This algorithm finds the simplest Pythagorean approximation that is within the radius of tolerance of the target. The difference between them is assigned a unique accidental for that prime, and the prime number itself is used as the symbol.
+2. i ro togyku'e pe lo dilcysle poi zmadu li ci ku'o ne mu'u li mu e li ze cu srana pa po'o jibni poi se cistrpitagora ve du'o lo fy jy sy jatna algoritma i a bu zvafa'i lo jibni poi traji lo ka sampu zi'e poi banzu lo ka simsa dy i lo selsumji be dy bei jy cu srana pa togystika pe dy i lu'e dy sinxa lo togystika
 
-3. All FJS accidentals are positive in the direction in which the Pythagorean approximation becomes the target prime interval, and negative otherwise. Positive is not always upward and negative is not always downward; positive is always otonal, while negative is always utonal.
+3. i lo fy jy sy togystika cu zenba i jo galfi lo jibni poi se cistrpitagora ku'o lo togyku'e pe lo dilcysle i na go'i i jo jdika i lo nu zenba fa'u jdika cu na nibli lo nu gapru fa'u cnita i nibli tu'a lo galto'a fa'u lo dzito'a
 
-4. Compound accidentals are represented by multiplying the otonal parts and multiplying the utonal parts, so a double +5 is +25. Otonal and utonal are always written separately. If the numbers are too large, the factors may be written out with commas in between.
+4. i lo togystika poi pluja cu se sinxa lo pilji be lo galto'a be'o jo'u lo pilji be lo dzito'a i mu'a me'o ma'u mu cu se relpi'i me'o ma'u re mu i lo galto'a jo'u lo dzito'a cu no roi se mixre i cumki fa lo nu cusku lu'e lo dilcysle jo'u lo lerkoma mu'i lo nu lo namcu cu dukse
 
-5. For note names, the positive compound accidental is added as a superscript and the negative compound accidental is added as a subscript to the right of the conventional name.
+5. i lo cmene be lo zgika'u zo'u lo togystika cu zenba fa'u jdika gi'o se sinxa lo galsku fa'u lo dzisku i se cusku ri'u lo fadni cmene
 
-6. For staff notation, the positive compound accidental is written first (if any), then the negative compound accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+6. i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba ku'o ce'o lo togystika poi jdika joi bo me'o ni'u ce'o lo fadni togystika ce'o lo zgika'u
 
-7. All else is shorthand.
+7. i ro da poi drata cu cmavlaka'i
+
+tu'u
 
 ## Why the FJS?
 
