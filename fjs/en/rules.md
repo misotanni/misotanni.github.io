@@ -36,6 +36,18 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 > 2. For every otonal accidental *p*, multiply by the formal comma of *p*. If utonal, then divide.
 > 3. Take the reduced form and adjust octaves as required.
 
+## FJS Shortcut Identities
+
+> - The sum of the FJS representations of two JI ratios is the FJS representation of the product of these ratios.
+> - The difference of the FJS representations of two JI ratios is the FJS representation of the quotient of these ratios.
+> - The inversion of the FJS representation of a JI ratio is the FJS representation of the reciprocal of the ratio.
+
+## FJS Interval Arithmetic
+
+> - To add two FJS intervals, add their Pythagorean parts (conventional interval classes) and merge the accidentals.
+> - To subtract two FJS intervals, subtract their Pythagorean parts, then swap the otonal with the utonal accidental for the second interval, then merge. Subtracting an FJS interval is the same as adding its inverse.
+> - To invert an FJS interval, invert its Pythagorean part and swap the otonal with the utonal accidental.
+
 ## Rules for Generating FJS Interval and Note Names
 
 1. By default, the FJS uses Pythagorean tuning for traditional staff notation. So the interval C-E is 81/64, the interval C-D♭ is 256/243, the interval D♭-C♯ is 531441/524288, etc.
@@ -73,8 +85,6 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 5. These additional shorthand symbols, just like FJS accidentals, completely overwrite changes due to FJS key signatures. This means that in the key of quintal C major (B<sup>5</sup> E<sup>5</sup> A<sup>5</sup>), if one E is marked with an accidental of −7 and a black dot, then both that E and a further E in the same staff (e.g. an octave higher and in the next bar) will be E<sub>7</sub>, rather than something like E<sup>5</sup><sub>7</sub>. If the black dot is canceled with a white dot, then an E with this white dot is once again E<sup>5</sup>, and any following E is also E<sup>5</sup>.
 
 ## Rules for Using FJS Transposition Lines (\*)
-
-*feature created by **uakci***
 
 1. There exist FJS transposition lines, which work analogically to octave lines, but apply an FJS accidental instead of shifting by an octave. These are a more friendly version of the mechanism possible by using the black dot.
 2. An FJS transposition line can be written either as alta or bassa, with no difference in meaning.
