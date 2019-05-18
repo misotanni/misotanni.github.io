@@ -44,7 +44,7 @@ By the Fundamental Theorem of Arithmetic, the exponents are differences of two n
 
 ## Theorem 3
 
-**If *p*,*q* are two different prime numbers, then $$p^n\neq q^m$$ for any nonzero integers *n*, *m*.**
+**If *p*, *q* are two different prime numbers, then $$p^n\neq q^m$$ for any nonzero integers *n*, *m*.**
 
 We proceed by contradiction. Assume that there exist some two unequal prime numbers *p*, *q* and two integers *n*, *m* such that:
 
