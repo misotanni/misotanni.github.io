@@ -86,7 +86,7 @@ You are now ready to learn the first two FJS techniques.
 > 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
 > 4. Adjust octaves as required.
 >
-> **Example:** To convert 9/8 to the FJS, we factorize: 2<sup>−3</sup> 3<sup>2</sup>. We ignore the factor of two. The power of three is positive, so we move two fifths clockwise: C–G–D. We have a major second. No octave adjustment needs to be made. The answer is M2.
+> **Example:** To convert 9/8 to the FJS, we factorize: 2<sup>−3</sup> 3<sup>2</sup>. We ignore the factor of two. The power of three is +2, so we move two fifths clockwise: C–G–D. We have a major second. No octave adjustment needs to be made. The answer is M2.
 
 > ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
 > 
