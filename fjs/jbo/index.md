@@ -34,23 +34,23 @@ tu'u
 
 ## lo cuvyto'aci'e cu mo
 
-ni'o do ca'a retsku di'u i jo o'i do zvati lo toldra la'a
+ni'o do kucli di'u i jo o'i do ca tcidu lo tolmapti la'a
 
-ni'o so'e zgike poi cabna cu se jicmu lo togyci'e poi se cmene lu **dunto'aci'e li pa re** li'u a sa'u zo **dunto'aci'e**
-i dy jai fendi li re fi'u lo pa re togyku'e poi simxu lo nu dunli
-i lo **cuvyto'aci'e** goi **cy ty** cu tonga tadji gi'e mutce drata lo bi'u nai fadni togyci'e
-i lo tonga jicmu be cy ty cu jai se nibli tu'a lo rarna se ckaji be lo sance
-i cy ty na jai ca se pilno lo fadni zgike
-i se ju za'o vajni lo zgike ente'ori
-i ki'u bo pu fadni va'o lo kulnu poi purci ku'o gi'e ca fadni va'o lo tcaci zgike pe su'o kulnu ge'u gi'e ta'e se pilno lo zgike poi nalfadni
-i to li'a lo ka melbi kei cu na te tavla toi
+ni'o so'e zgike poi cabna cu se jicmu lo togyci'e poi se cmene lu **dunto'aci'e li pa re** li'u e sa'u zo **dunto'aci'e**
+i dy jai nu dunli fendi lo togyku'e be li re lo pa re da
+i lo **cuvyto'aci'e** goi **cy ty** cu mutce drata lo bi'u nai fadni togyci'e
+i lo tonga jicmu be cy ty cu jai se jdice fai tu'a lo rarna jinzi be lo sance
+i cy ty na so'i roi jai se pilno lo fadni zgike
+i to'e ki'u nai bo vajni lo zgike ente'ori
+i ki'u bo cy ty fadni fi ge lo kulnu poi purci ku'o gi lo te ritli be fi lo nu zgipli kei gi'e di'i ve finti lo zgike poi nalfadni
+i to li'a na ra'asku fu lo du'u melbi toi
 
-ni'o sarcu fa lo nu do djuno je jimpe so'o da lo cuvyto'aci'e vau e so'u tu'a lo zgike ente'ori lu'u lo nu do ka'e jimpe fi fy jy sy gi'e sutra pilno ri
-i su'a lo nu lo su'u **djuno** fi lo cuvyto'aci'e cu **zenba** cu nibli lo nu do **zenba certu je sutra pilno** fy jy sy
+ni'o sarcu fa lo nu djuno je jimpe fi cy ty e so'u lo zgike ente'ori fe so'o da kei lo nu certu binxo tu'a fy jy sy
+i su'a do zenba lo ka jimpe fi lo sidbo be cy ty kei na a lo ka sutra jijnu fi fy jy sy
 
-ni'o lo su'u djuno fi lo cuvyto'aci'e vau poi saprai zo'u ko tcidu e'u la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
+ni'o lo ka frili ke binxo co slabu cy ty cu te mapti fi la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
 
-## How Simple Is the FJS?
+## How Simple Is the FJS? – ‘Do you allow “not at all” as an answer?’
 
 The following seven rules are all the components needed to express everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right - only seven rules.
 
