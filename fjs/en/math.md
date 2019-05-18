@@ -146,4 +146,4 @@ This is a unique representation of a JI interval with factors up to $$\text{p}(n
 
 As the statement has also been proven for the base case $$\text{p}(n)=5$$, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction. $$\blacksquare$$
 
-**Corollary.** Since a formal comma is a bridge number, for any given list of formal commas - one for every prime - every JI ratio can be uniquely represented as a Pythagorean ratio multiplied by formal commas raised to integer powers. This is exactly what the FJS does.
+**Corollary.** Since a formal comma is a bridge number, for any given list of formal commas – one for every prime – every JI ratio can be uniquely represented as a Pythagorean ratio multiplied by formal commas raised to integer powers. This is exactly what the FJS does.

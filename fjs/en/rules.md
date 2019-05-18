@@ -11,7 +11,7 @@ Everything concerning experimental shorthand elements is marked with the symbol 
 > 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
 > 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
 > 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, -1, 2, -2, 3, -3, ...) and repeat from step 3.
+> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
 
 ## The Formal Comma
 
@@ -48,7 +48,7 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 ## Rules for Generating FJS Interval and Note Names
 
-1. By default, the FJS uses Pythagorean tuning for traditional staff notation. So the interval C-E is 81/64, the interval C-D♭ is 256/243, the interval D♭-C♯ is 531441/524288, etc.
+1. By default, the FJS uses Pythagorean tuning for traditional staff notation. So the interval C–E is 81/64, the interval C–D♭ is 256/243, the interval D♭–C♯ is 531441/524288, etc.
 2. A single comma of the prime *p* (greater than 3) will use the appended number "p" (preferably as a superscript) to represent a deviation by that comma **in its original direction**. E.g. E<sup>5</sup> is an interval of 81/80 **below** E (because the comma of 5 is 80/81); F<sup>11</sup> is an interval of 33/32 **above** F (because the comma of 11 is 33/32). These note names are pronounced with the number appended: "E-five", "F-eleven". I do not expect them to cause confusion with chord symbols, since it is often clear from context whether a single note or a chord is meant. In the case of confusion, an optional "super" prefix can be attached. Note that the original direction is preserved.
 3. A single comma of the prime *p* will use the appended number "p" as a subscript to represent a deviation by that comma in the **opposite of its original direction**. E.g. E♭<sub>5</sub> is an interval of 81/80 above E♭; A<sub>19</sub> is an interval of 513/512 below E. These are pronounced with the number appended, but with a "sub" prefix attached: "E-flat-sub-five", "A-sub-nineteen".
 4. To represent combinations of movements by commas **in the same direction** (either positive or negative), **multiply** the numbers that the original commas would contain (rather than add or concatenate them). This is because these numbers are primes. A sum of primes cannot be uniquely resolved into its summands, and neither can a contenation of primes, but due to the Fundamental Theorem of Arithmetic, a product of primes can. Therefore, from the final product, we can always uniquely deduce which primes were multiplied. Order does not matter. E.g. G♯<sup>25</sup> is two 81/80 intervals below G♯ and there is no other interpretation, since 25 = 5 × 5 and no other prime decomposition exists.
