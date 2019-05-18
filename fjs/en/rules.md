@@ -22,14 +22,12 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 ## Converting JI Ratios into FJS Representations
 
 > 1. Factorize the ratio.
-> 2. For every prime *p* greater than 3 with an exponent of a<sub>*p*</sub>, remember the a<sub>*p*</sub> for every *p* and multiply the initial ratio by
+> 2. For every prime *p* greater than 3 with an exponent of α<sub>*p*</sub>, remember the α<sub>*p*</sub> for every *p* and multiply the initial ratio by
 >
 > 	$$(\text{comma} (p))^{-\alpha _p}$$
 >
->	where comma(*p*) is the formal comma of *p*.
->
 > 3. The result will be Pythagorean. Transform it into FJS form.
-> 4. Now add the a<sub>*p*</sub> as accidentals – if positive, then otonal; if negative, then utonal.
+> 4. Now add the α<sub>*p*</sub> as accidentals – if positive, then otonal; if negative, then utonal.
 > 5. Take the reduced form and adjust octaves as required.
 
 ## Converting FJS Representations into JI Ratios
