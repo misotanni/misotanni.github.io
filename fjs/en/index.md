@@ -39,7 +39,7 @@ For the most basic acquaintance with Just Intonation, I recommend [Just Intonati
 
 ## How Simple Is the FJS?
 
-The following seven rules govern everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right - only seven rules.
+The following seven rules govern everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right – only seven rules.
 
 1. All notes with conventional accidentals represent Pythagorean tuning. All octaves are 2/1 and all perfect fifths are 3/2.
 

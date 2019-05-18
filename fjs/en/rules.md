@@ -11,7 +11,7 @@ Everything concerning experimental shorthand elements is marked with the symbol 
 > 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
 > 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
 > 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, -1, 2, -2, 3, -3, ...) and repeat from step 3.
+> 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
 
 ## The Formal Comma
 
@@ -48,7 +48,7 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 ## Rules for Generating FJS Interval and Note Names
 
-1. By default, the FJS uses Pythagorean tuning for traditional staff notation. So the interval C-E is 81/64, the interval C-D♭ is 256/243, the interval D♭-C♯ is 531441/524288, etc.
+1. By default, the FJS uses Pythagorean tuning for traditional staff notation. So the interval C–E is 81/64, the interval C–D♭ is 256/243, the interval D♭–C♯ is 531441/524288, etc.
 
 2. A single comma of the prime *p* (greater than 3) will use the appended number "p" (preferably as a superscript) to represent a deviation by that comma **in its original direction**. E.g. E<sup>5</sup> is an interval of 81/80 **below** E (because the comma of 5 is 80/81); F<sup>11</sup> is an interval of 33/32 **above** F (because the comma of 11 is 33/32). These note names are pronounced with the number appended: "E-five", "F-eleven". I do not expect them to cause confusion with chord symbols, since it is often clear from context whether a single note or a chord is meant. In the case of confusion, an optional "super" prefix can be attached. Note that the original direction is preserved.
 
@@ -104,19 +104,19 @@ The following four bars read: C♯<sup>5</sup> C♯<sup>5</sup>; C♯<sup>5</sup
 
 The following is the just major scale in A; A, B, C♯<sup>5</sup>, D, E, F♯<sup>5</sup>, G♯<sup>5</sup>, A.
 
-<img src="../assets/example_6.png" alt="♯FCG F5 C5 G5: A-B-C-D-E-F-G-A">
+<img src="../assets/example_6.png" alt="♯FCG F5 C5 G5: A–B–C–D–E–F–G–A">
 
-The following is the harmonic series fragment 8-16 in F; F, G, A<sup>5</sup>, B♭<sup>11</sup>, C, D♭<sup>13</sup>, E♭<sup>7</sup>, E<sup>5</sup>, F. (The key signature is not practical, but possible.)
+The following is the harmonic series fragment 8–16 in F; F, G, A<sup>5</sup>, B♭<sup>11</sup>, C, D♭<sup>13</sup>, E♭<sup>7</sup>, E<sup>5</sup>, F. (The key signature is not practical, but possible.)
 
-<img src="../assets/example_7.png" alt="♭B ♭D A5 E5 B11 D13 E(♭)7: F-G-A-B-C-D-E♭-E♮-F">
+<img src="../assets/example_7.png" alt="♭B ♭D A5 E5 B11 D13 E(♭)7: F–G–A–B–C–D–E♭–E♮–F">
 
 The following chord progression contains two 10:12:14:17 diminished seventh chords and two 4:5:6 major triads, on A, D, G, and C, in that order.
 
-<img src="../assets/example_8.png" alt="E5 B5 F(♯)5 C(♯)5 B(♭)17 A(♭)17: C♯-B♭-E1-G7, D-A-D-F♯, B-A♭-D-F7, C-G-C-E">
+<img src="../assets/example_8.png" alt="E5 B5 F(♯)5 C(♯)5 B(♭)17 A(♭)17: C♯–B♭–E1–G7, D–A–D–F♯, B–A♭–D–F7, C–G–C–E">
 
 This chord progression demonstrates the usefulness of the rule that a Pythagorean key change doesn't reset an FJS key. It reads: A major, E major, A major, A dominant 7<sup>th</sup>, D major, G major, D major/A, E major/A, A dominant 7<sup>th</sup>, D major; where all major triads are 4:5:6 and all dominant seventh chords are 4:5:6:7. The FJS key stays the same after the modulation from A to D, which is useful because the G♯ in D is expected to be +5.
 
-<img src="../assets/example_9.png" alt="♯FCG F5 C5 G5: A-E-C-A, E-E-B-G, A-E-C-A, G7-E-C-A, ♯FC: F-A-D-A, G-B-D-G, A-A-D-F, A-B-E-G♯, A-C♯-E-G7, D-A-D-F♯">
+<img src="../assets/example_9.png" alt="♯FCG F5 C5 G5: A–E–C–A, E–E–B–G, A–E–C–A, G7–E–C–A, ♯FC: F–A–D–A, G–B–D–G, A–A–D–F, A–B–E–G♯, A–C♯–E–G7, D–A–D–F♯">
 
 ## Rules for Using FJS Transposition Lines (\*)
 
@@ -132,4 +132,4 @@ This chord progression demonstrates the usefulness of the rule that a Pythagorea
 
 The following example uses the eight notes C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, A, and B<sup>5</sup> without a key signature.
 
-<img src="../assets/example_10.png" alt="C-D-G-C-D-G-C-D-G, 5: E-A-B-E-A-B-E-A-B, loco: F-G-C-F-G-C-F-G-C, D-G-A-D-G-A-D-G-A">
+<img src="../assets/example_10.png" alt="C–D–G–C–D–G–C–D–G, 5: E–A–B–E–A–B–E–A–B, loco: F–G–C–F–G–C–F–G–C, D–G–A–D–G–A–D–G–A">
