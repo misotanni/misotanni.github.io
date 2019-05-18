@@ -72,6 +72,16 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 4. *Pythagorean accidentals divide notes with the same diatonic pitch class (C, D, E, F, G, A, or B) into their Pythagorean pitch classes. Hence, a Pythagorean accidental applies to all notes with the same diatonic pitch class in the same bar, until overwritten or canceled.* Analogically, microtonal accidentals divide notes with the same Pythagorean pitch class into their absolute JI pitches. Hence, a microtonal accidental applies to all notes with the same Pythagorean pitch class in the same bar, until overwritten or canceled. This means that, if the first E in a bar is written with a +5 accidental, then all other E in that bar in the same octave will also have the +5 accidental implied (until it is canceled with a 1), however, an E♭, just as much as a D or an F, will not have that accidental implied, even if it is in the same bar.
 
+**Examples:**
+
+The following two notes are G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> respectively.
+
+<img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
+
+The following four bars read: C♯<sup>5</sup> C♯<sup>5</sup>; C♯<sup>5</sup> C♯; C♯<sup>5</sup> C; C♯<sup>5</sup> C<sup>5</sup>.
+
+<img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
+
 ## Rules for Using FJS Key Signatures (\*)
 
 1. FJS key signatures work exactly like Pythagorean key signatures, are independent of them, and are written to the right of Pythagorean key signatures if they exist in the same score.
@@ -90,6 +100,24 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 8. FJS key signatures may be generally omitted in subsequent systems. This is simply because, being nonstandard key signatures, they are often inconvenient to write in digital musical notation software.
 
+**Examples:**
+
+The following is the just major scale in A; A, B, C♯<sup>5</sup>, D, E, F♯<sup>5</sup>, G♯<sup>5</sup>, A.
+
+<img src="../assets/example_6.png" alt="♯FCG F5 C5 G5: A-B-C-D-E-F-G-A">
+
+The following is the harmonic series fragment 8-16 in F; F, G, A<sup>5</sup>, B♭<sup>11</sup>, C, D♭<sup>13</sup>, E♭<sup>7</sup>, E<sup>5</sup>, F. (The key signature is not practical, but possible.)
+
+<img src="../assets/example_7.png" alt="♭B ♭D A5 E5 B11 D13 E(♭)7: F-G-A-B-C-D-E♭-E♮-F">
+
+The following chord progression contains two 10:12:14:17 diminished seventh chords and two 4:5:6 major triads, on A, D, G, and C, in that order.
+
+<img src="../assets/example_8.png" alt="E5 B5 F(♯)5 C(♯)5 B(♭)17 A(♭)17: C♯-B♭-E1-G7, D-A-D-F♯, B-A♭-D-F7, C-G-C-E">
+
+This chord progression demonstrates the usefulness of the rule that a Pythagorean key change doesn't reset an FJS key. It reads: A major, E major, A major, A dominant 7<sup>th</sup>, D major, G major, D major/A, E major/A, A dominant 7<sup>th</sup>, D major; where all major triads are 4:5:6 and all dominant seventh chords are 4:5:6:7. The FJS key stays the same after the modulation from A to D, which is useful because the G♯ in D is expected to be +5.
+
+<img src="../assets/example_9.png" alt="♯FCG F5 C5 G5: A-E-C-A, E-E-B-G, A-E-C-A, G7-E-C-A, ♯FC: F-A-D-A, G-B-D-G, A-A-D-F, A-B-E-G♯, A-C♯-E-G7, D-A-D-F♯">
+
 ## Rules for Using FJS Transposition Lines (\*)
 
 1. There exist FJS transposition lines, which work analogically to octave lines, but apply an FJS accidental instead of shifting by an octave.
@@ -98,4 +126,10 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with "5", a transposition line of +7−5 will begin with "7−5", etc. As with octave lines, "loco" following such a line is optional.
 
-4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals, FJS key signatures, and the special shortcut accidentals.
+4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
+
+**Examples:**
+
+The following example uses the eight notes C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, A, and B<sup>5</sup> without a key signature.
+
+<img src="../assets/example_10.png" alt="C-D-G-C-D-G-C-D-G, 5: E-A-B-E-A-B-E-A-B, loco: F-G-C-F-G-C-F-G-C, D-G-A-D-G-A-D-G-A">
