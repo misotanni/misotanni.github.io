@@ -26,7 +26,7 @@ defaults:
     values:
       otherlang: "En d'autres langues:"
       anyquestions: "Si vous avez des questions, n'hésitez pas à demander à l'auteur:"
-      return: "xruzva lo ralju"
+      return: "Retournez à la page d'accueil"
   -
     scope:
       path: "fjs/de"
