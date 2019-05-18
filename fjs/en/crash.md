@@ -343,7 +343,7 @@ However, one of the virtues of the FJS is that it can be fully automated. The ab
 >
 > 	$$(\text{comma} (p))^{-\alpha _p}$$
 >
->	where comma(*p*) is the formal comma of *p*.
+>	where $$\text{comma}(p)$$ is the formal comma of *p*.
 >
 > 3. The result will be Pythagorean. Transform it into FJS form.
 > 4. Now add the α<sub>*p*</sub> as accidentals – if positive, then otonal; if negative, then utonal.
