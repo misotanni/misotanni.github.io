@@ -20,7 +20,7 @@ $$d_{1,3}=\frac{f_3}{f_1}$$
 
 But this is also equal to the following:
 
-$$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \frac{f_1}{f_2}=d_{1,2} \cdot d_{2,3} \qedsymbol$$
+$$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \frac{f_1}{f_2}=d_{1,2} \cdot d_{2,3} \qed$$
 
 **Corollary.** The difference of two intervals is a quotient of magnitudes.
 
@@ -40,7 +40,7 @@ Now consider *t*=max⁡(*n*,*m*) and expand at most one of these products until 
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{t} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{t} \text{p}(j)^{\beta _j}}=\prod_{k=1}^{t} \text{p}(k)^{\gamma _k}$$
 
-By the Fundamental Theorem of Arithmetic, the exponents are differences of two natural numbers. The natural numbers are not closed under subtraction, but their least superset which is closed under subtraction is the set of integers. Hence there exists a unique representation of every just interval as a product of primes raised to integer exponents and the proposition holds. $$\qedsymbol$$
+By the Fundamental Theorem of Arithmetic, the exponents are differences of two natural numbers. The natural numbers are not closed under subtraction, but their least superset which is closed under subtraction is the set of integers. Hence there exists a unique representation of every just interval as a product of primes raised to integer exponents and the proposition holds. $$\qed$$
 
 ## Theorem 3
 
@@ -52,7 +52,7 @@ $$p^n=q^m$$
 
 The numbers *p* and *q* are already prime, so this also already is their prime factorization using the Fundamental Theorem of Arithmetic.
 
-This is an immediate contradiction, since by the Fundamental Theorem of Arithmetic, the decomposition of any positive integer into primes is unique, and here we have two different prime factorizations of the same positive integer. The only case where this is not a contradiction is if *n*, *m* are both zero. Then the positive integer in question is 1. But this is a contradiction with the assumption that *n*, *m* are both nonzero. $$\qedsymbol$$
+This is an immediate contradiction, since by the Fundamental Theorem of Arithmetic, the decomposition of any positive integer into primes is unique, and here we have two different prime factorizations of the same positive integer. The only case where this is not a contradiction is if *n*, *m* are both zero. Then the positive integer in question is 1. But this is a contradiction with the assumption that *n*, *m* are both nonzero. $$\qed$$
 
 **Corollary.** Taking *p* = 2, *q* = 3, we obtain the statement for octaves and perfect twelfths, equivalent to the statement for octaves and perfect fifths. This implies that a "circle" of just 3/2 fifths never closes.
 
@@ -118,7 +118,7 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C
 
 This is a unique representation of a JI interval with factors up to p⁡(*n* + 1) in terms of the factors up to p⁡(*n*). The induction step holds.
 
-As the statement has also been proven for the base case p⁡(*n*) = 5, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction. $$\qedsymbol$$
+As the statement has also been proven for the base case p⁡(*n*) = 5, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction. $$\qed$$
 
 ## Theorem 5
 
@@ -142,4 +142,4 @@ F♭, C♭, G♭, D♭, A♭, E♭, B♭, F, C, G, D, A, E, B, F♯, C♯, G♯,
 
 Using double flats and double sharps extends the chain to 17, using triple flats and triple sharps extends it even further to 24, etc.
 
-*The chain will never close to form a circle*, which we have proved in Theorem 3. Thus it is infinite in both directions, and so every note will correspond to an integer on the number line, which corresponds to a number of motions of fifths. $$\qedsymbol$$
+*The chain will never close to form a circle*, which we have proved in Theorem 3. Thus it is infinite in both directions, and so every note will correspond to an integer on the number line, which corresponds to a number of motions of fifths. $$\qed$$
