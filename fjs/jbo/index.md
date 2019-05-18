@@ -34,7 +34,7 @@ tu'u
 
 ## lo cuvyto'aci'e cu mo
 
-ni'o do ca'a retsku di'u i jo o'i do zvati lo toldra
+ni'o do ca'a retsku di'u i jo o'i do zvati lo toldra la'a
 
 ni'o so'e zgike poi cabna cu se jicmu lo togyci'e poi se cmene lu **dunto'aci'e li pa re** li'u a sa'u zo **dunto'aci'e**
 i dy jai fendi li re fi'u lo pa re togyku'e poi simxu lo nu dunli
