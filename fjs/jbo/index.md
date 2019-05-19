@@ -16,7 +16,7 @@ ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
 
 ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy e lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike
 i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste ku'o lo ka sepli skicu ro cuvyto'aci'e
-i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmyxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
+i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
 i fy jy sy traji lo ka mi jgira kei fo lo'i se ke snada co finti ke'e be mi be'o poi srana lo cmato'aku'e zgike
 
 ni'o la fancu ke curve ciste ku zo'u tu'e
@@ -85,22 +85,37 @@ i ku'i cy ty me loi parbi poi srana simxu ta'i lo melbi je ku'i ke zgike fange
 i lo cy ty zgike cu drata lo zgike poi ma'a ta'e ciska lu'e ke'a ku'o lo ka se jicmu
 i ja'e bo juxre ba'a fa lo nu troci co skicu cy ty se pi'o lo zgisnici'e
 
-Why, then, did I choose to pursue this idea despite this difficulty? The reason is because staff notation is a language for communication between musicians, and while it is not perfect, it is universal - every musician can communicate in it. Furthermore, as musicians, we are accustomed to thinking in its terms. Wouldn't it be very useful to translate the beautiful and regular, but quite unintuitive, language of Just Intonation into the old, familiar language of staff notation? Wouldn't it allow musicians to comprehend Just Intonation with more intuition, and extend its tools to all the processes - composition, analysis, and performance - of conventional music?
+ni'o mi pu jdice co zukte to'e ki'u nai la'e di'u fi lo bi'u nai sidbo ki'u ma
+i ki'u lo du'u lo zgisnici'e cu bangu ro lo zgipre gi'e prane na je kampu
+i za'u mai ma'a noi zgipre cu se slabu lo nu pensi ci'e lo zgisnici'e
+i pau nai xu mutce xamgu fa lo nu fanva fo lo cy ty melbi je stura je nai jijnu se gerna fi lo lo zgisnici'e ku se gerna poi slabu
+i pau nai xu nibli lo du'u lo zgipre cu zenba co jijnu fi cy ty gi'e sibypevyfanva lo cy ty tutci ro lo lo fadni zgike ku pruce ne mu'u lo nu zgifi'i je lanli je tigni
 
-**Indeed, it would.**
+**i ja'a go'i**
 
-The FJS is much more than just a notation system for Just Intonation. The construction of the FJS not only allowed me to make sense of the seemingly shapeless mess that Just Intonation first presented to me. It also showed me that staff notation is much more logical and much more connected to Just Intonation than I ever would have thought. I invite you, as well, to comprehend the beauty and simplicity of the FJS, and understand how its inner musical cogs connect the workings of two concepts that seem completely alien to each other.
+ni'o fy jy sy cu cuvyto'aci'e snici'e po'o ba'e nai
+i lo nu mi zbasu fy jy sy vau cu nibli po'o nai lo nu mi jimpe fi le simlu kalsa pe cy ty
+i ji'a jarco fi mi fe lo du'u lo zgisnici'e cu logji je srana be cy ty vau ue sai bu'o nai
+i mi cpedu fi do ji'a fe lo nu jimpe fi lo melbi je frili pe fy jy sy gi'e jimpe lo nu lo ri zgike denxi'u pe'a cu gasnu lo nu re sidbo poi fange simxu simlu cu srana simxu
 
-One concept I would compare the FJS to is Lojban: a constructed language that was created to see what would happen to people's thinking when the language they used was completely logical and actually made sense. I believe the FJS to be a Lojban for microtonal music. I think that, in the same way Lojban makes people think in logic terms, the FJS will help musicians *think* in JI, and their composition, analysis, and performance will be able to blend in much better with their existing knowledge of music theory, as the FJS allows existing music theory to be intertwined with JI music theory.
+ni'o mi karbi fy jy sy la lojban no'u lo jbobau
+i lo jbobau cu runbau gi'e se finti fi lo nu facki lo nu lo prenu cu pensi ci'e ma kau ca lo nu se bangu da poi logji
+i pe'i fy jy sy cu jbobau pe'a co ke cmato'aku'e zgike
+i pe'i lo jbobau fa'u fy jy sy rinka lo nu lo prenu fa'u lo zgipre cu pensi ci'e lo logji fa'u cy ty
+i ji'a lo nu zgifi'i je lanli je tigni cu binxo co sarxe lo co'a se djuno fi lo zgike ente'ori
+i ki'u bo fy jy sy jai curmi lo nu lo co'a zgike ente'ori cu srana lo cy ty zgike ente'ori
 
-## What Now?
+## ca mo
 
-- Go here for a [crash course](crash.html) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
-- Read the [complete formal description](rules.html) for a reference of the exact rules when in doubt.
-- Read the [original article](guide.html) on the FJS.
-- See the [mathematics](math.html) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
-- See a [comparison](compare.html) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
-- Use the website's [calculators](calc.html) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
-- See many more [examples](examples.html) of the FJS in usage.
+ni'o tu'e
 
-**Start discovering the Functional Just System now!**
+- i zvati ti fa [la sutra cilre](crash.html) pe fy jy sy i lo midju nu jimpe fi cy ty zo'u lo nu cilre fi fy jy sy cu mentu li so'u
+- i ko tcidu [lo gerna velski](rules.html) mu'i lo nu facki fi lo javni ca lo nu do senpi
+- i ko zgana [lo cmaci](math.html) pe fy jy sy i lo ctaipe be lo du'u fy jy sy cu pavysmu gi'e ckaji so'i da vau cu zvati ti
+- i ko viska [lo nu karbi](compare.html) fy jy sy boi re drata je jivna snici'e pe la xelmxolts elis e la ben djonston i ko jimpe lo du'u fy jy sy zmadu xy e by ki'u ma kau
+- i ko pilno [lo vi kanji](calc.html) pe lo fy jy sy zmiku se kanji i e'u ko ca rejgau
+- i ko lanli [so'i mupli](examples.html) lo ka fy jy sy se pilno
+
+tu'u
+
+**i e'e sai ko ca cfagau lo nu facki fi fy jy sy**
