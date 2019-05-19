@@ -223,7 +223,7 @@ One point for Helmholtz-Ellis and the FJS.
 
 All right, you may think, here's all this abstract analysis, but what about actual examples? How do the three systems perform *in practice*?
 
-Below I've provided examples of actual common JI contexts, so it can be seen how all three systems compare in their efficiency within these contexts. (To name notes in Helmholtz-Ellis, I just use +5, +7, etc. for upward accidentals, and −5, −7, etc. for downward accidentals, to reflect its pitch notation. For Johnston, I used the character L for an inverse 7, as used in Kyle Gann's guide.)
+Below I've provided examples of actual common JI contexts, so it can be seen how all three systems compare in their efficiency within these contexts. (To name notes in Helmholtz-Ellis, I just use +5, +7, etc. for upward accidentals, and −5, −7, etc. for downward accidentals, to reflect its pitch notation.)
 
 ### The Harmonic Series 1-32
 
