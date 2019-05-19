@@ -281,7 +281,7 @@ C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G
 
 **Helmholtz-Ellis.** On par with the FJS. Virtually identical.
 
-C♯−5, D, D♯−5, E, E♯−25, F♯−5, G, G♯−5, A, A♯−25, B−5, B♯−25, C♯−5.
+C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, B−5, B♯−5−5, C♯−5.
 
 **Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
 
