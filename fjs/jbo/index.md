@@ -56,7 +56,7 @@ ni'o ro da poi cuvyto'aci'e zgiselfi'i zo'u la'e do'e lu'u noi javni ze moi cu b
 i ja'a ze po'o mei
 i tu'e
 
-1. i ro lo zgika'usni joi lo togystika poi fadni cu se skicu fo tu'a lo cistrpitagora i me'o py bi fa'u me'o py mu cu sinxa lo se togyku'e be li re fi'u fa'u li ci fi'u re
+1. i ro lo zgika'usni joi lo togystika poi fadni cu se skicu fo tu'a lo cistrpitagora i me'o py bi fa'u me'o py mu cu sinxa lo togyku'e pe li re fi'u fa'u li ci fi'u re
 
 2. i lo ro togyku'e poi frinu fe ja fi su'o dilcysle poi zmadu li ci ku'o ne mu'u li mu ce li ze cu se ke steci fancu fi lo jibni poi se cistrpitagora kei lo fy jy sy ralju algoritma i a bu kanji tu'a lo sampu je simsa be lo dilcysle banzu i lo ve vimcu be ri bei lo dilcysle cu srana lo pa togystika pe dy i lu'e dy sinxa lo togystika
 
@@ -64,7 +64,7 @@ i tu'e
 
 4. i lo togystika poi pluja cu se sinxa lo pilji be lo galto'a be'o jo'u lo pilji be lo dzito'a i mu'a li ma'u mu cu se kurtenfa li ma'u re mu i lo galto'a jo'u lo dzito'a ka'e nai mixre i cumki fa lo nu cusku lu'e lo dilcysle jo'u lo lerkoma fau lo nu lo pilji cu barda dukse
 
-5. i lo cmene be lo zgika'u zo'u lo togystika cu jmina fa'u vimcu gi'o se ke li'erla'i tcita me'o ma'u lo'o fa'u me'o ni'u
+5. i lo cmene be lo zgika'u zo'u lo togystika cu jmina fa'u vimcu gi'o se ke li'erla'i tcita la'e zo ma'u fa'u zo ni'u
 
 6. i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba lu'u ce'o lu'e lo togystika poi jdika lu'u se ce'o bo lu'e me'o ni'u lu'u ce'o lu'e lo fadni togystika lu'u ce'o lu'e lo zgika'u
 
@@ -72,9 +72,18 @@ i tu'e
 
 tu'u
 
-## Why the FJS?
+## fy jy sy mu'i ma
 
-Why even the need for the FJS? What is the motivation that drove me to create this notation system? What benefits for musicians are tied to the usage of this system? Why use it, and how does it help with composing and analyzing Just Intonation music? Why even try to map Just Intonation onto staff notation in the first place? After all, staff notation is designed for music revolving around the circle of fifths and the diatonic scale, while Just Intonation is a bunch of ratios connected in beautiful, but musically alien, ways. Just Intonation music works very differently from the music we are used to notating, and so any attempt to present Just Intonation music in such a way seems like it should be clunky and unnatural.
+ni'o ma te zukte tu'a fy jy sy
+i ma mukti lo nu finti ri vau mi
+i ma prali lo zgipre lo nu pilno ri
+i pilno mu'i ma
+i mo sidju fi lo nu finti je lanli lo cuvyto'aci'e zgike
+i troci co jai galfi cy ty lo zgisnici'e mu'i ba'e ma
+i li'a lo zgisnici'e cu se finti fi tu'a lo zgike poi se jicmu lo tonga cukla jo'u lo cistrxiioniiano
+i ku'i cy ty me loi parbi poi srana simxu ta'i lo melbi je ku'i ke zgike fange
+i lo cy ty zgike cu drata lo zgike poi ma'a ta'e ciska lu'e ke'a ku'o lo ka se jicmu
+i ja'e bo juxre ba'a fa lo nu troci co skicu cy ty se pi'o lo zgisnici'e
 
 Why, then, did I choose to pursue this idea despite this difficulty? The reason is because staff notation is a language for communication between musicians, and while it is not perfect, it is universal - every musician can communicate in it. Furthermore, as musicians, we are accustomed to thinking in its terms. Wouldn't it be very useful to translate the beautiful and regular, but quite unintuitive, language of Just Intonation into the old, familiar language of staff notation? Wouldn't it allow musicians to comprehend Just Intonation with more intuition, and extend its tools to all the processes - composition, analysis, and performance - of conventional music?
 
