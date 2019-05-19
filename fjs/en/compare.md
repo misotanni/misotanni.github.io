@@ -230,7 +230,7 @@ Below I've provided examples of actual common JI contexts, so it can be seen how
 **FJS.** This table took me about a minute to write.
 
 | C               | C               | G               | C              | E<sup>5</sup>   | G              | B♭<sup>7</sup>  | C |
-|-----------------|-----------------|-----------------|----------------|-----------------|----------------|-----------------|---|
+|:----------------|:----------------|:----------------|:---------------|:----------------|:---------------|:----------------|:--|
 | D               | E<sup>5</sup>   | F<sup>11</sup>  | G              | A♭<sup>13</sup> | B♭<sup>7</sup> | B<sup>5</sup>   | C |
 | D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>  | F<sup>7</sup>   | F<sup>11</sup> | F♯<sup>23</sup> | G |
 | G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup> | B♭<sup>29</sup> | B<sup>5</sup>  | B<sup>31</sup>  | C |
@@ -238,7 +238,7 @@ Below I've provided examples of actual common JI contexts, so it can be seen how
 **Helmholtz-Ellis.** This table took me roughly two minutes to write, being initially uncertain of my results. I used the calculator to verify them.
 
 | C       | C    | G     | C    | E−5     | G    | B♭−7    | C |
-|---------|------|-------|------|---------|------|---------|---|
+|:--------|:-----|:------|:-----|:--------|:-----|:--------|:--|
 | D       | E−5  | F+11  | G    | A−13    | B♭−7 | B−5     | C |
 | D♭+5−17 | D    | E♭+19 | E−5  | F−7     | F+11 | F♯+23   | G |
 | G♯−5−5  | A−13 | A     | B♭−7 | B♭+5+29 | B−5  | C−11−31 | C |
@@ -246,7 +246,7 @@ Below I've provided examples of actual common JI contexts, so it can be seen how
 **Ben Johnston.** This table took roughly three minutes, given that I have actually seen this fragment of the harmonic series in Johnston's system before.
 
 | C    | C    | G    | C   | E    | G   | BL♭   | C |
-|------|------|------|-----|------|-----|-------|---|
+|:-----|:-----|:-----|:----|:-----|:----|:------|:--|
 | D    | E    | F↑   | G   | A♭13 | BL♭ | B     | C |
 | C♯17 | D    | E♭19 | E   | FL+  | F↑  | F♯23+ | G |
 | G♯   | A♭13 | A+   | BL♭ | B♭29 | B   | B31   | C |
