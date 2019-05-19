@@ -56,7 +56,7 @@ ni'o ro da poi cuvyto'aci'e zgiselfi'i zo'u la'e do'e lu'u noi javni ze moi cu b
 i ja'a ze po'o mei
 i tu'e
 
-1. i ro lo zgika'usni joi lo togystika poi fadni cu se skicu fo tu'a lo cistrpitagora i me'o py bi fa'u me'o py mu cu sinxa lo togyku'e be li re fi'u fa'u li ci fi'u re
+1. i ro lo zgika'usni joi lo togystika poi fadni cu se skicu fo tu'a lo cistrpitagora i me'o py bi fa'u me'o py mu cu sinxa lo se togyku'e be li re fi'u fa'u li ci fi'u re
 
 2. i lo ro togyku'e poi frinu fe ja fi su'o dilcysle poi zmadu li ci ku'o ne mu'u li mu ce li ze cu se ke steci fancu fi lo jibni poi se cistrpitagora kei lo fy jy sy ralju algoritma i a bu kanji tu'a lo sampu je simsa be lo dilcysle banzu i lo ve vimcu be ri bei lo dilcysle cu srana lo pa togystika pe dy i lu'e dy sinxa lo togystika
 
@@ -64,9 +64,9 @@ i tu'e
 
 4. i lo togystika poi pluja cu se sinxa lo pilji be lo galto'a be'o jo'u lo pilji be lo dzito'a i mu'a li ma'u mu cu se kurtenfa li ma'u re mu i lo galto'a jo'u lo dzito'a ka'e nai mixre i cumki fa lo nu cusku lu'e lo dilcysle jo'u lo lerkoma fau lo nu lo pilji cu barda dukse
 
-5. i lo cmene be lo zgika'u zo'u lo togystika cu jmina fa'u vimcu gi'o se ke li'erla'i tcita zo ma'u fa'u zo ni'u
+5. i lo cmene be lo zgika'u zo'u lo togystika cu jmina fa'u vimcu gi'o se ke li'erla'i tcita me'o ma'u lo'o fa'u me'o ni'u
 
-6. i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba lu'u jo'u lu'e lo togystika poi jdika lu'u se jo'u bo lu'e me'o ni'u lu'u jo'u lu'e lo fadni togystika lu'u jo'u lu'e lo zgika'u
+6. i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba lu'u ce'o lu'e lo togystika poi jdika lu'u se ce'o bo lu'e me'o ni'u lu'u ce'o lu'e lo fadni togystika lu'u ce'o lu'e lo zgika'u
 
 7. i ro drata cu jai jai se mu'i ciska sutra
 
