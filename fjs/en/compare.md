@@ -38,7 +38,7 @@ Note: *Kyle Gann has written an interesting counterpoint to this issue in his gu
 
 One point for Helmholtz-Ellis and the FJS.
 
-> **FJS: 1, HE: 1, BJ: 0.**
+> **FJS: 1, HE: 1, Johnston: 0.**
 
 ## Choice of Accidentals
 
@@ -77,7 +77,7 @@ What about Ben Johnston, then? Here is the list up to the 31-limit:
 
 - 81/80, a 5-comma, which does not quite have the same status as an accidental, it's more of an adjustment (because Johnston's notation is riddled with syntonic commas).
 - 35/36, a 7-comma with a factor of five.
-- 33/32, a 11-comma.
+- 33/32, an 11-comma.
 - 65/64, a 13-comma with a factor of five.
 - 51/50, a 17-comma with a factor of twenty-five.
 - 95/96, a 19-comma with a factor of five.
@@ -93,7 +93,7 @@ The FJS is similar to Johnston in this respect; it always maps Pythagorean tunin
 
 One point for Johnston and the FJS.
 
-> **FJS: 2, HE: 1, BJ: 1.**
+> **FJS: 2, HE: 1, Johnston: 1.**
 
 ## Origin of Accidentals
 
@@ -111,7 +111,7 @@ For the FJS, this is one of the three most important advantages from using an al
 
 One point for the FJS, half a point for Helmholtz-Ellis.
 
-> **FJS: 3, HE: 1.5, BJ: 1.**
+> **FJS: 3, HE: 1.5, Johnston: 1.**
 
 ## Form of Accidentals
 
@@ -135,7 +135,7 @@ The FJS uses the number itself to represent all accidentals, and they are merged
 
 One point for the FJS, half a point for Johnston.
 
-> **FJS: 4, HE: 1.5, BJ: 1.5.**
+> **FJS: 4, HE: 1.5, Johnston: 1.5.**
 
 ## Behavior of Accidentals
 
@@ -153,7 +153,7 @@ Ben Johnston would be nearly tied with the FJS on this point, except the really 
 
 One point for Johnston and the FJS.
 
-> **FJS: 5, HE: 1.5, BJ: 2.5.**
+> **FJS: 5, HE: 1.5, Johnston: 2.5.**
 
 ## Note Naming
 
@@ -169,7 +169,7 @@ Neither system has any evidence of interval naming, which is a direct translatio
 
 One point for the FJS, half a point for Johnston.
 
-> **FJS: 6, HE: 1.5, BJ: 3.**
+> **FJS: 6, HE: 1.5, Johnston: 3.**
 
 ## Scope and Precision
 
@@ -179,11 +179,11 @@ As for scope, I could say that the FJS comes in at first place, Helmholtz-Ellis 
 
 This is the second extremely important advantage that the FJS has from using an algorithm: it literally has no limits.
 
-(Still, given how far behind Helmholtz-Ellis is, it can have half a point.)
+(Still, given how far ahead Helmholtz-Ellis is, it can have half a point.)
 
 One point for the FJS, half a point for Helmholtz-Ellis.
 
-> **FJS: 7, HE: 2, BJ: 3.**
+> **FJS: 7, HE: 2, Johnston: 3.**
 
 ## Automatization
 
@@ -195,26 +195,19 @@ As for Johnston? The same website has a [Johnston to HE converter](https://www.p
 
 One of the merits of the FJS is that its algorithms are easy to implement in your head and carry out instantly without any external tools, which makes using it much faster. But if you wanted to do the same in Johnston's notation...
 
-> For every 5 in the numerator: 
-> Ascend one major 3rd. (Add plus if starting on a D.)
+> *For every 5 in the numerator: Ascend one major 3rd. (Add plus if starting on a D.)*
 >
-> For every 7 in the numerator: 
-> Ascend one minor seventh and add a 7. (Add plus if starting on a G, B, or D.)
+> *For every 7 in the numerator: Ascend one minor seventh and add a 7. (Add plus if starting on a G, B, or D.)*
 >
-> For every 9 in the numerator: 
-> Ascend one major second. (Add plus if starting on an E, G, B, or D.)
+> *For every 9 in the numerator: Ascend one major second. (Add plus if starting on an E, G, B, or D.)*
 >
-> For every 11 in the numerator: 
-> Ascend one perfect fourth and add ↑. (Add minus if starting on an A or F.)
+> *For every 11 in the numerator: Ascend one perfect fourth and add ↑. (Add minus if starting on an A or F.)*
 >
-> For every 13 in the numerator: 
-> Ascend one minor sixth and add a 13. (Add minus if starting on an F.)
+> *For every 13 in the numerator: Ascend one minor sixth and add a 13. (Add minus if starting on an F.)*
 >
-> For every 17 in the numerator: 
-> Add a sharp and a 17.
+> *For every 17 in the numerator: Add a sharp and a 17.*
 >
-> For every 19 in the numerator: 
-> Ascend a minor third and add a 19. (Add plus if starting on a D.)
+> *For every 19 in the numerator: Ascend a minor third and add a 19. (Add plus if starting on a D.)*
 
 This is just a fragment of the long list of rules required to derive the notation from JI ratios in Johnston notation, as given in Kyle Gann's guide.
 
@@ -224,7 +217,11 @@ And yes, this is just an *excerpt* of the Johnston notation equivalent of someth
 
 One point for Helmholtz-Ellis and the FJS.
 
-> **FJS: 8, HE: 3, BJ: 3.**
+> **FJS: 8, HE: 3, Johnston: 3.**
+
+## Examples
+
+All right, you may think, here's all this abstract analysis, but what about actual examples? How do the three systems perform *in practice*?
 
 ## Verdict
 
