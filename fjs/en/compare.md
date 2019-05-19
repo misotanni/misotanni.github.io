@@ -20,11 +20,11 @@ Ben Johnston, on the other hand, does something a little more... innovative. It 
 - F – A, C – E, and G – B are 5/4 major thirds.
 - The standard sharp and flat represent accidentals of 25/24 (a Pythagorean chromatic semitone minus two syntonic commas; A1<sup>25</sup>).
 
-This is done, I presume, so that C-E-G, F-A-C and G-B-D are all 4:5:6 major triads, and C-E♭-G, F-A♭-C and G-B♭-D are all 10:12:15 minor triads. Hence we get C-D-E-F-G-A-B-C as Ptolemy's intense diatonic or just major scale, and C-D-E♭-F-G-A♭-B♭-C as the just minor scale.
+This is done, I presume, so that C–E–G, F–A–C and G–B–D are all 4:5:6 major triads, and C–E♭–G, F–A♭–C and G–B♭–D are all 10:12:15 minor triads. Hence we get C–D–E–F–G–A–B–C as Ptolemy's intense diatonic or just major scale, and C–D–E♭–F–G–A♭–B♭–C as the just minor scale.
 
 I assume therefore that the alleged goal is to make the notation of 5-limit music based on diatonic harmony easier, at the cost of literally everything else.
 
-But this is not the case; even 5-limit diatonic harmony becomes harder to write this way. D-A is not a perfect fifth; it is 40/27. This means that Johnston's accidentals for the syntonic comma (pluses and minuses for upward and downward motion respectively) are found literally everywhere. On the Tonalsoft microtonal music [encyclopedia entry](http://www.tonalsoft.com/enc/j/johnston.aspx) for Johnston notation, Joe Monzo writes:
+But this is not the case; even 5-limit diatonic harmony becomes harder to write this way. D–A is not a perfect fifth; it is 40/27. This means that Johnston's accidentals for the syntonic comma (pluses and minuses for upward and downward motion respectively) are found literally everywhere. On the Tonalsoft microtonal music [encyclopedia entry](http://www.tonalsoft.com/enc/j/johnston.aspx) for Johnston notation, Joe Monzo writes:
 
 > *It is the opinion of several tuning-theorists that Johnston's notational idea is a good one, but that it could be improved by using a Pythagorean scale instead of a 5-limit one as a basis.*
 
@@ -32,13 +32,13 @@ In fact, the inconsistency of the natural notes causes an absolute avalanche of 
 
 Music that contains no factors of five, such as La Monte Young's Well-Tuned Piano tuning (which famously only makes use of the prime factors 2, 3, and 7), requires lots of syntonic commas in its Johnston representation, even though not a single factor of 5 appears in the tuning. This is quite simply absurd. (The bottom of this page lists many such comparisons.)
 
-It is virtually impossible to transpose in Johnston notation. A piece written in Helmholtz-Ellis or the FJS can easily be transposed up by a 3/2 fifth by simply changing the Pythagorean parts of the note names, and keeping all microtonal accidentals unchanged. It can even be easily transposed by a non-Pythagorean interval, like 5/4: just transpose by 81/64 and then add +5 to all notes. In contrast, a piece written in Johnston notation cannot be easily transposed by any Pythagorean or 5-limit (let alone more complicated) interval. If the piece is originally in G, then transposing it to D would additionally require adding a syntonic comma accidental (a plus) to every A, because G-D (3/2) is not the same interval as D-A (40/27), and adding an inverse syntonic comma (a minus) to every F, because G-B♭ (6/5) is not the same as D-F (32/27). Transposing instruments would need to have their part completely rewritten with countless additional pluses and minuses, even if the interval they deviate by is as simple as a strong whole tone. This is clearly seen in Kyle Gann's guide, which lists **seven** different versions of the 16-32 portion of the harmonic series, depending on the tonic!
+It is virtually impossible to transpose in Johnston notation. A piece written in Helmholtz-Ellis or the FJS can easily be transposed up by a 3/2 fifth by simply changing the Pythagorean parts of the note names, and keeping all microtonal accidentals unchanged. It can even be easily transposed by a non-Pythagorean interval, like 5/4: just transpose by 81/64 and then add +5 to all notes. In contrast, a piece written in Johnston notation cannot be easily transposed by any Pythagorean or 5-limit (let alone more complicated) interval. If the piece is originally in G, then transposing it to D would additionally require adding a syntonic comma accidental (a plus) to every A, because G–D (3/2) is not the same interval as D–A (40/27), and adding an inverse syntonic comma (a minus) to every F, because G–B♭ (6/5) is not the same as D–F (32/27). Transposing instruments would need to have their part completely rewritten with countless additional pluses and minuses, even if the interval they deviate by is as simple as a strong whole tone. This is clearly seen in Kyle Gann's guide, which lists **seven** different versions of the 16–32 portion of the harmonic series, depending on the tonic!
 
 Note: *Kyle Gann has written an interesting counterpoint to this issue in his guide to Johnston notation. I respond to it directly at the bottom of this page.*
 
 One point for Helmholtz-Ellis and the FJS.
 
-**FJS: 1, HE: 1, Johnston: 0.**
+> **FJS: 1, HE: 1, BJ: 0.**
 
 ## Choice of Accidentals
 
@@ -93,7 +93,7 @@ The FJS is similar to Johnston in this respect; it always maps Pythagorean tunin
 
 One point for Johnston and the FJS.
 
-**FJS: 2, HE: 1, Johnston: 1.**
+> **FJS: 2, HE: 1, BJ: 1.**
 
 ## Origin of Accidentals
 
@@ -111,7 +111,7 @@ For the FJS, this is one of the three most important advantages from using an al
 
 One point for the FJS, half a point for Helmholtz-Ellis.
 
-**FJS: 3, HE: 1.5, Johnston: 1.**
+> **FJS: 3, HE: 1.5, BJ: 1.**
 
 ## Form of Accidentals
 
@@ -135,7 +135,7 @@ The FJS uses the number itself to represent all accidentals, and they are merged
 
 One point for the FJS, half a point for Johnston.
 
-**FJS: 4, HE: 1.5, Johnston: 1.5.**
+> **FJS: 4, HE: 1.5, BJ: 1.5.**
 
 ## Behavior of Accidentals
 
@@ -153,7 +153,7 @@ Ben Johnston would be nearly tied with the FJS on this point, except the really 
 
 One point for Johnston and the FJS.
 
-**FJS: 5, HE: 1.5, Johnston: 2.5.**
+> **FJS: 5, HE: 1.5, BJ: 2.5.**
 
 ## Note Naming
 
@@ -169,7 +169,7 @@ Neither system has any evidence of interval naming, which is a direct translatio
 
 One point for the FJS, half a point for Johnston.
 
-**FJS: 6, HE: 1.5, Johnston: 3.**
+> **FJS: 6, HE: 1.5, BJ: 3.**
 
 ## Scope and Precision
 
@@ -183,7 +183,7 @@ This is the second extremely important advantage that the FJS has from using an 
 
 One point for the FJS, half a point for Helmholtz-Ellis.
 
-**FJS: 7, HE: 2, Johnston: 3.**
+> **FJS: 7, HE: 2, BJ: 3.**
 
 ## Automatization
 
@@ -205,7 +205,7 @@ One of the merits of the FJS is that its algorithms are easy to implement in you
 > Ascend one major second. (Add plus if starting on an E, G, B, or D.)
 >
 > For every 11 in the numerator: 
-> Ascend one perfect fourth and add ^ (up-arrow). (Add minus if starting on an A or F.)
+> Ascend one perfect fourth and add ↑. (Add minus if starting on an A or F.)
 >
 > For every 13 in the numerator: 
 > Ascend one minor sixth and add a 13. (Add minus if starting on an F.)
@@ -224,7 +224,7 @@ And yes, this is just an *excerpt* of the Johnston notation equivalent of someth
 
 One point for Helmholtz-Ellis and the FJS.
 
-**FJS: 8, HE: 3, Johnston: 3.**
+> **FJS: 8, HE: 3, BJ: 3.**
 
 ## Verdict
 
