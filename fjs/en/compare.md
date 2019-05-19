@@ -245,11 +245,11 @@ Below I've provided examples of actual common JI contexts, so it can be seen how
 
 **Ben Johnston.** This table took roughly three minutes, given that I have actually seen this fragment of the harmonic series in Johnston's system before.
 
-| C    | C    | G    | C   | E    | G   | BL♭   | C |
+| C    | C    | G    | C   | E    | G   | B7♭   | C |
 |:-----|:-----|:-----|:----|:-----|:----|:------|:--|
-| D    | E    | F↑   | G   | A♭13 | BL♭ | B     | C |
-| C♯17 | D    | E♭19 | E   | FL+  | F↑  | F♯23+ | G |
-| G♯   | A♭13 | A+   | BL♭ | B♭29 | B   | B31   | C |
+| D    | E    | F↑   | G   | A♭13 | B7♭ | B     | C |
+| C♯17 | D    | E♭19 | E   | F7+  | F↑  | F♯23+ | G |
+| G♯   | A♭13 | A+   | B7♭ | B♭29 | B   | B31   | C |
 
 ### La Monte Young's "Well-Tuned Piano"
 
