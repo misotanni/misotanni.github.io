@@ -223,6 +223,70 @@ One point for Helmholtz-Ellis and the FJS.
 
 All right, you may think, here's all this abstract analysis, but what about actual examples? How do the three systems perform *in practice*?
 
+Below I've provided examples of actual common JI contexts, so it can be seen how all three systems compare in their efficiency within these contexts. (To name notes in Helmholtz-Ellis, I just use +5, +7, etc. for upward accidentals, and −5, −7, etc. for downward accidentals, to reflect its pitch notation. For Johnston, I used the character L for an inverse 7, as used in Kyle Gann's guide.)
+
+### The Harmonic Series 1-32
+
+**FJS.** This table took me about a minute to write.
+
+| C               | C               | G               | C              | E<sup>5</sup>   | G              | B♭<sup>7</sup>  | C |
+|-----------------|-----------------|-----------------|----------------|-----------------|----------------|-----------------|---|
+| D               | E<sup>5</sup>   | F<sup>11</sup>  | G              | A♭<sup>13</sup> | B♭<sup>7</sup> | B<sup>5</sup>   | C |
+| D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>  | F<sup>7</sup>   | F<sup>11</sup> | F♯<sup>23</sup> | G |
+| G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup> | B♭<sup>29</sup> | B<sup>5</sup>  | B<sup>31</sup>  | C |
+
+**Helmholtz-Ellis.** This table took me roughly two minutes to write, being initially uncertain of my results. I used the calculator to verify them.
+
+| C       | C    | G     | C    | E−5     | G    | B♭−7    | C |
+|---------|------|-------|------|---------|------|---------|---|
+| D       | E−5  | F+11  | G    | A−13    | B♭−7 | B−5     | C |
+| D♭+5−17 | D    | E♭+19 | E−5  | F−7     | F+11 | F♯+23   | G |
+| G♯−5−5  | A−13 | A     | B♭−7 | B♭+5+29 | B−5  | C−11−31 | C |
+
+**Ben Johnston.** This table took roughly three minutes, given that I have actually seen this fragment of the harmonic series in Johnston's system before.
+
+| C    | C    | G    | C   | E    | G   | BL♭   | C |
+|------|------|------|-----|------|-----|-------|---|
+| D    | E    | F↑   | G   | A♭13 | BL♭ | B     | C |
+| C♯17 | D    | E♭19 | E   | FL+  | F↑  | F♯23+ | G |
+| G♯   | A♭13 | A+   | BL♭ | B♭29 | B   | B31   | C |
+
+### La Monte Young's "Well-Tuned Piano"
+
+**Young's notation.** (I write the scale as ascending, not as a sequence of keys on the keyboard, so G♯ comes before G as it is a lower pitch.)
+
+E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
+
+**FJS.** Exactly as concise as Young, without relying on an arbitrary keyboard mapping. Also notates the tonic as its true pitch with reference to A = 440 Hz, the tuning of Young's piano.
+
+D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+
+**Helmholtz-Ellis.** A little less concise.
+
+E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
+
+**Ben Johnston.** Very inconcise. Also note the abundance of syntonic comma accidentals, in a tuning with no factor of five.
+
+E♭, F7++, F+, G77♭+, A77♭++, A7♭+, B7♭+, B♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+
+### Terry Riley's "Harp of New Albion"
+
+**Riley's notation.**
+
+C♯, D, D♯, E, E♯, F♯, G, G♯, A, A♯, B, B♯, C♯.
+
+**FJS.** The Pythagorean pitch classes match Riley's.
+
+C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G, G♯<sup>5</sup>, A, A♯<sup>25</sup>, B<sup>5</sup>, B♯<sup>25</sup>, C♯<sup>5</sup>.
+
+**Helmholtz-Ellis.** On par with the FJS. Virtually identical.
+
+C♯−5, D, D♯−5, E, E♯−25, F♯−5, G, G♯−5, A, A♯−25, B−5, B♯−25, C♯−5.
+
+**Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
+
+C♯−, D, D♯−, E+, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+
 ## Verdict
 
 Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis notation, unsurprisingly, is quite bad, being the first attempt at such a task. Johnston notation, given its absurd choice of the natural notes, is considerably worse than even Helmholtz-Ellis; its equal score is a result of figurative transfer error. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
