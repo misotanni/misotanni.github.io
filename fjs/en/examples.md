@@ -7,7 +7,6 @@ This page contains more examples of the FJS in usage.
 ### Harry Partch's 43-tone Genesis Scale
 
 | P1                         | P1<sub>5</sub>  | P1<sup>11</sup> | m2<sup>7</sup><sub>5</sub> | m2<sub>5</sub>              | M2<sub>11</sub> | m2<sup>11</sup><sub>5</sub> | M2<sup>5</sup>             | M2              | M2<sub>7</sub>  | m3<sup>7</sup>             |
-|:---------------------------|:----------------|:----------------|:---------------------------|:----------------------------|:----------------|:----------------------------|:---------------------------|:----------------|:----------------|:---------------------------|
 | m3                         | m3<sub>5</sub>  | m3<sup>11</sup> | M3<sup>5</sup>             | P4<sup>7</sup><sub>11</sub> | M3<sub>7</sub>  | P4<sup>7</sup>              | P4                         | P4<sub>5</sub>  | P4<sup>11</sup> | d5<sup>7</sup><sub>5</sub> |
 | A4<sup>5</sup><sub>7</sub> | d5<sub>11</sub> | P5<sup>5</sup>  | P5                         | P5<sub>7</sub>              | m6<sup>7</sup>  | P5<sup>11</sup><sub>7</sub> | m6<sub>5</sub>             | M6<sub>11</sub> | M6<sup>5</sup>  | M6                         |
 | M6<sub>7</sub>             | m7<sup>7</sup>  | m7              | m7<sub>5</sub>             | M7<sup>5</sup><sub>11</sub> | m7<sup>11</sup> | M7<sup>5</sup>              | M7<sup>5</sup><sub>7</sub> | P8<sub>11</sub> | P8<sup>5</sup>  | P8                         |
@@ -15,20 +14,17 @@ This page contains more examples of the FJS in usage.
 ### Dante Rosati's 21-tone Scale
 
 | P1                         | m2<sub>5</sub> | M2<sup>5</sup> | M2             | M2<sub>7</sub> | m3<sup>7</sup> | m3<sub>5</sub> | M3<sup>5</sup> | M3<sub>7</sub> | P4             | d5<sup>7</sup><sub>5</sub> |
-|:---------------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------------------|
 | A4<sup>5</sup><sub>7</sub> | P5             | m6<sup>7</sup> | m6<sub>5</sub> | M6<sup>5</sup> | M6<sub>7</sub> | m7<sup>7</sup> | m7             | m7<sub>5</sub> | M7<sup>5</sup> | P8                         |
 
 ### Michael Harrison's Revelation Tuning
 
 | +7:4           |                |               |               |               |   |   |      |
-|:---------------|:---------------|:--------------|:--------------|:--------------|:--|:--|:-----|
 | E♭<sup>7</sup> | B♭<sup>7</sup> | F<sup>7</sup> | C<sup>7</sup> | G<sup>7</sup> |   |   |      |
 | F              | C              | G             | D             | A             | E | B | +3:2 |
 
 ### Terry Riley's Harp of New Albion Tuning
 
 | +5:4          |                 |                 |                 |                |      |
-|:--------------|:----------------|:----------------|:----------------|:---------------|:-----|
 |               | A♯<sup>25</sup> | E♯<sup>25</sup> | B♯<sup>25</sup> |                |      |
 | B<sup>5</sup> | F♯<sup>5</sup>  | C♯<sup>5</sup>  | G♯<sup>5</sup>  | D♯<sup>5</sup> |      |
 | G             | D               | A               | E               |                | +3:2 |
@@ -36,7 +32,6 @@ This page contains more examples of the FJS in usage.
 ### La Monte Young's Well-Tuned Piano Tuning
 
 | +7:4           |               |               |               |   |      |
-|:---------------|:--------------|:--------------|:--------------|:--|:-----|
 | B♭<sup>7</sup> | F<sup>7</sup> | C<sup>7</sup> | G<sup>7</sup> |   |      |
 | C              | G             | D             | A             | E |      |
 | D<sub>7</sub>  | A<sub>7</sub> | E<sub>7</sub> |               |   | +3:2 |
@@ -44,7 +39,6 @@ This page contains more examples of the FJS in usage.
 ### Harry Partch's 11-limit Tonality Diamond
 
 | P1                          | m3<sup>7</sup>  | P4<sup>7</sup><sub>11</sub> | d5<sup>7</sup><sub>5</sub>  | m6<sup>7</sup>  | m7<sup>7</sup>  |
-|:----------------------------|:----------------|:----------------------------|:----------------------------|:----------------|:----------------|
 | M6<sub>7</sub>              | P1              | M2<sub>11</sub>             | m3<sub>5</sub>              | P4              | P5              |
 | P5<sup>11</sup><sub>7</sub> | m7<sup>11</sup> | P1                          | m2<sup>11</sup><sub>5</sub> | m3<sup>11</sup> | P4<sup>11</sup> |
 | A4<sup>5</sup><sub>7</sub>  | M6<sup>5</sup>  | M7<sup>5</sup><sub>11</sub> | P1                          | M2<sup>5</sup>  | M3<sup>5</sup>  |
@@ -72,7 +66,6 @@ C, D<sup>5</sup>, D, E<sup>5</sup>, E, F<sup>7</sup>, F, G, A<sup>5</sup>, A, B<
 ### The Harmonic Series 1-64
 
 | C               | C               | G               | C               | E<sup>5</sup>   | G               | B♭<sup>7</sup>  | C              |
-|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:----------------|:---------------|
 | D               | E<sup>5</sup>   | F<sup>11</sup>  | G               | A♭<sup>13</sup> | B♭<sup>7</sup>  | B<sup>5</sup>   | C              |
 | D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>   | F<sup>7</sup>   | F<sup>11</sup>  | F♯<sup>23</sup> | G              |
 | G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup>  | B♭<sup>29</sup> | B<sup>5</sup>   | B<sup>31</sup>  | C              |
