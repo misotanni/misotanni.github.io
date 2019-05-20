@@ -8,7 +8,7 @@ The Helmholtz-Ellis notation (sometimes extended to HEWM, Helmholtz-Ellis-Wolf-M
 
 On the other hand, Ben Johnston's notation system was created by one person, JI composer Ben Johnston. [The most exhaustive article](https://www.jstor.org/stable/833435) about this system lists accidentals up to the 31-limit. So does [Kyle Gann's guide](https://kylegann.com/BJNotation.html).
 
-Here, I will objectively compare both of these systems to the FJS.
+Here, I will compare both of these systems to the FJS.
 
 ## The Natural Notes
 
@@ -149,7 +149,9 @@ In the FJS, positive accidentals are always otonal and negative accidentals are 
 
 This might be the most controversial section in this comparison, because this particular point is where I cannot provide direct evidence for why I believe an otonality/utonality indication is better than a direction indication. All I can say is that after having invented the FJS (which initially used the positive-upward, negative-downward system) and used it to think about and analyze JI tunings, at some point I have suddenly arrived at the conclusion that the positive-upward, negative-downward system overcomplicates things and that I will immediately change it to positive-otonal, negative-utonal. It has drastically simplified my thinking in the FJS and has stayed that way ever since then. Therefore I may merely hope that you, the reader, will arrive at the same conclusion with experience.
 
-Ben Johnston would be nearly tied with the FJS on this point, except the really annoying fact that 81/80 is exempt from its own rule. But due to the fact that 81/80 works differently from the other accidentals and is seen as an adjustment instead, and due to the fact that pluses and minuses really convey the idea of up and down, I will overlook this minor sin..
+Ben Johnston would be nearly tied with the FJS on this point, except the really annoying fact that 81/80 is exempt from its own rule. But due to the fact that 81/80 works differently from the other accidentals and is seen as an adjustment instead, and due to the fact that pluses and minuses really convey the idea of up and down, I will overlook this minor sin.
+
+(If you think otherwise, you may give Helmholtz-Ellis the point, instead of the FJS and Johnston. It won't make a big difference for determining the winner in the end.)
 
 One point for Johnston and the FJS.
 
@@ -299,7 +301,7 @@ You explain that finding the value of B♭ in the key of C is easier in Johnston
 
 I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale.
 
-When I read this argument at first, I could not believe my eyes. A composer claiming to have lots of experience with Just Intonation music is unable to work out in his head that $$3^5 \cdot 3^{-7}=3^{-2}$$? But that's not even the important bit.
+When I read this argument at first, I could not believe my eyes. A composer claiming to have lots of experience with Just Intonation music is unable to work out in his head that $$3^5 \cdot 3^{-7}=3^{-2}$$? But that's not even important at all.
 
 Ben Johnston notation does force the user to constantly multiply and divide, because even the simplest notes are made of many factors of five juggled back and forth and adjusted for with pluses and minuses. Because the 5-limit scale is not consistent, it also forces the user to always think in terms of the seven diatonic pitches, rather than intervals.
 
