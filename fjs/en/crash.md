@@ -409,7 +409,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	
 	<img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭">
 	
-5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again:
+5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again: 11/10, 10/9, 9/8, 8/7.
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
