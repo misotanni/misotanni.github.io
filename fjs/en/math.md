@@ -84,7 +84,7 @@ Using double flats and double sharps extends the chain to 17, using triple flats
 
 ## Theorem 5
 
-**Definition:** A *bridge number* for a prime number *p* is a number of the form $$2^{a_p}\cdot 3^{b_p}\cdot p$$ where *p* is a prime greater than 3 and *a*, *b* are integers.
+**Definition:** A *bridge number* for a prime number *p* is a number of the form $$2^a\cdot 3^b\cdot p$$ where *p* is a prime greater than 3 and *a*, *b* are integers.
 
 **Theorem: For any given infinite list of bridge numbers, exactly one for every prime, any JI interval can be represented uniquely as a product of a Pythagorean interval and bridge numbers raised to integer powers.** (Core Theorem of the FJS)
 
@@ -140,7 +140,7 @@ Expanding γ and *q* back:
 
 $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^n (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}}) \cdot (C_{\text{p}(n+1)})^{\alpha _{\text{p}(n+1)}}$$
 
-$$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}})$$
+$$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}}$$
 
 This is a unique representation of a JI interval with factors up to $$\text{p}(n+1)$$ in terms of the factors up to $$\text{p}(n)$$. The induction step holds.
 
