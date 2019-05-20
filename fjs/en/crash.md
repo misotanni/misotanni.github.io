@@ -67,7 +67,7 @@ You might think that removing enharmonic equivalence from staff notation gives u
 
 Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below:
 
-<audio controls><source src="" type=""></audio>
+<audio controls><source src="../assets/audio_1" type="mp3"></audio>
 
 All of them are "some type of major second" to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
 
@@ -151,11 +151,11 @@ Why should we choose the major third over the diminished fourth to notate 5/4? A
 
 Listen to the difference between 81/64 and 5/4:
 
-<audio controls><source src="" type=""></audio>
+<audio controls><source src="../assets/audio_2" type="mp3"></audio>
 
 And the difference between 8192/6561 and 5/4:
 
-<audio controls><source src="" type=""></audio>
+<audio controls><source src="../assets/audio_3" type="mp3"></audio>
 
 OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question "How do we choose the approximations for each prime interval?" is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
 
@@ -197,7 +197,7 @@ Here is the same using staff notation:
 
 Listen to this scale:
 
-<audio controls><source src="" type=""></audio>
+<audio controls><source src="../assets/audio_4" type="mp3"></audio>
 
 As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use.
 
@@ -315,6 +315,10 @@ So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (resp
 
 <img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
 
+Here is what they sound like, respectively:
+
+<audio controls><source src="../assets/audio_5" type="mp3"></audio>
+
 Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. You can also add an interval to a note (e.g. G + M3<sup>5</sup> = B<sup>5</sup>) and you can subtract a note from another note (e.g. F<sup>7</sup> − C = P4<sup>7</sup>). That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
 
 > ### FJS Interval Arithmetic
@@ -405,7 +409,10 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	
 	<img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭">
 	
-5. Given that the base note is A, notate the first audio example in this crash course using the FJS.
+5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again:
+	
+	<audio controls><source src="../assets/audio_1" type="mp3"></audio>
+	
 6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
 
 You can check your answers [here](solutions.html).
