@@ -1,4 +1,4 @@
-# FJS Compared With Alternatives
+﻿# FJS Compared With Alternatives
 
 The FJS is not the only JI notation system in existence. Many composers make microtonal music independently and so a large number of idiosyncratic notation systems for many different microtonal scales have been invented. The overwhelming majority of these notation systems, however, is optimized for one particular aspect of microtonality, such as one particular microtonal division of the octave, and is inadequate for JI notation.
 
@@ -285,8 +285,36 @@ C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, 
 
 **Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
 
-C♯−, D, D♯−, E+, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+C♯−, D, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
 
 ## Verdict
 
 Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis notation, unsurprisingly, is quite bad, being the first attempt at such a task. Johnston notation, given its absurd choice of the natural notes, is considerably worse than even Helmholtz-Ellis; its equal score is a result of figurative transfer error. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
+
+## A Note to Kyle Gann
+
+As mentioned, Kyle Gann's guide for Ben Johnston's system contains an addendum where he explains why he prefers Johnston over Helmholtz-Ellis despite its very inconvenient choice of natural notes.
+
+You explain that finding the value of B♭ in the key of C is easier in Johnston than in Helmholtz-Ellis. In Johnston, C to B is 15/8, and adding a flat lowers it by 25/24, resulting in 9/5. In Helmholtz-Ellis, however, C to B is 243/128, and adding a flat lowers it by 2187/2048, and only a calculator can tell you that this results in 16/9. Considering consistency as one of the less important virtues, you dismiss Helmholtz-Ellis because apparently it will force you to constantly multiply and divide by four-digit numbers.
+
+I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale.
+
+When I read this argument at first, I could not believe my eyes. A composer claiming to have lots of experience with Just Intonation music is unable to work out in his head that $$3^5 \cdot 3^{-7}=3^{-2}$$? But that's not even the important bit.
+
+Ben Johnston notation does force the user to constantly multiply and divide, because even the simplest notes are made of many factors of five juggled back and forth and adjusted for with pluses and minuses. Because the 5-limit scale is not consistent, it also forces the user to always think in terms of the seven diatonic pitches, rather than intervals.
+
+When you attempt to use Helmholtz-Ellis notation, you automatically assume the same restrictions that you were bound to with Ben Johnston notation: trying to figure out the value of a minor seventh using a major seventh minus a chromatic semitone. You criticize Helmholtz-Ellis for the fact that one of these intervals now requires four-digit numbers to represent, while Johnston usually works with up to two-digit numbers.
+
+The minor seventh is right next to you on the circle of fifths; it's just two 4/3 intervals! Why would you go up five fifths to then immediately return seven fifths back? Would you travel from Madrid to Paris via New York City? Just because C writes its major seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
+
+Your guide to figuring out the ratios from notation does indeed start at looking at the natural notes and figuring out the interval between them. This is because this interval *depends* on the natural notes in Johnston notation, so there indeed is no other way to figure it out. For example, D to E is 10/9, which is different from C to D, 9/8. Helmholtz-Ellis and the FJS do not have this absurd restriction. Every major second is 9/8. This allows a composer to be freed from the restriction of the diatonic scale when thinking in JI, and it allows one to translate interval names directly to ratios.
+
+You do also note that you dislike the idea of transposition, and you consider each key to have a unique meaning. (This is from your [personal reasons for using JI](https://www.kylegann.com/JIreasons.html).) I agree with you on this point, though – having absolute pitch myself – I actually have a reason to. I assume you are simply thinking about the arbitrary seven labels that Western music gives to notes, which are based on one particular scale that has nothing to do with what JI is capable of expressing. The labels that are compulsory in Ben Johnston notation just enforce this one particular viewpoint of JI – as based on the 5-limit diatonic scale. It puts the diatonic scale in the center of the universe. There is more to JI.
+
+The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
+
+Switch to the FJS. It will make the math and notation part of your compositional pursuit **so much easier**. The FJS is *infinite, linear, regular, bijective, algorithmic, unbiased, easy to read and write...*
+
+Or don't, and continue juggling syntonic commas.
+
+Others may have different criteria.
