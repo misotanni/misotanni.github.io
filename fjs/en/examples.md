@@ -10,7 +10,7 @@ This page contains more examples of the FJS in usage.
 |:---------------------------|:----------------|:----------------|:---------------------------|:----------------------------|:----------------|:----------------------------|:---------------------------|:----------------|:----------------|:---------------------------|
 | m3                         | m3<sub>5</sub>  | m3<sup>11</sup> | M3<sup>5</sup>             | P4<sup>7</sup><sub>11</sub> | M3<sub>7</sub>  | P4<sup>7</sup>              | P4                         | P4<sub>5</sub>  | P4<sup>11</sup> | d5<sup>7</sup><sub>5</sub> |
 | A4<sup>5</sup><sub>7</sub> | d5<sub>11</sub> | P5<sup>5</sup>  | P5                         | P5<sub>7</sub>              | m6<sup>7</sup>  | P5<sup>11</sup><sub>7</sub> | m6<sub>5</sub>             | M6<sub>11</sub> | M6<sup>5</sup>  | M6                         |
-| M6<sub>7</sub>             | m7<sup>7</sup>  | m7              | m7<sub>5</sub>             | M7<sup>5</sup><sub>11</sub> | m7<sup>11</sub> | M7<sup>5</sup>              | M7<sup>5</sup><sub>7</sub> | P8<sub>11</sub> | P8<sup>5</sup>  | P8                         |
+| M6<sub>7</sub>             | m7<sup>7</sup>  | m7              | m7<sub>5</sub>             | M7<sup>5</sup><sub>11</sub> | m7<sup>11</sup> | M7<sup>5</sup>              | M7<sup>5</sup><sub>7</sub> | P8<sub>11</sub> | P8<sup>5</sup>  | P8                         |
 
 ### Dante Rosati's 21-tone Scale
 
@@ -101,6 +101,8 @@ An FJS key signature is also exemplified.
 ## Videos
 
 This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric Counterpoint* in 5-limit Just Intonation uses the 5-limit Tonnetz written in the FJS to visualize the tuning.
+
+This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 7-limit Just Intonation also visualizes its tuning lattices in the FJS.
 
 ## More?
 
