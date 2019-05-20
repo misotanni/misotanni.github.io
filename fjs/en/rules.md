@@ -60,7 +60,7 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 6. Products of positive and negative commas are independent. They are written as a combined subscript and superscript, e.g. F<sup>7</sup><sub>5</sub> represents F lowered by 64/63 and then raised by 81/80 (or in the opposite order; first raised by 81/80 and then lowered by 64/63; the result is the same). Note that the products used to represent positive and negative commas will always be coprime, otherwise there is an unnecessary shift in one direction that is canceled out in the other one; \*C<sup>35</sup><sub>5</sub> is the same note as C<sup>7</sup>.
 
-7. The number 1 represents canceling any microtonal commas, similar to the natural sign used to cancel standard accidentals. It can be written either in a superscript or a subscript. For example, the sequence C – D – E<sup>5</sup> – E<sup>1</sup> (or simply C – D – E<sup>5</sup> – E) represents the intervals 1/1, 9/8, 5/4, 81/64 above C.
+7. The number 1 represents canceling any microtonal accidentals, similar to the natural sign used to cancel standard accidentals. It can be written either in a superscript or a subscript. For example, the sequence C – D – E<sup>5</sup> – E<sup>1</sup> (or simply C – D – E<sup>5</sup> – E) represents the intervals 1/1, 9/8, 5/4, 81/64 above C.
 
 ## Rules for Using FJS Note Names in Notation
 
@@ -71,6 +71,8 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 3. If both positive and negative comma shifts appear, then the total positive shift should be written to the left of the total negative shift.
 
 4. *Pythagorean accidentals divide notes with the same diatonic pitch class (C, D, E, F, G, A, or B) into their Pythagorean pitch classes. Hence, a Pythagorean accidental applies to all notes with the same diatonic pitch class in the same bar, until overwritten or canceled.* Analogically, microtonal accidentals divide notes with the same Pythagorean pitch class into their absolute JI pitches. Hence, a microtonal accidental applies to all notes with the same Pythagorean pitch class in the same bar, until overwritten or canceled. This means that, if the first E in a bar is written with a +5 accidental, then all other E in that bar in the same octave will also have the +5 accidental implied (until it is canceled with a 1), however, an E♭, just as much as a D or an F, will not have that accidental implied, even if it is in the same bar.
+
+5. A "1" accidental cancels any microtonal accidentals for the Pythagorean pitch class it is applied to.
 
 ## Rules for Using FJS Key Signatures (\*)
 
@@ -100,7 +102,7 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
 
-**Examples:**
+## Examples
 
 The following two notes are G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> respectively.
 
