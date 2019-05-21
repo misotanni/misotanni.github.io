@@ -165,6 +165,8 @@ Given its arbitrary glyphs, note naming is practically impossible in Helmholtz-E
 
 As for Johnston, its accidentals look promising to allow something like this. But Johnston notation also has a strange system of arbitrary division of its accidentals when it is used to name notes. Some Johnston accidentals are written between the diatonic pitch class and a Pythagorean accidental, but there is no rule which ones. For example, representing a celestial comma below E♭ requires one to write E7♭+ (sic). The septimal accidental goes between the E and the ♭, while the + required to adjust is then written after the ♭. What is most hurtful is that the deviation downwards by a celestial comma is, in Johnston notation, expressed using two accidentals, as "downwards by a syntonic plus celestial comma, but then upwards by a syntonic comma again".
 
+Johnston also has an elaborate system of pronunciation for its note names, which parallels that of the FJS but is much more complicated due to the 5-, 7-, and 11-commas having special glyphs. Kyle Gann gives "G-sharp-up-arrow-double-sub-seven-minus" as a possible note name. This is far more complicated than the most complicated possible note name in the FJS, consisting always of exactly (Pythagorean part)-(optional "super")-(otonal)-(sub)-(utonal), in that order. Gann writes that the combinations of accidentals have not been standardized in Johnston notation.
+
 Still, this system is better than nothing. Sigh.
 
 Neither system has any evidence of interval naming, which is a direct translation of tonic-less JI ratios.
