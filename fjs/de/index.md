@@ -69,7 +69,7 @@ Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, 
 
 ## Was jetzt?
 
-- Hier befindet sich ein [Crash-Course](crash.html) des FJS. Mit einem gewissen Verständnis von JI kann man das FJS in wenigen Minuten lernen.
+- Hier befindet sich ein [Crash-Kurs](crash.html) des FJS. Mit einem gewissen Verständnis von JI kann man das FJS in wenigen Minuten lernen.
 - Lese die [komplette formale Erläuterung](rules.html), um die genauen Regeln bei Zweifel nachzuschlagen.
 - Sehe die [Mathematik](math.html), die dahinter steht. Hier findest du den Beweis, dass das FJS tatsächlich bijektiv ist, und tatsächlich viele schöne Eigenschaften besitzt.
 - Hier [vergleiche](compare.html) ich das FJS mit zwei anderen konkurrierenden Notationssystemen: dem Helmholtz-Ellis-System und dem Ben-Johnston-System, und erkläre, wieso das FJS beide von ihnen überschreitet.
