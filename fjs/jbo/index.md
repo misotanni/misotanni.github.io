@@ -8,6 +8,8 @@ title: la fancu ke curve ciste
 
 ---
 
+<img src="../assets/impression.png" alt="i ti jvinu fy jy sy">
+
 # fi'i
 
 ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
@@ -29,8 +31,6 @@ ni'o la fancu ke curve ciste ku zo'u tu'e
 - i jicmu fa lo **algoritma** be ve pu'e ro da i ja'e bo mapti lo nu skami zgifi'i i je ka'e zmiku se cau lo nu morji cilre ja zvafa'i lo datni i to ti noi urli cu sitna so'o tutci be lo nu kanji dy toi
 
 tu'u
-
-**ni'o fy jy sy ba mo do**
 
 ## lo cuvyto'aci'e cu mo
 
@@ -113,9 +113,9 @@ ni'o tu'e
 - i tcidu [lo se javni](rules.html) fau lo nu fa'idji fi lo se senpi
 - i zgana [lo cmaci](math.html) pe fy jy sy i lo ctaipe be lo du'u fy jy sy cu pavysmu gi'e ckaji so'i da vau cu zvati ti
 - i mencti [lo xe karbi](compare.html) be fy jy sy bei lo re jivna snici'e no'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston i ba'o la'e di'u jimpe lo du'u fy jy sy zmadu re zo'e ma kau
-- i pilno [lo kajytci seljmaji](calc.html) i e'e ca zi kibytci tcitygau fi ri
+- i pilno [lo kajytci seljmaji](calc.html) i **e'e** ca zi kibytci tcitygau fi ri
 - i lanli [lo so'i mupli](examples.html) be lo ka fy jy sy se pilno fi ce'u
 
 tu'u
 
-**i e'e sai co'a cilre fi fy jy sy**
+**ni'o fy jy sy ba mo do**
