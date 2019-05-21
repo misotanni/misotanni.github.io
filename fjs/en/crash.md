@@ -178,14 +178,28 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
 
-The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Just like the sharp and flat, this accidental can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
+The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Here is how it is computed:
 
-- In note naming, positive accidentals are written as a superscript and negative ones as a subscript.
+> ### The Formal Comma
+>
+> The formal comma of a prime *p* with a generator function *g* is given by:
+>
+> $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
+
+You can also go the other way: determine the generator function of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the generator function. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
+
+Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
+
+- In note naming, positive accidentals are written as a superscript of the number itself, and negative ones as a subscript of the number.
 - In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
 
 You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
 
+Those of you who are already familiar with Ben Johnston's notation for JI will recognize this idea. For the rest of you:
+
 This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 with a +17 accidental attached. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator. It's also where the system gets its name from: the **Functional** Just System; the one that focuses on representing *function* rather than pitch position.
+
+In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now...)
 
 Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
 
@@ -219,23 +233,9 @@ Why so? Because when this rule is considered in this way, it is much more logica
 
 One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or B<sup>5</sup> above G, etc.
 
-OK, that's all you need to know to notate the prime intervals. Below are a few more techniques. The radius of tolerance is not needed in these; the only place where the FJS uses the radius of tolerance is in the master algorithm.
+OK, that's all you need to know to notate the prime intervals. Below is one more technique. The radius of tolerance is not needed anymore; the only place where the FJS uses the radius of tolerance is in the master algorithm, in computing the generator function of a prime.
 
-> ### The Formal Comma
->
-> The formal comma of a prime *p* with a generator function *g* is given by:
->
-> $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
-
-> ### FJS Technique \#3: To find the generator function of a prime given the value of the formal comma, without using the master algorithm.
-> 
-> 1. Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation.
-> 2. Factorize this approximation.
-> 3. The exponent of the factor of three is the generator function.
->
-> **Example:** We are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
-
-> ### FJS Technique \#4: To convert any arbitrary otonal prime interval into its FJS representation.
+> ### FJS Technique \#3: To convert any arbitrary otonal prime interval into its FJS representation.
 > 
 > 1. Compute the generator function of the prime.
 > 2. Write the interval generated by that number of fifths.
@@ -340,7 +340,7 @@ These methods will, 99% of the time, be enough to read and write in the FJS, and
 
 However, one of the virtues of the FJS is that it can be fully automated. The above methods may rely a little on intuition, and are not very useful for complex intervals. In the case of complex intervals, you can *always* perform the forward and backward conversions using these final two techniques:
 
-> ### FJS Technique \#5: To convert any JI ratio automatically to an FJS representation.
+> ### FJS Technique \#4: To convert any JI ratio automatically to an FJS representation.
 >
 > 1. Factorize the ratio.
 > 2. For every prime *p* greater than 3 with an exponent of α<sub>*p*</sub>, remember the α<sub>*p*</sub> for every *p* and multiply the initial ratio by
@@ -355,7 +355,7 @@ However, one of the virtues of the FJS is that it can be fully automated. The ab
 >
 > **Example:** Let's convert the weak just chromatic semitone, 25/24, into FJS form using this technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Because of 5<sup>2</sup>, remember 2 and multiply by (80/81)<sup>−2</sup>. The result is 2187/2048, which is Pythagorean and converts to A1. Now we add a double +5 (because of the 2) and we get A1<sup>25</sup>.
 
-> ### FJS Technique \#6: To convert any FJS representation automatically into a JI ratio.
+> ### FJS Technique \#5: To convert any FJS representation automatically into a JI ratio.
 >
 > 1. Convert the Pythagorean part of the FJS interval into a Pythagorean ratio.
 > 2. For every otonal accidental *p*, multiply by the formal comma of *p*. If utonal, then divide.
