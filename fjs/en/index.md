@@ -8,6 +8,8 @@ title: The Functional Just System
 
 ---
 
+<img src="../assets/impression.png" alt="This is what the FJS looks like!">
+
 # Welcome
 
 Welcome to the website of the Functional Just System (FJS)!
@@ -24,8 +26,6 @@ The Functional Just System:
 - can notate **all of the infinity** of Just Intonation, not only up to a certain fixed prime limit, and can hence express a **superset** of the meanings possible in other notation systems;
 - has **infinite resolution**, thus each tone is notated "pitch perfect", not only up to a certain fixed precision;
 - is **procedurally generated** at every step by an algorithm, and so it is perfect for usage in computer music, and can be completely automated without the need for memorization or lookup tables. (This website contains several calculators for these purposes.)
-
-**What will the FJS mean for you?**
 
 ## What Is Just Intonation?
 
@@ -73,7 +73,7 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 - Read the [complete formal description](rules.html) for a reference of the exact rules when in doubt.
 - See the [mathematics](math.html) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
 - See a [comparison](compare.html) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
-- Use the website's [calculators](calc.html) to automatically perform FJS-related calculations. Advice: bookmark these immediately.
+- Use the website's [calculators](calc.html) to automatically perform FJS-related calculations. **Advice:** bookmark these immediately.
 - See many more [examples](examples.html) of the FJS in usage.
 
-**Start discovering the Functional Just System now!**
+**What will the FJS mean for you?**
