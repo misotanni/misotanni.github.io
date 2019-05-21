@@ -31,7 +31,7 @@ Das Naturtonfunktionssystem:
 
 Du bist wahrscheinlich am falschen Ort, falls du dich das fragst!
 
-Die überwiegende Mehrheit der heutigen Musik benutzt die **zwölfstufige gleichstufig temperierte Stimmung** (auch einfach **gleichstufige Stimmung** genannt), die die Oktave in zwölf gleiche Halbtöne teilt. Die **Naturtonstimmung** oder **reine Stimmung** (**JI**) ist eine Stimmung, die stark davon abweicht. Ihre Prinzipe basieren auf die Naturtonreihe und die natürliche Eigenschaften des Klangs. Obwohl JI nicht mehr in üblicher Musik verwendet wird, bleibt sie für die Musiktheorie wichtig, weil sie gebräuchlich in antiken Kulturen und im Mittelalter war, weil sie noch oft in nicht-europäischer traditioneller Musik vorkommt, und weil die Musik der Avantgarde sie gebraucht. (Oder einfach weil sie sich gut anhört!)
+Die überwiegende Mehrheit der heutigen Musik benutzt die **zwölfstufige gleichstufig temperierte Stimmung** (auch einfach **gleichstufige Stimmung** genannt), die die Oktave in zwölf gleiche Halbtöne teilt. Die **Naturtonstimmung** oder **reine Stimmung** (**JI**) ist eine Stimmung, die stark davon abweicht. Ihre Prinzipe basieren auf der Naturtonreihe und den natürlichen Eigenschaften des Klangs. Obwohl JI nicht mehr in üblicher Musik verwendet wird, bleibt sie für die Musiktheorie wichtig, weil sie gebräuchlich in antiken Kulturen und im Mittelalter war, weil sie noch oft in nicht-europäischer traditioneller Musik vorkommt, und weil die Musik der Avantgarde sie gebraucht. (Oder einfach weil sie sich gut anhört!)
 
 Vorausgesetzt wird ein elementares Wissen und Verständnis der Naturtonstimmung (zusätzlich zu Grundlagen der Musiktheorie), um das FJS verstehen und effektiv benutzen zu können. Im Allgemeinen bedeutet **mehr Erfahrung** mit JI eine **höhere Geläufigkeit** mit dem FJS.
 
@@ -63,7 +63,7 @@ Warum also habe ich mich trotzdem entschieden, diese Idee zu verwirklichen? Es l
 
 **In der Tat.**
 
-Das FJS ist viel mehr als nur ein Notationsystem. Als ich das System entwurf, hat es mir ermöglicht, Sinn im scheinbaren Chaos der Naturtonstimmung zu sehen. Es hat mir auch gezeigt, dass die Notenschrift viel logischer und viel mehr mit JI verbunden ist, als ich zuerst dachte. Deshalb lade ich auch dich dazu ein. Lerne die Einfachheit und die Schönheit des FJS kennen, und verstehe, wie seine musikalischen Zahnräder zwei Ideen verbinden, die auf den ersten Blick sich komplett fremd ansehen.
+Das FJS ist viel mehr als nur ein Notationssystem. Als ich das System entwurf, hat es mir ermöglicht, Sinn im scheinbaren Chaos der Naturtonstimmung zu sehen. Es hat mir auch gezeigt, dass die Notenschrift viel logischer und viel mehr mit JI verbunden ist, als ich zuerst dachte. Deshalb lade ich auch dich dazu ein. Lerne die Einfachheit und die Schönheit des FJS kennen, und verstehe, wie seine musikalischen Zahnräder zwei Ideen verbinden, die auf den ersten Blick sich komplett fremd ansehen.
 
 Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, die entworfen wurde, um zu sehen, wie das Denken sich verändert, wenn die Sprache komplett logisch ist und Sinn macht. Ich glaube, dass das FJS einem "Lojban der mikrotonalen Musik" entspricht. Genauso wie Lojban Leute zum logischen Denken bringt, bringt das FJS Musiker meiner Meinung nach zum JI-Denken. Dadurch werden ihre Komposition, Analyse, und Aufführung näher mit ihrer eigenen Kenntnis der Musiktheorie verbunden, da das FJS üblicher Musiktheorie die JI-Musiktheorie näher bringt.
 
