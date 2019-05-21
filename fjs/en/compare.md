@@ -260,7 +260,11 @@ E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
 
 D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
 
-**Helmholtz-Ellis.** A little less concise.
+Here is what it would be if it used E♭ to notate the tonic; a little less concise.
+
+E♭, F<sup>7</sup>, F, G♭<sup>49</sup>, A♭<sup>49</sup>, A♭<sup>7</sup>, B♭<sup>7</sup>, B♭, C♭<sup>49</sup>, D♭<sup>49</sup>, D♭<sup>7</sup>, E♭<sup>7</sup>, E♭.
+
+**Helmholtz-Ellis.** Just as concise as the FJS on E♭.
 
 E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
 
@@ -304,21 +308,23 @@ As mentioned, Kyle Gann's guide for Ben Johnston's system contains an addendum w
 
 You explain that finding the value of B♭ in the key of C is easier in Johnston than in Helmholtz-Ellis. In Johnston, C to B is 15/8, and adding a flat lowers it by 25/24, resulting in 9/5. In Helmholtz-Ellis, however, C to B is 243/128, and adding a flat lowers it by 2187/2048, and only a calculator can tell you that this results in 16/9. Considering consistency as one of the less important virtues, you dismiss Helmholtz-Ellis because apparently it will force you to constantly multiply and divide by four-digit numbers.
 
-I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale.
+I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale. So if this argument works against Helmholtz-Ellis, it should also work against the FJS.
 
-When I read this argument at first, I could not believe my eyes. A composer claiming to have lots of experience with Just Intonation music is unable to work out in his head that $$3^5 \cdot 3^{-7}=3^{-2}$$? But that's not even important at all.
+I also respond because this argument is a non-sequitur.
 
 Ben Johnston notation does force the user to constantly multiply and divide, because even the simplest notes are made of many factors of five juggled back and forth and adjusted for with pluses and minuses. Because the 5-limit scale is not consistent, it also forces the user to always think in terms of the seven diatonic pitches, rather than intervals.
 
 When you attempt to use Helmholtz-Ellis notation, you automatically assume the same restrictions that you were bound to with Ben Johnston notation: trying to figure out the value of a minor seventh using a major seventh minus a chromatic semitone. You criticize Helmholtz-Ellis for the fact that one of these intervals now requires four-digit numbers to represent, while Johnston usually works with up to two-digit numbers.
 
-The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths to then immediately return seven fifths back? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its major seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
+The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths (major seventh) to then immediately return seven fifths back (chromatic semitone)? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its major seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
 
 Your guide to figuring out the ratios from notation does indeed start at looking at the natural notes and figuring out the interval between them. This is because this interval *depends* on the natural notes in Johnston notation, so there indeed is no other way to figure it out. For example, D to E is 10/9, which is different from C to D, 9/8. Helmholtz-Ellis and the FJS do not have this absurd restriction. Every major second is 9/8. This allows a composer to be freed from the restriction of the diatonic scale when thinking in JI, and it allows one to translate interval names directly to ratios.
 
 You do also note that you dislike the idea of transposition, and you consider each key to have a unique meaning. (This is from your [personal reasons for using JI](https://www.kylegann.com/JIreasons.html).) However, since you don't have absolute pitch, I assume you are simply thinking about the arbitrary seven labels that Western music gives to notes, which are based on one particular scale that has nothing to do with what JI is capable of expressing. The labels that are compulsory in Ben Johnston notation just enforce this one particular viewpoint of JI – as based on the 5-limit diatonic scale. It puts the diatonic scale in the center of the universe.
 
-You could have arrived at the fact that C to B♭ is 16/9 in so many different (and easier) ways than 243/128 times 2048/2187. For example, you could have noticed that both have no microtonal accidentals, so the minor seventh is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
+You could have arrived at the fact that C to B♭ is 16/9 in so many different (and easier) ways than 243/128 times 2048/2187; in fact, you probably chose the most inconvenient possible way to arrive at 16/9 (the equivalent of the only possible way to arrive at 9/5 in Johnston).
+
+For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
 
 The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
 
