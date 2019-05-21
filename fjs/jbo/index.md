@@ -1,4 +1,4 @@
----
+﻿---
 title: la fancu ke curve ciste
 ---
 
@@ -114,7 +114,7 @@ ni'o tu'e
 - i zgana [lo cmaci](math.html) pe fy jy sy i lo ctaipe be lo du'u fy jy sy cu pavysmu gi'e ckaji so'i da vau cu zvati ti
 - i mencti [lo xe karbi](compare.html) be fy jy sy bei lo re jivna snici'e no'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston i ba'o la'e di'u jimpe lo du'u fy jy sy zmadu re zo'e ma kau
 - i pilno [lo kajytci seljmaji](calc.html) i e'e ca zi kibytci tcitygau fi ri
-- i lanli [lo so'i mupli](examples.html) be lo ka poi'i fy jy sy jai se vlipa fai lo ka se pilno fi ke'a
+- i lanli [lo so'i mupli](examples.html) be lo ka fy jy sy se pilno fi ce'u
 
 tu'u
 
