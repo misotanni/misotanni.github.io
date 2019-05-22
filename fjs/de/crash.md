@@ -31,7 +31,7 @@ Ob dort Ais oder B steht, macht für uns natürlich keinen Unterschied. Wir wiss
 
 Diese Eigenschaft, dass eine verminderte Sekunde genauso groß ist wie eine reine Prime, hat einen Namen: enharmonische Verwechslung. Musiker, denen alternative Stimmungen nicht bekannt (oder bewusst) sind, wissen vielleicht gar nicht, dass diese Eigenschaft nicht universal ist. 12-EDO ist eine der wenigen Stimmungen, die sie hat. In anderen Stimmungen gibt es keine Enharmonie, oder es gibt ein anderes Intervall der Größe einer reinen Prime. (Zum Beispiel ist es die *doppelt* verminderte Sekunde in 19-EDO. Das heißt, Eis und Fes haben die gleiche Tonhöhe.)
 
-Vergessen wir aber nicht, dass die Notenschrift selbst die Idee von 12-EDO (geschweige denn deren Herrschaft) deutlich vordatiert. Die Notenschrift basierte ursprünglich auf der Stammtonreihe, die viele Eigenschaften gleichzeitig besitzt, aber eine davon ist uns wichtig: dass sie aus einer Reihe reiner Quinten herkommt (F-C-G-D-A-E-H). Die *Tatsache* selbst, dass unsere Notenschrift viele Namen für dieselbe Tonhöhe besitzt, deutet darauf an, dass sie ursprünglich für etwas anderes gedacht war.
+Vergessen wir aber nicht, dass die Notenschrift selbst die Idee von 12-EDO (geschweige denn deren Herrschaft) deutlich vordatiert. Die Notenschrift basierte ursprünglich auf der Stammtonreihe, die viele Eigenschaften gleichzeitig besitzt, aber eine davon ist uns wichtig: dass sie aus einer Reihe reiner Quinten herkommt (F–C–G–D–A–E–H). Die *Tatsache* selbst, dass unsere Notenschrift viele Namen für dieselbe Tonhöhe besitzt, deutet darauf an, dass sie ursprünglich für etwas anderes gedacht war.
 
 Die enharmonische Äquivalenz ist das einzige Merkmal von 12-EDO in der Notenschrift. Alles andere funktioniert auch ohne 12-EDO.
 
@@ -48,84 +48,84 @@ Bevor du beginnst, über das FJS zu lernen, gibt es ein paar zusätzliche Inform
 	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , log zu einer beliebigen Basis}$$
 	
 	$$\text{C}(d)=\log_c d \text{ , }c=\sqrt[1200]{2}$$
-	
-In addition to this, there are three mathematical concepts that are FJS-specific that you must be acquainted with.
 
-The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C–G–D. Similarly a **minor third** is **−3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C–F–B♭–E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
+Dazu gibt es auch noch drei mathematische Konzepte, die dir bekannt sein müssen, aber außerhalb des FJS nicht vorkommen.
 
-The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](math.html) for the curious reader. Anywhere in this course where a mathematical fact is taken for granted, look for a proof in the mathematics page.)
+Erstens musst du schnell **ein übliches Intervall** (ohne enharmonische Verwechslung) in **eine Anzahl von Quintenschritten** und zurück umrechnen können. Eine **große Sekunde** zum Beispiel entspricht **+2** Quinten, denn man braucht zwei Quintenschritte im Uhrzeigersinn, um die große Sekunde zu erreichen: C-G-D. Ebenso entspricht eine **kleine Terz −3** Quinten, denn dazu braucht man drei Quartenschritte, also Quintenschritte gegen den Uhrzeigersinn: C-F-B-Es. Jedes übliche Intervall entspricht genau einer Anzahl von Quintenschritten. Du musst diese Umrechnung sowohl vorwärts als auch rückwärts durchführen können, dazu am besten schnell.
 
-The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
+Zweitens musst du wissen, wie man eine rationale Zahl faktorisiert. Genauso wie jede **positive ganze Zahl** auf nur eine Weise in Primfaktoren zerlegt werden kann, wobei die Potenzen **natürliche Zahlen** sind, kann man jede **positive rationale Zahl** auf nur eine Weise in Primfaktoren zerlegen, wobei die Potenzen **ganze Zahlen** sind. Nach dem Fundamentalsatz der Arithmetik werde ich diesen Satz humorvoll den Fundamentalsatz der Harmonie nennen. Beispielsweise lässt sich 6/5 in 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> zerlegen, und es gibt keine andere Zerlegung. (Weil dies ein Crash-Kurs ist, werde ich die mathematischen Genauigkeiten weglassen, natürlich sind sie aber für [neugierige Leser](math.html) vorhanden. Überall, wo in diesem Kurs ein mathematischer Satz vorkommt, findest du einen Beweis auf der Mathematikseite.)
+
+Drittens brauchst du die sog. reduzierte Form eines Intervalls. In der Praxis multipliziert oder dividiert man dazu eine Zahl mit bzw. durch 2, bis das Ergebnis zwischen 1 (einbezogen) und 2 (ausgeschlossen) liegt. Dieses Verfahren ähnelt der sog. *Oktaväquivalenz*, wobei wir Tonhöhen als gleichwertig empfinden, wenn sie sich nur um ein Vielfaches der Oktave (2/1) unterscheiden. Dadurch ändert sich beispielsweise 7/1 in 7/4 und 1/6 in 4/3. Die reduzierte Form findet man mithilfe der Formel:
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
-This is just about all you need, so let's get started!
+Das ist alles, was du brauchst. Fangen wir also an!
 
-## <a name="lesson_1">Lesson 1: Pythagorean Tuning</a>
+## <a name="lesson_1">Lektion 1: Die pythagoreische Stimmung</a>
 
-You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
+Du denkst vielleicht, dass durch die Entnahme der Enharmonie sich viel mehr mögliche Tonhöhen beschreiben lassen. Da hättest du Recht. Die Entnahme der Enharmonie reicht aber nicht selbst aus, um die ganze Naturtonstimmung logischerweise darzustellen. Ein Vorteil der Naturtonstimmung ist, dass sie sehr kleine Unterschiede in Tonhöhe gut ausdrückt, und dadurch verschiedenen Intervallen verschiedene Farben gibt.
 
-Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below:
+Stelle dir die folgende Intervallreihe an: 11/10, 10/9, 9/8, 8/7. Hör zu:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-All of them are "some type of major second" to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
+Bei allen handelt es sich um "etwa eine große Sekunde" für die allermeisten. Es wäre aber falsch, alle von ihnen als große Sekunde aufzuschreiben. Sie sind unterschiedliche Intervalle. Die Unterdrückung der Vielfalt dort, wo sie am meisten zählt, widerspricht JI selbst.
 
-In that case, you might think that there might exist some middle ground, a subset of JI, which can be mapped exactly onto staff notation without enharmonic equivalence, and again you would be correct. That middle ground is none other than 3-limit JI, also known as Pythagorean tuning.
+Du denkst also vielleicht, dass es einen Mittelweg gibt, einen Teil der ganzen Naturtonstimmung, der genau eindeutig dieser Notenschrift ohne Enharmonie zugeordnet werden kann. Da hättest du auch Recht. Dieser Mittelweg ist genau die Naturtonstimmung bis zum 3-Limit, auch pythagoreische Stimmung genannt.
 
-This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection.
+Das heißt, dass wir die Oktave dem Frequenzverhältnis 2/1 zuordnen, genauso wie bei 12-EDO, und dass wir die reine Quinte dem Frequenzverhältnis 3/2 zuordnen. Damit können wir jedes mögliche Intervall der Notenschrift genau ein mögliches Intervall der pythagoreischen Stimmung zuordnen. Es gibt eine bijektive Zuordnung.
 
-This, actually, is how the set of diatonic pitch classes can be considered to be *defined*: F, C, G, D, A, E, and B are all defined such that F–C is 3/2, C–G is 3/2, etc. We notice that B–F can then be calculated to be 1024/729, which is close to 3/2 but is smaller. So we then define the sharp and flat to counter this difference, so that B–F♯ is 3/2 and B♭–F is 3/2. You will later see that the FJS works by extending this principle of countering differences with accidentals.
+Damit können wir die Menge der Stammtöne sogar *definieren*: F, C, G, D, A, E, und H sind alle so definiert, dass F–C 3/2 beträgt, ebenso C–G, usw. Wir bemerken dann, dass H–F 1024/729 beträgt. Dieses Intervall ist ein Tick kleiner als 3/2. Deshalb definieren wir dann das Kreuz und das Be, um diesen Unterschied aufzuheben, also betragen H–Fis und B–F per Definition auch 3/2. Das FJS funktioniert, indem es dieses Prinzip erweitert: Unterschiede werden durch Versetzungszeichen annulliert.
 
-I should note that this requires something that some musicians may not be aware exists: multiples, beyond double, of the sharp and flat. While extremely rarely used in conventional music, they are required here so that the line of fifths is unbounded in either side. In the FJS, sharps and flats can appear with any multiplicity. This is not to say that they are common; just do not panic when you have to use them.
+Bemerken wir, dass diese Bijektion etwas benötigt, das vielleicht nicht allen bewusst ist: mehr als nur doppelte Kreuze und Be. Obwohl sie sehr selten in üblicher Musik vorkommen, sind sie hier erforderlich, damit die Quintenlinie auf beiden Seiten unbegrenzt ist. Im FJS können dreifache, vierfache, usw. Kreuze und Be auch vorkommen. Das heißt gar nicht, dass sie oft vorkommen. Aber keine Panik, falls du sie benutzen musst.
 
-You are now ready to learn the first two FJS techniques.
+Du bist jetzt bereit, die ersten zwei FJS-Techniken zu lernen.
 
-> ### FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.
+> ### FJS-Technik \#1: Ein pythagoreisches Frequenzverhältnis in seine FJS-Darstellung umrechnen.
 > 
-> 1. Factorize the ratio.
-> 2. Initially ignore octaves (powers of two).
-> 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
-> 4. Adjust octaves as required.
+> 1. Faktorisiere das Verhältnis.
+> 2. Ignoriere zunächst die 2er-Potenz.
+> 3. Beachte die 3er-Potenz, und mache so viele Quintenschritte (im Uhrzeigersinn oder gegen, je nachdem, ob die Potenz positiv oder negativ ist). Dadurch entsteht das entsprechende Intervall.
+> 4. Reguliere die Oktave.
 >
-> **Example:** To convert 9/8 to the FJS, we factorize: 2<sup>−3</sup> 3<sup>2</sup>. We ignore the factor of two. The power of three is +2, so we move two fifths clockwise: C–G–D. We have a major second. No octave adjustment needs to be made. The answer is M2.
+> **Beispiel:** Um 9/8 in das FJS umzurechnen, faktorisieren wir zunächst: 2<sup>−3</sup> 3<sup>2</sup>. Wir ignorieren die 2er-Potenz. Die 3er-Potenz beträgt +2, also gehen wir zwei Quinten im Uhrzeigersinn: C–G–D. Die Antwort lautet also: große Sekunde.
 
-> ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
+> ### FJS-Technik \#2: Eine FJS-Darstellung eines pythagoreischen Frequenzverhältnisses zurück umrechnen.
 > 
-> 1. Initially ignore octaves.
-> 2. Convert the interval to the number of steps by fifths.
-> 3. Raise three to that power and take the reduced form.
-> 4. Adjust octaves as required.
+> 1. Ignoriere zunächst Oktaven.
+> 2. Bestimme die Anzahl der Quintenschritte, aus denen sich das Intervall ergibt, und nenne sie *n*.
+> 3. Berechne $$\text{red}(3^n)$$.
+> 4. Reguliere die Oktave.
 >
-> **Example:** To convert the FJS interval m3 to a Pythagorean ratio, we convert it first to −3 fifths: C–F–B♭–E♭. We now raise 3 to that power: 3<sup>−3</sup>. This is 1/27. To bring this number between 1 (inclusive) and 2 (exclusive), we multiply by 32 to get the answer: 32/27.
+> **Example:** Um die kleine Terz im FJS in ein Verhältnis umzurechnen, bestimmen wir zuerst, dass die kleine Terz −3 Schritte benötigt: C–F–B–Es. $$\text{red}(3^{-3})$$ beträgt 32/27.
 
-Below is a table of some common ones:
+Die folgenden sind am meisten verbreitet:
 
-| Interval | Steps | Ratio       |
-|---------:|:-----:|:------------|
-| m2       | −5    | 256/**243** |
-| m6       | −4    | 128/**81**  |
-| m3       | −3    | 32/**27**   |
-| m7       | −2    | 16/**9**    |
-| P4       | −1    | 4/**3**     |
-| P5       | +1    | **3**/2     |
-| M2       | +2    | **9**/8     |
-| M6       | +3    | **27**/16   |
-| M3       | +4    | **81**/64   |
-| M7       | +5    | **243**/128 |
+| Intervall      | Schritte | Verhältnis  |
+|:---------------|:--------:|:------------|
+| kleine Sekunde | −5       | 256/**243** |
+| kleine Sexte   | −4       | 128/**81**  |
+| kleine Terz    | −3       | 32/**27**   |
+| kleine Septime | −2       | 16/**9**    |
+| reine Quarte   | −1       | 4/**3**     |
+| reine Quinte   | +1       | **3**/2     |
+| große Sekunde  | +2       | **9**/8     |
+| große Sexte    | +3       | **27**/16   |
+| große Terz     | +4       | **81**/64   |
+| große Septime  | +5       | **243**/128 |
 
-You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above. Don't be afraid to use calculators to help you; you'll find one very useful when working with the FJS until you become fluent and simply know the common results.
+Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst du dir überhaupt keine Zahlen marken. Es ist ähnlich wie beim Kopfrechnen. Du sollst schon jetzt selber diese Verhältnisse aus den Intervallen berechnen können, und zurück, mithilfe der zwei Techniken. Fürchte nicht, einen Taschenrechner zu benutzen. Einer wird dir sicher sehr hilfreich sein, bis du dich mit dem FJS so gut auskennst, dass du die Ergebnisse einfach weißt.
 
-### Exercise 1
+### Aufgabe 1
 
-1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
-2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
-4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
-5. Find the ratio of the Pythagorean comma (d2 in the FJS).
-6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
+1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
+2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
+3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
+4. Notiere die folgende Tonleiter im FJS mit D als Grundton: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
+5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
+6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
 
-You can check your answers [here](solutions.html).
+Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
 ## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
 
