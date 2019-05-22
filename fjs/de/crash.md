@@ -127,71 +127,73 @@ Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
+## <a name="lesson_2">Lektion 2: Die Primzahlintervalle</a>
 
-All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much – aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
+Also bisher hast du gelernt, die pythagoreische Stimmung aufzuschreiben. Bis jetzt war es ein bisschen langweilig. Die pythagoreische Stimmung weicht gar nicht so viel von 12-EDO ab. Es reicht auch gar nicht aus, um die ganze Naturtonstimmung aufschreiben zu können.
 
-The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
+Der nächste Schritt ist die Fähigkeit, sog. Primzahlintervalle darzustellen. Das sind Intervalle der Obertonreihe, die aus Primzahlen bestehen. Wir nehmen also die Reihe der Primzahlen:
 
 > 2, 3, 5, 7, 11, 13, 17, 19, ...
 
-...and we take the reduced form of all of them:
+...und wir verwandeln alle in ihre reduzierte Formen:
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
-We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to "prime intervals", I refer exclusively to the ones corresponding to primes greater than 3.
+Wir wissen schon, wie die ersten zwei Primzahlen aussehen: die Oktave und die Quinte. Ab jetzt, wenn ich "Primzahlintervalle" sage, meine ich nur die, die Primzahlen über 3 zugeordnet sind.
 
-Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" – a form of "minor seventh". Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
+Falls du dich mit JI auskennst, hast du schon gehört, dass 5/4 als "Naturterz" und 7/4 als "Naturseptime" bezeichnet werden – also Sonderformen der großen Terz bzw. der kleinen Septime. Diese Sprache fiel dir wahrscheinlich erstens nicht auf. Es sieht sich so an, als wären es einfach Erweiterungen der Begriffe "große Terz" und "kleine Septime", um Intervalle einzubeziehen, die nah sind.
 
-But if we consider this on a formal level, things start to get weird.
+Auf einem formalen Niveau aber geschieht etwas Merkwürdiges.
 
-Say we accept this at first: 5/4 is a type of major third. So we'll notate it as a major third, *with some kind of additional symbol indicating the deviation*. The difference from the Pythagorean major third, 81/64, is the small interval of 81/80, about 22 cents. This should be fine, why would it be problematic? The reason is because the Pythagorean diminished fourth, 8192/6561, is *much* closer. The difference between that and 5/4 is only 32805/32768, only about 2 cents!
+Nehmen wir an, wir akzeptieren das zunächst. 5/4 ist eine Art große Terz. Wir notieren es also als eine große Terz, *mit einem Zusatzzeichen, der für den Unterschied stehen wird.* Die Differenz zur pythagoreischen großen Terz (81/64) beträgt nur 81/80, etwa 22 Cent. Wieso sollte das ein Problem sein? Deswegen, dass es *viel* bessere Annäherungen gibt, zum Beispiel die pythagoreische verminderte Quarte (8192/6561). Sie liegt nur um 32805/32768, nur etwa 2 Cent, entfernt!
 
-Listen to the difference between 81/64 and 5/4:
+Hör dir den Unterschied zwischen 81/64 und 5/4 an:
 
 <audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
 
-And the difference between 8192/6561 and 5/4:
+Und den Unterschied zwischen 8192/6561 und 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Why should we choose the major third over the diminished fourth to notate 5/4? Ah, simplicity, I hear you say. The major third is only +4 fifths, while the diminished fourth is the much more complicated −8 fifths. But then in that case, why don't we use the *minor* third to notate 5/4 – clearly it is simpler, only −3 as opposed to +4 fifths. Oh, it's too far away now? Who are *you* to decide the exactly correct balance between simplicity and proximity?
+Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/4 benutzen? Einfachheit, sagst du? Die große Terz beträgt nur +4 Quinten, während die verminderte Quarte −8 anbietet, also viel komplizierter. Wieso benutzen wir also nicht die *kleine* Terz als 5/4? Sie ist doch einfacher, nur −3 statt +4 Quinten. Ach, jetzt ist sie nicht nah genug? Wieso bestimmst *du* das richtige Gleichgewicht zwischen Einfachheit und Nähe?
 
-OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question "How do we choose the approximations for each prime interval?" is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
+Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. "Wie wählen wir also die Annäherungen für jedes Primzahlintervall?" Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
-The reason will be explained later.
+Wieso, erkläre ich später.
 
-What does the FJS do with this number? The next step is the most important element in the entirety of the FJS; it's the element that makes it so unique among other notation systems for JI. It is the **FJS master algorithm.** Here it is, in a human-readable form. Implementations in programming languages, including a calculator on this website, are available as well.
+Wie benutzt das FJS diese Zahl? Der nächste Schritt ist das wichtigste Element des ganzen FJS. Es ist dasjenige Element, das das FJS von allen anderen JI-Notationssystemen unterscheidet. Es ist der **FJS-Master-Algorithmus**. Hier steht er lesbar für Menschen. Andere Formen in Programmiersprachen, darunter auch ein Rechner auf dieser Webseite, gibt es auch.
 
-The **FJS master algorithm** outputs the so-called **generator function** for each prime number input with a radius of tolerance. I will explain below what the algorithm does, how it is used, and what the generator function is used for.
+Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus so tut, wie er benutzt wird, und wozu die Generatorfunktion dient.
 
-> ### The FJS Master Algorithm
+> ### Der FJS-Master-Algorithmus
 > 
-> 1. Input the desired prime interval in octave-reduced form.
-> 2. Let *k* = 0.
-> 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
-> 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
-> 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
+> 1. Lese die eingegebene Primzahl in reduzierter Form.
+> 2. Fange an mit *k* = 0.
+> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten, in reduzierter Form.
+> 4. Beträgt die Differenz zwischen diesem Intervall und dem Primzahlintervall weniger als der Toleranzradius?
+> 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
+> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
 
-As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
+Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
-The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Here is how it is computed:
+Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung jedes Primzahlintervalls, die innerhalb des Toleranzradius liegt. Die Differenz wird dann **formales Komma** genannt, und ihm wird ein FJS-Versetzungszeichen gegeben. So wird das formale Komma berechnet:
 
-> ### The Formal Comma
+> ### Das formale Komma
 >
-> The formal comma of a prime *p* with a generator function *g* is given by:
+> Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
 >
 > $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
-You can also go the other way: determine the generator function of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the generator function. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
+Es geht auch anders herum: du kannst aus dem formalen Komma die Generatorfunktion einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Generatorfunktion. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Generatorfunktion für 7.
 
-Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
+Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes Komma: positiv oder negativ. Das Symbol für das Versetzungszeichen basiert stets auf der Primzahl selbst. Die Form variiert, je nachdem du Notennamen oder Notenschrift schreibst:
 
-- In note naming, positive accidentals are written as a superscript of the number itself, and negative ones as a subscript of the number.
-- In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
+- Bei Notennamen werden positive Versetzungszeichen hochgestellt und negative tiefgestellt.
+- Bei Notenschrift werden positive Versetzungszeichen als einfach die Primzahl, negative als die Primzahl mit einem Minus-Zeichen geschrieben.
+
+Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Statt dessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – 
 
 You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
 
