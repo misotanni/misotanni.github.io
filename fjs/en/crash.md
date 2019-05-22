@@ -213,7 +213,7 @@ Listen to this scale:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use.
+As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use. (You can also think of a different analogy: instead of the sharp raising and the flat lowering, you can think of the sharp adding fifths and the flat removing fifths.)
 
 At this point, I'd like to explain how these accidentals interact with each other on a staff.
 

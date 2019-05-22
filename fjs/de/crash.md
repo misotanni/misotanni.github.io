@@ -97,7 +97,7 @@ Du bist jetzt bereit, die ersten zwei FJS-Techniken zu lernen.
 > 3. Berechne $$\text{red}(3^n)$$.
 > 4. Reguliere die Oktave.
 >
-> **Example:** Um die kleine Terz im FJS in ein Verhältnis umzurechnen, bestimmen wir zuerst, dass die kleine Terz −3 Schritte benötigt: C–F–B–Es. $$\text{red}(3^{-3})$$ beträgt 32/27.
+> **Beispiel:** Um die kleine Terz im FJS in ein Verhältnis umzurechnen, bestimmen wir zuerst, dass die kleine Terz −3 Schritte benötigt: C–F–B–Es. $$\text{red}(3^{-3})$$ beträgt 32/27.
 
 Die folgenden sind am meisten verbreitet:
 
@@ -193,72 +193,70 @@ Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes K
 - Bei Notennamen werden positive Versetzungszeichen hochgestellt und negative tiefgestellt.
 - Bei Notenschrift werden positive Versetzungszeichen als einfach die Primzahl, negative als die Primzahl mit einem Minus-Zeichen geschrieben.
 
-Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Statt dessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – 
+Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Statt dessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
 
-You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
+Diejenigen von euch, denen das Ben-Johnston-System schon bekannt ist, ist diese Idee nicht fremd. Für den Rest von euch:
 
-Those of you who are already familiar with Ben Johnston's notation for JI will recognize this idea. For the rest of you:
+Es sieht zuerst überflüssig kompliziert aus. Tatsächlich ist es aber viel einfacher. Zum Beispiel: Ein positives Versetzungszeichen von +17 bedeutet immer, dass seine Anwendung einen Faktor von 17 zum Zähler hinzubringt. Solange du weißt, welche pythagoreische Annäherung 17/16 hat (es ist die kleine Sekunde), weißt du auch, dass 17/16 einfach als kleine Sekunde mit +17 geschrieben wird. Du brauchst dazu nicht zu wissen, ob die Annäherung höher oder niedriger als das Ziel ist! Dieses Prinzip, das auf Otonalität und Utonalität anstatt Richtung basiert, vereinfacht auch die Notation vieler Tonleitern und Stimmungssystemen. Im FJS ist das Versetzungszeichen +5 eigentlich als 80/81, nicht 81/80, beschrieben. In einer Liste formaler Kommas für jede Primzahl *p* > 3 wird das formale Komma einen Faktor von *p* immer im Zähler enthalten. Es ist auch der Grund, warum dieses System das Naturton**funktions**system heißt: sein Schwerpunkt ist, die **Funktion**, und nicht die Tonhöhe, wiederzugeben.
 
-This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 with a +17 accidental attached. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator. It's also where the system gets its name from: the **Functional** Just System; the one that focuses on representing *function* rather than pitch position.
+Ich möchte dazu gerne eine Anekdote erzählen. Während ich ein Prototyp des Naturtonfunktionssystems entwickelte (noch bevor es einen Namen hatte), ursprünglich waren alle formalen Kommas doch positiv aufwärts und negativ abwärts. Einmal dachte ich über einige 5-Limit- und 7-Limit-Stimmungen nach, und plötzlich fiel mir auf, dass diese Konvention überflüssig kompliziert ist, und ich habe mich sofort entschieden, sie auf die jetzige zu ändern: positiv-otonal, negativ-utonal. Nachdem ich dies getan habe, hat es mein Denken im FJS drastisch vereinfacht, also so blieb es. (Das ursprüngliche FJS hatte noch viele andere Unbequemlichkeiten, bevor ich es zur heutigen, extrem einfachen Form reduzieren konnte...)
 
-In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now...)
+So sieht die Obertonreihe von A bis zum achten Oberton im FJS aus:
 
-Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
+> A, A, E, A, Cis<sup>5</sup>, E, G<sup>7</sup>, A.
 
-> A, A, E, A, C♯<sup>5</sup>, E, G<sup>7</sup>, A.
-
-Here is the same using staff notation:
+So sieht sie in Notenschrift aus:
 
 <img src="../assets/example_3.png" alt="A–A–E–A–C♯5–E–G7–A">
 
-Listen to this scale:
+So hört sie sich an:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use.
+Wie du siehst, alle Versetzungszeichen in der Obertonreihe sind positiv (und das gilt für die ganze, unendliche Obertonreihe). Ist das nicht viel sauberer, als wenn wir Richtung statt Otonalität benutzen würden? Ich verstehe, dass du zuerst verwirrt sein kannst. Mit der Zeit aber wirst du selbst sehen, dass es das FJS doch logischer und einfacher macht. (Du kannst dir auch eine andere Analogie vorstellen: anstatt das Kreuz als erhöhend und das Be als senkend zu betrachten, bemerke, dass das Kreuz Quinten addiert, und das Be Quinten subtrahiert.)
 
-At this point, I'd like to explain how these accidentals interact with each other on a staff.
+Jetzt möchte ich erklären, wie diese Versetzungszeichen miteinander interagieren.
 
-> ### Propagation of FJS Accidentals
+> ### Propagierung der FJS-Versetzungszeichen
 >
-> - As we all know, conventional (Pythagorean) accidentals categorize letter-pitches (CDEFGAB) into their correct Pythagorean pitch classes, so they apply to the same letter-pitch in the same octave until the end of a bar.
-> - Similarly, FJS accidentals categorize Pythagorean pitch classes (C, D♭, C♯, D, etc.) into their correct FJS pitches, so they apply to the same Pythagorean pitch in the same octave until the end of a bar.
+> - Wir wissen alle, dass pythagoreische Versetzungszeichen die einzelnen Stammtöne (C, D, E, F, G, A, H) in dessen korrekte pythagoreische Tonhöhen kategorisieren. Deshalb gelten sie für alle Noten desselben Stammtons in derselben Oktave in demselben Takt.
+> - Ebenso kategorisieren FJS-Versetzungszeichen die pythagoreischen Töne (C, Des, Cis, D, ...) in dessen korrekte absolute Tonhöhen. Deshalb gelten sie für alle Noten desselben pythagoreischen Tons in derselben Oktave in demselben Takt.
 
-Why so? Because when this rule is considered in this way, it is much more logical, and because this is much more useful. Below is a demonstration of this rule:
+Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veranschaulichung dieser Regel:
 
 <img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
 
-- In the first bar, we have a C♯<sup>5</sup> followed by just a bare C. Because it's the same letter-pitch in the same octave, it absorbs the sharp. Because it's now a C♯ in the same octave, it also absorbs the +5. So it reads C♯<sup>5</sup>, C♯<sup>5</sup>.
-- In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural; it cancels any FJS accidentals, but nothing else.** So this reads C♯<sup>5</sup>, C♯.
-- In the third bar, there is a C♯<sup>5</sup> followed by a C-natural. Since it is now a different Pythagorean pitch, the +5 is not absorbed, so this reads C♯<sup>5</sup>, C.
-- In the fourth bar, there is a C♯<sup>5</sup> followed by a C-natural with a +5 accidental. Now we have C♯<sup>5</sup>, C<sup>5</sup>; this case is least likely to be used.
+- Im ersten Takt haben wir ein Cis<sup>5</sup> und danach ein bloßes C. Weil es derselbe Stammton in derselben Oktave ist, absorbiert es das Kreuz. Weil es jetzt ein Cis in derselben Oktave ist, absorbiert es auch das +5. Wir haben also Cis<sup>5</sup>, Cis<sup>5</sup>.
+- Im zweiten Takt gibt es ein Cis<sup>5</sup> und danach ein bloßes C mit einem Versetzungszeichen von +1. **+1 ist das FJS-Äquivalent des Auflösungszeichens. Es löst alle FJS-Versetzungszeichen auf, aber nichts sonst.** Deshalb heißt es Cis<sup>5</sup>, Cis.
+- Im dritten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C. Weil es jetzt nicht mehr derselbe pythagoreische Ton ist, wird das +5 nicht mehr absorbiert, deshalb heißt es Cis<sup>5</sup>, C.
+- Im vierten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C mit +5. Jetzt haben wir Cis<sup>5</sup>, C<sup>5</sup>; dieser Fall tritt wahrscheinlich am seltensten auf.
 
-One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or B<sup>5</sup> above G, etc.
+Noch eine Anmerkung: das FJS ermöglicht auch, Intervallnamen diese hoch- und tiefgestellten Versetzungszeichen anzuhängen. Auf diese Weise werden JI-Frequenzverhältnisse formal im FJS benannt. Zum Beispiel "heißt" 5/4 die (große Terz)<sup>5</sup>. Das wäre also E<sup>5</sup> von C, oder A<sup>5</sup> von F, oder H<sup>5</sup> von G, usw.
 
-OK, that's all you need to know to notate the prime intervals. Below is one more technique. The radius of tolerance is not needed anymore; the only place where the FJS uses the radius of tolerance is in the master algorithm, in computing the generator function of a prime.
+OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben zu können. Unten findest du eine neue Technik. Den Toleranzradius brauchst du nicht mehr. Man benutzt ihn nur im Master-Algorithmus, wo die Generatorfunktion einer Primzahl bestimmt wird.
 
-> ### FJS Technique \#3: To convert any arbitrary otonal prime interval into its FJS representation.
+> ### FJS Technique \#3: Ein otonales Primzahlintervall ins FJS umrechnen.
 > 
-> 1. Compute the generator function of the prime.
-> 2. Write the interval generated by that number of fifths.
-> 3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
+> 1. Finde die Generatorfunktion der Primzahl.
+> 2. Schreibe das Intervall auf, das dieser Anzahl von Quintenschritten entspricht.
+> 3. Addiere ein positives Versetzungszeichen der Primzahl selbst. Beispielsweise erhält 23/16 ein +23.
 >
-> **Example:** To write 7/4 in the FJS, we compute the generator function of 7 as −2. We write the interval generated by −2 fifths: C–F–B♭, so m7. The final step is to add the positive +7 accidental to obtain m7<sup>7</sup>. (Yes, it might look strange at first sight, but that's what it is.)
+> **Beispiel:** Um 7/4 im FJS zu notieren, wir finden zuerst die Generatorfunktion von 7: −2. Wir schreiben das Intervall aus −2 Quinten auf: C–F–B, also eine kleine Septime. Als Letztes fügen wir ein +7 dazu, damit erhalten wir eine (kleine Septime)<sup>7</sup>. (Ja, es sieht auf den ersten Blick komisch aus.)
 
-(Deducing the inverse – the identity of an interval from its FJS representation given that it is an otonal prime interval – is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
+(Die Rückumrechnung ist trivial: um das Verhältnis eines Intervalls im FJS zu bestimmen, wenn gegeben ist, dass es ein otonales Primzahlintervall ist, nimmt man einfach die Primzahl, die auf dem Versetzungszeichen steht!)
 
-### Exercise 2
+### Aufgabe 2
 
-(From this point onwards, the radius of tolerance is always assumed to be λ.)
+(Ab jetzt nimm immer an, dass der Toleranzradius λ beträgt.)
 
-1. Determine the generator function for the primes 11 and 13.
-2. Given that the generator for the prime 19 is −3, find the formal comma for 19.
-3. Given that the formal comma for the prime 47 is 47/48, find its generator.
-4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
-5. Notate the harmonic series on A up to the fourteenth harmonic.
-6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
+1. Finde die Generatorfunktion für die Primzahlen 11 und 13.
+2. Gegeben ist, dass die Generatorfunktion von 19 −3 beträgt. Finde daher das formale Komma für 19.
+3. Gegeben ist, dass das formale Komma von 47 47/48 beträgt. Finde daher die Generatorfunktion für 47.
+4. Notiere die folgende Tonleiter mit E als Grundton: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
+5. Notiere die Obertonreihe von A bis zum vierzehnten Oberton.
+6. (SCHWIERIG!) Notiere die *Unter*tonreihe von A bis zum achten Unterton.
 
-You can check your answers [here](solutions.html).
+Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
 ## <a name="lesson_3">Lesson 3: Compound Accidentals</a>
 
