@@ -1,8 +1,8 @@
----
-title: The Functional Just System
+﻿---
+title: Das Naturtonfunktionssystem
 ---
 
-> *Such is the advantage of a well-constructed language that its simplified notation often becomes the source of profound theories.*
+> *Derjenige ist der Vorteil einer gut konstruierten Sprache, dass mithilfe ihrer vereinfachten Notation tiefgründige Theorien entstehen.*
 >
 > — Pierre-Simon Laplace
 
