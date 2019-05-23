@@ -36,7 +36,7 @@ window.onload = comps.onchange = input.onkeyup = function upda() {
 function comma(i) {
   var inp = parseInt(i, 10);
   if(isNaN(inp) || !isPrime(inp))
-    throw new Error(loc.notPrime.replace('%1', i.toString));
+    throw new Error(loc.notPrime.replace('%1', i.toString()));
   if(inp == 2 || inp == 3)
     throw new Error(loc.butPythagorean);
   var res = commaForPrime(i);
