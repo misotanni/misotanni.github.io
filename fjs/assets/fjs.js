@@ -72,7 +72,7 @@ function commaForPrime(p) {
     num = val(n);
     if(num < lambda || 2 / num < lambda) break;
     k = k > 0 ? -k : -k + 1;
-    v = div(k > 0 ? [3, 2] : [1, 1], v);
+    v = div(k > 0 ? [2, 3] : [1, 1], v);
   }
   var comma = div(num > lambda ? [2, 1] : [1, 1], n);
   return (commaCache[p] = [k, comma, cents(comma)]);
