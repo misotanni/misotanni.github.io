@@ -85,7 +85,7 @@ What about Ben Johnston, then? Here is the list up to the 31-limit:
 - 145/144, a 29-comma with a factor of five.
 - 31/30, a 31-comma with a factor of five.
 
-Of course, all of these accidentals save the 11-comma have factors of five, and the 17-comma even has a double factor of five. This is likely an adjustment for the abundance of factors of five in Johnston's notation, so it's almost as if these commas are an attempt at correcting Johnston's mistake of mapping the natural notes to the Ptolemaic sequence. The abundance of superparticular commas is also notable, but seems to be coincidental in this case.
+Of course, all of these accidentals save the 11-comma have factors of five, and the 17-comma even has a double factor of five. This is probably an adjustment for the abundance of factors of five in Johnston's notation, so it's almost as if these commas are an attempt at correcting Johnston's mistake of mapping the natural notes to the Ptolemaic sequence. The abundance of superparticular commas is also notable, but seems to be coincidental in this case.
 
 These factors cannot receive quite the same criticism as they do in Helmholtz-Ellis; they are quite logical in the context of the illogical choice of natural notes. 65/64 maps 8/5 to 13/8; 51/50 maps 25/24 to 17/16; 46/45 maps 45/32 to 23/16. They map simple 5-limit intervals to the primes.
 
