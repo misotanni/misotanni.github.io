@@ -171,7 +171,7 @@ function nameInterval(frac) {
   var isPerfect = perfectInterval[basicInt];
   var sign = octave >= 0;
   if(! sign) {
-    octave = -octave + 1;
+    octave = -octave - 1;
     basicInt = (7 - basicInt) % 7;
     sharpCount *= -1;
     if(! isPerfect) sharpCount -= 1;
