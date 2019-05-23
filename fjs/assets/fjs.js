@@ -76,7 +76,7 @@ function commaForPrime(p) {
     v = div(k > 0 ? [3, 2] : [1, 1], v);
   }
   var comma = div(num > lambda ? [2, 1] : [1, 1], n);
-  return (commaCache[p] = [k, comma, cents(comma)]);
+  return (commaCache[p] = [-k, comma, cents(comma)]);
 }
 
 function parseIn(s) {
