@@ -404,9 +404,9 @@ Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den To
 1. Rechne die folgenden JI-Verhältnisse ins FJS um, mithilfe einer beliebigen Technik: 28/27, 15/13, 33/25.
 2. Rechne die folgenden FJS-Darstellungen zurück in JI-Verhältnisse um, mithilfe einer beliebigen Technik: (große Sexte)<sub>7</sub>, (verminderte Quarte)<sup>13</sup><sub>5</sub>, (kleine Terz)<sub>25</sub>.
 3. Notiere eine JI-Wiedergabe der folgenden berühmten Progression im FJS in B-Dur. Was dir gegeben ist, sind die Verhältnisse jeder Note zu B (ohne Oktaven).
-	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
-	- V chord: 3/2, 9/8, 21/16, 27/16, 15/8
-	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
+	- 10/9, 5/4, 4/3, 5/3, 1/1
+	- 3/2, 9/8, 21/16, 27/16, 15/8
+	- 1/1, 9/8, 5/4, 3/2, 15/8
 4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton:
 	
 	<img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭">
