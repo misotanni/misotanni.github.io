@@ -6,6 +6,7 @@
   <option value="tofjs">Convert fraction into an FJS interval</option>
   <option value="fromfjs">Convert FJS interval into a fraction</option>
 </select>
+
 Input (<span id="input-name"></span>):<br />
 <input type="text" id="input">
 
