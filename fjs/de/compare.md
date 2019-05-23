@@ -130,7 +130,7 @@ Bei Ben Johnston sieht es viel, viel besser aus. Obwohl seine Kommas immer noch 
 Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst für das positive Zeichen... (ja, mit Schwung geht's los!)
 
 ...und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl "11", die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
-vo
+
 Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 1097 sowie 109 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
 
 Ein Punkt für das FJS und ein halber für Johnston.
