@@ -34,8 +34,8 @@ window.onload = comps.onchange = input.onkeyup = function upda() {
 };
 
 function comma(i) {
-  var inp = parseInt(i, 10);
-  if(isNaN(inp) || !isPrime(inp))
+  var inp;
+  if(!i.match(/^[0-9]+$/) || isNaN(inp = parseInt(i, 10)) || !isPrime(inp))
     throw new Error(loc.notPrime.replace('%1', i.toString()));
   if(inp == 2 || inp == 3)
     throw new Error(loc.butPythagorean);
