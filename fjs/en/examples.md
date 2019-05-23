@@ -8,7 +8,7 @@ This page contains more examples of the FJS in usage.
 
 | P1                         | P1<sub>5</sub>  | P1<sup>11</sup> | m2<sup>7</sup><sub>5</sub> | m2<sub>5</sub>              | M2<sub>11</sub> | m2<sup>11</sup><sub>5</sub> | M2<sup>5</sup>             | M2              | M2<sub>7</sub>  | m3<sup>7</sup>             |
 | m3                         | m3<sub>5</sub>  | m3<sup>11</sup> | M3<sup>5</sup>             | P4<sup>7</sup><sub>11</sub> | M3<sub>7</sub>  | P4<sup>7</sup>              | P4                         | P4<sub>5</sub>  | P4<sup>11</sup> | d5<sup>7</sup><sub>5</sub> |
-| A4<sup>5</sup><sub>7</sub> | d5<sub>11</sub> | P5<sup>5</sup>  | P5                         | P5<sub>7</sub>              | m6<sup>7</sup>  | P5<sup>11</sup><sub>7</sub> | m6<sub>5</sub>             | M6<sub>11</sub> | M6<sup>5</sup>  | M6                         |
+| A4<sup>5</sup><sub>7</sub> | P5<sub>11</sub> | P5<sup>5</sup>  | P5                         | P5<sub>7</sub>              | m6<sup>7</sup>  | P5<sup>11</sup><sub>7</sub> | m6<sub>5</sub>             | M6<sub>11</sub> | M6<sup>5</sup>  | M6                         |
 | M6<sub>7</sub>             | m7<sup>7</sup>  | m7              | m7<sub>5</sub>             | M7<sup>5</sup><sub>11</sub> | m7<sup>11</sup> | M7<sup>5</sup>              | M7<sup>5</sup><sub>7</sub> | P8<sub>11</sub> | P8<sup>5</sup>  | P8                         |
 
 ### Dante Rosati's 21-tone Scale
