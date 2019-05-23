@@ -7,7 +7,7 @@
 3. 9/8, 32/27, 9/8, 32/27, 9/8.
 4. <img src="../assets/solution_1_4.png" alt="D–F♯–G–A–C♯–D">
 5. 531441/524288. (Or its reciprocal; this is a bit tricky. 531441/524288 is the interval from C to the B♯ **below** it, which cannot be represented easily as an interval: augmented zeroth?! Anyway, by size, it's a diminished second.)
-6. AAAAAAA3. It's a septuple augmented third, minus an octave. Yes. Above a natural note, it would be written as a major third with seven sharps. Yikes.
+6. AAAAAAA3. It's a septuple augmented third, minus an octave. Yes. Above C, it would be written as a major third with seven sharps. Yikes.
 
 ## Exercise 2
 
