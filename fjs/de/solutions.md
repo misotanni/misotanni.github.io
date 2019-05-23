@@ -37,4 +37,4 @@
 	- 3/2, 3/2, 9/8, 15/8
 	- 1/1, 3/2, 5/4, 1/1
 5. <img src="../assets/solution_4_5.png" alt="A–B♭11_5, A–B5, A–B, A–B_7">
-6. (Reine Prime)<sup>55</sup>. Das Intervall ist 440/432 = 55/54. Bitte glaube in diesen 432-Hz-Quatsch nicht, danke.
+6. (Reine Prime)<sup>55</sup>. Das Intervall ist 440/432 = 55/54. Bitte glaube an diesen 432-Hz-Quatsch nicht, danke.
