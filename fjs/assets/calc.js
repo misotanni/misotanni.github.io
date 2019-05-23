@@ -3,9 +3,9 @@ function get(id) {
 }
 
 var computations = {
-  comma: [comma, 'prime'],
-  tofjs: [tofjs, 'fraction (p/q)'],
-  fromfjs: [fromfjs, 'name (like M3^5)']
+  comma: [comma, loc.prime],
+  tofjs: [tofjs, loc.fraction],
+  fromfjs: [fromfjs, loc.intervalName]
 };
 
 var comps = get('computations'),
@@ -17,11 +17,11 @@ function recompute() {
   var c = computations[comps.value];
   if(! c) {
     iname.innerText = '';
-    return 'No computation specified.';
+    return loc.noComputation;
   }
   iname.innerText = c[1];
   if(! input.value)
-    return 'No input.';
+    return loc.noInput;
   try {
     return c[0](input.value);
   } catch(e) {
@@ -36,9 +36,9 @@ window.onload = comps.onchange = input.onkeyup = function upda() {
 function comma(i) {
   var inp = parseInt(i, 10);
   if(isNaN(inp) || !isPrime(inp))
-    throw new Error('Input must be a prime; "' + i + '" is not a valid prime.');
+    throw new Error(loc.notPrime.replace('%1', i.toString));
   if(inp == 2 || inp == 3)
-    throw new Error("2 and 3 are Pythagorean; I can't compute commas for them.");
+    throw new Error(loc.butPythagorean);
   var res = commaForPrime(i);
   return "  gen: " + res[0] + "\n" +
          "comma: " + res[1][0] + "/" + res[1][1] + " (" + res[2].toFixed(2) + "¢)\n";
@@ -46,11 +46,11 @@ function comma(i) {
 
 function tofjs(i) {
   var parts = i.split('/');
-  if(parts.length != 2) throw new Error('Input must be a natural fraction; "' + i + '" does not contain one slash (/).');
+  if(parts.length != 2) throw new Error(loc.notFrac);
   var num   = parseInt(parts[0], 10);
   var denom = parseInt(parts[1], 10);
-  if(isNaN(num) || isNaN(denom)) throw new Error('Input must be a natural fraction; "' + i + '" has non-natural constituents.');
-  if(denom == 0) throw new Error('One does not divide by zero.');
+  if(isNaN(num) || isNaN(denom)) throw new Error(loc.notNatFrac);
+  if(denom == 0) throw new Error(loc.div0);
   return nameInterval([num, denom]);
 }
 

@@ -13,7 +13,7 @@ Array.prototype.some = function(f) {
 
 function factorize(n) {
   if(n % 1 || n <= 0)
-    throw new Error(n + " - not something I can factorize");
+    throw new Error(loc.cantFactorize.replace('%1', n.toString()));
   var factors = [];
   for(var i = 2, s = Math.sqrt(n); i <= s;)
     if(n % i == 0) {
@@ -44,7 +44,6 @@ function reduce(s) {
 }
 
 function gcd(a, b) {
-  if(isNaN(a) || isNaN(b)) throw new Error("I've got NaN (" + a + "/" + b + ")");
   if(b == 0) return a;
   return gcd(b, a % b);
 }
@@ -81,7 +80,7 @@ function commaForPrime(p) {
 
 function parseIn(s) {
   var n = parseInt(s, 10);
-  if(isNaN(n)) throw new Error("'" + s + "' is not a number");
+  if(isNaN(n)) throw new Error(loc.notANumber.replace('%1', s));
   return n;
 }
 
@@ -93,14 +92,13 @@ var sharpSize = reduce(pow([3, 2], sharpMod));
 
 function parseInterval(name) {
   var parts = name.match(/^(m|M|P|d+|A+)([+-]?)([1-9][0-9]*)(?:\^([0-9,]+))?(?:_([0-9,]+))?$/);
-  if(!parts) throw new Error("I don't understand the format of the interval");
+  if(!parts) throw new Error(loc.wrongFormat);
   var variant = parts[1], sign = parts[2] != '-', steps = parts[3] - 1,
     otonal = parts[4] || '1', utonal = parts[5] || '1';
   var isPerfect = perfectInterval[steps % 7];
   if((isPerfect && (variant == 'm' || variant == 'M')) ||
     (!isPerfect && variant == 'P'))
-    throw new Error("The interval size (" + (steps % 7 + 1) +
-      ") doesn't match the variant specifier (" + variant + ")");
+    throw new Error(loc.wrongIntVariant.replace('%1', steps + 1).replace('%2', variant));
   var modulation;
   switch(variant) {
     case 'M': case 'P':
@@ -118,12 +116,12 @@ function parseInterval(name) {
   var fjs = [1, 1];
   for(var i = 0; i < otonal.length; ++i) {
     if(otonal[i] == 2 || otonal[i] == 3)
-      throw new Error("FJS modifiers may not have factors of 2 or 3");
+      throw new Error(loc.wrongFactor);
     fjs = mul(fjs, commaForPrime(otonal[i])[1]);
   }
   for(var i = 0; i < utonal.length; ++i) {
     if(utonal[i] == 2 || utonal[i] == 3)
-      throw new Error("FJS modifiers may not have factors of 2 or 3");
+      throw new Error(loc.wrongFactor);
     fjs = div(fjs, commaForPrime(utonal[i])[1]);
   }
   var absolute = mul(pythagorean(steps, modulation), fjs);
