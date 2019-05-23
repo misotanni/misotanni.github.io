@@ -41,7 +41,6 @@ function comma(i) {
     throw new Error("2 and 3 are Pythagorean; I can't compute commas for them.");
   var res = commaForPrime(i);
   return "  gen: " + res[0] + "\n" +
-         "  pol: " + (res[1] > 1 ? "+" : "-") + "\n" +
          "comma: " + res[1][0] + "/" + res[1][1] + " (" + res[2].toFixed(2) + "¢)\n";
 }
 
