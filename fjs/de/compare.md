@@ -130,208 +130,208 @@ Bei Ben Johnston sieht es viel, viel besser aus. Obwohl seine Kommas immer noch 
 Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst für das positive Zeichen... (ja, mit Schwung geht's los!)
 
 ...und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl "11", die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
-
+vo
 Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 1097 sowie 109 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
 
 Ein Punkt für das FJS und ein halber für Johnston.
 
 > **FJS: 4, HE: 1.5, Johnston: 1.5.**
 
-## Behavior of Accidentals
+## Verhalten der Versetzungszeichen
 
-Let's look at how the accidentals themselves behave. In other words, how do they modify the notes they precede?
+Sehen wir also, wie die Versetzungszeichen funktionieren. Wie verändern sie die Noten, vor denen sie vorkommen?
 
-In Helmholtz-Ellis, all positive accidentals are upward and all negative accidentals are downward. This is a generalization of the notion that a sharp raises the pitch and a flat lowers it.
+In Helmholtz-Ellis wird eine Note durch positive Versetzungszeichen immer erhöht und durch negative immer erniedrigt. Das ist eine Verallgemeinerung der Idee, dass ein Kreuz eine Note erhöht, und ein Be sie erniedrigt.
 
-In Ben Johnston, excluding 81/80, all positive accidentals are otonal and all negative accidentals are utonal. This is a generalization of the notion that a sharp adds fifths to a pitch and a flat subtracts some.
+Bei Ben Johnston dagegen sind alle positiven Versetzungszeichen otonal und alle negativen utonal. Das ist eine Verallgemeinerung der Idee, dass ein Kreuz Quinten addiert und ein Be Quinten subtrahiert.
 
-In the FJS, positive accidentals are always otonal and negative accidentals are always utonal.
+Im FJS sind positive Versetzungszeichen immer otonal und negative immer utonal.
 
-This might be the most controversial section in this comparison, because this particular point is where I cannot provide direct evidence for why I believe an otonality/utonality indication is better than a direction indication. All I can say is that after having invented the FJS (which initially used the positive-upward, negative-downward system) and used it to think about and analyze JI tunings, at some point I have suddenly arrived at the conclusion that the positive-upward, negative-downward system overcomplicates things and that I will immediately change it to positive-otonal, negative-utonal. It has drastically simplified my thinking in the FJS and has stayed that way ever since then. Therefore I may merely hope that you, the reader, will arrive at the same conclusion with experience.
+Wahrscheinlich ist dies der Punkt, wo mein Vergleich vielleicht kontrovers ist, denn hier kann ich keinen direkten Grund dafür geben, wieso ich glaube, dass die Indikation von Otonalität/Utonalität besser ist als eine Indikation der Richtung. Das Einzige, was ich dazu sagen kann, ist Folgendes: Nachdem ich das FJS erfunden habe, wo ursprünglich alle Versetzungszeichen noch die Richtung zeigten, und als ich es zur Analyse von einigen JI-Stimmungen benutzte, war mir plötzlich auf einmal klar, dass die Indikation der Richtung überflüssig kompliziert ist, und dass ich sie in eine Indikation der Tonalität ändern werde. Seitdem hat sich mein Denken im FJS drastisch vereinfacht, und blieb so. Ich kann nur hoffen, dass du, der Leser, das auch mit der Zeit verstehst.
 
-Ben Johnston would be nearly tied with the FJS on this point, except the really annoying fact that 81/80 is exempt from its own rule. But due to the fact that 81/80 works differently from the other accidentals and is seen as an adjustment instead, and due to the fact that pluses and minuses really convey the idea of up and down, I will overlook this minor sin.
+Es hätte fast ein Unentschieden zwischen FJS und Johnston sein können. Aber bei Johnston ist 81/80 von dieser Regel ausgenommen. Deswegen jedoch, dass 81/80 einen anderen Rang als andere Versetzungszeichen bei Johnston hat, und deswegen, dass Plus- und Minus-Zeichen wirklich die Konzepte "aufwärts" und "abwärts" übermitteln, werde ich diese kleine Sünde verzeihen.
 
-(If you think positive-upward and negative-downward is better, you may give Helmholtz-Ellis the point, instead of the FJS and Johnston. It won't make a big difference for determining the winner in the end.)
+(Falls du denkst, dass die Indikation der Richtung doch besser ist, kannst du Helmholtz-Ellis anstatt dem FJS und Johnston den Punkt geben. Es macht am Ende sowieso keinen Unterschied.)
 
-One point for Johnston and the FJS.
+Ein Punkt für Johnston und das FJS.
 
 > **FJS: 5, HE: 1.5, Johnston: 2.5.**
 
-## Note Naming
+## Notennamen
 
-We will now look at another aspect: note naming (and by extension, interval naming). While both Helmholtz-Ellis and Johnston give this aspect minimal importance, the FJS actually *starts* from here and builds up to staff notation from note naming.
+Wir sehen uns jetzt etwas anderes an: Notennamen (also auch Intervallnamen). Während Helmholtz-Ellis und Johnston beide diese Idee als unwichtig betrachten, das FJS *fängt hier an* und konstruiert die Notenschrift von den Notennamen.
 
-Given its arbitrary glyphs, note naming is practically impossible in Helmholtz-Ellis, unless one were to use either a completely different system or type using the dedicated Helmholtz-Ellis font. I have not seen any such attempt so far.
+Das Benennen von Noten ist praktisch unmöglich in Helmholtz-Ellis wegen der zufälligen Zeichen, es sei denn, man würde entweder ein komplett anderes System benutzen oder mit der speziellen Helmholtz-Ellis-Schriftart tippen. Das habe ich bisher nicht gesehen.
 
-As for Johnston, its accidentals look promising to allow something like this. But Johnston notation also has a strange system of arbitrary division of its accidentals when it is used to name notes. Some Johnston accidentals are written between the diatonic pitch class and a Pythagorean accidental, but there is no rule which ones. For example, representing a celestial comma below E♭ requires one to write E7♭+ (sic). The septimal accidental goes between the E and the ♭, while the + required to adjust is then written after the ♭. What is most hurtful is that the deviation downwards by a celestial comma is, in Johnston notation, expressed using two accidentals, as "downwards by a syntonic plus celestial comma, but then upwards by a syntonic comma again".
+Was Johnston angeht, sieht es aus, als ob seine Versetzungszeichen so etwas ermöglichen würden. Die Johnston-Notation hat aber auch ein seltsames System, indem manche Versetzungszeichen zwischen dem Stammton und dem pythagoreischen Versetzungszeichen geschrieben werden, und zwar keine Regel, welche. Was man Es<sup>7</sup> im FJS nennen würde, wäre bei Johnston E7♭+ (sic). Das 7-Zeichen wird zwischen dem E und dem Be geschrieben, der Plus aber nach dem Be. Was am meisten wehtut, ist, dass das "himmlische Komma" bei Johnston mit zwei Versetzungszeichen dargestellt wird: zuerst "herunter um ein syntonisches plus ein himmlisches Komma", dann "wieder zurück um ein syntonisches".
 
-Johnston also has an elaborate system of pronunciation for its note names, which parallels that of the FJS but is much more complicated due to the 5-, 7-, and 11-commas having special glyphs. Kyle Gann gives "G-sharp-up-arrow-double-sub-seven-minus" as a possible note name. This is far more complicated than the most complicated possible note name in the FJS, consisting always of exactly (Pythagorean part)-(optional "super")-(otonal)-("sub")-(utonal), in that order. Gann writes that the combinations of accidentals have not been standardized in Johnston notation.
+Johnston hat auch ein hochentwickeltes System der Aussprache seiner Notennamen. Es ähnelt dem des FJS, aber ist viel komplizierter, weil die 5-, 7-, und 11-Kommas unregelmäßige Zeichen haben. Kyle Gann zeigt uns dazu ein Beispiel auf Englisch: "G-sharp-up-arrow-double-sub-seven-minus": etwa "Gis-Pfeil-nach-oben-doppel-sub-sieben-Minus". Das ist viel komplizierter, als das vertrackteste, was man bei dem FJS erfinden könnte, immer genau nach dem Schema: (pythagoreischer Teil)-(optionales "super")-(Otonales)-("sub")-(Utonales), in dieser Reihenfolge. Gann schreibt, dass die Verbindungen der Versetzungszeichen keine standardisierte Reihenfolge haben.
 
-Still, this system is better than nothing. Sigh.
+Dieses System ist trotzdem besser als gar nichts.
 
-Neither system has any evidence of interval naming, which is a direct translation of tonic-less JI ratios.
+Weder Helmholtz-Ellis noch Johnston kann Intervalle benennen, was eine direkte Übersetzung von grundtonlosen JI-Verhältnissen ist.
 
-One point for the FJS, half a point for Johnston.
+Ein Punkt für das FJS und ein halber für Johnston.
 
 > **FJS: 6, HE: 1.5, Johnston: 3.**
 
-## Scope and Precision
+## Weite und Präzision
 
-All three systems notate JI pitch-perfectly, there is no arbitrary precision. (This is why I did not consider Sagittal in this analysis. Sagittal, being a universal language for all microtonality, has fixed precision and anyway it is based on completely different principles, as it is not limited to JI.)
+Alle drei Systeme notieren JI ohne Zweifel, was Tonhöhe angeht, es gibt keine maximale Präzision. (Deshalb habe ich Sagittal nicht berücksichtigt. Bei Sagittal gibt es immer eine maximale Präzision. Außerdem basiert Sagittal sowieso auf ganz anderen Prinzipien, weil es nicht nur JI notieren kann.)
 
-As for scope, I could say that the FJS comes in at first place, Helmholtz-Ellis second, and Johnston third. But this is pretty pointless; just comparing the raw numbers as of now. It's insignificant that Helmholtz-Ellis can represent the 61-limit, but Johnston can only do the 31-limit, because Johnston could easily assign additional commas to extend his notation all the way to the 127-limit if he wanted. What is significant is that the FJS can represent **all** of Just Intonation and that it can do it **now**. Moreover, following the current design, neiter Helmholtz-Ellis nor Johnston will *ever* be able to represent as much JI as the FJS can. Extending the scope for those notation systems requires someone to sit down, inspect the harmonic series, and actually do the work. The FJS does this automatically, meaning it will always be ahead.
+Was Weite angeht: Ich könnte sagen, dass das FJS den 1. Platz erreicht, danach Helmholtz-Ellis, danach Johnston. Das ist aber ein bisschen sinnlos; wir vergleichen einfach die Zahlen nach ihrem heutigen Wert. Es macht keinen Unterschied, dass Helmholtz-Ellis den 61-Limit darstellen kann, Johnston aber nur den 31-Limit, weil Johnston ohne Probleme zusätzliche Kommas finden könnte und seine Notation bis zum 127-Limit erweitern könnte. Wichtig ist, dass das FJS die **ganze** Naturtonstimmung darstellen kann, und dass es das **jetzt** kann. Nach dem heutigen Design kann weder Helmholtz-Ellis noch Johnston jemals so viel JI darstellen, wie das FJS. Um diese zwei Systeme zu erweitern, muss immer jemand sich die Zeit nehmen, die Obertonreihe durchzusuchen. Das FJS tut es automatisch und ist deshalb immer voraus.
 
-This is the second extremely important advantage that the FJS has from using an algorithm: it literally has no limits.
+Das ist der zweite sehr wichtige Vorteil, dass der Algorithmus des FJS mit sich bringt: es hat wortwörtlich kein Limit.
 
-(Still, given how far ahead Helmholtz-Ellis is, it can have half a point.)
+(Helmholtz-Ellis hat sich aber einen halben Punkt verdient, weil es so weit voraus ist.)
 
-One point for the FJS, half a point for Helmholtz-Ellis.
+Ein Punkt für das FJS und ein halber für Helmholtz-Ellis.
 
 > **FJS: 7, HE: 2, Johnston: 3.**
 
-## Automatization
+## Automatisierung
 
-The third, and final, advantage from using an algorithm is that the FJS can be automated. Writing any JI ratio allows the FJS representation to be calculated given only the radius of tolerance. This will allow the FJS to be integrated into music software in the future.
+Der dritte und letzte Vorteil des Algorithmus beim FJS ist, dass es automatisiert werden kann. Aus jedem möglichen JI-Verhältnis kann die Darstellung im FJS berechnet werden, mithilfe nur des Toleranzradius. Deshalb wird das FJS in der Zukunft in Musikprogrammen integriert werden können.
 
-Helmholtz-Ellis can also do this. The only minor complication is the fact that sometimes two accidentals must be used for one purpose. But it is possible to fully automate it without any problems. There even exists an [online calculator](https://www.plainsound.org/HEJI/) that does this.
+Helmholtz-Ellis kann das auch. Es gibt nur den Unterschied, dass manchmal zwei Versetzungszeichen für eine Primzahl benutzt werden müssen. Es ist aber möglich, es ohne Probleme zu automatisieren. Es gibt dafür einen [Online-Rechner](https://www.plainsound.org/HEJI/).
 
-As for Johnston? The same website has a [Johnston to HE converter](https://www.plainsound.org/HEJI/johnston.html), which works if you want to let a computer do it. But often when composing music, we don't want to have to use a calculator all the time.
+Was ist mit Johnston? Dieselbe Website hat auch einen [Konverter von Johnston zu HE](https://www.plainsound.org/HEJI/johnston.html). Das funktioniert, wenn du dich immer auf den Computer verlassen willst. Oft aber, wenn wir komponieren, wollen wir nicht die ganze Zeit mit Rechnern arbeiten.
 
-One of the merits of the FJS is that its algorithms are easy to implement in your head and carry out instantly without any external tools, which makes using it much faster. But if you wanted to do the same in Johnston's notation...
+Das FJS hat das Verdienst, dass seine Algorithmen sich sehr einfach im Kopf durchführen. Daher kann man es viel schneller verwenden. Aber wenn du dasselbe bei Johnston probieren möchtest...
 
-> *For every 5 in the numerator: Ascend one major 3rd. (Add plus if starting on a D.)*
+> *Für jede 5 im Zähler: Addiere eine große Terz. (Und einen Plus bei D.)*
 >
-> *For every 7 in the numerator: Ascend one minor seventh and add a 7. (Add plus if starting on a G, B, or D.)*
+> *Für jede 7 im Zähler: Addiere eine kleine Septime und eine 7. (Und einen Plus bei G, H, oder D.)*
 >
-> *For every 9 in the numerator: Ascend one major second. (Add plus if starting on an E, G, B, or D.)*
+> *Für jede 9 im Zähler: Addiere eine große Sekunde. (Und einen Plus bei E, G, H, oder D.)*
 >
-> *For every 11 in the numerator: Ascend one perfect fourth and add ↑. (Add minus if starting on an A or F.)*
+> *Für jede 11 im Zähler: Addiere eine reine Quarte und ↑. (Und einen Minus bei A oder F.)*
 >
-> *For every 13 in the numerator: Ascend one minor sixth and add a 13. (Add minus if starting on an F.)*
+> *Für jede 13 im Zähler: Addiere eine kleine Sexte und eine 13. (Und einen Minus bei F.)*
 >
-> *For every 17 in the numerator: Add a sharp and a 17.*
+> *Für jede 17 im Zähler: Addiere ein Kreuz und eine 17.*
 >
-> *For every 19 in the numerator: Ascend a minor third and add a 19. (Add plus if starting on a D.)*
+> *Für jede 19 im Zähler: Addiere eine kleine Terz und eine 19. (Und einen Plus bei D.)*
 
-This is just a fragment of the long list of rules required to derive the notation from JI ratios in Johnston notation, as given in Kyle Gann's guide.
+Das ist nur ein Teil der langen Liste von Regeln, die man braucht, um ein JI-Verhältnis in Johnston-Notation umzurechnen, laut Kyle Gann.
 
-What's especially agitating is the presence of extra rules for adding pluses or minuses if starting on very specific notes, which are different for every prime. (I do understand there is a deterministic relation between the interval and the notes on which pluses/minuses have to be added for said interval, but it still doesn't change the fact that this is a huge overcomplication!)
+Was besonders irritiert, ist das Auftreten zusätzlicher Regeln für Plus- und Minus-Zeichen bei spezifischen Noten, die sich für jede Primzahl ändern. (Ich verstehe, dass sie von der Primzahl deterministisch folgen. Das ändert aber nichts daran, dass es übermäßig kompliziert ist!)
 
-And yes, this is just an *excerpt* of the Johnston notation equivalent of something that can be summarized in a single concise algorithm in the FJS.
+Und das ist wirklich bei Johnston nur ein *Teil* davon, was sich im FJS in einen kleinen Algorithmus zusammenfassen lässt.
 
-One point for Helmholtz-Ellis and the FJS.
+Ein Punkt für Helmholtz-Ellis und das FJS.
 
 > **FJS: 8, HE: 3, Johnston: 3.**
 
-## Examples
+## Beispiele
 
-All right, you may think, here's all this abstract analysis, but what about actual examples? How do the three systems perform *in practice*?
+Also, du denkst jetzt wahrscheinlich, was für eine abstrakte Analyse, was ist mit eigentlichen Beispielen? Wie sieht die *Praxis* aus?
 
-Below I've provided examples of actual common JI contexts, so it can be seen how all three systems compare in their efficiency within these contexts. (To name notes in Helmholtz-Ellis, I just use +5, +7, etc. for upward accidentals, and −5, −7, etc. for downward accidentals, to reflect its pitch notation.)
+Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen kann, wie sich alle drei Systeme in Leistungsfähigkeit unterscheiden. (Bei Helmholtz-Ellis benutze ich für Notennamen einfach +5, +7, usw. für die oberen und −5, −7, usw. für die unteren Versetzungszeichen, genauso wie sie in der Notenschrift funktionieren.)
 
-### The Harmonic Series 1-32
+### Die Obertonreihe 1-32
 
-**FJS.** This table took me about a minute to write.
+**FJS.** Diese Tabelle zu schreiben, dauerte eine Minute.
 
-| C               | C               | G               | C              | E<sup>5</sup>   | G              | B♭<sup>7</sup>  | C |
-| D               | E<sup>5</sup>   | F<sup>11</sup>  | G              | A♭<sup>13</sup> | B♭<sup>7</sup> | B<sup>5</sup>   | C |
-| D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>  | F<sup>7</sup>   | F<sup>11</sup> | F♯<sup>23</sup> | G |
-| G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup> | B♭<sup>29</sup> | B<sup>5</sup>  | B<sup>31</sup>  | C |
+| C                | C               | G               | C             | E<sup>5</sup>   | G              | B<sup>7</sup>    | C |
+| D                | E<sup>5</sup>   | F<sup>11</sup>  | G             | As<sup>13</sup> | B<sup>7</sup>  | H<sup>5</sup>    | C |
+| Des<sup>17</sup> | D               | Es<sup>19</sup> | E<sup>5</sup> | F<sup>7</sup>   | F<sup>11</sup> | Fis<sup>23</sup> | G |
+| Gis<sup>25</sup> | As<sup>13</sup> | A               | B<sup>7</sup> | B<sup>29</sup>  | H<sup>5</sup>  | H<sup>31</sup>   | C |
 
-**Helmholtz-Ellis.** This table took me roughly two minutes to write, being initially uncertain of my results. I used the calculator to verify them.
+**Helmholtz-Ellis.** Das dauerte zwei Minuten, und ich war zuerst nicht bei allen Ergebnissen sicher. Ich habe sie mit dem Rechner überprüft.
 
-| C       | C    | G     | C    | E−5     | G    | B♭−7    | C |
-| D       | E−5  | F+11  | G    | A−13    | B♭−7 | B−5     | C |
-| D♭+5−17 | D    | E♭+19 | E−5  | F−7     | F+11 | F♯+23   | G |
-| G♯−5−5  | A−13 | A     | B♭−7 | B♭+5+29 | B−5  | C−11−31 | C |
+| C        | C    | G     | C   | E−5    | G    | B−7     | C |
+| D        | E−5  | F+11  | G   | A−13   | B−7  | H−5     | C |
+| Des+5−17 | D    | Es+19 | E−5 | F−7    | F+11 | Fis+23  | G |
+| Gis−5−5  | A−13 | A     | B−7 | B+5+29 | H−5  | C−11−31 | C |
 
-**Ben Johnston.** This table took roughly three minutes, given that I have actually seen this fragment of the harmonic series in Johnston's system before.
+**Ben Johnston.** Das dauerte drei Minuten, und zwar dabei habe ich die Obertonreihe bei Johnston schon mal gesehen.
 
-| C    | C    | G    | C   | E    | G   | B7♭   | C |
-| D    | E    | F↑   | G   | A♭13 | B7♭ | B     | C |
+| C    | C    | G    | C   | E    | G   | H7♭   | C |
+| D    | E    | F↑   | G   | A♭13 | H7♭ | H     | C |
 | C♯17 | D    | E♭19 | E   | F7+  | F↑  | F♯23+ | G |
-| G♯   | A♭13 | A+   | B7♭ | B♭29 | B   | B31   | C |
+| G♯   | A♭13 | A+   | H7♭ | H♭29 | H   | H31   | C |
 
-### La Monte Young's "Well-Tuned Piano"
+### Das "Well-Tuned Piano" von La Monte Young
 
-**Young's notation.** (I write the scale as ascending, not as a sequence of keys on the keyboard, so G♯ comes before G as it is a lower pitch.)
+**Youngs Notation.** (Die Noten sind nach Tonhöhe sortiert, deshalb steht Gis vor G, weil es eine niedrigere Tonhöhe ist.)
 
-E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
+Es, E, F, Fis, Gis, G, A, B, H, Cis, C, D, Es.
 
-**FJS.** Exactly as concise as Young, without relying on an arbitrary keyboard mapping. Also notates the tonic as its true pitch with reference to A = 440 Hz, the tuning of Young's piano.
+**FJS.** Genauso kurz wie Young, ohne sich auf zufälliger Zuordnung der Tastatur zu verlassen. Notiert auch den Grundton mit seinem richtigen Namen, in Bezug auf A = 440 Hz, die Stimmung von Youngs Klavier.
 
-D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
 
-Here is what it would be if it used E♭ to notate the tonic; a little less concise.
+So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
-E♭, F<sup>7</sup>, F, G♭<sup>49</sup>, A♭<sup>49</sup>, A♭<sup>7</sup>, B♭<sup>7</sup>, B♭, C♭<sup>49</sup>, D♭<sup>49</sup>, D♭<sup>7</sup>, E♭<sup>7</sup>, E♭.
+Es, F<sup>7</sup>, F, Ges<sup>49</sup>, As<sup>49</sup>, As<sup>7</sup>, B<sup>7</sup>, B, Ces<sup>49</sup>, Des<sup>49</sup>, Des<sup>7</sup>, Es<sup>7</sup>, Es.
 
-**Helmholtz-Ellis.** Just as concise as the FJS on E♭.
+**Helmholtz-Ellis.** Genauso kurz wie das FJS bei Es.
 
-E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
+Es, F−7, F, Ges−7−7, As−7−7, As−7, B−7, B, Ces−7−7, Des−7−7, Des−7, Es−7, Es.
 
-**Ben Johnston.** Very inconcise. Also note the abundance of syntonic comma accidentals, in a tuning with no factor of five.
+**Ben Johnston.** Viel zu lang. Beachte auch die vielen syntonischen Kommas in einer Stimmung mit keinem 5-Faktor.
 
-E♭, F7++, F+, G77♭+, A77♭++, A7♭+, B7♭+, B♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
 
-### Terry Riley's "Harp of New Albion"
+### Die "Harp of New Albion" von Terry Riley
 
-**Riley's notation.**
+**Rileys Notation.**
 
-C♯, D, D♯, E, E♯, F♯, G, G♯, A, A♯, B, B♯, C♯.
+Cis, D, Dis, E, Eis, Fis, G, Gis, A, Ais, H, His, Cis.
 
-**FJS.** The Pythagorean pitch classes match Riley's.
+**FJS.** The pythagoreischen Tonhöhen stimmen mit Riley überein.
 
-C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G, G♯<sup>5</sup>, A, A♯<sup>25</sup>, B<sup>5</sup>, B♯<sup>25</sup>, C♯<sup>5</sup>.
+Cis<sup>5</sup>, D, Dis<sup>5</sup>, E, Eis<sup>25</sup>, Fis<sup>5</sup>, G, Gis<sup>5</sup>, A, Ais<sup>25</sup>, H<sup>5</sup>, His<sup>25</sup>, Cis<sup>5</sup>.
 
-**Helmholtz-Ellis.** On par with the FJS. Virtually identical.
+**Helmholtz-Ellis.** Beinahe identisch wie das FJS. Ein Unentschieden.
 
-C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, B−5, B♯−5−5, C♯−5.
+Cis−5, D, Dis−5, E, Eis−5−5, Fis−5, G, Gis−5, A, Ais−5−5, H−5, His−5−5, Cis−5.
 
-**Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
+**Ben Johnston.** Angeblich für 5-Limit-Musik optimal. Es hat ungefähr drei Minuten gedauert, das umzurechnen.
 
-C♯−, D, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
 
-### Notation Comparison
+### Notationsvergleich
 
-This [comparison](../assets/comparison.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage... well, see for yourself.
+Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen... na ja, sieh dir es mal an.
 
-(The FJS version omits its key signature in subsequent systems; this is allowed.)
+(Die FJS-Version lässt seine Vorzeichen nach dem ersten Notensystem weg; das ist erlaubt.)
 
-Listen to it:
+Hör zu:
 
 <audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
 
-## Verdict
+## Entscheidung
 
-Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis notation, unsurprisingly, is quite bad, being the first attempt at such a task. Johnston notation, given its absurd choice of the natural notes, is considerably worse than even Helmholtz-Ellis; its equal score is a result of figurative transfer error. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
+Es wundert nicht, dass das FJS das beste Notationssystem für die Naturtonstimmung ist. Es wundert auch nicht, dass Helmholtz-Ellis-Notation ziemlich schlecht ist, da sie der erste Versuch davon war. Dass Johnston lächerlich seine Stammtöne gewählt hat, ist der Grund, warum er viel schlechter als sogar Helmholtz-Ellis ist: dass er genauso viele Punkte hat, ist eine Folge bildlichen Übertragungsfehlers. Das FJS ist viel besser als sowohl Helmholtz-Ellis als auch Johnston, was die Notation der Naturtonstimmung angeht.
 
-## A Note to Kyle Gann
+## Eine Anmerkung für Kyle Gann
 
-As mentioned, Kyle Gann's guide for Ben Johnston's system contains an addendum where he explains why he prefers Johnston over Helmholtz-Ellis despite its very inconvenient choice of natural notes.
+Wie ich schon erwähnt habe: Das Handbuch von Kyle Gann für das Johnston-System enthält einen Nachtrag, wo er erklärt, warum er Johnston über Helmholtz-Ellis bevorzugt, obwohl seine Stammtöne so schlecht gewählt sind.
 
-You explain that finding the value of B♭ in the key of C is easier in Johnston than in Helmholtz-Ellis. In Johnston, C to B is 15/8, and adding a flat lowers it by 25/24, resulting in 9/5. In Helmholtz-Ellis, however, C to B is 243/128, and adding a flat lowers it by 2187/2048, and only a calculator can tell you that this results in 16/9. Considering consistency as one of the less important virtues, you dismiss Helmholtz-Ellis because apparently it will force you to constantly multiply and divide by four-digit numbers.
+Du erklärst, dass das Bestimmen der Tonhöhe von B in der Tonart C viel einfacher bei Johnston als bei Helmholtz-Ellis ist. Bei Johnston ist C zu H 15/8, und ein Be erniedrigt es um 25/24, also 9/5. In Helmholtz-Ellis dagegen ist C zu H 243/128, und ein Be erniedrigt um 2187/2048, und nur mit einem Taschenrechner erfährst du, dass das Ergebnis 16/9 lautet. Du hältst die Einheitlichkeit als nicht besonders wichtig, und du lehnst Helmholtz-Ellis ab, weil es dich angeblich zwingen würde, die ganze Zeit mit vierstelligen Zahlen zu rechnen.
 
-I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale. So if this argument works against Helmholtz-Ellis, it should also work against the FJS.
+Ich antworte, weil dieses Argument darauf basiert, dass Helmholtz-Ellis, genau wie das FJS, die pythagoreische Skala als Basis benutzt. Wenn dieses Argument also gegen Helmholtz-Ellis wirkt, dann auch gegen das FJS.
 
-I also respond because this argument is a non-sequitur.
+Ich antworte auch, weil dieses Argument unlogisch ist und ein Fehler.
 
-Ben Johnston notation does force the user to constantly multiply and divide, because even the simplest notes are made of many factors of five juggled back and forth and adjusted for with pluses and minuses. Because the 5-limit scale is not consistent, it also forces the user to always think in terms of the seven diatonic pitches, rather than intervals.
+Es stimmt, dass Ben-Johnston-Notation den Benutzer dazu zwingt, immer zu multiplizieren und zu dividieren, weil selbst die einfachsten Noten aus vielen jonglierten Faktoren von fünf bestehen. Weil die 5-Limit-Skala sich selbst widerspricht, heißt es auch, dass der Benutzer immer in dieser Skala denken muss, anstatt in Intervallen.
 
-When you attempt to use Helmholtz-Ellis notation, you automatically assume the same restrictions that you were bound to with Ben Johnston notation: trying to figure out the value of a minor seventh using a major seventh minus a chromatic semitone. You criticize Helmholtz-Ellis for the fact that one of these intervals now requires four-digit numbers to represent, while Johnston usually works with up to two-digit numbers.
+Wenn du die Helmholtz-Ellis-Notation ausprobierst, nimmst du automatisch dieselben Einschränkungen an, als bei Johnston: du willst die Größe einer kleinen Septime mithilfe einer großen Septime minus einen chromatischen Halbton bestimmen. Du kritisierst Helmholtz-Ellis dafür, dass eines dieser Intervalle jetzt vierstellige Zahlen benutzt, während Johnston oft nur zweistellige Zahlen hat.
 
-The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths (major seventh) to then immediately return seven fifths back (chromatic semitone)? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its major seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
+Die kleine Septime ist aber so nah am Quintenzirkel; es sind einfach zwei reine Quarten, beide 4/3 (nicht so wie bei Johnston, wo C-F 4/3 beträgt, F-B aber 27/20). Wieso würdest du fünf Quinten (große Septime) nach oben gehen, und dann wieder sieben Quinten (chromatischer Halbton) nach unten? Würdest du von North Carolina nach South Carolina durch Maine reisen? Nur deswegen, dass die kleine Septime von C mit einem Be geschrieben wird, heißt nicht, dass du sie so sehen musst; du tust es, weil Johnston dich dazu zwingt. Moduliere doch nach D. Dort ist die kleine Septime ein Stammton. Im Vergleich zu Johnston ändert sich ihre Größe aber nicht.
 
-Your guide to figuring out the ratios from notation does indeed start at looking at the natural notes and figuring out the interval between them. This is because this interval *depends* on the natural notes in Johnston notation, so there indeed is no other way to figure it out. For example, D to E is 10/9, which is different from C to D, 9/8. Helmholtz-Ellis and the FJS do not have this absurd restriction. Every major second is 9/8. This allows a composer to be freed from the restriction of the diatonic scale when thinking in JI, and it allows one to translate interval names directly to ratios.
+Dein Algorithmus dafür, die JI-Verhältnisse aus der Notation zu berechnen, beginnt tatsächlich damit an, die Stammtöne zu analysieren. Es ist deswegen so, dass dieses Intervall von den Noten bei Johnston *abhängt*, es gibt also keinen anderen Weg. D zu E ist zum Beispiel 10/9, ein anderes Intervall als C zu D, 9/8. Helmholtz-Ellis und das FJS haben diese unsinnige Beschränkung nicht. Jede große Sekunde ist 9/8. Deshalb kann ein Komponist befreit davon sein, immer in der diatonischen Tonleiter zu denken, und es erlaubt uns, Intervallnamen direkt in Verhältnisse zu übersetzen.
 
-You could have arrived at the fact that C to B♭ is 16/9 in so many different (and easier) ways than 243/128 times 2048/2187; in fact, you probably chose the most inconvenient possible way to arrive at 16/9 (the equivalent of the only possible way to arrive at 9/5 in Johnston).
+Dass C zu B 16/9 beträgt, könntest du auf vielerlei Weisen herausfinden, alle davon viel einfacher als 243/128 mal 2048/2187; du hast den schwierigsten Weg dazu gefunden (den einzigen möglichen, um bei Johnston 9/5 zu erhalten).
 
-For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
+Du könntest zum Beispiel bemerken, dass C und B beide keine mikrotonalen Versetzungszeichen haben, deshalb per Definition der Stammtöne muss die kleine Septime zwischen ihnen pythagoreisch sein, also 16/9. Oder du könntest bemerken, dass sie aus zwei 4/3-Quarten besteht, also 16/9. Oder du könntest bemerken, dass sie die Umkehrung des 9/8-Ganztons ist, also 16/9. Das FJS gibt dir so eine Freiheit schneller und effektiver Wege, zu lesen und zu schreiben, nicht wie der langsame, langweilige Prozess Johnstons.
 
-The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
+So wie ich es sehe, bist du zu Handschellen bei Johnston gewohnt, und paralysiert, wenn Helmholtz-Ellis oder das FJS dich befreien, wegen der vielen Jahre in den Handschellen.
 
-Switch to the FJS. It will make the math and notation part of your compositional pursuit **so much easier**.
+Schalte dich auf das FJS um. Es wird die Mathematik und Notation deiner Kompositionen **vielfach vereinfachen**.
 
-Or don't, and continue juggling syntonic commas.
+Oder nicht, und jongliere syntonische Kommas weiter.
 
-Others may have different criteria.
+Andere können andere Kriterien haben.
