@@ -76,7 +76,7 @@ function commaForPrime(p) {
     v = div(k > 0 ? [3, 2] : [1, 1], v);
   }
   var comma = div(num > lambda ? [2, 1] : [1, 1], n);
-  return (commaCache[p] = [k, comma, cents(comma)]);
+  return (commaCache[p] = [-k, comma, cents(comma)]);
 }
 
 function parseIn(s) {
@@ -151,7 +151,7 @@ function nameInterval(frac) {
       otonalCommas.push(otonal[i]);
       var commaData = commaForPrime(otonal[i]);
       commas = mul(commas, commaData[1]);
-      fifths -= commaData[0];
+      fifths += commaData[0];
     }
   for(var i = 0; i < utonal.length; ++i)
     if(utonal[i] == 3) fifths--;
@@ -159,7 +159,7 @@ function nameInterval(frac) {
       utonalCommas.push(utonal[i]);
       var commaData = commaForPrime(utonal[i]);
       commas = div(commas, commaData[1]);
-      fifths += commaData[0];
+      fifths -= commaData[0];
     }
   var sharpCount = Math.floor((fifths + 1) / 7);
   var basicInt = pythagoreanMods.indexOf(fifths - sharpMod * sharpCount);
