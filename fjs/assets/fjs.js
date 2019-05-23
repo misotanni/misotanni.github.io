@@ -92,10 +92,10 @@ var sharpMod = 7;
 var sharpSize = reduce(pow([3, 2], sharpMod));
 
 function parseInterval(name) {
-  var parts = name.match(/^(m|M|P|d+|A+)([1-9][0-9]*)(?:\^([0-9,]+))?(?:_([0-9,]+))?$/);
+  var parts = name.match(/^(m|M|P|d+|A+)([+-]?)([1-9][0-9]*)(?:\^([0-9,]+))?(?:_([0-9,]+))?$/);
   if(!parts) throw new Error("I don't understand the format of the interval");
-  var variant = parts[1], steps = parts[2] - 1,
-    otonal = parts[3] || '1', utonal = parts[4] || '1';
+  var variant = parts[1], sign = parts[2] != '-', steps = parts[3] - 1,
+    otonal = parts[4] || '1', utonal = parts[5] || '1';
   var isPerfect = perfectInterval[steps % 7];
   if((isPerfect && (variant == 'm' || variant == 'M')) ||
     (!isPerfect && variant == 'P'))
@@ -126,7 +126,9 @@ function parseInterval(name) {
       throw new Error("FJS modifiers may not have factors of 2 or 3");
     fjs = div(fjs, commaForPrime(utonal[i])[1]);
   }
-  return mul(pythagorean(steps, modulation), fjs);
+  var absolute = mul(pythagorean(steps, modulation), fjs);
+  if(sign) return absolute;
+  return inv(absolute);
 }
 
 function pythagorean(steps, modulation) {
@@ -167,6 +169,17 @@ function nameInterval(frac) {
     mul(reduce(pow([3, 2], pythagoreanMods[basicInt])),
       pow(sharpSize, sharpCount))))));
   var isPerfect = perfectInterval[basicInt];
+  var sign = octave >= 0;
+  if(! sign) {
+    octave *= -1;
+    basicInt = (7 - basicInt) % 7;
+    if(! isPerfect) sharpCount += 1/2;
+    sharpCount *= -1;
+    if(! isPerfect) sharpCount -= 1/2;
+    var tmp = otonalCommas;
+    otonalCommas = utonalCommas;
+    utonalCommas = tmp;
+  }
   var variant = '';
   if(sharpCount < -1 || sharpCount > 0 || (sharpCount == -1 && isPerfect)) {
     var modName = sharpCount > 0 ? 'A' : 'd';
