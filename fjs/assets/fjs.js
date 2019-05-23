@@ -171,11 +171,10 @@ function nameInterval(frac) {
   var isPerfect = perfectInterval[basicInt];
   var sign = octave >= 0;
   if(! sign) {
-    octave *= -1;
+    octave = -octave + 1;
     basicInt = (7 - basicInt) % 7;
-    if(! isPerfect) sharpCount += 1/2;
     sharpCount *= -1;
-    if(! isPerfect) sharpCount -= 1/2;
+    if(! isPerfect) sharpCount -= 1;
     var tmp = otonalCommas;
     otonalCommas = utonalCommas;
     utonalCommas = tmp;
@@ -189,7 +188,7 @@ function nameInterval(frac) {
       variant += modName;
   } else if(sharpCount == -1) variant = 'm';
   else                        variant = isPerfect ? 'P' : 'M';
-  return variant + (7 * octave + 1 + basicInt) +
+  return variant + (sign ? "" : "-") + (7 * octave + 1 + basicInt) +
     (otonalCommas.length ? "^" + otonalCommas.join(',') : "") +
     (utonalCommas.length ? "_" + utonalCommas.join(',') : "");
 }
