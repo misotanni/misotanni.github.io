@@ -290,7 +290,7 @@ C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, 
 
 **Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
 
-C♯−, D, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
 
 ### Notation Comparison
 
