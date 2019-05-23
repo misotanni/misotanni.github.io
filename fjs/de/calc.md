@@ -9,10 +9,10 @@ Der Rechner benutzt englischsprachige Intervallnamen: "M3" ist z.B. eine große 
   <option value="fromfjs">FJS-Intervall in einen Bruch umrechnen</option>
 </select>
 
-Input (<span id="input-name"></span>):<br />
+Eingabe (<span id="input-name"></span>):<br />
 <input type="text" id="input">
 
-Output: <br />
+Ergebnis: <br />
 <pre><code id="output"></code></pre>
 
 <script>
