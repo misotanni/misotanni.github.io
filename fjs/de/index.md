@@ -43,7 +43,7 @@ Es gibt nur sieben Regeln, die alles, was man zur Notation jeglicher JI-Musik mi
 
 1. Alle noten mit üblichen Versetzungszeichen stehen für die pythagoreische Stimmung. D.h. alle Oktaven stehen für 2/1 und alle reine Quinten stehen für 3/2.
 
-2. Jedem Primzahlintervall über 3/2 (z.b. 5/4, 7/4, 11/8, usw.) wird nach dem Master-Algorithmus des FJS eine einzige pythagoreische Annäherung zugeordnet. Der Algorithmus findet die einfachste solche Annäherung, die sich innerhalb des sog. Toleranzradius befindet. Der Differenz dazwischen wird ein einziges Versetzungszeichen für diese Primzahl zugeordnet. Als Symbol für die Versetzung dient die Primzahl selbst.
+2. Jedem Primzahlintervall über 3/2 (z.B. 5/4, 7/4, 11/8, usw.) wird nach dem Master-Algorithmus des FJS eine einzige pythagoreische Annäherung zugeordnet. Der Algorithmus findet die einfachste solche Annäherung, die sich innerhalb des sog. Toleranzradius befindet. Der Differenz dazwischen wird ein einziges Versetzungszeichen für diese Primzahl zugeordnet. Als Symbol für die Versetzung dient die Primzahl selbst.
 
 3. Alle Versetzungszeichen des FJS sind positiv in der Richtung, in der die pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird. Das heißt, positiv ist nicht immer nach oben, und negativ ist nicht immer nach unten. Stattdessen ist positiv immer otonal und negativ immer utonal.
 
