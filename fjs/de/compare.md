@@ -181,7 +181,7 @@ Alle drei Systeme notieren JI ohne Zweifel, was Tonhöhe angeht, es gibt keine m
 
 Was Weite angeht: Ich könnte sagen, dass das FJS den 1. Platz erreicht, danach Helmholtz-Ellis, danach Johnston. Das ist aber ein bisschen sinnlos; wir vergleichen einfach die Zahlen nach ihrem heutigen Wert. Es macht keinen Unterschied, dass Helmholtz-Ellis den 61-Limit darstellen kann, Johnston aber nur den 31-Limit, weil Johnston ohne Probleme zusätzliche Kommas finden könnte und seine Notation bis zum 127-Limit erweitern könnte. Wichtig ist, dass das FJS die **ganze** Naturtonstimmung darstellen kann, und dass es das **jetzt** kann. Nach dem heutigen Design kann weder Helmholtz-Ellis noch Johnston jemals so viel JI darstellen, wie das FJS. Um diese zwei Systeme zu erweitern, muss immer jemand sich die Zeit nehmen, die Obertonreihe durchzusuchen. Das FJS tut es automatisch und ist deshalb immer voraus.
 
-Das ist der zweite sehr wichtige Vorteil, dass der Algorithmus des FJS mit sich bringt: es hat wortwörtlich kein Limit.
+Das ist der zweite sehr wichtige Vorteil, dass der Algorithmus des FJS mit sich bringt: es hat wortwörtlich keinen Limit.
 
 (Helmholtz-Ellis hat sich aber einen halben Punkt verdient, weil es so weit voraus ist.)
 
@@ -290,13 +290,11 @@ Cis−5, D, Dis−5, E, Eis−5−5, Fis−5, G, Gis−5, A, Ais−5−5, H−5,
 
 **Ben Johnston.** Angeblich für 5-Limit-Musik optimal. Es hat ungefähr drei Minuten gedauert, das umzurechnen.
 
-C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, H−−, H♯−, C♯−.
 
 ### Notationsvergleich
 
 Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen... na ja, sieh dir es mal an.
-
-(Die FJS-Version lässt seine Vorzeichen nach dem ersten Notensystem weg; das ist erlaubt.)
 
 Hör zu:
 
