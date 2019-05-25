@@ -116,14 +116,7 @@ Ceux-ci sont les plus fréquents:
 
 Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non! Pour utiliser le FJS, vous n'avez jamais besoin d'apprendre des nombres par cœur. Comme le calcul mental, ces résultats deviennent automatiques au fur et à mesure que vous utilisez le FJS. Vous devriez déjà pouvoir calculer ces rapports à partir des intervalles et inversement. N'ayez pas peur d'utiliser une calculatrice, elle sera très utile jusqu'à ce que vous n'avez plus besoin d'elle.
 
-### Exercice 1.
-
-1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
-2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
-3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
-4. Notiere die folgende Tonleiter im FJS mit D als Grundton: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
-5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
-6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
+### Exercice 1
 
 1. Calculez les intervalles FJS qui correspondent à ces rapports pythagoriciens: 2187/2048, 1024/729, 8192/6561.
 2. Calculez les rapports pythagoriciens qui correspondent à ces intervalles: septième diminuée, quinte augmentée, tierce diminuée.
