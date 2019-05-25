@@ -65,7 +65,7 @@ C'est tout dont vous avez besoin. Commençons, alors!
 
 Vous pensez peut-être que l'élimination de l'enharmonie permet de représenter beaucoup plus de hauteurs qu'avant, et vous avez raison. Pourtant, l'élimination de l'enharmonie ne suffit pas pour représenter toute l'intonation juste d'une manière logique. Un avantage de l'intonation juste est qu'elle peut exprimer de petites différences de hauteur et donne donc de différentes couleurs aux différents intervalles.
 
-Imaginez la séquence d'intervalles suivante: 11/10, 10/9, 9/8, 8/7. Écoute:
+Imaginez la séquence d'intervalles suivante: 11/10, 10/9, 9/8, 8/7. Écoutez:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
@@ -127,127 +127,127 @@ Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non! Pour 
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
-## <a name="lesson_2">Lektion 2: Die Primzahlintervalle</a>
+## <a name="lesson_2">Leçon 2: Les intervalles premiers</a>
 
-Also bisher hast du gelernt, die pythagoreische Stimmung aufzuschreiben. Bis jetzt war es ein bisschen langweilig. Die pythagoreische Stimmung weicht gar nicht so viel von 12-EDO ab. Es reicht auch gar nicht aus, um die ganze Naturtonstimmung aufschreiben zu können.
+Vous avez appris jusqu'à maintenant comment écrire l'accord pythagoricien. C'était sûrement un peu ennuyeux: l'accord pythagoricien ne diffère pas beaucoup de 12-EDO, et ce n'est pas assez pour pouvoir décrire toute l'intonation juste.
 
-Der nächste Schritt ist die Fähigkeit, sog. Primzahlintervalle darzustellen. Das sind Intervalle der Obertonreihe, die aus Primzahlen bestehen. Wir nehmen also die Reihe der Primzahlen:
+L'étape suivante: savoir représenter les intervalles premiers. Ce sont des intervalles dans l'échelle des harmoniques qui viennent des nombres premiers. Commençons avec la séquence des nombres premiers:
 
 > 2, 3, 5, 7, 11, 13, 17, 19, ...
 
-...und wir verwandeln alle in ihre reduzierte Formen:
+...et transformons-les en forme réduite:
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
-Wir wissen schon, wie die ersten zwei Primzahlen aussehen: die Oktave und die Quinte. Ab jetzt, wenn ich "Primzahlintervalle" sage, meine ich nur die, die Primzahlen über 3 zugeordnet sind.
+Nous savons déjà représenter 2 et 3: ce sont l'octave et la quinte. À partir d'ici, quand je dis "intervalles premiers", cela signifie seulement ceux qui sont associés aux nombres premiers au-delà de 3.
 
-Falls du dich mit JI auskennst, hast du schon gehört, dass 5/4 als "Naturterz" und 7/4 als "Naturseptime" bezeichnet werden – also Sonderformen der großen Terz bzw. der kleinen Septime. Diese Sprache fiel dir wahrscheinlich erstens nicht auf. Es sieht sich so an, als wären es einfach Erweiterungen der Begriffe "große Terz" und "kleine Septime", um Intervalle einzubeziehen, die nah sind.
+Si vous avez déjà quelques connaissances en JI, vous avez déjà entendu parler de 5/4 comme une "tierce majeure juste" et de 7/4 comme une "septième mineure juste", donc des formes spéciales de la tierce majeure et la septième mineure. Cette langue ne vous semblait probablement pas bizarre. Il semble que ce soient simplement des extensions des idées d'une "tierce majeure" et une "septième mineure" pour inclure des intervalles proches.
 
-Auf einem formalen Niveau aber geschieht etwas Merkwürdiges.
+En revanche, formalement, on trouve quelque chose d'étrange.
 
-Nehmen wir an, wir akzeptieren das zunächst. 5/4 ist eine Art große Terz. Wir notieren es also als eine große Terz, *mit einem Zusatzzeichen, der für den Unterschied stehen wird.* Die Differenz zur pythagoreischen großen Terz (81/64) beträgt nur 81/80, etwa 22 Cent. Wieso sollte das ein Problem sein? Deswegen, dass es *viel* bessere Annäherungen gibt, zum Beispiel die pythagoreische verminderte Quarte (8192/6561). Sie liegt nur um 32805/32768, nur etwa 2 Cent, entfernt!
+Supposons que nous l'acceptons d'abord. 5/4 est alors un genre de tierce majeure. Donc nous l'écrivons comme tierce majeure, *avec un symbole supplémentaire qui signifie la différence.* La différence entre 5/4 et la tierce majeure pythagoricienne (81/64) ne s'élève qu'à 81/80, soit environ 22 cents. Pourquoi est-ce que c'est problématique? Parce qu'il y a beaucoup d'approximations plus précises, par exemple la quarte diminuée pythagoricienne (8192/6561) qui diffère par seulement 32805/32768, soit environ 2 cents!
 
-Hör dir den Unterschied zwischen 81/64 und 5/4 an:
+Écoutez la différence entre 81/64 et 5/4:
 
 <audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
 
-Und den Unterschied zwischen 8192/6561 und 5/4:
+Et celle entre 8192/6561 et 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/4 benutzen? Einfachheit, sagst du? Die große Terz beträgt nur +4 Quinten, während die verminderte Quarte −8 anbietet, also viel komplizierter. Wieso benutzen wir also nicht die *kleine* Terz als 5/4? Sie ist doch einfacher, nur −3 statt +4 Quinten. Ach, jetzt ist sie nicht nah genug? Wieso bestimmst *du* das richtige Gleichgewicht zwischen Einfachheit und Nähe?
+Pourquoi alors utiliser la tierce majeure, pas la quarte diminuée, pour 5/4? En raison de la simplicité, vous dites? La tierce majeure s'élève à +4 quintes pendant que la quarte diminuée à −8, donc beaucoup plus compliqué. D'après cela, pourquoi est-ce que nous n'utilisons pas la tierce *mineure* pour 5/4, qui est encore plus simple: seulement −3 quintes au lieu de +4. Maintenant, vous dites qu'elle est trop éloignée? Avez-*vous* l'autorité de décider l'équilibre correct entre simplicité et proximité?
 
-Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. "Wie wählen wir also die Annäherungen für jedes Primzahlintervall?" Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
+Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question "Comment choisissons-nous les approximations pour chaque intervalle premier?" a une réponse très simple: nous ne le faisons pas. Une constante fixe le fait pour nous: le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
-Wieso, erkläre ich später.
+J'expliquerai ce choix plus tard.
 
-Wie benutzt das FJS diese Zahl? Der nächste Schritt ist das wichtigste Element des ganzen FJS. Es ist dasjenige Element, das das FJS von allen anderen JI-Notationssystemen unterscheidet. Es ist der **FJS-Master-Algorithmus**. Hier steht er lesbar für Menschen. Andere Formen in Programmiersprachen, darunter auch ein Rechner auf dieser Webseite, gibt es auch.
+Comment le FJS utilise-t-il ce nombre? L'étape suivante est l'élément le plus important de tout le FJS. C'est l'élément qui fait la différence entre le FJS et toutes les autres notations de JI. C'est l'**algorithme principal du FJS**. Ici, vous trouvez une forme lisible pour des humains, mais il existe aussi dans des langages de programmation, y compris une calculatrice sur ce site.
 
-Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus so tut, wie er benutzt wird, und wozu die Generatorfunktion dient.
+L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaque nombre premier en utilisant le rayon de tolérance. J'explique le but de l'algorithme, sa tâche, et le but de la fonction génératrice.
 
-> ### Der FJS-Master-Algorithmus
+> ### L'algorithme principal du FJS
 > 
-> 1. Lese die eingegebene Primzahl in reduzierter Form.
-> 2. Fange an mit *k* = 0.
-> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten, in reduzierter Form.
-> 4. Beträgt die Differenz zwischen diesem Intervall und dem Primzahlintervall weniger als der Toleranzradius?
-> 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
-> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
+> 1. Entrez le nombre premier en forme réduite.
+> 2. Soit *k* = 0.
+> 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes, en forme réduite.
+> 4. Est-ce que la différence entre cet intervalle et l'intervalle premier s'élève à moins que le rayon de tolérance?
+> 5. Si oui, *k* égale la fonction génératrice. Fin.
+> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
 
-Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
+Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
 
-Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung jedes Primzahlintervalls, die innerhalb des Toleranzradius liegt. Die Differenz wird dann **formales Komma** genannt, und ihm wird ein FJS-Versetzungszeichen gegeben. So wird das formale Komma berechnet:
+L'algorithme trouve alors pour chaque intervalle premier l'approximation pythagoricienne la plus simple dans les limites du rayon de tolérance. La différence devient un **comma formel** et reçoit une altération FJS. Pour calculer le comma formel, on utilise la formule suivante:
 
-> ### Das formale Komma
+> ### Le comma formel
 >
-> Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
+> Le comma formel d'un nombre premier *p* dont la fonction génératrice est *g* égale:
 >
 > $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
-Es geht auch anders herum: du kannst aus dem formalen Komma die Generatorfunktion einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Generatorfunktion. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Generatorfunktion für 7.
+L'opération inverse est aussi possible: vous pouvez trouver la fonction génératrice d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Divisez la forme réduite de l'intervalle premier par le comma formel. Vous obtenez l'approximation pythagoricienne. Factorisez-la. L'exposant de 3 est alors la fonction génératrice. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous divisons 7/4 par 63/64. Le résultat est (7/4) ÷ (63/64) = 16/9, l'approximation pythagoricienne. Nous la factorisons et obtenons 2<sup>4</sup> 3<sup>−2</sup>. Puisque l'exposant de 3 est −2, −2 est aussi la fonction génératrice de 7.
 
-Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes Komma: positiv oder negativ. Das Symbol für das Versetzungszeichen basiert stets auf der Primzahl selbst. Die Form variiert, je nachdem du Notennamen oder Notenschrift schreibst:
+Comme avec le dièse et le bémol, il y a toujours deux altérations différentes pour chaque comma: soit positif, soit négatif. Le symbole des altérations est toujours basée sur le nombre premier lui-même, est diffère selon l'utilisation:
 
-- Bei Notennamen werden positive Versetzungszeichen hochgestellt und negative tiefgestellt.
-- Bei Notenschrift werden positive Versetzungszeichen als einfach die Primzahl, negative als die Primzahl mit einem Minus-Zeichen geschrieben.
+- Lorsqu'on nomme les notes, on écrit l'altération positive en indice supérieur et la négative en indice inférieur.
+- Lorsqu'on les écrit sur la portée, on écrit l'altération positive comme le nombre lui-même et la négative avec un signe moins.
 
-Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Statt dessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
+Remarquez que j'utilise délibérément les mots "positif" et "négatif" au lieu de "ascendant" et "descendant", parce que dans le FJS, des altérations positives ne sont pas toujours ascendantes, et les négatives ne sont pas toujours descendantes. Au lieu de cela, **le positif est toujours otonal** et **le négatif est toujours utonal**. Cela signifie quelque chose de très important: *une altération FJS est toujours positive lorsqu'une approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même.* Par exemple, pour écrire 5/4 sur Do, on écrit d'abord Mi (l'approximation, 81/64) et puis on le transforme en 5/4 en utilisant une altération +5, donc Mi<sup>5</sup>. Ce +5 modifie par 81/80 en *bas*, en fait.
 
-Diejenigen von euch, denen das Ben-Johnston-System schon bekannt ist, ist diese Idee nicht fremd. Für den Rest von euch:
+Ceux qui connaissent le système de Ben Johnston vont reconnaître cette idée. Pour le reste, j'explique:
 
-Es sieht zuerst überflüssig kompliziert aus. Tatsächlich ist es aber viel einfacher. Zum Beispiel: Ein positives Versetzungszeichen von +17 bedeutet immer, dass seine Anwendung einen Faktor von 17 zum Zähler hinzubringt. Solange du weißt, welche pythagoreische Annäherung 17/16 hat (es ist die kleine Sekunde), weißt du auch, dass 17/16 einfach als kleine Sekunde mit +17 geschrieben wird. Du brauchst dazu nicht zu wissen, ob die Annäherung höher oder niedriger als das Ziel ist! Dieses Prinzip, das auf Otonalität und Utonalität anstatt Richtung basiert, vereinfacht auch die Notation vieler Tonleitern und Stimmungssystemen. Im FJS ist das Versetzungszeichen +5 eigentlich als 80/81, nicht 81/80, beschrieben. In einer Liste formaler Kommas für jede Primzahl *p* > 3 wird das formale Komma einen Faktor von *p* immer im Zähler enthalten. Es ist auch der Grund, warum dieses System das Naturton**funktions**system heißt: sein Schwerpunkt ist, die **Funktion**, und nicht die Tonhöhe, wiederzugeben.
+Il est vrai que cela semble trop compliquée, mais en fait, ça simplifie beaucoup. Par exemple: Une altération positive de +17 signifie toujours que son utilisation ajoute un facteur de 17 dans le numérateur. Si vous connaissez l'approximation pythagoricienne de 17/16 (c'est la seconde mineure), vous savez automatiquement que 17/16 s'écrit comme seconde mineure avec +17. Il ne vous faut pas savoir si l'approximation se trouve plus haut ou plus bas que la cible! Ce principe basé sur l'otonalité et l'utonalité au lieu de la direction simplifie aussi la notation de plusieurs gammes et intonations. D'ailleurs, le FJS décrit que le comma formel de +5 est en fait 80/81, pas 81/80. En général, une liste de commas formels pour chaque nombre premier *p* > 3 contient dans chaque comma un facteur de *p* dans le numérateur. C'est aussi la raison pour laquelle le système s'appelle Système **fonctionnel** de l'intonation juste: il se concentre sur la représentation de la **fonction**, pas la hauteur.
 
-Ich möchte dazu gerne eine Anekdote erzählen. Während ich ein Prototyp des Naturtonfunktionssystems entwickelte (noch bevor es einen Namen hatte), ursprünglich waren alle formalen Kommas doch positiv aufwärts und negativ abwärts. Einmal dachte ich über einige 5-Limit- und 7-Limit-Stimmungen nach, und plötzlich fiel mir auf, dass diese Konvention überflüssig kompliziert ist, und ich habe mich sofort entschieden, sie auf die jetzige zu ändern: positiv-otonal, negativ-utonal. Nachdem ich dies getan habe, hat es mein Denken im FJS drastisch vereinfacht, also so blieb es. (Das ursprüngliche FJS hatte noch viele andere Unbequemlichkeiten, bevor ich es zur heutigen, extrem einfachen Form reduzieren konnte...)
+Ici, je voudrais raconter une anecdote. Pendant que je développais un prototype du Système fonctionnel de l'intonation juste (même avant l'avoir nommé), au début, tous les commas formels positifs étaient ascendants et tous négatifs étaient descendants. Mais une fois, j'ai réfléchi sur quelques accords au 5- et au 7-limite, et tout à coup, je me suis rendu compte que cette règle est beaucoup trop compliquée, et que je vais la changer tout de suite, la nouvelle version étant positif-otonal, négatif-utonal. Après ce changement, mes pensées en FJS ont été beaucoup simplifiés, donc cela a continué. (Au début du FJS, il y avait beaucoup d'autres complications, et il me fallait beaucoup de temps pour les éliminer jusqu'à la forme extrêmement simple d'aujourd'hui...)
 
-So sieht die Obertonreihe von A bis zum achten Oberton im FJS aus:
+Voyez l'échelle harmonique sur La jusqu'à le huitième harmonique:
 
-> A, A, E, A, Cis<sup>5</sup>, E, G<sup>7</sup>, A.
+> La, La, Mi, La, Do♯<sup>5</sup>, Mi, Sol<sup>7</sup>, La.
 
-So sieht sie in Notenschrift aus:
+Sur la portée:
 
 <img src="../assets/example_3.png" alt="A–A–E–A–C♯5–E–G7–A">
 
-So hört sie sich an:
+Écoutez-la:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-Wie du siehst, alle Versetzungszeichen in der Obertonreihe sind positiv (und das gilt für die ganze, unendliche Obertonreihe). Ist das nicht viel sauberer, als wenn wir Richtung statt Otonalität benutzen würden? Ich verstehe, dass du zuerst verwirrt sein kannst. Mit der Zeit aber wirst du selbst sehen, dass es das FJS doch logischer und einfacher macht. (Du kannst dir auch eine andere Analogie vorstellen: anstatt das Kreuz als erhöhend und das Be als senkend zu betrachten, bemerke, dass das Kreuz Quinten addiert, und das Be Quinten subtrahiert.)
+Comme vous voyez, toutes les altérations dans l'échelle harmonique sont positives (cela est vrai pour toute l'échelle qui est infinie). N'est-il pas beaucoup plus propre que si nous utilisions la direction au lieu de l'otonalité? Je comprends que vous pourriez être d'abord surpris ou surprise. Mais j'espère que vous verrez au fil du temps que le FJS est en fait plus simple et plus logique grâce à cette règle. (Vous pouvez aussi voir une autre analogie: remarquez que le dièse additionne des quintes, et le bémol en soustrait.)
 
-Jetzt möchte ich erklären, wie diese Versetzungszeichen miteinander interagieren.
+Je voudrais maintenant expliquer comment ces altérations interagissent.
 
-> ### Propagierung der FJS-Versetzungszeichen
+> ### La propagation des altérations FJS
 >
-> - Wir wissen alle, dass pythagoreische Versetzungszeichen die einzelnen Stammtöne (C, D, E, F, G, A, H) in dessen korrekte pythagoreische Tonhöhen kategorisieren. Deshalb gelten sie für alle Noten desselben Stammtons in derselben Oktave in demselben Takt.
-> - Ebenso kategorisieren FJS-Versetzungszeichen die pythagoreischen Töne (C, Des, Cis, D, ...) in dessen korrekte absolute Tonhöhen. Deshalb gelten sie für alle Noten desselben pythagoreischen Tons in derselben Oktave in demselben Takt.
+> - Il est connu que les altérations pythagoriciennes trient les tons diatoniques (Do, Ré, Mi, Fa, Sol, La, Si) en leurs catégories pythagoriciennes correctes. C'est pourquoi elles s'appliquent à chaque note du même ton diatonique dans la même octave et la même mesure.
+> - Par analogie, les altérations FJS trient les tons pythagoriciens (Do, Ré♭, Do♯, Ré, ...) en leurs hauteurs absolues. C'est pourquoi elles, elles s'appliquent seulement à chaque note du même ton pythagoricien dans la même octave et la même mesure.
 
-Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veranschaulichung dieser Regel:
+Pourquoi? Parce que cette règle est plus logique et plus pratique. Voici une démonstration:
 
 <img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
 
-- Im ersten Takt haben wir ein Cis<sup>5</sup> und danach ein bloßes C. Weil es derselbe Stammton in derselben Oktave ist, absorbiert es das Kreuz. Weil es jetzt ein Cis in derselben Oktave ist, absorbiert es auch das +5. Wir haben also Cis<sup>5</sup>, Cis<sup>5</sup>.
-- Im zweiten Takt gibt es ein Cis<sup>5</sup> und danach ein bloßes C mit einem Versetzungszeichen von +1. **+1 ist das FJS-Äquivalent des Auflösungszeichens. Es löst alle FJS-Versetzungszeichen auf, aber nichts sonst.** Deshalb heißt es Cis<sup>5</sup>, Cis.
-- Im dritten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C. Weil es jetzt nicht mehr derselbe pythagoreische Ton ist, wird das +5 nicht mehr absorbiert, deshalb heißt es Cis<sup>5</sup>, C.
-- Im vierten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C mit +5. Jetzt haben wir Cis<sup>5</sup>, C<sup>5</sup>; dieser Fall tritt wahrscheinlich am seltensten auf.
+- Dans la première mesure, nous avons un Do♯<sup>5</sup> puis un Do. Puisque c'est le même ton diatonique dans la même octave, il absorbe le dièse. Puisque c'est alors un Do♯ dans la même octave, il absorbe aussi le +5. Nous avons donc Do♯<sup>5</sup>, Do♯<sup>5</sup>.
+- Dans la deuxième mesure, il y a un Do♯<sup>5</sup> puis un Do avec une altération +1. **+1 est l'équivalent d'un bécarre dans le FJS, il annule toutes les altérations FJS, mais rien d'autre.** Donc cela signifie Do♯<sup>5</sup>, Do♯.
+- Dans la troisième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre. Puisque ce n'est plus le même ton pythagoricien, il n'absorbe plus le +5, donc cela signifie Do♯<sup>5</sup>, Do.
+- Dans la quatrième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre avec +5. Nous avons ici Do♯<sup>5</sup>, Do<sup>5</sup>; ce cas serait probablement le plus rare.
 
-Noch eine Anmerkung: das FJS ermöglicht auch, Intervallnamen diese hoch- und tiefgestellten Versetzungszeichen anzuhängen. Auf diese Weise werden JI-Frequenzverhältnisse formal im FJS benannt. Zum Beispiel "heißt" 5/4 die (große Terz)<sup>5</sup>. Das wäre also E<sup>5</sup> von C, oder A<sup>5</sup> von F, oder H<sup>5</sup> von G, usw.
+Encore une remarque: le FJS permet aussi d'ajouter ces altérations en indice supérieur et inférieur aux noms des intervalles. C'est comment les rapports de l'intonation juste sont formellement nommés dans le FJS. Par exemple, 5/4 "s'appelle" une (tierce majeure)<sup>5</sup>. Cela signifie soit Mi<sup>5</sup> de Do, soit La<sup>5</sup> de Fa, soit Si<sup>5</sup> de Sol, etc.
 
-OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben zu können. Unten findest du eine neue Technik. Den Toleranzradius brauchst du nicht mehr. Man benutzt ihn nur im Master-Algorithmus, wo die Generatorfunktion einer Primzahl bestimmt wird.
+D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles premiers. Vous allez apprendre une nouvelle technique maintenant. Vous n'avez plus besoin du rayon de tolérance: il n'est utilisé que dans l'algorithme principal pour calculer la fonction génératrice.
 
-> ### FJS-Technik \#3: Ein otonales Primzahlintervall ins FJS umrechnen.
+> ### Technique FJS \#3: Convertir un intervalle premier otonal en forme FJS.
 > 
-> 1. Finde die Generatorfunktion der Primzahl.
-> 2. Schreibe das Intervall auf, das dieser Anzahl von Quintenschritten entspricht.
-> 3. Addiere ein positives Versetzungszeichen der Primzahl selbst. Beispielsweise erhält 23/16 ein +23.
+> 1. Trouvez la fonction génératrice du nombre premier.
+> 2. Écrivez l'intervalle qui correspond à ce nombre de quintes.
+> 3. Ajoutez une altération de ce nombre premier. Par exemple, 23/16 recevrait un +23.
 >
-> **Beispiel:** Um 7/4 im FJS zu notieren, wir finden zuerst die Generatorfunktion von 7: −2. Wir schreiben das Intervall aus −2 Quinten auf: C–F–B, also eine kleine Septime. Als Letztes fügen wir ein +7 dazu, damit erhalten wir eine (kleine Septime)<sup>7</sup>. (Ja, es sieht auf den ersten Blick komisch aus.)
+> **Exemple:** Pour convertir 7/4 en forme FJS, nous trouvons d'abord la fonction génératrice de 7: −2. Nous écrivons l'intervalle de −2 quintes: Do-Fa-Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient une (septième mineure)<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
 
-(Die Rückumrechnung ist trivial: um das Verhältnis eines Intervalls im FJS zu bestimmen, wenn gegeben ist, dass es ein otonales Primzahlintervall ist, nimmt man einfach die Primzahl, die auf dem Versetzungszeichen steht!)
+(La calculation inverse est banale: pour trouver le rapport d'un intervalle dans le FJS, si on sait qu'il s'agit d'un intervalle premier otonal, on prend tout simplement le nombre premier de l'altération en forme réduite!)
 
-### Aufgabe 2
+### Exercice 2
 
-(Ab jetzt nimm immer an, dass der Toleranzradius λ beträgt.)
+(À partir d'ici, supposer toujours que le rayon de tolérance est λ.)
 
 1. Finde die Generatorfunktion für die Primzahlen 11 und 13.
 2. Gegeben ist, dass die Generatorfunktion von 19 −3 beträgt. Finde daher das formale Komma für 19.
@@ -256,7 +256,14 @@ OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben z
 5. Notiere die Obertonreihe von A bis zum vierzehnten Oberton.
 6. (SCHWIERIG!) Notiere die *Unter*tonreihe von A bis zum achten Unterton.
 
-Du kannst die Antworten [hier](solutions.html) nachschlagen.
+1. Trouvez la fonction génératrice pour les nombres premiers 11 et 13.
+2. En savant que la fonction génératrice pour 19 est −3, trouvez le comma formel pour 19.
+3. En savant que le comma formel pour 47 est 47/48, trouvez la fonction génératrice pour 47.
+4. Écrivez cette gamme dans la tonique Mi: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
+5. Écrivez l'échelle harmonique de La jusqu'au quatorzième harmonique.
+6. (DIFFICILE!) Écrivez l'échelle *sous*-harmonique de La jusqu'au huitième sous-harmonique.
+
+Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 ## <a name="lesson_3">Lektion 3: Verbundene Versetzungszeichen</a>
 
