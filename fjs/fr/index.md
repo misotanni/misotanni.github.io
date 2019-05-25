@@ -2,13 +2,13 @@
 title: Le Système fonctionnel de l'intonation juste
 ---
 
-> *Derjenige ist der Vorteil einer gut konstruierten Sprache, dass mithilfe ihrer vereinfachten Notation tiefgründige Theorien entstehen.*
+> *L'avantage d'une langue bien construite est que sa notation simplifiée est souvent la source des théories profondes.*
 >
 > — Pierre-Simon Laplace
 
 ---
 
-<img src="../assets/impression.png" alt="So sieht das FJS aus!">
+<img src="../assets/impression.png" alt="Voici le FJS!">
 
 # Bienvenue
 
