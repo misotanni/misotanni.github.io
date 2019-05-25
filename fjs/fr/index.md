@@ -51,31 +51,29 @@ Il n'y a que sept règles pour tout dont on a besoin pour écrire toute l'intona
 
 5. Pour nommer les notes, on écrit premièrement la partie conventionnelle du nom, puis l'altération positive combinée comme indice supérieur, puis la négative comme indice inférieur.
 
-6. Pour écriver les notes sur la portée, on écrit d'abord l'altération positive combinée (s'il y en a), puis l'altération négative combinée (s'il y en a) avec un signe moins, puis les altérations conventionnelles, puis la note.
+6. Pour écrire les notes sur la portée, on écrit d'abord l'altération positive combinée (s'il y en a), puis l'altération négative combinée (s'il y en a) avec un signe moins, puis les altérations conventionnelles, puis la note.
 
 7. Tout le reste sont des abréviations.
 
 ## Pourquoi le FJS?
 
-Pourquoi en avons-nous besoin? Qu'est-ce qui m'a motivé à créer le FJS? Quels avantages y en a-t-il pour les musiciens? Pourquoi l'utiliser, et comment aide-t-il à composer et analyser la musique en intonation juste? Pourquoi même essayer de représenter l'intonation juste sur la portée? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon belle, mais étrangère. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Un essai de la représenter comme ça serait certes anormal et maladroit.
+Pourquoi en avons-nous besoin? Qu'est-ce qui m'a motivé à créer le FJS? Quels avantages y en a-t-il pour les musiciens? Pourquoi l'utiliser, et comment aide-t-il à composer et analyser la musique en intonation juste? Pourquoi même essayer de représenter l'intonation juste sur la portée? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon belle mais étrangère. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Un essai de la représenter comme ça serait certes anormal et maladroit.
 
-Pourquoi alors est-ce que j'ai pourtant décidé de réaliser cette idee? Pour la raison que la notation de portée est une langue de communication entre musiciens. Bien qu'elle ne soit pas parfaite, elle est universelle pour tous les musiciens. En outre, nous sommes habitués à penser en notes. Ne serait-il pas utile de pouvoir traduire la langue de l'intonation juste qui est belle et régulière, mais peu intuitive, dans la langue de la portée qui est familière? Ne permettrait-il pas que les musiciens comprennent l'intonation juste avec plus d'intuition et étendre ses aspects à tous les processus liés à la musique conventionnelle: la composition, l'analyse et la performance?
+Pourquoi est-ce que j'ai pourtant décidé de réaliser cette idée? Pour la raison que la notation de portée est une langue de communication entre musiciens. Bien qu'elle ne soit pas parfaite, elle est universelle pour tous les musiciens. En outre, nous sommes habitués à penser en notes. Ne serait-il pas utile de pouvoir traduire la langue de l'intonation juste qui est belle et régulière, mais peu intuitive, dans la langue de la portée qui est familière? Ne permettrait-il pas que les musiciens comprennent l'intonation juste avec plus d'intuition et étendent ses aspects à tous les processus liés à la musique conventionnelle: la composition, l'analyse et la performance?
 
 **Bien sûr que oui.**
 
-Le FJS, c'est beaucoup plus qu'un système de notation.
+Le FJS, c'est beaucoup plus qu'un système de notation. Lorsque j'ai créé le système, il m'a permis de trouver un sens dans un chaos apparent de l'intonation juste. Il m'a démonstré que la notation de portée est beaucoup plus logique et plus liée à l'intonation juste que j'avais pensé. Pour toutes ces raisons, je vous invite aussi à connaître la facilité et la beauté du FJS et à comprendre comment ses roues dentées musicales connectent deux aspects qui semblent très éloignés.
 
-Das FJS ist viel mehr als nur ein Notationssystem. Als ich das System entwurf, hat es mir ermöglicht, Sinn im scheinbaren Chaos der Naturtonstimmung zu sehen. Es hat mir auch gezeigt, dass die Notenschrift viel logischer und viel mehr mit JI verbunden ist, als ich zuerst dachte. Deshalb lade ich auch dich dazu ein. Lerne die Einfachheit und die Schönheit des FJS kennen, und verstehe, wie seine musikalischen Zahnräder zwei Ideen verbinden, die auf den ersten Blick sich komplett fremd ansehen.
+Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour découvrir comment la pensée des gens se changerait si leur langue était complètement logique et avait du sens. Je crois que le FJS serait un "Lojban de la musique microtonale". Comme Lojban motive des gens à penser de manière logique, le FJS motive des musiciens à penser en intonation juste. C'est pourquoi il permet de lier la composition, l'analyse et la performance de cette musique à leur connaissance de la théorie de la musique, qui est elle-même liée à celle de JI.
 
-Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, die entworfen wurde, um zu sehen, wie das Denken sich verändert, wenn die Sprache komplett logisch ist und Sinn macht. Ich glaube, dass das FJS einem "Lojban der mikrotonalen Musik" entspricht. Genauso wie Lojban Leute zum logischen Denken bringt, bringt das FJS Musiker meiner Meinung nach zum JI-Denken. Dadurch werden ihre Komposition, Analyse, und Aufführung näher mit ihrer eigenen Kenntnis der Musiktheorie verbunden, da das FJS üblicher Musiktheorie die JI-Musiktheorie näher bringt.
+## Quoi maintenant?
 
-## Was jetzt?
+- Vous trouvez ici un [cours intensif](crash.html) du FJS. Avec une connaissance médiocre de JI, il ne faut que quelques minutes pour apprendre le FJS.
+- Lisez la [description formale complète](rules.html) si vous avez un doute en ce qui concerne les règles exactes.
+- Voyez les [mathématiques](math.html) grâce à lesquelles le FJS a en fait une bijection ainsi que toutes les autres belles qualités dont j'ai parlé.
+- Ici, je [compare](compare.html) le FJS à deux autres systèmes de notation en compétition: celui de Helmholtz-Ellis et celui de Ben Johnston, et j'explique pourquoi le FJS dépasse les deux.
+- Utilisez les [calculatrices](calc.html) sur ce site pour faire des calculs FJS automatiquement. **Conseil:** Créez un signet sur elles tout de suite.
+- Trouvez beaucoup plus d'[exemples](examples.html) du FJS en usage.
 
-- Hier befindet sich ein [Crash-Kurs](crash.html) des FJS. Mit einem gewissen Verständnis von JI kann man das FJS in wenigen Minuten lernen.
-- Lese die [komplette formale Erläuterung](rules.html), um die genauen Regeln bei Zweifel nachzuschlagen.
-- Sehe die [Mathematik](math.html), die dahinter steht. Hier findest du den Beweis, dass das FJS tatsächlich bijektiv ist, und tatsächlich viele schöne Eigenschaften besitzt.
-- Hier [vergleiche](compare.html) ich das FJS mit zwei anderen konkurrierenden Notationssystemen: dem Helmholtz-Ellis-System und dem Ben-Johnston-System, und erkläre, wieso das FJS beide von ihnen überschreitet.
-- Benutze die [Rechner](calc.html) der Webseite, um automatisch FJS-Berechnungen durchzuführen. **Vorschlag:** Speichere sie jetzt.
-- Hier findest du mehr [Beispiele](examples.html) des FJS im Einsatz.
-
-**Was wird das FJS für dich bedeuten?**
+**Le FJS, que signifiera-t-il pour toi?**
