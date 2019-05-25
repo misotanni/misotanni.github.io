@@ -23,7 +23,7 @@
 1. (Große Sexte)<sup>5</sup>, (kleine Terz)<sub>5</sub>, (kleine Terz)<sup>7</sup>, (kleine Septime)<sub>5</sub>.
 2. 10/9, 9/7, 11/6.
 3. <img src="../assets/solution_3_3.png" alt="C–D–E5–F–G–A5–B5–C">
-4. Nein. Es wäre der sechste Modus, wenn wir F<sub>5</sub> anstatt F hätten. Diese zwei Tonleitern sind nach der Tonika, Subdominante, und Dominante gebaut, mit entweder 4:5:6 (5/4-Dur-Dreiklängen) oder 10:12:15 (6/5-Moll-Dreiklängen). Die Tonleiter mit 3 Dur-Dreiklängen enthält nur 2 Moll-Dreiklänge und umgekehrt.
+4. Nein. Sie wäre der sechste Modus, wenn wir F<sub>5</sub> anstatt F hätten. Diese zwei Tonleitern sind nach der Tonika, Subdominante, und Dominante gebaut, mit entweder 4:5:6 (5/4-Dur-Dreiklängen) oder 10:12:15 (6/5-Moll-Dreiklängen). Die Tonleiter mit 3 Dur-Dreiklängen enthält nur 2 Moll-Dreiklänge und umgekehrt.
 
 ## Exercise 4
 
