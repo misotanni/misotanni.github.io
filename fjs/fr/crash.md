@@ -61,62 +61,62 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 C'est tout dont vous avez besoin. Commençons, alors!
 
-## <a name="lesson_1">Lektion 1: Die pythagoreische Stimmung</a>
+## <a name="lesson_1">Leçon 1: L'accord pythagoricien</a>
 
-Du denkst vielleicht, dass durch die Entnahme der Enharmonie sich viel mehr mögliche Tonhöhen beschreiben lassen. Da hättest du Recht. Die Entnahme der Enharmonie reicht aber nicht selbst aus, um die ganze Naturtonstimmung logischerweise darzustellen. Ein Vorteil der Naturtonstimmung ist, dass sie sehr kleine Unterschiede in Tonhöhe gut ausdrückt, und dadurch verschiedenen Intervallen verschiedene Farben gibt.
+Vous pensez peut-être que l'élimination de l'enharmonie permet de représenter beaucoup plus de hauteurs qu'avant, et vous avez raison. Pourtant, l'élimination de l'enharmonie ne suffit pas pour représenter toute l'intonation juste d'une manière logique. Un avantage de l'intonation juste est qu'elle peut exprimer de petites différences de hauteur et donne donc de différentes couleurs aux différents intervalles.
 
-Stelle dir die folgende Intervallreihe an: 11/10, 10/9, 9/8, 8/7. Hör zu:
+Imaginez la séquence d'intervalles suivante: 11/10, 10/9, 9/8, 8/7. Écoute:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-Die allermeisten hören hier vier "etwa große Sekunden". Es wäre aber falsch, alle von ihnen als große Sekunden aufzuschreiben. Sie sind unterschiedliche Intervalle. Die Unterdrückung der Vielfalt dort, wo sie am meisten zählt, widerspricht JI selbst.
+La plupart d'entre nous entend ici quatre "secondes environ majeures". Mais ce serait injuste de les nommer égales et représenter toutes avec une seconde majeure sur la portée. Ce sont de différents intervalles. L'élimination de ces différences dans un système où elles comptent le plus est une erreur.
 
-Du denkst also vielleicht, dass es einen Mittelweg gibt, einen Teil der ganzen Naturtonstimmung, der genau eindeutig dieser Notenschrift ohne Enharmonie zugeordnet werden kann. Da hättest du auch Recht. Dieser Mittelweg ist genau die Naturtonstimmung bis zum 3-Limit, auch pythagoreische Stimmung genannt.
+Vous pensez alors peut-être qu'il y a une position intermédiaire, une partie de l'intonation juste qui peut être assignée sans équivoque à la notation de portée sans enharmonie, et vous avez encore raison. Cette position intermédiaire est l'intonation juste au 3-limite, aussi appelée accord pythagoricien.
 
-Das heißt, dass wir die Oktave dem Frequenzverhältnis 2/1 zuordnen, genauso wie bei 12-EDO, und dass wir die reine Quinte dem Frequenzverhältnis 3/2 zuordnen. Damit können wir jedes mögliche Intervall der Notenschrift genau ein mögliches Intervall der pythagoreischen Stimmung zuordnen. Es gibt eine bijektive Zuordnung.
+Cela signifie que nous assignons le rapport 2/1 à l'octave (comme en 12-EDO) et le rapport 3/2 à la quinte juste. Avec cette attribution, on peut assigner chaque intervalle conventionnel à exactement un rapport pythagoricien. Il y a une bijection.
 
-Damit können wir die Menge der Stammtöne sogar *definieren*: F, C, G, D, A, E, und H sind alle so definiert, dass F–C 3/2 beträgt, ebenso C–G, usw. Wir bemerken dann, dass H–F 1024/729 beträgt. Dieses Intervall ist ein Tick kleiner als 3/2. Deshalb definieren wir dann das Kreuz und das Be, um diesen Unterschied aufzuheben, also betragen H–Fis und B–F per Definition auch 3/2. Das FJS funktioniert, indem es dieses Prinzip erweitert: Unterschiede werden durch Versetzungszeichen annulliert.
+C'est aussi une manière dont nous pouvons même *définir* les notes de l'échelle diatonique. Fa, Do, Sol, Ré, La, Mi, et Si sont alors définis ainsi: Fa–Do est 3/2, aussi Do–Sol, etc. On remarque que Si–Fa devient 1024/729, qui est un peu plus petit que 3/2. Nous définissons donc le dièse et le bémol ainsi: Si–Fa♯ et Si♭–Fa sont 3/2. Vous verrez que le FJS étend ce principe: des petites différences sont annulées avec des altérations.
 
-Bemerken wir, dass diese Bijektion etwas benötigt, das vielleicht nicht allen bewusst ist: mehr als nur doppelte Kreuze und Be. Obwohl sie sehr selten in üblicher Musik vorkommen, sind sie hier erforderlich, damit die Quintenlinie auf beiden Seiten unbegrenzt ist. Im FJS können dreifache, vierfache, usw. Kreuze und Be auch vorkommen. Das heißt gar nicht, dass sie oft vorkommen. Aber keine Panik, falls du sie benutzen musst.
+Remarquez que cette bijection a besoin de quelque chose dont peut-être quelques ne sont pas conscients: des dièses et bémols plus que doubles. Bien qu'ils soient très rares dans la musique conventionnelle, ils sont indispensables ici pour que la ligne de quintes soit infinie dans deux directions. Dans le FJS, vous pourriez voir aussi des triple- et quadruple-dièses et bémols, etc. Cela ne signifie pas du tout qu'ils sont fréquents, mais ne paniquez pas quand vous en avez besoin.
 
-Du bist jetzt bereit, die ersten zwei FJS-Techniken zu lernen.
+Vous êtes prêt ou prête pour apprendre les deux premières techniques FJS.
 
-> ### FJS-Technik \#1: Ein pythagoreisches Frequenzverhältnis in seine FJS-Darstellung umrechnen.
+> ### Technique FJS \#1: Convertir un rapport pythagoricien en forme FJS.
 > 
-> 1. Faktorisiere das Verhältnis.
-> 2. Ignoriere zunächst die 2er-Potenz.
-> 3. Beachte die 3er-Potenz, und mache so viele Quintenschritte (im Uhrzeigersinn oder gegen, je nachdem, ob die Potenz positiv oder negativ ist). Dadurch entsteht das entsprechende Intervall.
-> 4. Reguliere die Oktave.
+> 1. Factorisez le rapport.
+> 2. Ignorez l'exposant de 2.
+> 3. Si l'exposant de 3 est positif, additionnez autant de quintes dans le sens des aiguilles d'une montre. Si négatif, dans le sens inverse. Vous obtenez un intervalle.
+> 4. Réduisez, puis ajustez l'octave.
 >
-> **Beispiel:** Um 9/8 in das FJS umzurechnen, faktorisieren wir zunächst: 2<sup>−3</sup> 3<sup>2</sup>. Wir ignorieren die 2er-Potenz. Die 3er-Potenz beträgt +2, also gehen wir zwei Quinten im Uhrzeigersinn: C–G–D. Die Antwort lautet also: große Sekunde.
+> **Exemple:** Pour convertir 9/8 en FJS, d'abord, nous factorisons: 2<sup>−3</sup> 3<sup>2</sup>. L'exposant de 3 est +2, donc nous additionnons deux quintes: Do-Sol-Ré. On obtient une seconde majeure.
 
-> ### FJS-Technik \#2: Eine FJS-Darstellung eines pythagoreischen Frequenzverhältnisses zurück umrechnen.
+> ### Technique FJS \#2: Convertir une forme FJS en rapport pythagoricien.
 > 
-> 1. Ignoriere zunächst Oktaven.
-> 2. Bestimme die Anzahl der Quintenschritte, aus denen sich das Intervall ergibt, und nenne sie *n*.
-> 3. Berechne $$\text{red}(3^n)$$.
-> 4. Reguliere die Oktave.
+> 1. Ignorez d'abord les octaves.
+> 2. Trouvez le nombre de quintes dont l'intervalle est composé, et nommez-le *n*.
+> 3. Calculez $$\text{red}(3^n)$$.
+> 4. Ajustez l'octave.
 >
-> **Beispiel:** Um die kleine Terz im FJS in ein Verhältnis umzurechnen, bestimmen wir zuerst, dass die kleine Terz −3 Schritte benötigt: C–F–B–Es. $$\text{red}(3^{-3})$$ beträgt 32/27.
+> **Exemple:** Pour convertir la tierce mineure dans le FJS en rapport pythagoricien, nous découvrons d'abord que la tierce mineure fait −3 quintes: Do-Fa-Si♭-Mi♭. $$\text{red}(3^{-3})$$ égale 32/27.
 
-Die folgenden sind am meisten verbreitet:
+Ceux-ci sont les plus fréquents:
 
-| Intervall      | Schritte | Verhältnis  |
-|:---------------|:--------:|:------------|
-| kleine Sekunde | −5       | 256/**243** |
-| kleine Sexte   | −4       | 128/**81**  |
-| kleine Terz    | −3       | 32/**27**   |
-| kleine Septime | −2       | 16/**9**    |
-| reine Quarte   | −1       | 4/**3**     |
-| reine Quinte   | +1       | **3**/2     |
-| große Sekunde  | +2       | **9**/8     |
-| große Sexte    | +3       | **27**/16   |
-| große Terz     | +4       | **81**/64   |
-| große Septime  | +5       | **243**/128 |
+| Intervalle       | Quintes | Rapport     |
+|:-----------------|:-------:|:------------|
+| seconde mineure  | −5      | 256/**243** |
+| sixte mineure    | −4      | 128/**81**  |
+| tierce mineure   | −3      | 32/**27**   |
+| septième mineure | −2      | 16/**9**    |
+| quarte juste     | −1      | 4/**3**     |
+| quinte juste     | +1      | **3**/2     |
+| seconde majeure  | +2      | **9**/8     |
+| sixte majeure    | +3      | **27**/16   |
+| tierce majeure   | +4      | **81**/64   |
+| septième majeure | +5      | **243**/128 |
 
-Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst du dir überhaupt keine Zahlen merken. Es ist ähnlich wie beim Kopfrechnen. Du sollst schon jetzt selber diese Verhältnisse aus den Intervallen berechnen können, und zurück, mithilfe der zwei Techniken. Fürchte nicht, einen Taschenrechner zu benutzen. Einer wird dir sicher sehr hilfreich sein, bis du dich mit dem FJS so gut auskennst, dass du die Ergebnisse einfach weißt.
+Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non! Pour utiliser le FJS, vous n'avez jamais besoin d'apprendre des nombres par cœur. Comme le calcul mental, ces résultats deviennent automatiques au fur et à mesure que vous utilisez le FJS. Vous devriez déjà pouvoir calculer ces rapports à partir des intervalles et inversement. N'ayez pas peur d'utiliser une calculatrice, elle sera très utile jusqu'à ce que vous n'avez plus besoin d'elle.
 
-### Aufgabe 1
+### Exercice 1.
 
 1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
 2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
@@ -125,7 +125,14 @@ Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst
 5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
 6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
 
-Du kannst die Antworten [hier](solutions.html) nachschlagen.
+1. Calculez les intervalles FJS qui correspondent à ces rapports pythagoriciens: 2187/2048, 1024/729, 8192/6561.
+2. Calculez les rapports pythagoriciens qui correspondent à ces intervalles: septième diminuée, quinte augmentée, tierce diminuée.
+3. Trouvez les rapports entre les degrés de cette gamme: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
+4. Écrivez cette gamme dans le FJS avec la tonique Ré: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
+5. Calculez le rapport du comma pythagoricien (dans le FJS, une seconde diminuée).
+6. (DIFFICILE!) Le rapport pythagoricien 3<sup>53</sup>/2<sup>84</sup> est minuscule: il ne compte qu'environ 3.6 cents. Trouvez sa représentation FJS.
+
+Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 ## <a name="lesson_2">Lektion 2: Die Primzahlintervalle</a>
 
