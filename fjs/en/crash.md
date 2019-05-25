@@ -93,8 +93,8 @@ You are now ready to learn the first two FJS techniques.
 > ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
 > 
 > 1. Initially ignore octaves.
-> 2. Convert the interval to the number of steps by fifths.
-> 3. Raise three to that power and take the reduced form.
+> 2. Convert the interval to the number of steps by fifths, name it *n*.
+> 3. Calculate $$\text{red}(3^n)$$.
 > 4. Adjust octaves as required.
 >
 > **Example:** To convert the FJS interval m3 to a Pythagorean ratio, we convert it first to −3 fifths: C–F–B♭–E♭. We now raise 3 to that power: 3<sup>−3</sup>. This is 1/27. To bring this number between 1 (inclusive) and 2 (exclusive), we multiply by 32 to get the answer: 32/27.
