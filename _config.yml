@@ -3,35 +3,35 @@ defaults:
     scope:
       path: "fjs/en"
     values:
-      otherlang: "In other languages:"
+      otherlang: "English · In other languages:"
       anyquestions: "If you have any questions, you are encouraged to contact the author at"
       return: "Return to the main page"
   -
     scope:
       path: "fjs/pl"
     values:
-      otherlang: "W innym języku:"
+      otherlang: "Polski · W innym języku:"
       anyquestions: "Jeżeli masz jakieś pytania, nie krępuj się zapytać autora:"
       return: "Powróć do strony głównej"
   -
     scope:
       path: "fjs/jbo"
     values:
-      otherlang: "bau lo drata zo'u:"
+      otherlang: "la lojban · bau lo drata zo'u:"
       anyquestions: "fau lo nu do djica lo nu retsku su'o da zo'u ko benji e'e sai lo xatra do'e"
       return: "xruzva lo ralju"
   -
     scope:
       path: "fjs/fr"
     values:
-      otherlang: "En d'autres langues:"
+      otherlang: "Français · En d'autres langues:"
       anyquestions: "Si vous avez des questions, n'hésitez pas à demander à l'auteur:"
       return: "Retournez à la page d'accueil"
   -
     scope:
       path: "fjs/de"
     values:
-      otherlang: "In anderen Sprachen:"
+      otherlang: "Deutsch · In anderen Sprachen:"
       anyquestions: "Bei irgendwelchen Fragen kannst du dich jederzeit an den Autor wenden:"
       return: "Zurück zur Hauptseite"
   -
