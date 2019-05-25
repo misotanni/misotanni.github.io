@@ -27,7 +27,7 @@ Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
 <img src="../assets/example_2.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
 
-Oczywiście zamiana as na b w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
+Oczywiście zamiana ais na b w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
 
 Tę własność – przyrównanie zmniejszonej sekundy do prymy zwiększonej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc eis i fes tymi samymi wysokościami).
 
