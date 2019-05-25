@@ -247,14 +247,7 @@ D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles 
 
 ### Exercice 2
 
-(À partir d'ici, supposer toujours que le rayon de tolérance est λ.)
-
-1. Finde die Generatorfunktion für die Primzahlen 11 und 13.
-2. Gegeben ist, dass die Generatorfunktion von 19 −3 beträgt. Finde daher das formale Komma für 19.
-3. Gegeben ist, dass das formale Komma von 47 47/48 beträgt. Finde daher die Generatorfunktion für 47.
-4. Notiere die folgende Tonleiter mit E als Grundton: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
-5. Notiere die Obertonreihe von A bis zum vierzehnten Oberton.
-6. (SCHWIERIG!) Notiere die *Unter*tonreihe von A bis zum achten Unterton.
+(À partir d'ici, supposez toujours que le rayon de tolérance est λ.)
 
 1. Trouvez la fonction génératrice pour les nombres premiers 11 et 13.
 2. En savant que la fonction génératrice pour 19 est −3, trouvez le comma formel pour 19.
