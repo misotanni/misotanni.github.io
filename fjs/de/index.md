@@ -67,6 +67,10 @@ Das FJS ist viel mehr als nur ein Notationssystem. Als ich das System entwurf, h
 
 Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, die entworfen wurde, um zu sehen, wie das Denken sich verändert, wenn die Sprache komplett logisch ist und Sinn macht. Ich glaube, dass das FJS einem "Lojban der mikrotonalen Musik" entspricht. Genauso wie Lojban Leute zum logischen Denken bringt, bringt das FJS Musiker meiner Meinung nach zum JI-Denken. Dadurch werden ihre Komposition, Analyse, und Aufführung näher mit ihrer eigenen Kenntnis der Musiktheorie verbunden, da das FJS üblicher Musiktheorie die JI-Musiktheorie näher bringt.
 
+## FAQ: Gibt es ein FAQ?
+
+[Tatsächlich!](faq.html)
+
 ## Was jetzt?
 
 - Hier befindet sich ein [Crash-Kurs](crash.html) des FJS. Mit einem gewissen Verständnis von JI kann man das FJS in wenigen Minuten lernen.
