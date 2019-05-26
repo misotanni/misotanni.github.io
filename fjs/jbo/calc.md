@@ -7,7 +7,7 @@
   <option value="fromfjs">i kanji lo pa frinu pa fy jy sy togyku'e</option>
 </select>
 
-i pruce <span id="input-name"></span>:<br />
+i pruce <span id="input-name"></span><br />
 <input type="text" id="input">
 
 i pruce fi: <br />
