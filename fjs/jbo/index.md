@@ -100,10 +100,14 @@ i mi cpedu fi do ji'a fe lo ka zukte filo ka jimpe fi lo du'u melbi je frili fa 
 
 ni'o karbi fy jy sy la lojban
 i ly noi runbau cu se finti fi lo nu facki lo du'u ma kau se cenba lo pensi pruce fo lo nu lo ri remna cu baupli su'o lojykai je jai smudra
-i ia fy jy sy panra lo jbobau lo ka bangu fi tu'a lo cmato'aku'e zgike
-i pe'i lo jbobau fa'u fy jy sy jai rinka lo nu lo baupli fa'u lo zgipli cu curve pensi ci'e lo logji fa'u cy ty
+i ia fy jy sy panra ly lo ka bangu fi tu'a lo cmato'aku'e zgike
+i pe'i ly fa'u fy jy sy jai rinka lo nu lo baupli fa'u lo zgipli cu curve pensi ci'e lo logji fa'u cy ty
 i ji'a ro zu'o zgike ke finti ja lanli ja tigni cu binxo co sarxe lo pu'i se djuno be fi lo zgike ente'ori
-i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgiky'ente'ori poi cabna cu kairjo'e lo me cy ty moi
+i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgike ente'ori poi cabna cu kairjo'e lo me cy ty moi
+
+## xu zvati fa le'i cafrei
+
+[ni'o ja'a go'i](faq.html)
 
 ## ca zukte ma
 
