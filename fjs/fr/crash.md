@@ -385,17 +385,17 @@ Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement 
 
 Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces; vous pourriez calculer ce tableau vous-même si vous vouliez (mais vous ne voudriez pas, donc je l'ai fait pour vous).
 
-| Nombre premier | Génératrice | Comma formel |
-|---------------:|:-----------:|:------------:|
-| 5              | +4          | 80/81        |
-| 7              | −2          | 63/64        |
-| 11             | −1          | 33/32        |
-| 13             | −4          | 1053/1024    |
-| 17             | −5          | 4131/4096    |
-| 19             | −3          | 513/512      |
-| 23             | +6          | 736/729      |
-| 29             | −2          | 261/256      |
-| 31             | +5          | 248/243      |
+| Nombre | Génératrice | Comma formel |
+|-------:|:-----------:|:------------:|
+| 5      | +4          | 80/81        |
+| 7      | −2          | 63/64        |
+| 11     | −1          | 33/32        |
+| 13     | −4          | 1053/1024    |
+| 17     | −5          | 4131/4096    |
+| 19     | −3          | 513/512      |
+| 23     | +6          | 736/729      |
+| 29     | −2          | 261/256      |
+| 31     | +5          | 248/243      |
 
 Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/31 comme rayon de tolérance. Ce nombre est la moyenne géométrique de 33/32 et 32/31, alors il est plus grand que 33/32 et plus petit que 32/31. Donc 33/32 serait accepté comme comma formel. Grâce à cela, 11/8 peut être représenté comme quarte juste (si elle était rejetée, la prochaine approximation serait la quinte diminuée, ce qui est ridicule). Mais en même temps, ce rayon rejette la représentation de 31/16 comme octave, parce que 32/31 est trop grand pour être un comma formel. N'est-ce pas ingénieux?
 
