@@ -1,7 +1,7 @@
 # lo kajytci pe fy jy sy
 
 <select id="computations">
-  <option value="">i ko cuxna lo se kanji</option>
+  <option value="">i ko cuxna lo ve kanji</option>
   <option value="comma">i kanji lo pa fy jy sy datyto'aku'e pa dilcysle</option>
   <option value="tofjs">i kanji lo pa fy jy sy togyku'e pa frinu</option>
   <option value="fromfjs">i kanji lo pa frinu pa fy jy sy togyku'e</option>
@@ -23,7 +23,7 @@ i pruce fi: <br />
        wrongFormat: "i mi na jimpe lo stura",
    wrongIntVariant: "i zoi a %1 a zoi a %2 a na mapti lo ka klesi",
        wrongFactor: "i li re lo'o na e nai li ci ka'e dilcymu'o lo fy jy sy togystika",
-     noComputation: "i lo se kanji ca na se cuxna",
+     noComputation: "i lo ve kanji ca na se cuxna",
            noInput: "i ca pruce no da",
           notPrime: "i la'e zoi a %1 a na'e dilcysle",
     butPythagorean: "i li re lo'o e li ci cu jai se cistrpitagora i ri na nitcu lo fy jy sy togystika",
