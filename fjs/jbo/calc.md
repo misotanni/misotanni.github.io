@@ -1,4 +1,4 @@
-# lo kanji pe fy jy sy
+# lo kajytci pe fy jy sy
 
 <select id="computations">
   <option value="">i ko cuxna lo se kanji</option>
