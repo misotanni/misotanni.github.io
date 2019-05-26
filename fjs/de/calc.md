@@ -1,7 +1,5 @@
 # FJS-Rechner
 
-Der Rechner benutzt englischsprachige Intervallnamen: "M3" ist z.B. eine große Terz.
-
 <select id="computations">
   <option value="">Wähle eine Berechnung aus:</option>
   <option value="comma">FJS-Komma einer Primzahl berechnen</option>
@@ -36,3 +34,13 @@ Ergebnis: <br />
 </script>
 <script src="../assets/fjs.js"></script>
 <script src="../assets/calc.js"></script>
+
+- The function "Compute FJS comma for prime" will find the generator function and formal comma (as well as give the cent size of this comma) for any input prime number greater than 3.
+- The function "Convert fraction into an FJS interval" will find the unique FJS representation of any input fraction. All FJS accidentals will be listed separate, never multiplied together. For intervals less than the perfect prime, a negative number is used to represent a downward interval. For instance, 5/4 is `M3^5`, while 4/5 is `M-3_5`.
+- The function "Convert FJS interval into a fraction" will find the unique fraction corresponding to an FJS interval input. A caret must be used to indicate the beginning of the otonal modifiers, and an underscore for the utonal ones. FJS accidentals may be multiplied together in any combination, and a negative number for a downward interval can be used.
+
+- Die Funktion "FJS-Komma einer Primzahl berechnen" findet sowohl die Generatorfunktion, als auch das formale Komma (sowie die Cent-Größe davon) für jede Eingabe einer Primzahl größer als 3.
+- Die Funktion "Bruch in ein FJS-Intervall umrechnen" findet die einzige FJS-Darstellung jeder Eingabe einer positiven Bruchzahl. Alle FJS-Modifikatoren werden dabei getrennt geschrieben, nie miteinander multipliziert. Für Intervalle kleiner als eine reine Prime wird eine negative Zahl benutzt, um ein Intervall nach unten darzustellen. 5/4 ist also `M3^5`, aber 4/5 ist `M-3_5`.
+- Die Funktion "FJS-Intervall in einen Bruch umrechnen" findet den einzigen Bruch, der jeder Eingabe eines FJS-Intervalls entspricht. Das Einschaltungszeichen für den Anfang der otonalen Modifikatoren, ebenso wie der Unterstrich für die utonalen, sind immer notwendig. Du kannst die Modifikatoren multiplizieren, wie du willst, und eine negative Zahl für ein Intervall nach unten benutzen.
+
+**Bemerkung:** Der Rechner benutzt englischsprachige Intervallnamen: "M3" ist z.B. eine große Terz.
