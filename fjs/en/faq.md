@@ -20,7 +20,7 @@ You don't need one! Let the [calculators](calc.html) handle that.
 
 ## Why has 3/2 been chosen as the only implied interval and not, for example, 5/4?
 
-I've outlined some of my reasoning on the [comparison](comparison.html) page.
+I've outlined some of my reasoning on the [comparison](compare.html) page.
 
 ## Why the fuss if I can define my pitches at the top of a score?
 
