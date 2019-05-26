@@ -14,6 +14,10 @@ This being said, I think that ET doesn't need an FJS to be usable. *n*-EDOs for 
 
 No matter which way you choose, you'll eventually find out that the FJS would have been of zero help to you… Unless you want to approximate the key signature for your upcoming ET piece.
 
+## Where is the table of generators and formal commas?
+
+You don't need one! Let the [calculators](calc.html) handle that.
+
 ## Why has 3/2 been chosen as the only implied interval and not, for example, 5/4?
 
 I've outlined some of my reasoning on the [comparison](comparison.html) page.
@@ -23,7 +27,7 @@ I've outlined some of my reasoning on the [comparison](comparison.html) page.
 Sure, you can do that, but there are a few things you'll be missing on:
 
 - the ability to modulate to any foreign ‘key’ of your choice as you go, without the need for convoluted reassignments or cumbersome or verbose annotations;
-- the ‘one size fits all’ property of the FJS which, with very little notational overhead, allows you to use the same system for *all* JI, making way for an intuitive and firm understanding of FJS' – and JI's – inner workings and mental shortcuts;
+- the ‘one size fits all’ property of the FJS which, with very little notational overhead, allows you to use the same system for *all* JI, making way for an intuitive and firm understanding of the FJS's – and JI's – inner workings and mental shortcuts;
 - quick sightreading – even across scores.
 
 If you care about none of these, FJS might not be the right choice for you. I recommend you to give it a chance anyway.
