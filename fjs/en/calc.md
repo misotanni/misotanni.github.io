@@ -1,4 +1,4 @@
-# FJS Calculators
+﻿# FJS Calculators
 
 <select id="computations">
   <option value="">Select computation</option>
@@ -17,7 +17,7 @@ Output: <br />
   var loc = {
              prime: "a prime",
           fraction: "a fraction",
-      intervalName: "interval name (like M3^5)",
+      intervalName: "interval name (like `M3^5`)",
      cantFactorize: "‘%1’ – not something I can factorize.",
         notANumber: "‘%1’ is not a number.",
        wrongFormat: "I don't understand the format.",
