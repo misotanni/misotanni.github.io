@@ -80,9 +80,9 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 ## Regeln für die Anwendung von FJS-Vorzeichen (\*)
 
-1. FJS-Vorzeichen funktionieren genauso wie pythagoreische, sind von ihnen unabhängig, und werden nach pythagoreischen Vorzeichen, wenn beide gleichzeitig vorhanden sind.
+1. FJS-Vorzeichen funktionieren genauso wie pythagoreische, sind von ihnen unabhängig, und werden nach pythagoreischen Vorzeichen, wenn beide gleichzeitig vorhanden sind, geschrieben.
 
-2. FJS-Vorzeichen können standardmäßig nur dort mikrotonale Versetzungszeichen hinfügen, wo die Töne bereits in einer Tonart diatonisch sind. Z.B. ein Stück in A-Dur, das die Vorzeichen Fis-Cis-Gis besitzt, kann normalerweise nur für die Noten A, H, Cis, D, E, Fis und Gis FJS-Vorzeichen erhalten. Weil diese Vorzeichen sie bereits normwidrig sind, gibt es keine vorgesetzte Reihenfolge, in der sie vorkommen müssen. Wegen des pythagoreischen Wesens des FJS kommt es aber oft vor, dass sie doch Fragmente der Reihenfolgen FCGDAEH oder HEADGCF enthalten.
+2. FJS-Vorzeichen können standardmäßig nur dort mikrotonale Versetzungszeichen hinfügen, wo die Töne bereits in einer Tonart diatonisch sind. Z.B. ein Stück in A-Dur, das die Vorzeichen Fis-Cis-Gis besitzt, kann normalerweise nur für die Noten A, H, Cis, D, E, Fis und Gis FJS-Vorzeichen erhalten. Weil diese Vorzeichen bereits normwidrig sind, gibt es keine vorgesetzte Reihenfolge, in der sie vorkommen müssen. Wegen des pythagoreischen Wesens des FJS kommt es aber oft vor, dass sie doch Fragmente der Reihenfolgen FCGDAEH oder HEADGCF enthalten.
 
 3. FJS-Vorzeichen können nicht-diatonische Töne auch modifizieren, indem sie auf dem korrekten Stammton geschrieben werden, und ihnen ein in Klammern geschriebenes pythagoreisches Versetzungszeichen folgt. Die Klammern sind notwendig, um zu wissen, dass das pythagoreische Versetzungszeichen selbst nicht gilt. Stattdessen ist die Bedeutung: wenn das pythagoreische Versetzungszeichen folgt, dann wird auch das mikrotonale Versetzungszeichen dazu angewendet. Die FJS-Vorzeichen für C-Dur harmonisch könnten so aussehen: H<sup>5</sup> E<sup>5</sup> A<sup>5</sup> As<sub>5</sub>. D.h. alle H, E, und A erhalten ein +5, und alle As erhalten ein −5. A wird nicht zu As; *wenn* es As ist, *dann* erhält es auch ein −5.
 
