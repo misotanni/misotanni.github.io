@@ -2,7 +2,7 @@
 
 <select id="computations">
   <option value="">i ko cuxna lo ve kanji</option>
-  <option value="comma">i kanji lo pa fy jy sy datyto'aku'e pa dilcysle</option>
+  <option value="comma">i kanji lo pa togyfancyku'e pa dilcysle</option>
   <option value="tofjs">i kanji lo pa fy jy sy togyku'e pa frinu</option>
   <option value="fromfjs">i kanji lo pa frinu pa fy jy sy togyku'e</option>
 </select>
@@ -17,7 +17,7 @@ i te pruce: <br />
   var loc = {
              prime: "pa dilcysle",
           fraction: "pa frinu",
-      intervalName: "pa fy jy sy togyku'e cmene ne mu'u zoi a M3^5 a",
+      intervalName: "pa fy jy sy togyku'e cmene ne mu'u zoi a `M3^5` a",
      cantFactorize: "i mi na ka'e kanji lo'i dilcymu'o be la'e zoi a %1 a",
         notANumber: "i la'e zoi a %1 a na'e namcu",
        wrongFormat: "i mi na jimpe fi lo stura",
