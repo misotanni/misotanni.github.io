@@ -64,6 +64,8 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 7. Die Zahl 1 bedeutet das Auflösen aller mikrotonalen Versetzungszeichen, genauso wie das Auflösungszeichen in üblicher Notenschrift. Sie kann man entweder hoch- oder tiefgestellt schreiben. Z.B. Die Abfolge C – D – E<sup>5</sup> – E<sup>1</sup> (oder einfach C – D – E<sup>5</sup> – E) bedeutet 1/1, 9/8, 5/4, 81/64 von C.
 
+8. Intervalle können dieselben Modifikatoren als Noten besitzen.
+
 ## Regeln für die Anwendung von FJS-Notennamen in Notenschrift
 
 1. Um positive Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note. Der Konsistenz halber werden sie vor, nicht nach, der Note geschrieben, genauso wie übliche Versetzungszeichen. (Wenn es auch ein übliches Versetzungszeichen gibt, dann auch vor ihm.)

@@ -62,6 +62,8 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 7. The number 1 represents canceling any microtonal accidentals, similar to the natural sign used to cancel standard accidentals. It can be written either in a superscript or a subscript. For example, the sequence C – D – E<sup>5</sup> – E<sup>1</sup> (or simply C – D – E<sup>5</sup> – E) represents the intervals 1/1, 9/8, 5/4, 81/64 above C.
 
+8. Intervals may have the same modifiers as notes.
+
 ## Rules for Using FJS Note Names in Notation
 
 1. To add positive comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, as an accidental. For consistency, just like standard accidentals are prepended to a note on a staff but appended to its name, the same happens to microtonal accidentals. They are written in front of the note, and if there is a standard accidental as well, then in front of the accidental.

@@ -17,7 +17,7 @@ Ergebnis: <br />
   var loc = {
              prime: "eine Primzahl",
           fraction: "ein Bruch",
-      intervalName: "ein Intervallname (z.B. M3^5)",
+      intervalName: "ein Intervallname (z.B. m3_5)",
      cantFactorize: "‘%1’ – das kann ich nicht faktorisieren.",
         notANumber: "‘%1’ ist keine Zahl.",
        wrongFormat: "Ich verstehe die Struktur nicht.",

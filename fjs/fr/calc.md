@@ -17,7 +17,7 @@ Résultat: <br />
   var loc = {
              prime: "un nombre premier",
           fraction: "une fraction",
-      intervalName: "un nom d'intervalle (comme `M3^5`)",
+      intervalName: "un nom d'intervalle (comme m3_5)",
      cantFactorize: "‘%1’ – je ne sais pas factoriser cela.",
         notANumber: "‘%1’ n'est pas un nombre.",
        wrongFormat: "Je ne comprends pas la forme.",
