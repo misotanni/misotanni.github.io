@@ -38,3 +38,5 @@ Résultat: <br />
 - La fonction « Calculer le comma formel d'un nombre premier » trouvera la fonction génératrice et le comma formel (ainsi que le nombre de cents pour ce comma) pour chaque nombre premier au-delà de 3.
 - La fonction « Convertir une fraction en intervalle FJS » trouvera la seule représentation FJS de chaque fraction positive. Toutes les altérations FJS seront séparées, jamais multipliées. Des intervalles inférieurs à l'unisson seront écrits avec un signe moins qui représente un intervalle descendant. Par exemple, 5/4 serait `M3^5` pendant que 4/5 serait `M-3_5`.
 - La fonction « Convertir un intervalle FJS en fraction » trouvera la seule fraction correspondante à chaque représentation FJS. Vous devez utiliser le signe caret pour indiquer le début des altérations otonales et la barre de soulignement pour les utonales. Les altérations FJS peuvent être multipliées comme vous voulez, et vous pouvez utiliser un signe moins pour écrire un intervalle descendant.
+
+**Remarque:** La calculatrice utilise des noms anglais pour les intervalles: par exemple, « M3 » signifie une tierce majeure.
