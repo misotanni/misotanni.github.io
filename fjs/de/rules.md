@@ -50,7 +50,7 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 ## Regeln für das Erzeugen von FJS-Notennamen
 
-1. Für übliche Notenschrift benutzt das FJS die pythagoreische Stimmung. D.h. C–E ist 81/64, C–Des ist 256/243, Des–Cis ist 531441-524288, usw.
+1. Für übliche Notenschrift benutzt das FJS die pythagoreische Stimmung. D.h. C–E ist 81/64, C–Des ist 256/243, Des–Cis ist 531441/524288, usw.
 
 2. Ein einziges Komma der Primzahl *p* (größer als 3) wird die Zahl "p" selbst (am besten hochgestellt) benutzen, um eine Abweichung um dieses Komma **in der Originalrichtung** darzustellen. Z.B. E<sup>5</sup> ist um 81/80 **niedriger** als E (da das Komma von 5 80/81 beträgt); F<sup>11</sup> ist um 33/32 **höher** als F (da das Komma von 11 33/32 beträgt). Diese Notennamen spricht man aus, indem die Zahl dazugeklebt wird: "E-fünf", "F-elf". Dazu kann optional das Präfix "super" hinzugefügt werden, um die Trennung zu betonen. Gedenke, dass die Originalrichtung erhalten bleibt.
 
