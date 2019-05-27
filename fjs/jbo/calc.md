@@ -1,4 +1,4 @@
-# lo kajytci pe fy jy sy
+﻿# lo kajytci pe fy jy sy
 
 <select id="computations">
   <option value="">i ko cuxna lo ve kanji</option>
@@ -10,7 +10,7 @@
 i pruce <span id="input-name"></span><br />
 <input type="text" id="input">
 
-i pruce fi: <br />
+i te pruce: <br />
 <pre><code id="output"></code></pre>
 
 <script>
@@ -20,7 +20,7 @@ i pruce fi: <br />
       intervalName: "pa fy jy sy togyku'e cmene ne mu'u zoi a M3^5 a",
      cantFactorize: "i mi na ka'e kanji lo'i dilcymu'o be la'e zoi a %1 a",
         notANumber: "i la'e zoi a %1 a na'e namcu",
-       wrongFormat: "i mi na jimpe lo stura",
+       wrongFormat: "i mi na jimpe fi lo stura",
    wrongIntVariant: "i zoi a %1 a zoi a %2 a na mapti lo ka klesi",
        wrongFactor: "i li re lo'o na e nai li ci ka'e dilcymu'o lo fy jy sy togystika",
      noComputation: "i lo ve kanji ca na se cuxna",
