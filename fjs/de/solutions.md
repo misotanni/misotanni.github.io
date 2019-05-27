@@ -25,9 +25,9 @@
 3. <img src="../assets/solution_3_3.png" alt="C–D–E5–F–G–A5–B5–C">
 4. Nein. Sie wäre der sechste Modus, wenn wir F<sub>5</sub> anstatt F hätten. Diese zwei Tonleitern sind nach der Tonika, Subdominante, und Dominante gebaut, mit entweder 4:5:6 (5/4-Dur-Dreiklängen) oder 10:12:15 (6/5-Moll-Dreiklängen). Die Tonleiter mit 3 Dur-Dreiklängen enthält nur 2 Moll-Dreiklänge und umgekehrt.
 
-## Exercise 4
+## Aufgabe 4
 
-1. (kleine Sekunde)<sup>7</sup>, (übermäßige Sekunde)<sup>5</sup><sub>13</sub>, (verminderte Quarte)<sup>11</sup><sub>25</sub>.
+1. (Kleine Sekunde)<sup>7</sup>, (übermäßige Sekunde)<sup>5</sup><sub>13</sub>, (verminderte Quarte)<sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solution_4_3.png" alt="C5–D5–E♭–G5–B♭, F–C1–E♭7–F–A5, B♭–C–D5–F–A5">
 4. Die folgenden fünf Akkorde:
