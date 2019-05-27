@@ -27,7 +27,7 @@
 
 ## Exercise 4
 
-1. (seconde mineure)<sup>7</sup>, (seconde augmentée)<sup>5</sup><sub>13</sub>, (quarte diminuée)<sup>11</sup><sub>25</sub>.
+1. (Seconde mineure)<sup>7</sup>, (seconde augmentée)<sup>5</sup><sub>13</sub>, (quarte diminuée)<sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solution_4_3.png" alt="C5–D5–E♭–G5–B♭, F–C1–E♭7–F–A5, B♭–C–D5–F–A5">
 4. Les cinq accords suivants:
