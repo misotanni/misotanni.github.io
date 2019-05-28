@@ -20,6 +20,8 @@ Ben Johnston dagegen ist da ein bisschen... innovativer. Er benutzt eine andere 
 - F – A, C – E, and G – H sind Naturterzen (5/4).
 - Das Kreuz und das Be erhöhen bzw. erniedrigen um 25/24 (ein pythagoreischer chromatischer Halbton minus zwei syntonische Kommas; (übermäßige Prime)<sup>25</sup>).
 
+(Ein syntonisches Komma ist 81/80.)
+
 Ich nehme an, dass diese Wahl dem Zweck dient, dass C–E–G, F–A–C and G–H–D alle 4:5:6-Durdreiklänge sind, und C–Es–G, F–As–C and G–B–D alle 10:12:15-Molldreiklänge sind. Also haben wir C–D–E–F–G–A–H–C als die ptolemäische Tonleiter oder Natur-Dur-Tonleiter, und C–D–Es–F–G–As–B–C als die Natur-Moll-Tonleiter.
 
 Ich nehme deshalb also an, dass diese Wahl die Absicht hatte, diatonische 5-Limit-Musik einfacher zu repräsentieren, gegen alles andere.
@@ -66,6 +68,8 @@ So sieht die Liste bis zum 61-Limit für Helmholtz-Ellis aus:
 Ein paar dieser Versetzungszeichen stimmen mit dem FJS überein: 5, 7, 11, 19, 23, und 43.
 
 Was man am deutlichsten sieht, ist, dass die Versetzungszeichen für 17, 29, 31, 37, 41, 47, 53, 57, und 61 auch andere Faktoren als 2, 3, und die eine Primzahl enthalten. Die einzigen Kommas bei Helmholtz-Ellis, die die Form einer Brückenzahl haben, sind 5, 7, 11, 13, 19, 23, und 43. (Von den Primzahlen zwischen 32 und 64 hat nur 43 eine Brückenzahl als Komma.)
+
+(Die Idee einer *Brückenzahl* ist auf der [Mathematikseite](math.html) definiert.)
 
 Warum ist das ein Problem? Obwohl sie immer noch aufgeschrieben werden können, brauchen sie zwei Versetzungszeichen aus zwei verschiedenen Primzahlen, was total überflüssig ist. Es sieht aus, als ob alle Kommas nach dem 23-Komma genau so ausgewählt wurden, damit ihr Verhältnis die Form $$\frac{n+1}{n}$$ hat, auch wenn das eine komplizierte Primfaktorzerlegung bedeutet. (Was besonders auffällt, ist, dass so eine Form gar nicht garantiert, dass das Komma auch klein ist. Ein berühmtes Komma: 1029/1024, ist sehr klein: der Unterschied zwischen einer 3/2-Quinte und drei Intervallen von 8/7.)
 
