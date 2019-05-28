@@ -304,32 +304,32 @@ Vous pouvez aussi écouter:
 
 Ce n'est aucune surprise que le FJS est le meilleur système de notation pour l'intonation juste. Ce n'est pas non plus une surprise que la notation de Helmholtz-Ellis est mauvaise puisqu'elle était le premier essai. Parce que Johnston a choisi ses tons diatoniques d'une manière vraiment stupide, il est beaucoup pire que Helmholtz-Ellis: il a autant de points grâce à une erreur transferte, métaphoriquement. Le FJS est donc beaucoup meilleur que Helmholtz-Ellis et meilleur que Johnston en ce qui concerne la notation de l'intonation juste.
 
-## Eine Anmerkung für Kyle Gann (à traduire encore)
+## Une remarque à Kyle Gann
 
-Wie ich schon erwähnt habe: Das Handbuch von Kyle Gann für das Johnston-System enthält einen Nachtrag, wo er erklärt, warum er Johnston über Helmholtz-Ellis bevorzugt, obwohl seine Stammtöne so schlecht gewählt sind.
+Comme j'ai déjà dit: Le manuel du système de Johnston écrit par Kyle Gann contient un addenda où il explique pourquoi il préfère Johnston plutôt que Helmholtz-Ellis bien que ses tons diatoniques soient tellement mal choisis.
 
-Du erklärst, dass das Bestimmen der Tonhöhe von B in der Tonart C viel einfacher bei Johnston als bei Helmholtz-Ellis ist. Bei Johnston ist C zu H 15/8, und ein Be erniedrigt es um 25/24, also 9/5. In Helmholtz-Ellis dagegen ist C zu H 243/128, und ein Be erniedrigt um 2187/2048, und nur mit einem Taschenrechner erfährst du, dass das Ergebnis 16/9 lautet. Du hältst die Einheitlichkeit als nicht besonders wichtig, und du lehnst Helmholtz-Ellis ab, weil es dich angeblich zwingen würde, die ganze Zeit mit vierstelligen Zahlen zu rechnen.
+Vous expliquez qu'il est beaucoup plus facile de déterminer la hauteur de Si♭ sur Do chez Johnston que chez Helmholtz-Ellis. Chez Johnston, Do-Si est 15/8, un bémol le baisse par 25/24, donc 9/5. Au contraire, chez Helmholtz-Ellis, Do-Si est 243/128, un bémol le baisse par 2187/2048, et vous avez besoin d'une calculatrice pour calculer que cela s'élève à 16/9. Vous trouvez la cohérence peu importante, et alors vous rejetez Helmholtz-Ellis parce que vous pensez qu'il vous obligerait à faire des calculs avec des nombres à quatre chiffres.
 
-Ich antworte, weil dieses Argument darauf basiert, dass Helmholtz-Ellis, genau wie das FJS, die pythagoreische Skala als Basis benutzt. Wenn dieses Argument also gegen Helmholtz-Ellis wirkt, dann auch gegen das FJS.
+Je réponds à cet argument parce qu'il est basé sur le fait que Helmholtz-Ellis, comme le FJS, utilise l'échelle pythagoricienne pour sa base. Si cet argument est valide contre Helmholtz-Ellis, il est valide aussi contre le FJS.
 
-Ich antworte auch, weil dieses Argument unlogisch ist und ein Fehler.
+Je réponds aussi parce que – non – il n'est pas valide. Il est une erreur.
 
-Es stimmt, dass Ben-Johnston-Notation den Benutzer dazu zwingt, immer zu multiplizieren und zu dividieren, weil selbst die einfachsten Noten aus vielen jonglierten Faktoren von fünf bestehen. Weil die 5-Limit-Skala sich selbst widerspricht, heißt es auch, dass der Benutzer immer in dieser Skala denken muss, anstatt in Intervallen.
+Il est vrai que la notation de Ben Johnston oblige l'utilisateur à constamment multiplier et diviser parce que même les notes les plus simples se composent de plusieurs facteurs de 5 jonglés dans tous les côtés. Puisque l'échelle du 5-limite se contredit elle-même, cela signifie aussi que l'utilisateur doit toujours penser en cette échelle au lieu des intervalles.
 
-Wenn du die Helmholtz-Ellis-Notation ausprobierst, nimmst du automatisch dieselben Einschränkungen an, als bei Johnston: du willst die Größe einer kleinen Septime mithilfe einer großen Septime minus einen chromatischen Halbton bestimmen. Du kritisierst Helmholtz-Ellis dafür, dass eines dieser Intervalle jetzt vierstellige Zahlen benutzt, während Johnston oft nur zweistellige Zahlen hat.
+Quand vous essayez la notation de Helmholtz-Ellis, vous assumez automatiquement les mêmes restrictions que chez Johnston: vous voulez calculer la hauteur d'une septième mineure en utilisant celle d'une majeure moins un demi-ton chromatique. Vous critiquez Helmholtz-Ellis pour la raison qu'un de ces intervalles nécessite un nombre à quatre chiffres pendant que Johnston utilise souvent seulement des nombres à deux chiffres maximum.
 
-Die kleine Septime ist aber so nah am Quintenzirkel; es sind einfach zwei reine Quarten, beide 4/3 (nicht so wie bei Johnston, wo C-F 4/3 beträgt, F-B aber 27/20). Wieso würdest du fünf Quinten (große Septime) nach oben gehen, und dann wieder sieben Quinten (chromatischer Halbton) nach unten? Würdest du von North Carolina nach South Carolina durch Maine reisen? Nur deswegen, dass die kleine Septime von C mit einem Be geschrieben wird, heißt nicht, dass du sie so sehen musst; du tust es, weil Johnston dich dazu zwingt. Moduliere doch nach D. Dort ist die kleine Septime ein Stammton. Im Vergleich zu Johnston ändert sich ihre Größe aber nicht.
+Mais la septième mineure est tellement proche dans le cycle des quintes; ce ne sont que deux quartes justes (4/3, pas comme chez Johnston où Do-Fa est 4/3 mais Fa-Si♭ est 27/20). Pourquoi additionneriez-vous cinq quintes (septième majeure) pour tout de suite en soustraire sept (demi-ton chromatique)? Voyageriez-vous de North Carolina à South Carolina via Maine? Bien que la septième mineure de Do soit écrit avec un bémol, vous n'avez pas l'obligation d'en penser comme ça; vous le faites parce que Johnston vous oblige à cette manière de penser. Modulez à Ré. Ici, la septième mineure est une note sans altération, pourtant nous ne sommes pas chez Johnston: sa hauteur ne change pas.
 
-Dein Algorithmus dafür, die JI-Verhältnisse aus der Notation zu berechnen, beginnt tatsächlich damit an, die Stammtöne zu analysieren. Es ist deswegen so, dass dieses Intervall von den Noten bei Johnston *abhängt*, es gibt also keinen anderen Weg. D zu E ist zum Beispiel 10/9, ein anderes Intervall als C zu D, 9/8. Helmholtz-Ellis und das FJS haben diese unsinnige Beschränkung nicht. Jede große Sekunde ist 9/8. Deshalb kann ein Komponist befreit davon sein, immer in der diatonischen Tonleiter zu denken, und es erlaubt uns, Intervallnamen direkt in Verhältnisse zu übersetzen.
+Votre algorithme pour calculer des rapports JI de la notation commence en fait avec l'analyse des tons diatoniques. C'est dû au fait que cet intervalle *dépend* de ces notes chez Johnston, donc il n'y a aucune autre méthode. Ré-Mi est par exemple 10/9, ça n'égale pas Do-Ré, 9/8. Helmholtz-Ellis et le FJS n'ont pas cette restriction ridicule. Chaque seconde majeure s'élève à 9/8. Le compositeur peut alors être libéré de la pensée en échelle diatonique. Cela nous permet aussi de traduire entre des rapports et des noms d'intervalles directement.
 
-Dass C zu B 16/9 beträgt, könntest du auf vielerlei Weisen herausfinden, alle davon viel einfacher als 243/128 mal 2048/2187; du hast den schwierigsten Weg dazu gefunden (den einzigen möglichen, um bei Johnston 9/5 zu erhalten).
+Vous auriez pu déterminer que Do-Si♭ s'élève à 16/9 avec beaucoup, beaucoup de méthodes, beaucoup plus simples que 243/128 × 2048/2187; vous avez trouvé la méthode la plus difficile (qui correspond à la seule méthode chez Johnston pour obtenir 9/5).
 
-Du könntest zum Beispiel bemerken, dass C und B beide keine mikrotonalen Versetzungszeichen haben, deshalb per Definition der Stammtöne muss die kleine Septime zwischen ihnen pythagoreisch sein, also 16/9. Oder du könntest bemerken, dass sie aus zwei 4/3-Quarten besteht, also 16/9. Oder du könntest bemerken, dass sie die Umkehrung des 9/8-Ganztons ist, also 16/9. Das FJS gibt dir so eine Freiheit schneller und effektiver Wege, zu lesen und zu schreiben, nicht wie der langsame, langweilige Prozess Johnstons.
+Vous auriez pu remarquer que Do et Si♭ n'ont aucune altération microtonale, donc par définition des notes diatoniques, la septième mineure entre eux est pythagoricienne, alors 16/9. Ou vous auriez pu remarquer qu'elle est composée de deux quartes 4/3, alors 16/9. Ou vous auriez pu remarquer qu'elle est le renversement de la seconde majeure 9/8, donc 16/9. Le FJS vous donne une telle liberté de méthodes très rapides et efficaces pour lire et écrire, qui n'est pas du tout comme le processus lent et ennuyeux chez Johnston.
 
-So wie ich es sehe, bist du zu Handschellen bei Johnston gewohnt, und paralysiert, wenn Helmholtz-Ellis oder das FJS dich befreien, wegen der vielen Jahre in den Handschellen.
+Je vois que vous êtes habitué aux menottes de Johnston et vous êtes paralysé lorsque Helmholtz-Ellis ou le FJS vous libèrent parce que vous aviez été menotté pour tellement longtemps.
 
-Schalte dich auf das FJS um. Es wird die Mathematik und Notation deiner Kompositionen **vielfach vereinfachen**.
+Passez au FJS. Il simplifiera **beaucoup** les mathématiques et la notation de vos compositions.
 
-Oder nicht, und jongliere syntonische Kommas weiter.
+Ou ne le faites pas, et continuez à jongler des commas syntoniques.
 
-Andere können andere Kriterien haben.
+D'autres peuvent avoir des autres critères.
