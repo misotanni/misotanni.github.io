@@ -106,6 +106,12 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 4. Alle Noten unter einer FJS-Transpositionslinie **addieren** das Versetzungszeichen dieser Linie zu den üblichen Werten, die Versetzungszeichen und Vorzeichen bewirken.
 
+## Mehr experimentelle Elemente (\*)
+
+Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze "Dialekte" des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, oder mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen.
+
+Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
+
 ## Beispiele
 
 Hier sieht man Ges<sup>7</sup><sub>5</sub> und Fis<sup>5</sup><sub>7</sub>.
