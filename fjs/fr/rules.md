@@ -106,6 +106,12 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 
 4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs défauts dûs aux altérations accidentelles et celles d'armure.
 
+## Plus d'éléments expérimentaux (\*)
+
+À partir d'ici, le FJS est open-source! Créez vos propres éléments d'abréviation si vous croyez qu'ils sont utiles. Vous pouvez même créer des dialectes FJS avec des rayons de tolérance alternatifs (la calculatrice a cette option), des commas pour chaque limite des nombres impairs, pas seulement des nombres premiers, ou même avec des altérations toujours positif-hausse, négatif-baisse.
+
+Je ne suis pas un créateur têtu qui ne permettra pas que quelqu'un modifie son œuvre si les modifications sont bonnes. Dans le passé, le FJS avait beaucoup d'éléments très mauvais, dont certains ont été modifiés ou éliminés au dernier moment. Si vous croyez que vous avez inventé un nouveau élément utile, partagez-le avec moi par e-mail et je l'ajouterai ici avec plaisir.
+
 ## Exemples
 
 Ici on voit Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub>.
