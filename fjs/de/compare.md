@@ -12,7 +12,7 @@ Hier werde ich beide dieser Systeme mit dem FJS vergleichen.
 
 ## Die Stammtöne
 
-Wie auch das FJS nimmt Helmholtz-Ellis an, dass die übliche Notenschrift die pythagoreische Stimmung wiedergibt. Wie im FJS wird jedes pythagoreische Intervall genau einem üblichen Intervall zugeordnet, und jede reine Quinte hat die Größe von 3/2. Bis zum diesem Punkt sind das FJS und Helmholtz-Ellis also identisch. Wie im FJS promoviert das die Einheitlichkeit und eine Notation, die auf Intervallen, nicht Noten, basiert.
+Wie auch das FJS nimmt Helmholtz-Ellis an, dass die übliche Notenschrift die pythagoreische Stimmung wiedergibt. Wie im FJS wird jedes pythagoreische Intervall genau einem üblichen Intervall zugeordnet, und jede reine Quinte hat die Größe von 3/2. Bis zu diesem Punkt sind das FJS und Helmholtz-Ellis also identisch. Wie im FJS promoviert das die Einheitlichkeit und eine Notation, die auf Intervallen, nicht Noten, basiert.
 
 Ben Johnston dagegen ist da ein bisschen... innovativer. Er benutzt eine andere Definition der Stammtöne und üblichen Versetzungszeichen. Traditionelle Notenschrift hat die folgende Bedeutung bei Ben Johnston:
 
@@ -69,7 +69,7 @@ Was man am deutlichsten sieht, ist, dass die Versetzungszeichen für 17, 29, 31,
 
 Warum ist das ein Problem? Obwohl sie immer noch aufgeschrieben werden können, brauchen sie zwei Versetzungszeichen aus zwei verschiedenen Primzahlen, was total überflüssig ist. Es sieht aus, als ob alle Kommas nach dem 23-Komma genau so ausgewählt wurden, damit ihr Verhältnis die Form $$\frac{n+1}{n}$$ hat, auch wenn das eine komplizierte Primfaktorzerlegung bedeutet. (Was besonders auffällt, ist, dass so eine Form gar nicht garantiert, dass das Komma auch klein ist. Ein berühmtes Komma: 1029/1024, ist sehr klein: der Unterschied zwischen einer 3/2-Quinte und drei Intervallen von 8/7.)
 
-Indem Helmholtz-Ellis diese Kommas ablehnt, benutzt es recycelte Primzahlen, und dadurch macht die Darstellung höherer JI-Intervalle viel komplizierter. Die Darstellung von 17/16 beispielsweise benötigt 16/15 erniedrigt um 256/255, wobei 16/15 selbst 256/243 erniedrigt um 81/80 ist. Zwei Versetzungszeichen für ein einfaches Primzahlintervall? Mindestens benötigt keines der Intervalle bis zum 61-Limit *mehr* als zwei Versetzungszeichen.
+Indem Helmholtz-Ellis diese Kommas ablehnt, benutzt es recycelte Primzahlen, und dadurch macht die Darstellung höherer JI-Intervalle viel komplizierter. Die Darstellung von 17/16 beispielsweise benötigt 16/15 erniedrigt um 256/255, wobei 16/15 selbst 256/243 erhöht um 81/80 ist. Zwei Versetzungszeichen für ein einfaches Primzahlintervall? Mindestens benötigt keines der Intervalle bis zum 61-Limit *mehr* als zwei Versetzungszeichen.
 
 Es gibt auch große Unterschiede zwischen Größen der Kommas; 27/26 ist enorm im Vergleich zu 6561/6560.
 
@@ -280,7 +280,7 @@ E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭
 
 Cis, D, Dis, E, Eis, Fis, G, Gis, A, Ais, H, His, Cis.
 
-**FJS.** The pythagoreischen Tonhöhen stimmen mit Riley überein.
+**FJS.** Die pythagoreischen Tonhöhen stimmen mit Riley überein.
 
 Cis<sup>5</sup>, D, Dis<sup>5</sup>, E, Eis<sup>25</sup>, Fis<sup>5</sup>, G, Gis<sup>5</sup>, A, Ais<sup>25</sup>, H<sup>5</sup>, His<sup>25</sup>, Cis<sup>5</sup>.
 
