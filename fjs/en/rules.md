@@ -104,6 +104,12 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
 
+## More Experimental Features (\*)
+
+From this point onwards, the FJS is open source! Make new shorthand features if you feel they are needed. You can make entire FJS dialects with nonstandard radii of tolerance (the calculator has a function for that), using commas for every odd limit rather than just every prime limit, or even having all positive accidentals be upward and all negatives be downward.
+
+I'm not a stubborn original creator who won't let anyone modify their work if the changes benefit the work. The FJS used to have so many bad features, some of which have gone through last-minute changes or removals. If you think you've made a nice new feature, share it with me by e-mail and I'll be happy to add it here.
+
 ## Examples
 
 The following two notes are G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> respectively.
