@@ -20,6 +20,8 @@ En revanche, Ben Johnston est un peu plus... innovatif. Il utilise une définiti
 - Fa – La, Do – Mi, et Sol - Si sont des tierces majeures justes (5/4).
 - Le dièse et le bémol sont des altérations de 25/24 (un demi-ton chromatique pythagoricien moins deux commas syntoniques; (prime augmentée)<sup>25</sup>).
 
+(Un comma syntonique, c'est 81/80.)
+
 Je suppose que ce choix est dû au fait que Do-Mi-Sol, Fa-La-Do et Sol-Si-Ré sont alors des triades majeures 4:5:6, et Do-Mi♭-Sol, Fa-La♭-Do et Sol-Si♭-Ré sont des triades mineures 10:12:15. Nous avons donc Do-Ré-Mi-Fa-Sol-La-Si-Do pour l'échelle ptolémaïque ou majeure naturelle, et Do-Ré-Mi♭-Fa-Sol-La♭-Si♭-Do pour la mineure naturelle.
 
 Je suppose donc aussi que ce choix avait le but de simplifier la notation de la musique diatonique au 5-limite, au prix de tout le reste.
@@ -66,6 +68,8 @@ Voici la liste jusqu'au 61-limite pour Helmholtz-Ellis:
 Quelques altérations sont identiques dans le FJS: 5, 7, 11, 19, 23, et 43.
 
 On voit le plus clairement que les altérations pour 17, 29, 31, 37, 41, 47, 53, 57, et 61 nécessitent des facteurs différents que 2, 3, et la prime du comma. Chez Helmholtz-Ellis, seulement les commas pour 5, 7, 11, 13, 19, 23, et 43 ont la forme d'un nombre pont. (Dans la seconde partie, entre 32 et 64, seulement 43 a un nombre pont comme comma.)
+
+(L'idée d'un *nombre pont* vient de la [page mathématique](math.html).)
 
 Pourquoi est-ce que c'est un problème? Bien qu'on puisse les noter sans problème, ils nécessitent deux altérations de deux nombres premiers différents, ce qui est beaucoup trop compliqués. Il semble que tous les commas après celui de 23 soient choisis pour que leur rapport soit toujours de la forme $$\frac{n+1}{n}$$, même si cela signifierait une factorisation compliquée. (Il saute aux yeux que cette forme ne garantit pas que le comma soit petit. Un comma bien connu, 1029/1024, n'a pas cette forme, mais pourtant il est très petit: la différence entre une quinte 3/2 et trois intervalles de 8/7.)
 
