@@ -18,7 +18,7 @@ defaults:
       path: "fjs/jbo"
     values:
       otherlang: "la lojban · bau lo drata:"
-      anyquestions: "te zu'e lo ka retsku kei ko samymri e'a sai fi le finti:"
+      anyquestions: "te zu'e lo ka retsku kei ko samymri e'a sai fi:"
       return: "xruzva lo ralju"
   -
     scope:
