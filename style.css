@@ -50,3 +50,7 @@ sup, sub {
 sub { 
   top: 0.4em; 
 }
+
+pre, code {
+  font-size: 100%;
+}
