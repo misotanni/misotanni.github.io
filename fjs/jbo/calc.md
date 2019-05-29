@@ -1,35 +1,35 @@
 ﻿# lo kajytci pe fy jy sy
 
 <select id="computations">
-  <option value="">i ko cuxna lo ve kanji</option>
-  <option value="comma">i kanji lo pa togyfancyku'e pa dilcysle</option>
-  <option value="tofjs">i kanji lo pa fy jy sy togyku'e pa frinu</option>
-  <option value="fromfjs">i kanji lo pa frinu pa fy jy sy togyku'e</option>
+  <option value="">ve kanji te cuxna</option>
+  <option value="comma">i kanji lo togyfancyku'e tu'a pa dilcysle</option>
+  <option value="tofjs">i kanji lo fy jy sy togyku'e tu'a pa frinu</option>
+  <option value="fromfjs">i kanji lo pa frinu tu'a pa togyku'e pe fy jy sy</option>
 </select>
 
-i pruce <span id="input-name"></span><br />
+i lo se pruce <span id="input-name"></span><br />
 <input type="text" id="input">
 
-i te pruce: <br />
+i lo te pruce: <br />
 <pre><code id="output"></code></pre>
 
 <script>
   var loc = {
-             prime: "pa dilcysle",
-          fraction: "pa frinu",
-      intervalName: "pa fy jy sy togyku'e cmene ne mu'u zoi a m3_5 a",
-     cantFactorize: "i mi na ka'e kanji lo'i dilcymu'o be la'e zoi a %1 a",
-        notANumber: "i la'e zoi a %1 a na'e namcu",
+             prime: "noi dilcysle",
+          fraction: "noi frinu",
+      intervalName: "noi sinxa su'o fy jy sy togyku'e to mu'u zo'oi «m3_5» toi",
+     cantFactorize: "i mi na ka'e kanji tu'a lo'i dilcymu'o be la'oi «%1»",
+        notANumber: "i zo'oi «%1» sinxa no namcu",
        wrongFormat: "i mi na jimpe fi lo stura",
-   wrongIntVariant: "i zoi a %1 a zoi a %2 a na mapti lo ka klesi",
-       wrongFactor: "i li re lo'o na e nai li ci ka'e dilcymu'o lo fy jy sy togystika",
-     noComputation: "i lo ve kanji ca na se cuxna",
-           noInput: "i ca pruce no da",
-          notPrime: "i la'e zoi a %1 a na'e dilcysle",
-    butPythagorean: "i li re lo'o e li ci cu jai se cistrpitagora i ri na nitcu lo fy jy sy togystika",
-           notFrac: "i lo se pruce cu na'e frinu i ri na se pagbu me'o slac bu",
-        notNatFrac: "i lo se pruce cu na'e frinu poi se pagbu lo mulnonmau ku po'o",
-              div0: "i ua nai dilcu fi li no"
+   wrongIntVariant: "i zo'oi «%1» zo'oi «%2» na mapti lo ka klesi",
+       wrongFactor: "i li re na e nai li ci ka'e dilcymu'o lo fy jy sy togystika",
+     noComputation: "i cuxna no ve pruce",
+           noInput: "i lo se pruce ca kunti",
+          notPrime: "i la'oi «%1» na dilcysle",
+    butPythagorean: "i li re e li ci cu jai nu cistrpitagora i ri na jai se sarcu tu'a lo fy jy sy togystika",
+           notFrac: "i lo se pruce na frinu i ri na se pagbu la'e me'o slac bu",
+        notNatFrac: "i lo se pruce cu frinu gi'e se pagbu lo kacna'u po'o vau na ku",
+              div0: "i ai nai cumgau lo nu dilcu fi li no"
   };
 </script>
 <script src="../assets/fjs.js"></script>

@@ -105,7 +105,7 @@ i pe'i ly fa'u fy jy sy jai rinka lo nu lo baupli fa'u lo zgipli cu curve pensi 
 i ji'a ro zu'o zgike ke finti ja lanli ja tigni cu binxo co sarxe lo pu'i se djuno be fi lo zgike ente'ori
 i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgike ente'ori poi cabna cu kairjo'e lo me cy ty moi
 
-## xu zvati fa le'i cafrei
+## xu zvati fa la cafrai preti
 
 [ni'o ja'a go'i](faq.html)
 
