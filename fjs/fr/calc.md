@@ -5,7 +5,7 @@
   <option value="comma">Calculer le comma formel d'un nombre premier</option>
   <option value="tofjs">Convertir une fraction en intervalle FJS</option>
   <option value="fromfjs">Convertir un intervalle FJS en fraction</option>
-  <option value="setlambda">translateme</option>
+  <option value="setlambda">Ajustez le rayon de tolérance à une valeur arbitraire</option>
 </select>
 
 Entrée: <br />
@@ -19,29 +19,28 @@ Résultat: <br />
 <script src="../assets/calc.js"></script>
 <script>
   var loc = {
-                    // translate me
          centValue: "cents",
-         generator: "generator",
-             comma: "formal comma",
-    outputInterval: "interval name",
-             ratio: "value",
+         generator: "génératrice",
+             comma: "comma formel",
+    outputInterval: "nom d'intervalle",
+             ratio: "valeur",
            noInput: "Vous n'avez entré rien.",
-    lambdaInformer: "No input given; type in 'default' to set λ (now %1) back to sqrt(33/31).",
+    lambdaInformer: "Vous n'avez entré rien; écrivez « default » pour remettre λ (maintenant %1) à sqrt(33/31).",
      cantFactorize: "« %1 » – je ne sais pas factoriser cela.",
         notANumber: "« %1 » n'est pas un nombre.",
        wrongFormat: "Je ne comprends pas la forme.",
    wrongIntVariant: "L'intervalle « %1 » ne peut pas être dans la catégorie « %2 ».",
        wrongFactor: "2 ou 3 ne peuvent pas être des facteurs dans une altération FJS.",
-     noComputation: "Vous n'avez choisi rien.",
+     noComputation: "Vous n'avez choisi rien; choisissez un calcul de la liste.",
           notPrime: "« %1 » n'est pas un nombre premier.",
     butPythagorean: "2 et 3 sont des octaves et quintes pythagoréennes qui n'ont pas besoin des altérations FJS.",
            notFrac: "L'entrée n'est pas une fraction (par exemple, 5/3 ou 928/777).",
               div0: "Pourquoi voulez-vous diviser par zéro?",
-           notReal: "‘%1’ is not a real number.",
+           notReal: "« %1 » n'est pas un nombre réel.",
 
              comma: "Trouver la fonction génératrice et le comma formel (ainsi que le nombre de cents pour ce comma) pour chaque nombre premier au-delà de 3.",
-             tofjs: "Trouver la seule fraction correspondante à chaque représentation FJS. \nVous devez utiliser le signe caret pour indiquer le début des altérations otonales et la barre de soulignement pour les utonales. Les altérations FJS peuvent être multipliées comme vous voulez, et vous pouvez utiliser un signe moins pour écrire un intervalle descendant. \nRemarque: la calculatrice utilise des noms anglais pour les intervalles: par exemple, « M3 » signifie une tierce majeure.",
-           fromfjs: "Trouver la seule fraction correspondante à chaque représentation FJS. \nVous devez utiliser le signe caret pour indiquer le début des altérations otonales et la barre de soulignement pour les utonales. Les altérations FJS peuvent être multipliées comme vous voulez, et vous pouvez utiliser un signe moins pour écrire un intervalle descendant. \nRemarque: la calculatrice utilise des noms anglais pour les intervalles: par exemple, « M3 » signifie une tierce majeure.",
-         setlambda: "Bonjour! Je m'appelle Misotanni, et pendant mon enfanté suis-je un ardenter mangeur de miso."
+             tofjs: "Trouver la seule représentation FJS de chaque fraction. <br>Toutes les altérations FJS sont ici séparées, jamais multipliées. Des intervalles plus petits qu'un unisson sont écrits avec un nombre négatif pour représenter un intervalle descendant, par exemple, 5/4 est <code>M3^5</code> mais 4/5 est <code>M-3_5</code>. <br><strong>Remarque:</strong> la calculatrice utilise des noms anglais pour les intervalles: par exemple, « M3 » signifie une tierce majeure.",
+           fromfjs: "Trouver la seule fraction correspondante à chaque représentation FJS. <br>Vous devez utiliser le signe caret pour indiquer le début des altérations otonales et la barre de soulignement pour les utonales. Les altérations FJS peuvent être multipliées comme vous voulez, et vous pouvez utiliser un signe moins pour écrire un intervalle descendant. <br><strong>Remarque:</strong> la calculatrice utilise des noms anglais pour les intervalles: par exemple, « M3 » signifie une tierce majeure.",
+         setlambda: "Ajuster le rayon de tolérance à n'importe quelle valeur d'une décimale (nombre à virgule flottante) entre 1 et sqrt(2). <br>Écrivez « default » pour retourner à la valeur conventionnelle, sqrt(33/31)."
   };
 </script>
