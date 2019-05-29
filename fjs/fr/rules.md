@@ -1,4 +1,4 @@
-# La description formale complète
+﻿# La description formale complète
 
 Ce site est *de facto* un manuel du FJS. Vous trouvez ici toutes les règles dont vous avez besoin pour utiliser le FJS, y compris le système des abréviations. Pourtant, la lecture de cette page ne vous sera pas utile si vous n'avez pas encore lu le [cours intensif](crash.html).
 
@@ -80,7 +80,7 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 
 ## Règles pour utiliser des armures FJS (\*)
 
-1. Des armures FJS fonctionnent dans la même manière que des pythagoriciennes, sont indépendantes des pythagoriciennes, et sont écrites après les pythagoriciennes si les deux existent en même temps.
+1. Des armures FJS fonctionnent de la même manière que des pythagoriciennes, sont indépendantes des pythagoriciennes, et sont écrites après les pythagoriciennes si les deux existent en même temps.
 
 2. Des armures FJS peuvent par défaut ajouter des altérations microtonales seulement là où les tons sont déjà diatoniques dans une tonalité. Exemple: une pièce en La majeur qui a l'armure ♯Fa-Do-Sol peut par défaut recevoir des altérations d'armure seulement pour les notes La, Si, Do♯, Ré, Mi, Fa♯, et Sol♯. Puisque ces armures sont déjà irrégulières, il n'y a pas d'ordre obligatoire. Pourtant, grâce à la nature pythagoricienne du FJS, elles vont souvent arriver dans des fragments des ordres conventionnels (Fa-Do-Sol-Ré-La-Mi-Si ou l'ordre inverse).
 
