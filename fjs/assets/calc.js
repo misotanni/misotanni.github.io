@@ -12,7 +12,7 @@ var loc = {
       wrongFormat: "I don't understand the format.",
   wrongIntVariant: "Interval class ‘%1’ doesn't match variant ‘%2’.",
       wrongFactor: "2 nor 3 may not be factors of FJS modifiers.",
-    noComputation: "No computation specified.",
+    noComputation: "No computation specified; please select one from the list.",
          notPrime: "‘%1’ is not a prime number.",
    butPythagorean: "2 and 3 are Pythagorean octaves and fifths which don't need FJS modifiers.",
           notFrac: "Input is not a natural fraction (like 5/3 or 928/777).",
@@ -20,9 +20,9 @@ var loc = {
           notReal: "‘%1’ is not a real number.",
 
             comma: "Find the generator function and formal comma (as well as give the cent size of this comma) for any input prime number greater than 3.",
-            tofjs: "Find the unique FJS representation of any input positive fraction. \nAll FJS accidentals will be listed separate, never multiplied together. For intervals less than the perfect prime, a negative number is used to represent a downward interval. For instance, 5/4 is M3^5, while 4/5 is M-3^5.",
-          fromfjs: "Find the unique fraction corresponding to an FJS interval input. \nA caret must be used to indicate the beginning of the otonal modifiers, and an underscore for the utonal ones. FJS accidentals may be multiplied together in any combination, and a negative number for a downward interval can be used.",
-        setlambda: "A nice description of this function's function function function will be given by misotanni soon."
+            tofjs: "Find the unique FJS representation of any input positive fraction. <br>All FJS accidentals will be listed separate, never multiplied together. For intervals less than the perfect prime, a negative number is used to represent a downward interval. For instance, 5/4 is <code>M3^5</code>, while 4/5 is <code>M-3_5</code>.",
+          fromfjs: "Find the unique fraction corresponding to an FJS interval input. <br>A caret must be used to indicate the beginning of the otonal modifiers, and an underscore for the utonal ones. FJS accidentals may be multiplied together in any combination, and a negative number for a downward interval can be used.",
+        setlambda: "Set the radius of tolerance to any custom floating-point (decimal) value between 1 and sqrt(2). <br>Type 'default' to reset the value back to the standard sqrt(33/31)."
 };
 
 function get(id) {
@@ -56,7 +56,7 @@ function upda() {
     str += "</table>";
     output.innerHTML = str;
   } else
-    output.innerText = r;
+    output.innerHTML = r;
 };
 comps.onchange = function() {
   input.value = '';
