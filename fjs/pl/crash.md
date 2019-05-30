@@ -9,7 +9,7 @@ Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię si
 * [Wprowadzenie: Koniec z enharmonią](#introduction)
 * [Lekcja 0: Wiadomości wstępne](#lesson_0) 
 * [Lekcja 1: Strój pitagorejski](#lesson_1)
-* [Lesson 2: The Prime Intervals](#lesson_2)
+* [Lekcja 2: Interwały pierwsze](#lesson_2)
 * [Lesson 3: Compound Accidentals](#lesson_3)
 * [Da Capo Al Fine: What Else?](#da_capo_al_fine)
 
@@ -29,7 +29,7 @@ Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
 Oczywiście zamiana *ais* na *b* w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
 
-Tę własność – przyrównanie zmniejszonej sekundy do prymy zwiększonej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc eis i fes tymi samymi wysokościami).
+Tę własność – przyrównanie sekundy małej do prymy zwiększonej czy sekundy zmniejszonej do prymy czystej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc eis i fes tymi samymi wysokościami).
 
 Mimo tego nie zapominajmy, że historia zapisu nutowego sięga dalej niż sam pomysł 12-EDO – o jednomyślnym przyjęciu nie wspominając – poprzedzając go o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, którą tworzono przez serię kwint (*f*–*c*–*g*–*d*–*a*–*e*–*h*). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że jego pochodzenie opiera się na czymś zupełnie odmiennym od 12-EDO.
 
@@ -115,7 +115,7 @@ Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 
 Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do ciebie sama.
 
-### Ćwiczenia, zestaw 1
+### Ćwiczenia – zestaw 1
 
 1. Znajdź FJS-owe interwały odpowiadające wymienionych ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
 2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3>>. (Zauważ, że pierwszy interwał to septyma zmniejszona, nie mała).
@@ -126,89 +126,89 @@ Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
+## <a name="lesson_2">Lekcja 2: Interwały pierwsze</a>
 
-All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much – aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
+A więc umiesz zapisać wszystko, co pitagorejskie. To na razie całkiem nudna umiejętność, ponieważ strój pitagorejski wcale nie odbiega tak daleko od 12-EDO (oprócz tego, że jego sekunda zmniejszona nie równa się prymie czystej). Przede wszystkim nie daje nam to jeszcze możliwości zapisania każdego JI-owego stroju.
 
-The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
+Następnym krokiem przybliżającym nas do naturalnego oświecenia jest omówienie tzw. interwałów pierwszych. Są to interwały występujące w szeregach alikwotowych oparte na liczbach pierwszych. By je wynaleźć, wypisz kilka liczb pierwszych:
 
 > 2, 3, 5, 7, 11, 13, 17, 19, ...
 
-...and we take the reduced form of all of them:
+Następnie zredukuj je:
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
-We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to "prime intervals", I refer exclusively to the ones corresponding to primes greater than 3.
+Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Co więcej, jeżeli w dalszej części tego kursu odniosę się do „interwałów pierwszych”, to będę miał na myśli tylko te, które odpowiadają liczbom pierwszym większym od 3.
 
-Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" – a form of "minor seventh". Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
+Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj septymy małej). Prawdopodobnie te określenia wydały ci się na początku obce. Przecież brzmią one jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie interwały, które są bliskie tych nam znanych.
 
-But if we consider this on a formal level, things start to get weird.
+Ale jeżeli popatrzymy na to z technicznego punktu widzenia, zaczyna robić się dziwnie.
 
-Say we accept this at first: 5/4 is a type of major third. So we'll notate it as a major third, *with some kind of additional symbol indicating the deviation*. The difference from the Pythagorean major third, 81/64, is the small interval of 81/80, about 22 cents. This should be fine, why would it be problematic? The reason is because the Pythagorean diminished fourth, 8192/6561, is *much* closer. The difference between that and 5/4 is only 32805/32768, only about 2 cents!
+Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale dlaczego miałoby to sprawiać jakieś problemy? Otóż interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż kwarta czysta. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
 
-Listen to the difference between 81/64 and 5/4:
+Posłuchaj, jak różnią się 81/64 i 5/4:
 
 <audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
 
-And the difference between 8192/6561 and 5/4:
+A teraz 8192/6561 i 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Why should we choose the major third over the diminished fourth to notate 5/4? Ah, simplicity, I hear you say. The major third is only +4 fifths, while the diminished fourth is the much more complicated −8 fifths. But then in that case, why don't we use the *minor* third to notate 5/4 – clearly it is simpler, only −3 as opposed to +4 fifths. Oh, it's too far away now? Who are *you* to decide the exactly correct balance between simplicity and proximity?
+Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej dla 5/4. Prostota, mówisz. Tercja wielka to tylko +4 kwinty, a kwarta zmniejszona to przerażające −8 kwint. Ale w takim razie dlaczego nie posłużylibyśmy się tercją *małą* dla 5/4? Przecież jest ona jeszcze prostsza – −3 kwinty, w porównaniu do +4. Ach, to teraz jest znowu za daleko? Za kogo *ty* się uważasz, by decydować, kiedy stawiać na prostotę, a kiedy na wierność przybliżenia?
 
-OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question "How do we choose the approximations for each prime interval?" is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
+Spokojnie, to był paszkwil. Parodiowałem konkurencyjne systemy JI, które wybierają sobie te przybliżenia wedle własnego uznania. FJS na pytanie „Jakie przybliżenia powinienem wybrać dla każdego interwału pierwszego?” odpowiada: w ogóle. Zamiast tego używamy uzgodnionej wcześniej stałej, nazywanej **promieniem tolerancji**, do tego celu. Po dłuższym eksperymentowaniu z różnymi promieniami tolerancji i rozważaniu ich zalet i wad, doszedłem do wniosku, że w standardowym FJS-ie będziemy używać *λ*, zdefiniowanej następująco:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
-The reason will be explained later.
+Dlaczego taka wartość, wyjaśnię później.
 
-What does the FJS do with this number? The next step is the most important element in the entirety of the FJS; it's the element that makes it so unique among other notation systems for JI. It is the **FJS master algorithm.** Here it is, in a human-readable form. Implementations in programming languages, including a calculator on this website, are available as well.
+Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych szczegółów FJS-u – to szczegół, który wyróżnia FJS spośród wachlarza systemów JI. Chodzi o **główny algorytm FJS**. Oto i on, w postaci zrozumiałej dla człowieka. Na tej stronie znajdują się implementacje programistyczne, a także zdatny do użycia kalkulator. 
 
-The **FJS master algorithm** outputs the so-called **generator function** for each prime number input with a radius of tolerance. I will explain below what the algorithm does, how it is used, and what the generator function is used for.
+**Główny algorytm FJS** wylicza tzw. **funkcję generującą** dla każdej podanej liczby pierwszej i pewnego promienia tolerancji. Poniżej wyjaśniam, co algorytm robi, po co, i do czego potrzebna jest nam funkcja generująca.
 
-> ### The FJS Master Algorithm
+> ### Główny algorytm FJS
 > 
-> 1. Input the desired prime interval in octave-reduced form.
-> 2. Let *k* = 0.
-> 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
-> 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
-> 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
+> 1. Dany jest interwał pierwszy, zredukowany.
+> 2. Niech *k* = 0.
+> 3. Rozważ interwał złożony z *k* skoków o pitagorejską kwintę, zredukowany.
+> 4. Czy różnica między tym interwałym a podanym interwałem docelowym jest mniejsza niż promień tolerancji?
+> 5. Jeżeli tak: *k* to funkcja generująca. Zwróć *k*. Koniec.
+> 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 
-As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
+Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
 
-The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Here is how it is computed:
+Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie podanego interwału pierwszego, które jest mniej daleko od tego pożądanego interwału niż o promień tolerancji. Różnicą pomiędzy nimi dwoma nazywamy **komatem formalnym** i zapisujemy go nową FJS-ową alteracją. W ten sposób liczy się komat formalny:
 
-> ### The Formal Comma
->
-> The formal comma of a prime *p* with a generator function *g* is given by:
+> ### Komat formalny
+> 
+> Komat formalny dla liczby pierwszej *p* i funkcji generującej *g* wynosi:
 >
 > $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
-You can also go the other way: determine the generator function of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the generator function. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
+Można by też pójść od drugiej strony: wyznaczyć funkcję generującą dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie funkcją generującą. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, funkcją generującą dla 7 musi być też −2.
 
-Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
+Tak, jak krzyżyk i bemol, alteracja o taki komat formalny może być dodania lub ujemna. Znak dla tej alteracji to sama liczba pierwsza, dla której komat formalny zbudowano; dokładne nazewnictwo zależy od tego, czy nuty nazywamy czy zapisujemy na pięciolinii:
 
-- In note naming, positive accidentals are written as a superscript of the number itself, and negative ones as a subscript of the number.
-- In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
+- Nuty nazywamy, zapisując dodatnie alteracje w indeksie górnym, a ujemne – w dolnym.
+- Nuty zapisujemy, dodając same liczby pierwsze dla dodatnich alteracji, a dla ujemnych – te liczby pierwsze, ale poprzedzone minusem.
 
-You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
+Może zauważyłeś, że użyłem tu słów „dodatni” i „ujemny” zamiast „w górę” i „w dół” – to dlatego, że FJS-owe alteracje dodatnie wcale nie zawsze przenoszą w górę, ani ujemne zawsze w dół; zamiast tego **dodatniość zawsze odpowiada otonalności, a ujemność utonalności**. To oznacza – co jest bardzo ważne – że *FJS-owa alteracja, gdy dodatnia, jest zawsze w kierunku, w którym przybliżenie pitagorejskie staje się interwałem docelowym*. Na przykład by zapisać dźwięk o 5/4 od *c*, najpierw zapisujemy pitagorejskie przybliżenie *e* (81/64), a potem przenosimy je do 5/4 poprzez dodanie <sup>5</sup>. Ta zmiana *obniża* o 81/80 – z *e* do *e*<sup>5</sup>.
 
-Those of you who are already familiar with Ben Johnston's notation for JI will recognize this idea. For the rest of you:
+Ci, którzy znają zapis naturalny Bena Johnstona, zauważą podobieństwa. Dla całej reszty:
 
-This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 with a +17 accidental attached. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator. It's also where the system gets its name from: the **Functional** Just System; the one that focuses on representing *function* rather than pitch position.
+Na pierwszy rzut oka taka decyzja może się wydawać niepotrzebnie myląca, ale ona tak naprawdę upraszcza system. Dodatnia alteracja – na przykład +17 – zawsze oznacza dodanie czynnika pierwszego (tu 17) do licznika ułamka, a więc jeżeli wiesz, jaki pitagorejski interwał jest bliski 17/16 (podpowiedź: to 2>), będziesz wiedzieć i to, że 17/16 to po prostu 2> z doczepioną +17. Nie musisz wiedzieć, czy przybliżenie jest wyżej czy niżej od docelowego interwału. Ta reguła, przenosząca ciężar naszej uwagi na utonalność i otonalność zamiast na kierunek alteracji, upraszcza zapisy różnych skal i strojów i czyni je bardziej intuicyjnymi. Tak naprawdę +5 przedstawia skok o 80/81, nie 81/80. Jeżeli przyjrzysz się liście komatów formalnych dla kolejnych liczb pierwszych, zauważysz, że każdy komat formalny będzie zawierał odpowiedni czynnik pierwszy w liczniku. To stąd pochodzi również nazwa systemu: **Funkcyjny** System Naturalny, czyli taki, który przywiązuje wagę do *funkcji* (zastosowania) bardziej niż do pozycji wysokości.
 
-In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now...)
+Posłużę się teraz anegdotą. Gdy badałem prototyp Funkcyjnego Systemu Naturalnego – wtedy, gdy jeszcze nie miał przydzielonej nazwy – na początku wymuszałem, by wszystkie komaty były skierowane w górę – tak, by dodatnio zawsze było do góry, a ujemnie w dół. Pewnego razu rozważałem 5- i 7-limitowe stroje, aż nagle spostrzegłem, że używanie takich zawsze skierowanych w górę komatów tylko komplikuje sprawy, i z miejsca zmieniłem je na zawsze utonalne. Gdy to zrobiłem, w FJS-ie zacząłem myśleć płynniej i prościej, więc tak to zostawiłem. (FJS miał też wiele innych niedogodności, które od tego czasu zdołałem uprościć, odsłaniając niepokomplikowany system, który znamy dzisiaj…).
 
-Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
+Oto seria alikwotów zbudowana na *a*, aż do ósmego alikwotu, zapisana za pomocą FJS-u:
 
-> A, A, E, A, C♯<sup>5</sup>, E, G<sup>7</sup>, A.
+> *a*, *a*, *e*, *a*, *cis*<sup>5</sup>, *e*, *g*<sup>7</sup>, *a*.
 
-Here is the same using staff notation:
+To samo, zapisane na pięciolinii:
 
-<img src="../assets/example_3.png" alt="A–A–E–A–C♯5–E–G7–A">
+<img src="../assets/example_3.png" alt="a–a–e–a–cis5–e–g7–a">
 
-Listen to this scale:
+To samo, w wersji audio:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
