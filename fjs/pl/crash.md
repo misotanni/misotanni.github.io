@@ -8,7 +8,7 @@ Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię si
 
 * [Wprowadzenie: Koniec z enharmonią](#introduction)
 * [Lekcja 0: Wiadomości wstępne](#lesson_0) 
-* [Lesson 1: Pythagorean Tuning](#lesson_1)
+* [Lekcja 1: Strój pitagorejski](#lesson_1)
 * [Lesson 2: The Prime Intervals](#lesson_2)
 * [Lesson 3: Compound Accidentals](#lesson_3)
 * [Da Capo Al Fine: What Else?](#da_capo_al_fine)
@@ -21,17 +21,17 @@ Wszyscy jesteśmy zaznajomieni z zapisem nutowym i występującymi w nim znakami
 
 Oto na przykład skala dodekafoniczna w 12-EDO:
 
-<img src="../assets/example_1.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
+<img src="../assets/example_1.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–ais–h–c">
 
 Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
-<img src="../assets/example_2.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
+<img src="../assets/example_2.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–b–h–c">
 
-Oczywiście zamiana ais na b w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
+Oczywiście zamiana *ais* na *b* w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
 
 Tę własność – przyrównanie zmniejszonej sekundy do prymy zwiększonej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc eis i fes tymi samymi wysokościami).
 
-Mimo tego nie zapominajmy, że historia zapisu nutowego sięga dalej niż sam pomysł 12-EDO – o jednomyślnym przyjęciu nie wspominając – poprzedzając go o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, którą tworzono przez serię kwint (f–c–g–d–a–e–h). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że jego pochodzenie opiera się na czymś zupełnie odmiennym od 12-EDO.
+Mimo tego nie zapominajmy, że historia zapisu nutowego sięga dalej niż sam pomysł 12-EDO – o jednomyślnym przyjęciu nie wspominając – poprzedzając go o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, którą tworzono przez serię kwint (*f*–*c*–*g*–*d*–*a*–*e*–*h*). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że jego pochodzenie opiera się na czymś zupełnie odmiennym od 12-EDO.
 
 Innymi słowy równoważność enharmoniczna to jedyna 12-EDO-owa własność, która daje o sobie znać w zapisie nutowym – cała reszta jest niezależna.
 
@@ -50,7 +50,7 @@ Oto krótka lista wiadomości, które musisz rozumieć, żebyś mógł zrozumie�
 	
 Do tego będziesz potrzebował jeszcze trzech matematycznych umiejętności konkretnych dla FJS-u.
 
-Pierwszą z nich jest zdolność szybkiej zamiany między **interwałami na pięciolinii** (bez podmian enharmonicznych) a **ilością kwint** potrzebną do zbudowania tego interwału – i vice versa. Na przykład **sekunda wielka** to **+2** kwinty, ponieważ by dosięgnąć tego interwału, potrzebujemy zrobić dwa skoki kwintowe w górę: c–g–d. Podobnie, **tercja mała** to **−3** kwinty, gdyż można ją skonstruować trzema kwartami – czyli odwrotnościami kwint: c–f–b–es. Każdemu interwałowi pięcioliniowemu odpowiada dokładnie jedna taka liczba. Powinieneś umieć dokonywać tej konwersji i w tę, i we w tę – najlepiej szybko.
+Pierwszą z nich jest zdolność szybkiej zamiany między **interwałami na pięciolinii** (bez podmian enharmonicznych) a **ilością kwint** potrzebną do zbudowania tego interwału – i vice versa. Na przykład **sekunda wielka** to **+2** kwinty, ponieważ by dosięgnąć tego interwału, potrzebujemy zrobić dwa skoki kwintowe w górę: *c*–*g*–*d*. Podobnie, **tercja mała** to **−3** kwinty, gdyż można ją skonstruować trzema kwartami – czyli odwrotnościami kwint: *c*–*f*–*b*–*es*. Każdemu interwałowi pięcioliniowemu odpowiada dokładnie jedna taka liczba. Powinieneś umieć dokonywać tej konwersji i w tę, i we w tę – najlepiej szybko.
 
 Drugą z nich jest rozkładanie liczb wymiernych na czynniki pierwsze. Tak, jak każda **dodatnia liczba naturalna** daje się przedstawić jako iloczyn liczb pierwszych podniesionych do **naturalnych** wykładników (jak głosi zasadnicze twierdzenie arytmetyki), każdą **dodatnią liczbę wymierną** można jednoznacznie rozłożyć na iloczyn liczb pierwszych podniesionych do **całkowitych** potęg. (Zwykłem żartobliwie nazywać ten fakt „zasadniczym twierdzeniem harmonii”). Na przykład 6/5 przedstawilibyśmy jako 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup>. Nie istnieje żadna inna taka reprezentacja. (W tym intensywnym kursie pominiemy szczegóły matematyczne, ale zainteresowani mogą posłużyć się [tą stroną](math.html). Jeżeli w tym kursie założona jest prawdziwość jakiejś matematycznej własności, prawdopodobnie właśnie tam znajdziesz jej dowód).
 
@@ -60,71 +60,71 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
-## <a name="lesson_1">Lesson 1: Pythagorean Tuning</a>
+## <a name="lesson_1">Lekcja 1: Strój pitagorejski</a>
 
-You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
+Pewnie myślisz, że gdy pozbyliśmy się z pięciolinii równoważności enharmonicznej, możemy teraz zanotować o wiele szerszą paletę wysokości – i myślisz słusznie. Jednak zabieg lobotomii enharmonicznej sam w sobie nie spowoduje, że będzie można przedstawić każdy strój naturalny w logiczny sposób. Jedną z zalet strojów naturalnych jest możliwość zakodowania drobnych różnic w wysokościach dźwięków, by nadać poszczególnym interwałom unikatowe brzmienie.
 
-Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below:
+Rozważmy następujące naturalne interwały: 11/10, 10/9, 9/8 i 8/7. Posłuchaj, jak brzmią:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-All of them are "some type of major second" to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
+Wszystkie cztery dają się usłyszeć jako „jakieś” sekundy wielkie, ale błędem byłoby zapisać każdy z nich tą samą sekundą wielką. To daleko różniące się od siebie interwały, a zduszanie różnorodności tam, gdzie ona stanowi wyróżniającą cechę, zaprzecza założeniom JI.
 
-In that case, you might think that there might exist some middle ground, a subset of JI, which can be mapped exactly onto staff notation without enharmonic equivalence, and again you would be correct. That middle ground is none other than 3-limit JI, also known as Pythagorean tuning.
+W takim razie może ci się zdawać, że istnieje jakiś rodzaj kompromisu – podzbiór JI dający się przedstawić na pięciolinii pozbawionej wymian enharmonicznych bez przekręceń. I i tym razem miałbyś rację. Tym kompromisem jest nic innego niż tzw. 3-limit (strój oparty na liczbach rozkładających się na liczby pierwsze nie większe niż 3), czyli strój pitagorejski.
 
-This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection.
+To oznacza, że oktawie pięcioliniowej przypisujemy interwał 2/1 – dokładnie taki sam, jak w 12-EDO – a kwincie przypisujemy 3/2. W ten sposób każdemu interwałowi przypisaliśmy dokładnie jeden 3-limitowy interwał – jest to bijekcja (odwzorowanie wzajemnie jednoznaczne).
 
-This, actually, is how the set of diatonic pitch classes can be considered to be *defined*: F, C, G, D, A, E, and B are all defined such that F–C is 3/2, C–G is 3/2, etc. We notice that B–F can then be calculated to be 1024/729, which is close to 3/2 but is smaller. So we then define the sharp and flat to counter this difference, so that B–F♯ is 3/2 and B♭–F is 3/2. You will later see that the FJS works by extending this principle of countering differences with accidentals.
+To właśnie taką metodą *definiujemy* diatoniczne wysokości: *f*, *c*, *g*, *d*, *a*, *e* i *h* zostały tak dostrojone, by *f*–*c* = 3/2, *c*–*g* = 3/2 itd. Zauważ, że w ten sposób *h*–*f* będzie wynosić 1024/729 – interwał bliski 3/2, ale mniejszy. Dorzucamy więc krzyżyk lub bemol, którego wartość kalibruje tę różnicę: *h*–*fis* = *b*–*f* = 3/2. W dalszej części kursu spostrzeżesz, że FJS poszerza zakres działania tego schematu – kalibrowania różnic alteracjami.
 
-I should note that this requires something that some musicians may not be aware exists: multiples, beyond double, of the sharp and flat. While extremely rarely used in conventional music, they are required here so that the line of fifths is unbounded in either side. In the FJS, sharps and flats can appear with any multiplicity. This is not to say that they are common; just do not panic when you have to use them.
+Nie omieszkam wspomnieć, że taki system wymaga czegoś, czego niektórzy muzycy mogą nie być świadomi: konieczności występowania w niektórych miejscach więcej niż dwóch naraz znaków chromatycznych. Choć rzadko stosuje się potrójnych alteracji w muzyce klasycznej, potrzebujemy ich, by pozwolić szeregowi kwint ciągnąć się w nieskończoność w obie strony. FJS zezwala na dowolną ilość krzyżyków i bemoli. Nie chcę przez to powiedzieć, że jest to częsta konieczność – po prostu nie spanikuj, kiedy spotkasz się z sytuacją, w której będziesz musiał wielokrotnych alteracji użyć.
 
-You are now ready to learn the first two FJS techniques.
+Czas najwyższy, by nauczyć się pierwszych dwóch technik FJS-owych:
 
-> ### FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.
+> ### Technika FJS-owa nr 1: Zamiana ułamka pitagorejskiego na FJS.
 > 
-> 1. Factorize the ratio.
-> 2. Initially ignore octaves (powers of two).
-> 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
-> 4. Adjust octaves as required.
+> 1. Rozłóż ułamek na czynniki pierwsze.
+> 2. Na chwilę porzuć potęgi dwójki.
+> 3. Jeżeli trójka podniesiona jest do potęgi dodatniej, zrób tyle kwintowych kroków w górę, ile wykładnik; jeżeli jest on ujemny, idź w dół. Zamień wynik na interwał.
+> 4. Jeżeli trzeba, dostosuj oktawy.
 >
-> **Example:** To convert 9/8 to the FJS, we factorize: 2<sup>−3</sup> 3<sup>2</sup>. We ignore the factor of two. The power of three is +2, so we move two fifths clockwise: C–G–D. We have a major second. No octave adjustment needs to be made. The answer is M2.
+> **Przykład.** By zamienić 9/8 na FJS, rozkładamy: 2<sup>−3</sup> 3<sup>2</sup>. Ignorujemy czynnik z 2. Trójkę podniesiono do +2, więc robimy dwa kroki w górę: *c*–*g*–*d*, uzyskując sekundę wielką. Nie musimy poprawiać oktaw, więc otrzymujemy wynik: sekunda wielka.
 
-> ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
+> ### Technika FJS-owa nr 2: Zamiana FJS-owego przedstawienia interwału pitagorejskiego na odpowiedni ułamek.
 > 
-> 1. Initially ignore octaves.
-> 2. Convert the interval to the number of steps by fifths.
-> 3. Raise three to that power and take the reduced form.
-> 4. Adjust octaves as required.
+> 1. Na chwilę pomiń oktawy.
+> 2. Zamień interwał na ilość kroków kwintowych.
+> 3. Podnieś 3 do takiej potęgi i zredukuj.
+> 4. Jeżeli trzeba, dostosuj oktawy.
 >
-> **Example:** To convert the FJS interval m3 to a Pythagorean ratio, we convert it first to −3 fifths: C–F–B♭–E♭. We now raise 3 to that power: 3<sup>−3</sup>. This is 1/27. To bring this number between 1 (inclusive) and 2 (exclusive), we multiply by 32 to get the answer: 32/27.
+> **Przykład.** By zamienić tercję małą z FJS-u na 3-limit, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3: *c*–*f*–*b*–*es*. Podnosimy 3 do −3 i uzyskujemy 1/27. Ponieważ chcemy zredukować ten interwał – czyli wsunąć go do przedziału \[1, 2) – mnożymy go przez 2<sup>6</sup>, uzyskując ostateczny wynik: 32/27.
 
-Below is a table of some common ones:
+Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 
-| Interval | Steps | Ratio       |
+| Interwał | Skoki | Ułamek      |
 |---------:|:-----:|:------------|
-| m2       | −5    | 256/**243** |
-| m6       | −4    | 128/**81**  |
-| m3       | −3    | 32/**27**   |
-| m7       | −2    | 16/**9**    |
-| P4       | −1    | 4/**3**     |
-| P5       | +1    | **3**/2     |
-| M2       | +2    | **9**/8     |
-| M6       | +3    | **27**/16   |
-| M3       | +4    | **81**/64   |
-| M7       | +5    | **243**/128 |
+| 2>       | −5    | 256/**243** |
+| 6>       | −4    | 128/**81**  |
+| 3>       | −3    | 32/**27**   |
+| 7        | −2    | 16/**9**    |
+| 4        | −1    | 4/**3**     |
+| 5        | +1    | **3**/2     |
+| 2        | +2    | **9**/8     |
+| 6        | +3    | **27**/16   |
+| 3        | +4    | **81**/64   |
+| 7<       | +5    | **243**/128 |
 
-You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above. Don't be afraid to use calculators to help you; you'll find one very useful when working with the FJS until you become fluent and simply know the common results.
+Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do ciebie sama.
 
-### Exercise 1
+### Ćwiczenia, zestaw 1
 
-1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
-2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
-4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
-5. Find the ratio of the Pythagorean comma (d2 in the FJS).
-6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
+1. Znajdź FJS-owe interwały odpowiadające wymienionych ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
+2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3>>. (Zauważ, że pierwszy interwał to septyma zmniejszona, nie mała).
+3. Oblicz interwały pitagorejskie pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e">
+4. Zapisz tę skalę w FJS-ie, przyjmując za tonikę *d*: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
+5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2>>.
+6. (Trudne!). Pewien wyjątkowo mały interwał w stroju pitagorejskim, o wielkości tylko ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
 
-You can check your answers [here](solutions.html).
+Rozwiązania znajdziesz [tutaj](solutions.html).
 
 ## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
 
