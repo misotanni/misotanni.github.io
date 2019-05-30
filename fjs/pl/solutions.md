@@ -37,4 +37,4 @@
 	- D: 3/2, 3/2, 9/8, 15/8
 	- T: 1/1, 3/2, 5/4, 1/1
 5. <img src="../assets/solution_4_5.png" alt="a–b11_5, a–h5, a–h, a–h_7">
-6. 1<sup>55</sup>, czyli wartościowo 440/432 = 55/54. Nie nabieraj się na tę 432-hercową paplaninę – z góry dziękuję.
+6. 1<sup>55</sup>, czyli wartościowo 440/432 = 55/54. Nie daj się nabrać na tę 432-hercową paplaninę – z góry dziękuję.
