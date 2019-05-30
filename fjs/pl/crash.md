@@ -291,92 +291,92 @@ Spróbuj użyć tych wszystkich metod, by poradzić sobie z następnym zestawem 
 3. Zapisz skalę diatoniczną Ptolemeusza od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
 4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/exercise_2.png" alt="c–d–es_5–f–g–as_5–b_5–c">
 
-You can check your answers [here](solutions.html).
+Rozwiązania znajdziesz [tutaj](solutions.html).
 
-(At the end of this lesson, you will be provided with techniques to translate *any* ratio to an FJS representation and backwards. However it's useful to keep these methods in mind because they are much quicker and you will generally be using them instead. It's like choosing factorization over the quadratic formula to solve quadratics; it's much faster if you can.)
+(Na końcu tej lekcji będziesz miał przyswojone metody na tłumaczenie *dowolnych* ułamków na FJS i na odwrót. Jednak warto mieć na uwadze i te metody powyżej, ponieważ są one o wiele szybsze i prawdopodobnie sam zauważysz, że będziesz wybierał jednak nie. To tak, jak rozkładać równanie kwadratowe na jednomiany zamiast rozwiązywać wzorami na pierwiastki funkcji kwadratowej – jest to o wiele szybsze, jeżeli się tego nauczysz).
 
-While you were using the identities you were given to tackle these questions, you may have asked yourself a question: "How would I add, for instance, two M3<sup>5</sup> intervals to each other? What would the result be?" Would it be A5<sup>5</sup>? No, that would be the result of adding M3 to M3<sup>5</sup>. Our case is different, it's adding M3<sup>5</sup> to another M3<sup>5</sup>.
+Kiedy używałeś własności, by stawić czoło ćwiczeniom, może zadałeś sobie takie pytanie: „Jak dodać na przykład dwie 3<sup>5</sup> do siebie? Co by powstało?” Może 5\<<sup>5</sup>? Nie – to byłoby 3 + 3<sup>5</sup>. W naszym przypadku jest inaczej, ponieważ próbujemy znaleźć 3<sup>5</sup> + 3<sup>5</sup>.
 
-The answer to this question happens to simultaneously be the way the FJS notates the second group of remaining JI intervals: *compound accidentals*.
+Odpowiedzią na to pytanie akurat jest naraz sposób, na który w FJS-ie zapisujemy drugą wyróżnioną przeze mnie grupę interwałów. To *złożone alteracje*.
 
-Any FJS note or interval may have not just one, but any number of FJS accidentals appended to it. The otonal and utonal accidentals are always kept separate, but if there is more than one accidental of the same "x-tonality" (otonality or utonality), they are merged. FJS accidentals merge by multiplication. Why? Because they are all primes; multiplying them – as opposed to, say, adding or concatenating the digits in base ten – will never make you lose information about the original primes, because every positive integer can be uniquely factorized back into its primes, and order does not matter.
+Każda wysokość czy interwał w FJS-ie może mieć dołączone nie tylko jedną, ale dowolną ilość alteracji FJS-owych. Otonalne i utonalne alteracje nigdy nie są ze sobą mieszane, ale jeżeli dwie alteracje tego samego rodzaju (obydwie otonalne lub obydwie tonalne) mają być zastosowane naraz, są ze sobą łączone poprzez mnożenie. Dlaczego tak? Ponieważ każda alteracja jest liczbą pierwszą, więc przez mnożenie – w przeciwieństwie do np. dodawania czy pisania jedna po drugim – nie tracimy informacji o czynnikach, ponieważ każdą liczbę dodatnią można rozłożyć na dokładnie jeden sposób, a kolejność nie gra roli.
 
-If the accidentals merge in such a way that you can't easily factorize them in your head (e.g. 119 = 7 × 17), you can write them out as a list with commas between each prime ("commas" being, of course, the punctuation mark, not a tiny musical interval). For example, D<sup>7,17</sup> would mean the exact same thing as D<sup>119</sup>. The convention is to write these primes in non-descending order, but any order is correct. You can also multiply in any combination, so for example you can write G<sup>11,125</sup>, multiplying only some of the factors.
+Jeżeli iloczyn alteracji jest na tyle duży, że trudno szybko odczytać z niego czynniki (np. 119 = 7 ⋅ 17), możesz zapisać te alteracje jedna po drugiej, przedzielając przecinkami. Na przykład *d*<sup>7,17</sup> znaczy to samo, co *d*<sup>119</sup>. Powinieneś pisać te czynniki od najmniejszego do największego, ale każda kolejność jest poprawna. Możesz też przemnożyć częściowo – na przykład *g*<sup>11,125</sup>.
 
-So to answer the original question, the sum of two M3<sup>5</sup> is A5<sup>25</sup>, which neatly fits as the FJS name of the ratio 25/16. Similarly, given that a 7/4 is a m7<sup>7</sup>, you immediately know that a 49/32 will be a m6<sup>49</sup> and a 35/32 will be a M2<sup>35</sup>.
+Odpowiem więc na zawieszone pytanie: sumą dwóch 3<sup>5</sup> jest 5\<<sup>25</sup>, co zgrabnie pasuje jako FJS-owa nazwa na 25/16. Podobnie, jeżeli dane Ci jest, że 7/4 to interwał 7<sup>7</sup>, od razu zauważysz, że 49/32 to będzie 6><sup>49</sup>, a 35/32 – 2<sup>35</sup>.
 
-As mentioned, otonal and utonal do not mix. So if a note G♭ happened to have both +7 and −5 accidentals, it would be written as G♭<sup>7</sup><sub>5</sub>. The exact rules are as follows:
+Jak powiedziałem, otonalne i utonalne alteracje nie wchodzą w interakcję, więc jeżeli do wysokości *ges* dodamy i +7, i -5, uzyskamy *ges*<sup>7</sup><sub>5</sub>. Oto dokładne reguły:
 
-- In note naming, use one superscript representing the merged positive accidentals, followed by one subscript representing the merged negative accidentals.
-- In music notation, the merged positive accidental is written first (if any), then the merged negative accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+- Nazywając wysokości, użyj jednego indeksu górnego dla wszystkich dodatnich alteracji, po czym jednego indeksu dolnego dla wszystkich ujemnych.
+- Zapisując wysokości, najpierw zapisujemy wszystkie dodatnie alteracje (jeżeli występują), następnie wszystkie ujemne, poprzedzone minusem „-” (jeżeli występują), po czym zwykłe znaki przygodne i sama główka nutowa.
 
-So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
+Zatem wysokości *ges*<sup>7</sup><sub>5</sub> i *fis*<sup>5</sup><sub>7</sub> (odpowiednio 7/5 i 10/7 od *c*) zapisalibyśmy następująco:
 
-<img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
+<img src="../assets/example_5.png" alt="ges7_5–fis5_7">
 
-Here is what they sound like, respectively:
+A brzmią one następująco:
 
 <audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
 
-Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. You can also add an interval to a note (e.g. G + M3<sup>5</sup> = B<sup>5</sup>) and you can subtract a note from another note (e.g. F<sup>7</sup> − C = P4<sup>7</sup>). That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
+Jak już zdefiniowaliśmy złożone alteracje, możemy dokonać o wiele więcej dzięki FJS. W szczególności możemy dodawać, odejmować i odwracać dowolne interwały. Możemy też dodać (zastosować) interwał do wysokości (np. *g* + 3<sup>5</sup> = *h*<sup>5</sup>) i odjąć wysokość od wysokości (czyli wyliczyć interwał spomiędzy nich – np. *f*<sup>7</sup> − *c* = 4<sup>7</sup>). W ten sposób możesz używać już poznanych własności dodawania, odejmowania i odwracania, by znaleźć FJS-owe odpowiedniki interwałów, których wcześniej po prostu nie byłeś w stanie przekonwertować.
 
-> ### FJS Interval Arithmetic
+> ### Arytmetyka interwałowa w FJS-ie
 >
-> - To add two FJS intervals, add their Pythagorean parts (conventional interval classes) and merge the accidentals.
-> - To subtract two FJS intervals, subtract their Pythagorean parts, then swap the otonal with the utonal accidental for the second interval, then merge. Subtracting an FJS interval is the same as adding its inverse.
-> - To invert an FJS interval, invert its Pythagorean part and swap the otonal with the utonal accidental.
-> - You can also add an FJS interval to an FJS note, or subtract an FJS note from another FJS note.
+> - By dodać dwa FJS-owe interwały, dodaj ich pitagorejskie części (części odpowiadające zwykłym interwałom) i połącz alteracje.
+> - By odjąć dwa FJS-owe interwały od siebie, odejmij ich pitagorejskie części, potem zamień w drugim intyerwale otonalne i utonalne alteracje ze sobą, potem połącz. Odejmowanie to dodawanie odwrotności.
+> - By odwrócić FJS-owy interwał, odwróć część pitagorejską i zamień utonalne i otonalne alteracje ze sobą.
+> - Analogicznie dodaje się interwał do wysokości i odejmuje jedną wysokość od drugiej.
 
-When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives "P5<sup>5</sup><sub>5</sub>" which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> (8/7) gives "m3<sup>49</sup><sub>7</sub>" which becomes m3<sup>7</sup> (7/6).
+Przy łączeniu alteracji identyczne czynniki po dwóch stronach kasują się. Na przykład dodanie 3<sup>5</sup> (5/4) do 3><sub>5</sub> (6/5) daje „5<sup>5</sup><sub>5</sub>”, co skraca się do samej „5”, czyli 3/2, co się zgadza. 2><sup>49</sup> (49/48) + 2<sub>7</sub> (8/7) = „3><sup>49</sup><sub>7</sub>”, co z powodu wspólnego czynnika skraca się do 3><sup>7</sup> (7/6).
 
-Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. You can use a few simple methods if the ratios in question don't involve many primes.
+Z pomocą arytmetyki interwałowej możesz teraz tak naprawdę przedstawić *każdy* ułamek JI w FJS-ie oraz odszyfrować FJS-owe interwały z powrotem na ułamki. Możesz użyć jedną z metod poniżej, jeżeli ułamki nie zawierają wielu liczb pierwszych.
 
-To convert a simple JI ratio quickly to an FJS representation: Factorize the numerator into a Pythagorean interval plus primes. Build the Pythagorean interval, and each prime as a prime interval, and add them up. Repeat for the denominator. Then, take the difference of numerator's interval and the denominator's interval. For example, to convert 36/25, we first build the numerator: 36, which is 9/8, which is M2. Then we build the denominator: 25. It splits to 5 and 5, which is two M3<sup>5</sup>, which becomes A5<sup>25</sup>. Now we subtract; M2 − A5 = d5, and the accidentals are (0) − (+25) = (−25). So the final answer is d5<sub>25</sub>.
+Aby zamienić prosty ułamek JI na FJS: rozłóż licznik na interwał pitagorejski i liczby pierwsze; zbuduj interwał pitagorejski, następnie do tego kolejne interwały pierwsze; powtórz dla mianownika; ostatecznie znajdź różnicę pomiędzy ułamkiem zbudowanym z licznika a tym z mianownika. Na przykład dla 36/25: najpierw budujemy licznik – 36 – czyli 9/8, czyli sekunda wielka; rozkładamy mianownik na 5 ⋅ 5, a więc dwa razy 3<sup>5</sup>, a więc 5\<<sup>25</sup>; teraz odejmujemy 2 - 5\< = 5\>, 0 − +25 = −25; zatem ostateczny wynik to 5><sub>25</sub>.
 
-Similarly, you can also easily convert a simple FJS representation back into a JI ratio. Try $$\frac{\text{otonal accidental}}{\text{utonal accidental}}$$. (You don't even need to factorize the accidentals. That's a perk of using multiplication to merge them.) If you are off, then only by a Pythagorean interval. Adjust accordingly. For example, let's try to convert A1<sup>5</sup><sub>7</sub>. We try 5/7, which is 10/7; when we apply the above method to this, we obtain A4<sup>5</sup><sub>7</sub>, which isn't too far off. We only need to adjust by one Pythagorean fifth upwards. So the correct answer is actually (3/2) × (5/7) = 15/14.
+Podobnie możesz łatwo zamienić prosty interwał FJS z powrotem na JI: spróbuj $$\frac{\text{alteracje otonalne}}{\text{alteracje utonalne}}$$. (Nie ma potrzeby, byś rozkładał alteracje na czynniki – to zaleta używania wymnażania). Jeżeli wynik jest błędny, to jedynie o interwał pitagorejski – dostosuj więc wynik odpowiednio. Na przykład mamy dane 1\<<sup>5</sup><sub>7</sub>; próbujemy 5/7, czyli po redukcji 10/7; po sprawdzeniu metodą powyżej otrzymujemy 4\<<sup>5</sup><sub>7</sub>, co nie jest wcale aż tak daleko; poprawiamy zatem o jedną pitagorejską kwintę w górę – wynik w takim razie brzmi 3/2 ⋅ 5/7 = 15/14.
 
-These methods will, 99% of the time, be enough to read and write in the FJS, and as you can see, they are easy to use. In fact, much of the time, you don't even have to use these; skimming the harmonic series is often enough to perform forwards and backwards conversions in mere seconds. Want to convert 14/13 into the FJS? You know that 13 is a m6 and 14 is a m7, so 14/13 must be a M2. Then because of 14 in the numerator you stick a +7, and because of 13 in the denominator you stick a −13, and voilà, you have found the correct FJS representation: M2<sup>7</sup><sub>13</sub>.
+Te metody starczą, by w 99% przypadków poprawnie przeczytać i zapisać coś w FJS-ie – jak sam widzisz, są one całkiem proste. Tak naprawdę nawet i z nich nie musisz korzystać – wystarczy przejrzeć serię alikwotową, by tłumaczyć w tę i we w tę w kilka sekund. Wyrazić 14/13 w FJS? Wiesz, że 13 to 6>, a 14 to 7, więc 14/13 musi być 2. Z powodu 14 w liczniku dodajesz +7, a z powodu 13 w mianowniku – −13, i voilà – właśnie znalazłeś prawidłowy zapis: 2<sup>7</sup><sub>13</sub>.
 
-However, one of the virtues of the FJS is that it can be fully automated. The above methods may rely a little on intuition, and are not very useful for complex intervals. In the case of complex intervals, you can *always* perform the forward and backward conversions using these final two techniques:
+Jednak jedną z zalet FJS-u jest to, że może on być całkowicie zautomatyzowany. Techniki powyżej polegają na intuicji, która nie przydaje się zbytnio dla skomplikowanych interwałów. W bardziej złożonych przypadkach możesz *zawsze* wykonać konwersje za pomocą tych ostatnich dwóch technik poniżej:
 
-> ### FJS Technique \#4: To convert any JI ratio automatically to an FJS representation.
+> ### Technika FJS-owa nr 4: Automatyczna zamiana dowolnego ułamka na FJS.
 >
-> 1. Factorize the ratio.
-> 2. For every prime *p* greater than 3 with an exponent of α<sub>*p*</sub>, remember the α<sub>*p*</sub> for every *p* and multiply the initial ratio by
+> 1. Rozłóż ułamek na czynniki pierwsze.
+> 2. Dla każdej liczby pierwszej *p* > 3 połóż α<sub>*p*</sub> = wykładnik przy p i pomnóż wyjściowy ułamek przez:
 >
-> 	$$(\text{comma} (p))^{-\alpha _p}$$
+> 	$$(\text{comma} (p))^{-\alpha _p},$$
 >
->	where $$\text{comma}(p)$$ is the formal comma of *p*.
+>	gdzie \\(\text{comma}(p)\\) to komat formalny dla *p*.
 >
-> 3. The result will be Pythagorean. Transform it into FJS form.
-> 4. Now add the α<sub>*p*</sub> as accidentals – if positive, then otonal; if negative, then utonal.
-> 5. Take the reduced form and adjust octaves as required.
+> 3. Wynik będzie pitagorejski – zapisz go w FJS-ie.
+> 4. Teraz dodaj α<sub>*p*</sub> jako alteracje – jeżeli dodatnie, to otonalnie; jeżeli ujemne, to utonalnie.
+> 5. Zredukuj i dostosuj oktawy.
 >
-> **Example:** Let's convert the weak just chromatic semitone, 25/24, into FJS form using this technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Because of 5<sup>2</sup>, remember 2 and multiply by (80/81)<sup>−2</sup>. The result is 2187/2048, which is Pythagorean and converts to A1. Now we add a double +5 (because of the 2) and we get A1<sup>25</sup>.
+> **Przykład.** Zamieńmy tzw. słaby naturalny półton chromatyczny – 25/24 – na FJS za pomocą tej techniki.25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Mamy 5<sup>2</sup>, więc zapamiętaj α<sub>5</sub> = 2 i pomnóż przez (80/81)<sup>−2</sup>. Uzyskujemy 2187/2048 – pitagorejskie 1\<. Teraz dodajemy +5 dwa razy (= α<sub>5</sub>) i otrzymujemy wynik: 1\<<sup>25</sup>.
 
-> ### FJS Technique \#5: To convert any FJS representation automatically into a JI ratio.
+> ### Technika FJS-owa nr 5: Automatyczna zamiana FJS-owego interwału na ułamek.
 >
-> 1. Convert the Pythagorean part of the FJS interval into a Pythagorean ratio.
-> 2. For every otonal accidental *p*, multiply by the formal comma of *p*. If utonal, then divide.
-> 3. Take the reduced form and adjust octaves as required.
+> 1. Zamień część pitagorejską FJS-owego interwału na ułamek pitagorejski.
+> 2. Dla każdego otonalnej (utonalnej) alteracji *p*, pomnóż (podziel) przez komat formalny dla *p*.
+> 3. Zredukuj i dostosuj oktawy.
 >
-> **Example:** One of the most iconic harmonies of La Monte Young's *Well-Tuned Piano* is written m3<sup>49</sup> in the FJS. To find its ratio, we start by converting m3 to 32/27. Then, +49 means multiply by the formal comma of 7 twice. So (32/27) × (63/64)<sup>2</sup> = 147/128.
+> **Przykład.** Jednym z kultowych współbrzmień występujących w *Dobrze Nastrojonym Fortepianie* („Well-Tuned Piano”) La Monte Younga jest z zapisie FJS-owym 3><sup>49</sup>. By znaleźć odpowiadający temu zapisowi ułamek, zaczynamy od zamiany pitagorejskiego interwału 3> na 32/27. Następnie +49 oznacza, że mnożymy przez komat formalny siódemki dwa razy, zatem 32/27 ⋅ (63/64)<sup>2</sup> = 147/128.
 
-One final note is on pronunciation and ASCII. If you want to communicate using the FJS, that ought to be possible using more than just one medium. Here are the simple and logical pronunciation rules:
+Ostatnią sprawą wartą wspomnienia jest wymowa i ASCII. Jeżeli chcesz przekazywać dźwięki FJS-em, powinieneś być w stanie dokonać tego przez więcej niż jedno medium. Oto proste i logiczne reguły wymowy:
 
-> ### FJS Pronunciation
+> ### Wymowa FJS
 >
-> 1. Pronounce the conventional (Pythagorean) part of the note name, or the conventional (Pythagorean) interval.
-> 2. Then, attach the compound otonal accidental (if any) pronounced simply as the number itself, optionally with a "super" prefix.
-> 3. Then, attach the compound utonal accidental (if any) pronounced simply as the number itself with a "sub" prefix.
+> 1. Wymów pitagorejską (zwykłą) nazwę wysokości czy interwału.
+> 2. Następnie wypowiedz alteracje otonalne (jeżeli występują), ewentualnie poprzedzając je słowem „nad”.
+> 3. Następnie wypowiedz alteracje utonalne (jeżeli występują), poprzedzając je słowem „pod”.
 
-So for example, E<sup>5</sup> is pronounced "E-five" or "E-super-five", and E♭<sub>5</sub> is pronounced "E-flat-sub-five". An interval such as P4<sup>7</sup><sub>11</sub> would be pronounced "perfect fourth (super) seven sub eleven", where the word "super" is optional and is used to emphasize the division between the name of the interval and the start of the FJS accidentals.
+Na przykład *e*<sup>5</sup> wymawiamy „e pięć” (lub ew. „e nad pięć”), *es*<sub>5</sub> – „es pod pięć”. Interwał 4<sup>7</sup><sub>11</sub> wymawiamy „kwarta czysta (nad) siedem pod jedenaście”, gdzie „nad” w nawiasach służy jedynie do wyraźnego oddzielenia FJS-owych alteracji od pitagorejskiej nazwy i jest oprócz tego opcjonalna.
 
-If you split, there's no change. So A<sup>5,17</sup><sub>13</sub> is pronounced "A-(super)-five-seventeen-sub-thirteen". The word "sub" is just a terminator for the otonal part, and marks that the utonal part follows.
+Nic się nie zmienia, jeżeli alteracje nie są do końca wymnożone: *a*<sup>5,17</sup><sub>13</sub> wymawiamy „a (nad) pięć siedemnaście pod trzynaście”. Słowo „pod” służy zamknięciu wyliczenia otonalnych alteracji i otwarciu wyliczenia tych utonalnych.
 
-As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written E^5 or simply E5, but M3<sup>5</sup> can only be written M3^5 (not M35, obviously, as that would be a "major thirty-fifth", or a major seventh plus four octaves; M35 would be 243/8 in the FJS).
+W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślenia (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karetki (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako „e^5” albo po prostu „e5”, natomiast 3<sup>5</sup> można zapisać tylko jako „3^5” (nie „35”, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
 
-**That's it!**
+**To wszystko!**
 
 This is all you need to know to use the *entirety* of the FJS and represent *any* JI you wish! There is no memorization to be done, no lookup tables to be bookmarked, nothing! One of the largest virtues of this system is that it's all completely portable; all you need to set it up anywhere is calculation and your radius of tolerance. The techniques you've just been given can be automated and the entire system can be handled by a computer.
 
