@@ -180,14 +180,14 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 >
 > | Generator | Pythagorean |   Comma   |                 Conclusions |
 > |----------:|:-----------:|:---------:|----------------------------:|
-> |      ±0   |     1/1     |    5/4    |  386.31¢   > λ; continuing. |
-> |      +1   |     3/2     |    5/6    |  315.64¢   > λ; continuing. |
-> |      −1   |     4/3     |   15/16   |  111.73¢   > λ; continuing. |
-> |      +2   |     9/4     |    5/9    |  182.40¢   > λ; continuing. |
-> |      −2   |    16/9     |   35/64   |  609.78¢   > λ; continuing. |
-> |      +3   |    27/16    |   20/27   |  519.55¢   > λ; continuing. |
-> |      −3   |    32/27    |  135/128  |   92.18¢   > λ; continuing. |
-> |    **+4** |  **81/64**  | **80/81** | **21.51¢** ≤ λ; halting.    |
+> |      ±0   |     1/1     |    5/4    |  386.31¢   ≥ λ; continuing. |
+> |      +1   |     3/2     |    5/6    |  315.64¢   ≥ λ; continuing. |
+> |      −1   |     4/3     |   15/16   |  111.73¢   ≥ λ; continuing. |
+> |      +2   |     9/8     |   10/9    |  182.40¢   ≥ λ; continuing. |
+> |      −2   |    16/9     |   35/64   |  609.78¢   ≥ λ; continuing. |
+> |      +3   |    27/16    |   20/27   |  519.55¢   ≥ λ; continuing. |
+> |      −3   |    32/27    |  135/128  |   92.18¢   ≥ λ; continuing. |
+> |    **+4** |  **81/64**  | **80/81** | **21.51¢** < λ; halting.    |
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
 
