@@ -144,7 +144,7 @@ Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wiel
 
 Ale jeżeli popatrzymy na to z technicznego punktu widzenia, zaczyna robić się dziwnie.
 
-Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale dlaczego miałoby to sprawiać jakieś problemy? Otóż interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż tercja wielka. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
+Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale dlaczego taki wybór może nie pasować? Otóż interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż tercja wielka. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
 
 Posłuchaj, jak różnią się 81/64 i 5/4:
 
