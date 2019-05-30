@@ -52,5 +52,5 @@ sub {
 }
 
 pre, code {
-  font-size: 100%;
+  font-size: inherit;
 }
