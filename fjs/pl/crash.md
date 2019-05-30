@@ -391,43 +391,43 @@ W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, 
 
 **To wszystko!**
 
-This is all you need to know to use the *entirety* of the FJS and represent *any* JI you wish! There is no memorization to be done, no lookup tables to be bookmarked, nothing! One of the largest virtues of this system is that it's all completely portable; all you need to set it up anywhere is calculation and your radius of tolerance. The techniques you've just been given can be automated and the entire system can be handled by a computer.
+To wszystko, co musisz wiedzieć, by wykorzystywać FJS w *całości* oraz być w stanie przedstawić *dowolny* strój JI! Bez żadnego wyuczania się na pamięć, drukowania tabelek, nic z tych rzeczy! Jedną z największych korzyści płynących z tego systemu jest to, że jest on całkowicie mobilny – jedyne, czego potrzebujesz, by się rozłożyć, to odpowiednie kalkulacje i wybrany przez ciebie promień tolerancji. Wszystkie techniki, które poznałeś, mogą być zautomatyzowane, wyręczając cię od żmudnych kalkulacji.
 
-The FJS has a lot of beautiful properties that make it incredibly logical. The most important property is that it is *bijective* to JI; every positive rational number has exactly one FJS representation, and every FJS representation has exactly one rational number it represents. Another property – which has already been given above – is that it is *linear*; it doesn't matter if you combine ratios and then transform them into the FJS, or first transform them, then combine; the result is the same. These properties make transposition in the FJS extremely easy. To transpose by, say, M2<sup>5</sup>, you would first transpose by a M2 (which is exactly the same as a normal transposition by a major second; the FJS accidentals remain unchanged) and then add a +5 accidental to every note, merging as necessary (so that e.g. +5 becomes +25, +7 becomes +35, −5 becomes 1).
+FJS posiada wiele pięknych własności, które powodują, że jest on niewiarygodnie spójny. Najważniejszą cechą jest to, że FJS jest *bijekcją* do JI – każdy dodatni ułamek ma dokładnie jedno FJS-owe przedstawienie, a każde FJS-owy interwał ma jednego reprezentanta wśród liczb wymiernych. Inną własnością jest *izomorfia* – nie ma znaczenia, czy najpierw przemnożymy ułamki, a następnie zamienimy je do FJS, czy najpierw przeniesiemy je do FJS, a potem dodamy – wynik jest ten sam. Te własności zezwalają na prostą transpozycję w FJS-ie: żeby przenieść o np. 2<sup>5</sup>, najpierw przeniósłbyś wszystko o 2 (bez zmiany FJS-owych znaków chromatycznych), a potem dodałbyś +5 to każdej nuty, łącząc po drodze (tak więc +5 stałoby się +25, +7 – +35, a −5 – 1).
 
-There's one last thing that you might want before trying your accumulated skills at the last exercise. Again, this is just for reference; you could have calculated this table yourself if you wanted (which you wouldn't, so that's why I did it for you).
+Jeszcze jedna rzecz, zanim wypróbujesz swoich nagromadzonych sił przy następnym ćwiczeniu. To tylko dla odniesienia – mógłbyś sam wyliczyć sobie tę tabelę, jeżeli byś sobie życzył (czego byś i tak nie zrobił, dlatego ja zrobiłem dla ciebie).
 
-| Prime | Generator | Formal Comma |
-|------:|:---------:|:------------:|
-| 5     | +4        | 80/81        |
-| 7     | −2        | 63/64        |
-| 11    | −1        | 33/32        |
-| 13    | −4        | 1053/1024    |
-| 17    | −5        | 4131/4096    |
-| 19    | −3        | 513/512      |
-| 23    | +6        | 736/729      |
-| 29    | −2        | 261/256      |
-| 31    | +5        | 248/243      |
+| Pierwsza | Generator | Komat formalny |
+|---------:|:---------:|:--------------:|
+| 5        | +4        | 80/81          |
+| 7        | −2        | 63/64          |
+| 11       | −1        | 33/32          |
+| 13       | −4        | 1053/1024      |
+| 17       | −5        | 4131/4096      |
+| 19       | −3        | 513/512        |
+| 23       | +6        | 736/729        |
+| 29       | −2        | 261/256        |
+| 31       | +5        | 248/243        |
 
-Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be an absurd d5). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8. Clever, huh?
+Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadratowy z 33/31 wybrałem na λ. To średnia geometryczna 33/32 i 32/31, a więc większa od pierwszego, a mniejsza od drugiego. 33/32 jest więc dozwolonym komatem, dając przybliżenie kwarty czystej dla 11/8 (inaczej musielibyśmy posługiwać się absurdalnym 5>). Ale naraz 32/31 nie jest dozwolone, przez co uniemożliwiając przybliżenie oktawy czystej dla 31/16. Sprytne, nie?
 
-### Exercise 4
+### Ćwiczenia – zestaw 4
 
-1. Convert the following JI ratios into the FJS using any technique you like: 28/27, 15/13, 33/25.
-2. Convert the following FJS representations into JI ratios using any technique you like: M6<sub>7</sub>, d4<sup>13</sup><sub>5</sub>, m3<sub>25</sub>.
-3. Notate a JI rendition of the famous ii–V–I progression in the FJS in the key of B♭, given the following JI ratios from B♭:
-	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
-	- V chord: 3/2, 9/8, 21/16, 27/16, 15/8
-	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
-4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic:
+1. Zamień następujące ułamki na FJS, używając dowolnej techniki: 28/27, 15/13, 33/25.
+2. Zamień następujące FJS-owe interwały na ułamki, używając dowolnej techniki: 6<sub>7</sub>, 4><sup>13</sup><sub>5</sub>, 3><sub>25</sub>.
+3. Zanotuj tę JI-ową interpretację słynnej durowej kadencji \<D\> D T (inaczej zapisywanej S<sub>II</sub> D T) w kluczu *B*, mając dane następujące ułamki (wszystkie od *b*):
+	- S<sub>II</sub>: 10/9, 5/4, 4/3,   5/3,   1/1
+	- D:              3/2,  9/8, 21/16, 27/16, 15/8
+	- T:              1/1,  9/8, 5/4,   3/2,   15/8
+4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki:
 	
-	<img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭">
+	<img src="../assets/exercise_3.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es">
 	
-5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again: 11/10, 10/9, 9/8, 8/7.
+5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7.
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
+6. (Trudne!). Tak zwany „ruch 432-hercowy”, który uparcie twierdzi, że przestrajanie *a* z 440 na 432 herce poprawia fizyczny i duchowy aspekt muzyki. (Nie ma tu znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający temu przestrojeniu.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 

@@ -7,7 +7,7 @@
 3. 9/8, 32/27, 9/8, 32/27, 9/8.
 4. <img src="../assets/solution_1_4.png" alt="d–fis–g–a–cis–d">
 5. 531441/524288. (Albo ułamek odwrotny – tu istnieje pewien szkopuł. 531441/524288 to interwał od *c* do *his* zaraz **pod** nim, a więc nie wiadomo, jak taki interwał przedstawić: zerunda zwiększona (0<)?! W każdym razie pod względem wielkości jest to sekunda zmniejszona.)
-6. 3<<<<<<. To tercja siedmiokrotnie zwiększona, minus jedna oktawa. Nie inaczej. Od *c* ten interwał przeniósłby nas do *eisisisisisisis* (*e* z siedmioma krzyżykami). O rany…
+6. 3\<\<\<\<\<\<\<. To tercja siedmiokrotnie zwiększona, minus jedna oktawa. Nie inaczej. Od *c* ten interwał przeniósłby nas do *eisisisisisisis* (*e* z siedmioma krzyżykami). O rany…
 
 ## Zestaw 2
 
@@ -27,14 +27,14 @@
 
 ## Exercise 4
 
-1. m2<sup>7</sup>, A2<sup>5</sup><sub>13</sub>, d4<sup>11</sup><sub>25</sub>.
+1. 2><sup>7</sup>, 2\<<sup>5</sup><sub>13</sub>, 4><sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
-3. <img src="../assets/solution_4_3.png" alt="C5–D5–E♭–G5–B♭, F–C1–E♭7–F–A5, B♭–C–D5–F–A5">
-4. The following five chords:
-	- I chord: 1/1, 3/2, 5/4, 1/1
-	- vi chord: 5/3, 5/3, 5/4, 1/1
-	- ii chord: 4/3, 5/3, 4/3, 10/9
-	- V chord: 3/2, 3/2, 9/8, 15/8
-	- I chord: 1/1, 3/2, 5/4, 1/1
-5. <img src="../assets/solution_4_5.png" alt="A–B♭11_5, A–B5, A–B, A–B_7">
-6. P1<sup>55</sup>. The interval is 440/432 = 55/54. Please don't buy into 432 Hz stuff, thanks.
+3. <img src="../assets/solution_4_3.png" alt="c5–d5-es-g5–b, f–c1–es7–f–as5, b–c–d5–f–a5">
+4. Następujące pięć akordów:
+	- T: 1/1, 3/2, 5/4, 1/1
+	- \<D\> (T<sub>VI</sub>): 5/3, 5/3, 5/4, 1/1
+	- \<D\> (S<sub>II</sub>): 4/3, 5/3, 4/3, 10/9
+	- D: 3/2, 3/2, 9/8, 15/8
+	- T: 1/1, 3/2, 5/4, 1/1
+5. <img src="../assets/solution_4_5.png" alt="a–b11_5, a–h5, a–h, a–h_7">
+6. 1<sup>55</sup>, czyli wartościowo 440/432 = 55/54. Nie nabieraj się na tę 432-hercową paplaninę – z góry dziękuję.
