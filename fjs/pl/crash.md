@@ -140,11 +140,11 @@ Następnie zredukuj je:
 
 Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Co więcej, jeżeli w dalszej części tego kursu odniosę się do „interwałów pierwszych”, to będę miał na myśli tylko te, które odpowiadają liczbom pierwszym większym od 3.
 
-Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj septymy małej). Prawdopodobnie te określenia wydały Ci się na początku obce. Przecież brzmią one jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie interwały, które są bliskie tych nam znanych.
+Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj septymy małej). Prawdopodobnie te określenia nie wydały Ci się na początku obce. Przecież brzmią one jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie interwały, które są bliskie tych nam znanych.
 
 Ale jeżeli popatrzymy na to z technicznego punktu widzenia, zaczyna robić się dziwnie.
 
-Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale dlaczego miałoby to sprawiać jakieś problemy? Otóż interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż kwarta czysta. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
+Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale dlaczego miałoby to sprawiać jakieś problemy? Otóż interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż tercja wielka. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
 
 Posłuchaj, jak różnią się 81/64 i 5/4:
 
@@ -154,7 +154,7 @@ A teraz 8192/6561 i 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej dla 5/4. Prostota, mówisz. Tercja wielka to tylko +4 kwinty, a kwarta zmniejszona to przerażające −8 kwint. Ale w takim razie dlaczego nie posłużylibyśmy się tercją *małą* dla 5/4? Przecież jest ona jeszcze prostsza – −3 kwinty, w porównaniu do +4. Ach, to teraz jest znowu za daleko? Za kogo *ty* się uważasz, by decydować, kiedy stawiać na prostotę, a kiedy na wierność przybliżenia?
+Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej dla 5/4? Prostota, mówisz. Tercja wielka to tylko +4 kwinty, a kwarta zmniejszona to przerażające −8 kwint. Ale w takim razie dlaczego nie posłużylibyśmy się tercją *małą* dla 5/4? Przecież jest ona jeszcze prostsza – −3 kwinty, w porównaniu do +4. Ach, to teraz jest znowu za daleko? Za kogo *ty* się uważasz, by decydować, kiedy stawiać na prostotę, a kiedy na wierność przybliżenia?
 
 Spokojnie, to był paszkwil. Parodiowałem konkurencyjne systemy JI, które wybierają sobie te przybliżenia wedle własnego uznania. FJS na pytanie „Jakie przybliżenia powinienem wybrać dla każdego interwału pierwszego?” odpowiada: w ogóle. Zamiast tego używamy uzgodnionej wcześniej stałej, nazywanej **promieniem tolerancji**, do tego celu. Po dłuższym eksperymentowaniu z różnymi promieniami tolerancji i rozważaniu ich zalet i wad, doszedłem do wniosku, że w standardowym FJS-ie będziemy używać *λ*, zdefiniowanej następująco:
 
