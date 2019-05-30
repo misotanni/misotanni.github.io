@@ -25,9 +25,9 @@
 3. <img src="../assets/solution_3_3.png" alt="c-d-e5–f–g–a5–h5–c">
 4. Nie. Byłby to tryb od szóstego stopnia, gdyby tylko czwartym stopniem źródłowej skali było *f*<sub>5</sub>, a nie *f*. Te dwie skale są zbudowane na triadach 4:5:6 i 10:12:15 (12/10 = 6/5 jako 3> między prymą a molową tercją) – tonicznej, subdominantowej i dominantowej. Skala o 3 triadach durowych zawiera tylko 2 triady molowe, a skala z 3 triadami molowymi zawiera tylko 2 triady durowe.
 
-## Exercise 4
+## Zestaw 4
 
-1. 2><sup>7</sup>, 2\<<sup>5</sup><sub>13</sub>, 4><sup>11</sup><sub>25</sub>.
+1. 2><sup>7</sup>, 2<<sup>5</sup><sub>13</sub>, 4><sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solution_4_3.png" alt="c5–d5-es-g5–b, f–c1–es7–f–as5, b–c–d5–f–a5">
 4. Następujące pięć akordów:
