@@ -18,12 +18,12 @@
 5. <img src="../assets/solution_2_5.png" alt="a–a–e–a–cis5–e–g7–a–h–cis5–d11–e–f13–g7">
 6. <img src="../assets/solution_2_6.png" alt="a–a–d–a–f_5–d–h_7–a">
 
-## Exercise 3
+## Zestaw 3
 
-1. M6<sup>5</sup>, m3<sub>5</sub>, m3<sup>7</sup>, m7<sub>5</sub>.
+1. 6<sup>5</sup>, 3><sub>5</sub>, 3><sup>7</sup>, 7<sub>5</sub>.
 2. 10/9, 9/7, 11/6.
-3. <img src="../assets/solution_3_3.png" alt="C–D–E5–F–G–A5–B5–C">
-4. No. It would be the sixth mode if the fourth degree of the scale was F<sub>5</sub> instead of F. The two scales are actually built on tonic, subdominant, and dominant triads of 4:5:6 (5/4 major) and 10:12:15 (6/5 minor) respectively. The scale with 3 major triads contains only 2 minor triads, and the scale with 3 minor triads contains only 2 major triads.
+3. <img src="../assets/solution_3_3.png" alt="c-d-e5–f–g–a5–h5–c">
+4. Nie. Byłby to tryb od szóstego stopnia, gdyby tylko czwartym stopniem źródłowej skali było *f*<sub>5</sub>, a nie *f*. Te dwie skale są zbudowane na triadach 4:5:6 i 10:12:15 (12/10 = 6/5 jako 3> między prymą a molową tercją) – tonicznej, subdominantowej i dominantowej. Skala o 3 triadach durowych zawiera tylko 2 triady molowe, a skala z 3 triadami molowymi zawiera tylko 2 triady durowe.
 
 ## Exercise 4
 

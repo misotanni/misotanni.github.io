@@ -10,7 +10,7 @@ Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię si
 * [Lekcja 0: Wiadomości wstępne](#lesson_0) 
 * [Lekcja 1: Strój pitagorejski](#lesson_1)
 * [Lekcja 2: Interwały pierwsze](#lesson_2)
-* [Lesson 3: Compound Accidentals](#lesson_3)
+* [Lekcja 3: Składanie alteracji](#lesson_3)
 * [Da Capo Al Fine: What Else?](#da_capo_al_fine)
 
 ---
@@ -253,43 +253,43 @@ To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jesz
 3. Znajdź funkcję generującą dla 47, wiedząc, że jej komatem formalnym jest 47/48.
 4. Zapisz następującą skalę, przyjmując *e* za tonikę: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Zapisz szereg alikwotowy od *a* aż do czternastego alikwotu.
-6. (Trudne!). Zapisz *otonalny* szereg alikwotowy (czyli szereg alikwotów dolnych) od *a* aż do ósmego alikwotu dolnego.
+6. (Trudne!). Zapisz *utonalny* szereg alikwotowy (czyli szereg alikwotów dolnych) od *a* aż do ósmego alikwotu dolnego.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-## <a name="lesson_3">Lesson 3: Compound Accidentals</a>
+## <a name="lesson_3">Lekcja 3: Składanie alteracji</a>
 
-You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime (including 3), like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
+Teraz wiesz, jak przedstawić dużą część JI w FJS-ie. Potrafisz zapisać każdą wysokość stroju pitagorejskiego oraz każdy interwał pierwszy. Ale to wciąż nie wszystko – co na przykład z interwałami złożonymi z więcej niż jednej liczby pierwszej (włączając 3), takimi jak 15/8 czy 25/16? A co z tymi, które nie występują jako alikwoty, takimi jak 5/3, 6/5 czy 9/7?
 
-For the purposes of this crash course, I've divided the intervals not yet covered into two groups:
+Na potrzeby tego intensywnego kursu podzieliłem te interwały, których jeszcze nie omówiliśmy, na dwie grupy:
 
-- Intervals, like 15/8 or 9/7, which consist of a Pythagorean interval plus a single otonal or utonal prime interval.
-- Intervals, like 25/16 or 7/5, which require more than one prime interval to be built.
+- te, które składają się z interwału pitagorejskiego oraz jedno otonalnego lub utonalnego interwału pierwszego; oraz
+- te, do skonstruowania których potrzeba więcej niż jednego interwału pierwszego.
 
-When it comes to the first group, you can already write them – you just don't know that yet. This is because the FJS has a number of really useful identities that will often allow you to skip having to carry out the techniques I've given (remember that intervals are compounded by multiplying their ratios):
+Te z pierwszej grupy już potrafisz zapisać, tylko tego jeszcze nie wiesz. To dlatego, że FJS-em rządzi kilka przydatnych własności, które często pozwolą ci pominąć już poznane przez ciebie mozolne obliczenia i techniki i przejść od razu do wyniku. (Pamiętaj, że interwały składa się, wymnażając je przez siebie).
 
-> ### FJS Shortcut Identities
+> ### Skrótowe własności FJS-u
 >
-> - The sum of the FJS representations of two JI ratios is the FJS representation of the product of these ratios.
-> - The difference of the FJS representations of two JI ratios is the FJS representation of the quotient of these ratios.
-> - The inversion of the FJS representation of a JI ratio is the FJS representation of the reciprocal of the ratio.
+> - Sumą FJS-owych przedstawień dwóch JI-owych interwałów jest FJS-owe przedstawienie iloczynu tychże interwałów.
+> - Różnicą między FJS-owymi przedstawieniami dwóch JI-owych interwałów jest FJS-owe przedstawienie ilorazu tychże interwałów.
+> - Odwrotnością FJS-owego przedstawienia JI-owego interwału jest FJS-owe przedstawienie odwrotności multyplikatywnej tegoż interwału.
 
-These identities have several really nice corollaries that are useful to keep in the back of your mind for fluency. For example, if you have two notes with identical FJS accidentals, you know that the interval between them must be Pythagorean. E<sup>5</sup> and F♯<sup>5</sup>? You may have no idea what they are in the key of B♭<sub>7</sub>, but you know the interval between them is a Pythagorean major second – that is, 9/8. Neat, huh?
+Z tych własności wynika parę interesujących wniosków, które dla płynności warto trzymać z tyłu głowy. Na przykład dwie wysokości z dokładnie tym samym zestawem alteracji FJS-owym będą różniły się o interwał pitagorejski. *E*<sup>5</sup> i *fis*<sup>5</sup>? Możesz nie mieć zielonego pojęcia, czym są w *B*<sup>7</sup>-dur, ale będziesz i tak wiedział, że interwał pomiędzy nimi jest pitagorejski – czyli 9/8. Fajne, nie?
 
-These identities can also be used to write the first group of missing intervals. Take 15/8. Break it up into its Pythagorean part and the remainder: 3/2 and 5/4. Write each of these in the FJS in turn, and then add those representations together. 3/2 becomes P5, and 5/4 becomes M3<sup>5</sup>. The sum is M7<sup>5</sup>. You just add the intervals as you normally would, and affix the FJS accidentals at the end. This indeed is the representation of 15/8 in the FJS!
+Te własności można użyć właśnie, by zapisać interwały z pierwszej grupy. Rozważ 15/8. Rozbij je na część pitagorejską i „resztę” – odpowiednio 3/2 i 5/4. Zapisz obydwie te części osobno FJS-em, a potem dodaj je do siebie. 3/2 zapiszemy jako 5, a 5/4 jako 3<sup>5</sup>. Ich sumą będzie więc 7\<<sup>5</sup> – po prostu dodajesz pitagorejskie części tak, jakbyś dodawał zwykłe interwały, a następnie łączysz ze sobą FJS-owe alteracje. Właśnie takie jest przedstawienie 15/8 w FJS-ie!
 
-Another way to think about it is like so: the fifteenth harmonic is like the fifth harmonic in the dominant key. So to notate 15/8 in the key of C, you can start with an "imaginary modulation" to the key of G. There, your target is simply the fifth harmonic, which becomes B<sup>5</sup>. This is therefore also the representation of 15/8 in the key of C.
+Możesz też myśleć o tym na inny sposób: 15. alikwot jest jak 5. alikwot w tonacji dominanty. A zatem żeby zapisać 15/8 w, powiedzmy, *C*-dur, zacząłbyś od niby-modulacji do *G*-dur – tak więc twoim celem staje się po prostu piąty alikwot, czyli *h*<sup>5</sup>. To też jest więc poprawny sposób dotarcia do zapisu 15/8 w *C*-dur.
 
-Yet another way to think about it: you may not know what 15/8 is in the FJS in the key of C, but you know what 5/4 is: it's E<sup>5</sup>. You also know that between 5/4 and 15/8 there's 3/2, a Pythagorean interval. So they must have the same FJS accidentals. You also know that this Pythagorean interval between them is a perfect fifth. That uniquely describes the note B<sup>5</sup>, which is correct.
+Jeszcze inna metoda: możesz nie wiedzieć, czym 15/8 jest w *C*-dur, ale wiesz, czym jest 5/4 – to *e*<sup>5</sup>. Wiesz też, że pomiędzy 5/4 a 15/8 jest 3/2, interwał pitagorejski. To jednoznacznie przedstawia poprawny wynik *h*<sup>5</sup>.
 
-Try using these methods to tackle the next exercise.
+Spróbuj użyć tych wszystkich metod, by poradzić sobie z następnym zestawem ćwiczeń.
 
-### Exercise 3
+### Ćwiczenia – zestaw 3
 
-1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
-2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
-3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/exercise_2.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C">
+1. Zapisz w FJS-ie następujące interwały: 5/3, 6/5, 7/6, 9/5.
+2. Znajdź wartości następujących FJS-owych interwałów: 2<sup>5</sup>, 3<sub>7</sub>, 7<sup>11</sup>.
+3. Zapisz skalę diatoniczną Ptolemeusza od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
+4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/exercise_2.png" alt="c–d–es_5–f–g–as_5–b_5–c">
 
 You can check your answers [here](solutions.html).
 
@@ -416,7 +416,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	
 6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
 
-You can check your answers [here](solutions.html).
+Rozwiązania znajdziesz [tutaj](solutions.html).
 
 ## <a name="da_capo_al_fine">Da Capo Al Fine: What Else?</a>
 
