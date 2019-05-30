@@ -31,3 +31,11 @@ Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
 - schnelles Blattspiel, mit verschiedenen Partituren.
 
 Wenn du keinen Wert darauf legst, dann ist das FJS vielleicht nicht die richtige Wahl für dich. Ich empfehle, ihm trotzdem eine Chance zu geben.
+
+## Was ist mit dieser "reinen Stimmung" oder Naturtonstimmung, mit der du dich beschäftigst? Hat es etwas mit dem New-Age-Glauben zu tun?
+
+Nein.
+
+Die reine Stimmung ist eine Mathematik, und eine Theorie von Frequenzen, die auf wissenschaftlich bekannten Eigenschaften des Klangs basiert. Sie ist auch eine Musikform, die diese Mathematik als Basis ihres tonalen Wortschatzes benutzt, anstatt die Oktave zu zerteilen oder was sonst. Das FJS ist dabei ein formales System des einfachen Verständnisses dieser Mathematik, die JI bietet.
+
+New Age ist dagegen weder eine Wissenschaft noch eine Theorie. Du solltest eher solche "Wissenschaften" und "Theorien" wie [diese](https://attunedvibrations.com/432hz/) alternative Stimmung, "mathematisch in Harmonie mit dem Universum", recherchieren... Oder vielleicht eher nicht.
