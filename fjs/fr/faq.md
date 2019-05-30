@@ -31,3 +31,13 @@ Bien sûr que vous le pouvez, mais certaines choses vous manqueront:
 - pouvoir lire à vue, n'importe quelle partition.
 
 Si tout cela vous n'intéresse pas, il est possible que le FJS ne soit pas le bon choix pour vous. Néanmoins, je conseille que vous lui donniez une chance.
+
+## Qu'est-ce que cette intonation juste ou accord naturel dont vous êtes tellement préoccupé? Est-ce que c'est une chose du New Age?
+
+Non.
+
+L'intonation juste, ce sont des mathématiques. C'est aussi une théorie des fréquences, basée sur des qualités du son scientifiquement examinées. C'est aussi un genre de musique qui utilise ces relations pour la base de sa palette chromatique, au lieu d'une division de l'octave ou quelque chose d'autre. Le FJS est un système formel pour mieux comprendre ces relations acoustiques présentes dans JI.
+
+En revanche, New Age n'est ni une science ni une théorie. Donc il vous vaudrait peut-être mieux de rechercher ces « sciences » et « théories » comme [cet](https://attunedvibrations.com/432hz/) accord alternatif qui est « mathématiquement en harmonie avec l'univers »... Ou peut-être non.
+
+New Age is neither a science nor a theory, so you perhaps should look into such ‘sciences’ and ‘theories’ such as [this](https://attunedvibrations.com/432hz/) alternative tuning that is ‘mathematically’ ‘in tune’ with ‘the universe’... Or maybe don't.
