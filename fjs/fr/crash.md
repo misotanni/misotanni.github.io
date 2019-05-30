@@ -175,6 +175,19 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 > 4. Est-ce que la différence entre cet intervalle et l'intervalle premier s'élève à moins que le rayon de tolérance?
 > 5. Si oui, *k* égale la fonction génératrice. Fin.
 > 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
+>
+> **Exemple:** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
+>
+> | Génératrice | Pythagoricienne |   Comma   |                Conclusions |
+> |------------:|:---------------:|:---------:|---------------------------:|
+> |        0    |       1/1       |    5/4    |  386.31¢   ≥ λ; continuer. |
+> |       +1    |       3/2       |    5/6    |  315.64¢   ≥ λ; continuer. |
+> |       −1    |       4/3       |   15/16   |  111.73¢   ≥ λ; continuer. |
+> |       +2    |       9/8       |   10/9    |  182.40¢   ≥ λ; continuer. |
+> |       −2    |      16/9       |   35/64   |  609.78¢   ≥ λ; continuer. |
+> |       +3    |      27/16      |   20/27   |  519.55¢   ≥ λ; continuer. |
+> |       −3    |      32/27      |  135/128  |   92.18¢   ≥ λ; continuer. |
+> |     **+4**  |    **81/64**    | **80/81** | **21.51¢** < λ; arrêter.   |
 
 Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
 
