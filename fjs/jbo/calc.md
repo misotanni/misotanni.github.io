@@ -21,7 +21,7 @@ i lo te pruce: <br />
                     // translate me
          centValue: "cents",
          generator: "generator",
-             comma: "formal comma",
+       outputComma: "formal comma",
     outputInterval: "interval name",
              ratio: "value",
            noInput: "i lo se pruce ca kunti",

@@ -21,7 +21,7 @@ Résultat: <br />
   var loc = {
          centValue: "cents",
          generator: "génératrice",
-             comma: "comma formel",
+       outputComma: "comma formel",
     outputInterval: "nom d'intervalle",
              ratio: "valeur",
            noInput: "Vous n'avez entré rien.",
