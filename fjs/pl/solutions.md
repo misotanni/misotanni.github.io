@@ -9,14 +9,14 @@
 5. 531441/524288. (Albo ułamek odwrotny – tu istnieje pewien szkopuł. 531441/524288 to interwał od *c* do *his* zaraz **pod** nim, a więc nie wiadomo, jak taki interwał przedstawić: zerunda zwiększona (0<)?! W każdym razie pod względem wielkości jest to sekunda zmniejszona.)
 6. 3<<<<<<. To tercja siedmiokrotnie zwiększona, minus jedna oktawa. Nie inaczej. Od *c* ten interwał przeniósłby nas do *eisisisisisisis* (*e* z siedmioma krzyżykami). O rany…
 
-## Exercise 2
+## Zestaw 2
 
 1. −1, −4.
 2. 513/512.
 3. +1.
-4. <img src="../assets/solution_2_4.png" alt="E–F♯–G♯5–A–B–D7–E">
-5. <img src="../assets/solution_2_5.png" alt="A–A–E–A–C♯5–E–G7–A–B–C♯5–D11–E–F13–G7">
-6. <img src="../assets/solution_2_6.png" alt="A–A–D–A–F_5–D–B_7–A">
+4. <img src="../assets/solution_2_4.png" alt="e–fis–gis5–a–h–d7–e">
+5. <img src="../assets/solution_2_5.png" alt="a–a–e–a–cis5–e–g7–a–h–cis5–d11–e–f13–g7">
+6. <img src="../assets/solution_2_6.png" alt="a–a–d–a–f_5–d–h_7–a">
 
 ## Exercise 3
 

@@ -1,6 +1,6 @@
 ﻿# Intensywny kurs FJS-u
 
-Intryguje cię, co FJS ma do zaoferowania, i chciałbyś nauczyć się go używać.
+Zastanawiasz się, co FJS ma Tobie do zaoferowania, i chciałbyś nauczyć się go używać.
 
 Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię się na pewnych udogodnieniach i skrótach, ponieważ nie są one konieczne ani niezbędne. Jeżeli już miałeś kontakt z naturalnymi temperacjami, FJS będzie dla Ciebie igraszką – nauczysz się go naraz, w kilka minut, a jego piękno i prostota będą Tobie w zasięgu ręki.
 
@@ -113,7 +113,7 @@ Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 | 3        | +4    | **81**/64   |
 | 7<       | +5    | **243**/128 |
 
-Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do ciebie sama.
+Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do Ciebie sama.
 
 ### Ćwiczenia – zestaw 1
 
@@ -140,7 +140,7 @@ Następnie zredukuj je:
 
 Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Co więcej, jeżeli w dalszej części tego kursu odniosę się do „interwałów pierwszych”, to będę miał na myśli tylko te, które odpowiadają liczbom pierwszym większym od 3.
 
-Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj septymy małej). Prawdopodobnie te określenia wydały ci się na początku obce. Przecież brzmią one jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie interwały, które są bliskie tych nam znanych.
+Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj septymy małej). Prawdopodobnie te określenia wydały Ci się na początku obce. Przecież brzmią one jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie interwały, które są bliskie tych nam znanych.
 
 Ale jeżeli popatrzymy na to z technicznego punktu widzenia, zaczyna robić się dziwnie.
 
@@ -212,50 +212,50 @@ To samo, w wersji audio:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use. (You can also think of a different analogy: instead of the sharp raising and the flat lowering, you can think of the sharp adding fifths and the flat removing fifths.)
+Czego pewnie się domyśliłeś, wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (utonalne). Nie wygląda to zgrabnie – bardziej, niż gdybyśmy przejmowali się kierunkami? Rozumiem, że ten wybór może cię z początku mylić, ale z czasem zauważysz, jak logiczniejszy i łatwiejszy w użyciu staje się dzięki niemu cały FJS. (Możesz jeszcze posłużyć się inną analogią: zamiast pojmować krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o dodawaniu i obniżaniu kwint).
 
-At this point, I'd like to explain how these accidentals interact with each other on a staff.
+Teraz chciałbym wyjaśnić, jak te alteracje oddziałują na siebie nawzajem na pięciolinii.
 
-> ### Propagation of FJS Accidentals
+> ### Przenoszenie FJS-owych alteracji
 >
-> - As we all know, conventional (Pythagorean) accidentals categorize letter-pitches (CDEFGAB) into their correct Pythagorean pitch classes, so they apply to the same letter-pitch in the same octave until the end of a bar.
-> - Similarly, FJS accidentals categorize Pythagorean pitch classes (C, D♭, C♯, D, etc.) into their correct FJS pitches, so they apply to the same Pythagorean pitch in the same octave until the end of a bar.
+> - Jak wiadomo, zwykłe (pitagorejskie) znaki przygodne przydzielają pola i linie na pięciolinii (*cdefgah*) odpowiednim pitagorejskim wysokościom, a więc działają na wysokości tego pola czy linii (w tej samej oktawie) aż do końca taktu.
+> - Podobnie, FJS-owe alteracje przydzielają wysokościom pitagorejskim (*c*, *des*, *cis*, *d*, itp.) dokładne naturalne wysokości, a więc działają na tej pitagorejskiej wysokości w tej oktawie aż do końca taktu.
 
-Why so? Because when this rule is considered in this way, it is much more logical, and because this is much more useful. Below is a demonstration of this rule:
+Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej spójna i przez to o wiele bardziej użyteczna. Oto krótka demonstracja:
 
-<img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
+<img src="../assets/example_4.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
 
-- In the first bar, we have a C♯<sup>5</sup> followed by just a bare C. Because it's the same letter-pitch in the same octave, it absorbs the sharp. Because it's now a C♯ in the same octave, it also absorbs the +5. So it reads C♯<sup>5</sup>, C♯<sup>5</sup>.
-- In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural; it cancels any FJS accidentals, but nothing else.** So this reads C♯<sup>5</sup>, C♯.
-- In the third bar, there is a C♯<sup>5</sup> followed by a C-natural. Since it is now a different Pythagorean pitch, the +5 is not absorbed, so this reads C♯<sup>5</sup>, C.
-- In the fourth bar, there is a C♯<sup>5</sup> followed by a C-natural with a +5 accidental. Now we have C♯<sup>5</sup>, C<sup>5</sup>; this case is least likely to be used.
+- W pierwszym takcie mamy *c*♯5, po którym następuje gołe *c*. Ponieważ druga nuta jest na tym samym polu, co pierwsza, dziedziczy ona krzyżyk ♯, a ponieważ jest to teraz *cis* w tej samej oktawie, dziedziczy również +5. W takim razie mamy *cis*<sup>5</sup>, *cis*<sup>5</sup>.
+- W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz tego.** W takim razie mamy *cis*<sup>5</cis>, *cis*.
+- W trzecim takcie mamy *c*♯5, po którym następuje *c*♮. Ponieważ drugie *c* jest różną wysokością od pierwszego *cis*, nie dziedziczy alteracji +5. W takim razie mamy *cis*<sup>5</sup>, *c*.
+- W czwartym takcie mamy *c*♯5, po którym następuje *c*♮5. W takim razie mamy *cis*<sup>5</sup>, *c*<sup>5</sup>. To najrzadsza opcja.
 
-One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or B<sup>5</sup> above G, etc.
+Jeszcze jedna rzecz: FJS także pozwala na dostawianie indeksów górnych i dolnych do interwałów. Tak naprawdę to w ten sposób FJS zapisuje JI-owe interwały. Na przykład 5/4 formalnie nazywa się 3<sup>5</sup> (tercja wielka +5) – to oznacza, że ten interwał znajdziemy pomiędzy *c* a *e*<sup>5</sup>, *f* a *a*<sup>5</sup>, *g* a *h*<sup>5</sup>, itd.
 
-OK, that's all you need to know to notate the prime intervals. Below is one more technique. The radius of tolerance is not needed anymore; the only place where the FJS uses the radius of tolerance is in the master algorithm, in computing the generator function of a prime.
+To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jeszcze jedną technikę. Nie potrzebujesz znać promienia tolerancji (jedyne miejsce, w którym jest on używany, to główny algorytm – do obliczania funkcji generujących).
 
-> ### FJS Technique \#3: To convert any arbitrary otonal prime interval into its FJS representation.
+> ### Technika FJS-owa nr 3: Zapisanie dowolnego otonalnego interwału pierwszego w FJS-ie.
 > 
-> 1. Compute the generator function of the prime.
-> 2. Write the interval generated by that number of fifths.
-> 3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
+> 1. Wylicz funkcję generującą dla tej liczby pierwszej.
+> 2. Zapisz interwał generowany przez tę ilość kwint.
+> 3. Dopisz dodatnią alterację tej liczby pierwszej – na przykład jeżeli zapisujesz 23/16, dopisz +23.
 >
-> **Example:** To write 7/4 in the FJS, we compute the generator function of 7 as −2. We write the interval generated by −2 fifths: C–F–B♭, so m7. The final step is to add the positive +7 accidental to obtain m7<sup>7</sup>. (Yes, it might look strange at first sight, but that's what it is.)
+> **Przykład.** Aby zapisać 7/4 w FJS-ie, wyliczamy funkcję generującą dla 7: −2. Zapisujemy interwał generowany przez −2 kwinty: *c*–*f*–*b*, a zatem 7 (septyma mała). Ostatecznie dopisujemy +7, uzyskując 7<sup>7</sup>. (Tak, wiem, wygląda to całkiem dziwnie, ale właśnie takie jest).
 
-(Deducing the inverse – the identity of an interval from its FJS representation given that it is an otonal prime interval – is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
+(Wynajdywanie odwrotnej informacji – tożsamości interwału z jego FJS-owego przedstawienia, wiedząc, że jest to otonalny interwał pierwszy – jest trywialne: to po prostu liczba pierwsza z indeksu górnego (tylko zredukowana)!).
 
-### Exercise 2
+### Ćwiczenia – zestaw 2
 
-(From this point onwards, the radius of tolerance is always assumed to be λ.)
+(Od tego momentu zakładamy, że promieniem tolerancji zawsze jest λ).
 
-1. Determine the generator function for the primes 11 and 13.
-2. Given that the generator for the prime 19 is −3, find the formal comma for 19.
-3. Given that the formal comma for the prime 47 is 47/48, find its generator.
-4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
-5. Notate the harmonic series on A up to the fourteenth harmonic.
-6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
+1. Znajdź funkcje generujące dla 11 i 13.
+2. Jeżeli funkcją generującą dla 19 jest −3, jaki jest komat formalny dla 19?
+3. Znajdź funkcję generującą dla 47, wiedząc, że jej komatem formalnym jest 47/48.
+4. Zapisz następującą skalę, przyjmując *e* za tonikę: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
+5. Zapisz szereg alikwotowy od *a* aż do czternastego alikwotu.
+6. (Trudne!). Zapisz *otonalny* szereg alikwotowy (czyli szereg alikwotów dolnych) od *a* aż do ósmego alikwotu dolnego.
 
-You can check your answers [here](solutions.html).
+Rozwiązania znajdziesz [tutaj](solutions.html).
 
 ## <a name="lesson_3">Lesson 3: Compound Accidentals</a>
 
