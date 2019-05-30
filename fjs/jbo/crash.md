@@ -41,7 +41,7 @@ i ku'i dunli
 ni'o lo bi'u nai selkai noi ka lo mecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka klani se me'e si'o togbasti
 i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
 i lo drata togyci'e zo'u go nai no nu togbasti kei ri cumki gi lo togyku'e pe lo nu togbasti cu drata
-i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo pavy'uspe be li ni'u ba'e ci cu dunli ja'e lo nu no'a fa lo gapyvonto'a lo nitmumto'a toi
+i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo ba'e relmecpavyto'aku'e cu dunli ja'e lo nu no'a fa lo gapyvonto'a lo nitmumto'a toi
 
 ni'o ku'i ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
 i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
