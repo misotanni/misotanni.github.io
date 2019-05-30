@@ -96,7 +96,7 @@ i xu pau nai rinka lo nu lo zgipre cu creze'a lo ka zmiku tu'a cy ty kei gi'e ku
 ni'o lo ka snici'e na sai jai se steci tu'a fy jy sy
 i lo nu mi zbasu fy jy sy cu nibli lo po'o nai nu mi jimpe fi lo simlu kalsa pe cy ty
 i ji'a fakri'a mi lo du'u lo zgisnici'e cu terjavni gi'e dunli cy ty so'i ue da
-i mi cpedu fi do ji'a fe lo ka zukte filo ka jimpe fi lo du'u melbi je frili fa fy jy sy kau kei e lo du'u lo ri zgike denxi'u pe'a cu jai rinka lo nu re sidbo poi simlu lo ka simxu lo ka srana te ki'i no da cu simxu lo ka ba'e simsa
+i mi cpedu fi do ji'a fe lo ka zukte fi lo ka jimpe fi lo du'u melbi je frili fa fy jy sy kau kei e lo du'u lo ri zgike denxi'u pe'a cu jai rinka lo nu re sidbo poi simlu lo ka simxu lo ka srana te ki'i no da cu simxu lo ka ba'e simsa
 
 ni'o karbi fy jy sy la lojban
 i ly noi runbau cu se finti fi lo nu facki lo du'u ma kau se cenba lo pensi pruce fo lo nu lo ri remna cu baupli su'o lojykai je jai smudra
