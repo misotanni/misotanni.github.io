@@ -25,7 +25,6 @@ Résultat: <br />
     outputInterval: "nom d'intervalle",
              ratio: "valeur",
            noInput: "Vous n'avez entré rien.",
-    lambdaInformer: "Vous n'avez entré rien; écrivez « default » pour remettre λ (maintenant %1) à sqrt(33/31).",
      cantFactorize: "« %1 » – je ne sais pas factoriser cela.",
         notANumber: "« %1 » n'est pas un nombre.",
        wrongFormat: "Je ne comprends pas la forme.",
@@ -37,6 +36,7 @@ Résultat: <br />
            notFrac: "L'entrée n'est pas une fraction (par exemple, 5/3 ou 928/777).",
               div0: "Pourquoi voulez-vous diviser par zéro?",
            notReal: "« %1 » n'est pas un nombre réel.",
+         radiusSet: "Set radius of tolerance to %1.",
 
              comma: "Trouver la fonction génératrice et le comma formel (ainsi que le nombre de cents pour ce comma) pour chaque nombre premier au-delà de 3.",
              tofjs: "Trouver la seule représentation FJS de chaque fraction. <br>Toutes les altérations FJS sont ici séparées, jamais multipliées. Des intervalles plus petits qu'un unisson sont écrits avec un nombre négatif pour représenter un intervalle descendant, par exemple, 5/4 est <code>M3^5</code> mais 4/5 est <code>M-3_5</code>. <br><strong>Remarque:</strong> la calculatrice utilise des noms anglais pour les intervalles: par exemple, « M3 » signifie une tierce majeure.",

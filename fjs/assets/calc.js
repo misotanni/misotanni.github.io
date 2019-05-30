@@ -6,7 +6,6 @@ var loc = {
             ratio: "value",
  
           noInput: "No input given.",
-   lambdaInformer: "No input given; type in 'default' to set λ (now %1) back to sqrt(33/31).",
     cantFactorize: "‘%1’ – not something I can factorize.",
        notANumber: "‘%1’ is not a number.",
       wrongFormat: "I don't understand the format.",
@@ -18,6 +17,7 @@ var loc = {
           notFrac: "Input is not a natural fraction (like 5/3 or 928/777).",
              div0: "Why would you divide by zero?",
           notReal: "‘%1’ is not a real number.",
+        radiusSet: "Set radius of tolerance to %1.",
 
             comma: "Find the generator function and formal comma (as well as give the cent size of this comma) for any input prime number greater than 3.",
             tofjs: "Find the unique FJS representation of any input positive fraction. <br>All FJS accidentals will be listed separate, never multiplied together. For intervals less than the perfect prime, a negative number is used to represent a downward interval. For instance, 5/4 is <code>M3^5</code>, while 4/5 is <code>M-3_5</code>.",
@@ -101,5 +101,5 @@ function setlambda(i) {
   if(isNaN(x)) throw new Error(loc.notReal.replace('%1', i));
   lambda = x;
   commaCache = {};
-  return "set radius of tolerance to " + x;
+  return loc.radiusSet.replace('%1', x);
 }

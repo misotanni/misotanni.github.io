@@ -25,7 +25,6 @@ i lo te pruce: <br />
     outputInterval: "interval name",
              ratio: "value",
            noInput: "i lo se pruce ca kunti",
-    lambdaInformer: "No input given; type in 'default' to set λ (now %1) back to sqrt(33/31).",
      cantFactorize: "i mi na ka'e kanji tu'a lo'i dilcymu'o be la'oi «%1»",
         notANumber: "i zo'oi «%1» sinxa no namcu",
        wrongFormat: "i mi na jimpe fi lo stura",
@@ -37,5 +36,6 @@ i lo te pruce: <br />
            notFrac: "i lo se pruce na frinu to mu'u zo'oi «5/3» e zo'oi «928/777» toi",
               div0: "i ai nai cumgau lo nu dilcu fi li no",
            notReal: "‘%1’ is not a real number."
+         radiusSet: "Set radius of tolerance to %1.",
   };
 </script>
