@@ -99,6 +99,11 @@ function parseInterval(name) {
   if((isPerfect && (variant == 'm' || variant == 'M')) ||
     (!isPerfect && variant == 'P'))
     throw new Error(loc.wrongIntVariant.replace('%1', steps + 1).replace('%2', variant));
+  if(!sign) {
+    var tmp = otonal;
+    otonal = utonal;
+    utonal = tmp;
+  }
   var modulation;
   switch(variant) {
     case 'M': case 'P':
@@ -173,9 +178,9 @@ function nameInterval(frac) {
     basicInt = (7 - basicInt) % 7;
     sharpCount *= -1;
     if(! isPerfect) sharpCount -= 1;
-    var tmp = otonalCommas;
-    otonalCommas = utonalCommas;
-    utonalCommas = tmp;
+    // var tmp = otonalCommas;
+    // otonalCommas = utonalCommas;
+    // utonalCommas = tmp;
   }
   var variant = '';
   if(sharpCount < -1 || sharpCount > 0 || (sharpCount == -1 && isPerfect)) {
