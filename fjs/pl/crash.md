@@ -11,7 +11,7 @@ Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię si
 * [Lekcja 1: Strój pitagorejski](#lesson_1)
 * [Lekcja 2: Interwały pierwsze](#lesson_2)
 * [Lekcja 3: Składanie alteracji](#lesson_3)
-* [Da Capo Al Fine: What Else?](#da_capo_al_fine)
+* [Da capo al fine: Co dalej?](#da_capo_al_fine)
 
 ---
 
@@ -431,10 +431,10 @@ Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadr
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-## <a name="da_capo_al_fine">Da Capo Al Fine: What Else?</a>
+## <a name="da_capo_al_fine">Da capo al fine: Co dalej?</a>
 
-This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and transposition lines. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
+To już *wszystko*, co potrzebujesz wiedzieć, by korzystać z FJS-u. Teraz możesz napisać dowolny utwór naturalny z użyciem właśnie niego. Pozostały jedynie pewne skrótowe metody zapisu, które wymyśliłem, by ułatwić sobie zapis – na przykład klucze i chwilowe transpozycje. Nie są one opisane tutaj – zamiast tego spójrz do [pełnego formalnego opisu](rules.html), by się o nich nauczyć (tam też powinieneś sięgać po reguły dla odniesienia).
 
-Except for those, that's it! You have already learned the entirety of the FJS in mere minutes. Go now, and may the FJS simplify your thinking when you next encounter Just Intonation.
+Oprócz tego to wszystko! Już nauczyłeś się całego FJS-u w kilka minut. Teraz idź w świat – niech FJS pomoże Ci ułatwić myślenie o JI, gdy je na swojej drodze napotkasz.
 
-**The End.**
+**Koniec.**
