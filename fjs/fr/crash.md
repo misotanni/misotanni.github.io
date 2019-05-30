@@ -277,7 +277,7 @@ Vous pouvez déjà représenter le premier groupe, même si vous ne le savez pas
 
 Ces identités ont beaucoup de corollaires très pratiques pour devenir encore plus courant. Considérez par exemple que deux notes avec les mêmes altérations FJS sont toujours séparées par un intervalle pythagoricien. Mi<sup>5</sup> et Fa♯<sup>5</sup>? Vous ne savez peut-être pas du tout ce qu'ils sont dans la tonalité de Si♭<sub>7</sub>, mais vous savez que l'intervalle entre eux est une seconde majeure pythagoricienne, alors 9/8. Élégant, n'est-ce pas?
 
-Vous pouvez aussi utiliser ces identités pour représenter le premier groupe d'intervalles manquants. Imaginez par exemple 15/8. Nous le divisions en deux parties: la pythagoricienne et le reste. Nous obtenons 3/2 et 5/4. Nous traduisons maintenant dans le FJS et puis nous additionnons les intervalles obtenus. 3/2 est une (quinte juste) et 5/4 est une (tierce majeure)<sup>5</sup>. La somme est une (septième majeure)<sup>5</sup>. C'est tout simplement l'addition conventionnelle d'intervalles, mais nous ajoutons les altérations FJS, et nous obtenons vraiment la représentation de 15/8 dans le FJS!
+Vous pouvez aussi utiliser ces identités pour représenter le premier groupe d'intervalles manquants. Imaginez par exemple 15/8. Nous le divisons en deux parties: la pythagoricienne et le reste. Nous obtenons 3/2 et 5/4. Nous traduisons maintenant dans le FJS et puis nous additionnons les intervalles obtenus. 3/2 est une (quinte juste) et 5/4 est une (tierce majeure)<sup>5</sup>. La somme est une (septième majeure)<sup>5</sup>. C'est tout simplement l'addition conventionnelle d'intervalles, mais nous ajoutons les altérations FJS, et nous obtenons vraiment la représentation de 15/8 dans le FJS!
 
 D'une manière différente: Le quinzième harmonique est comme le cinquième harmonique dans la tonalité de dominante. Pour représenter 15/8 sur Do, nous commençons avec une "modulation imaginaire" vers Sol. Ici, notre cible est tout simplement le cinquième harmonique, alors Si<sup>5</sup>, ce qui est donc aussi la représentation de 15/8 sur Do.
 
@@ -343,7 +343,7 @@ Mais: l'avantage le plus puissant du FJS est qu'il peut être complètement auto
 > ### Technique FJS \#4: Convertir chaque rapport JI en sa forme FJS automatiquement.
 >
 > 1. Factorisez le rapport.
-> 2. Pour chaque nombre premier *p* au-delà de 3, avec un exposant α<sub>*p*</sub>, enregistez α<sub>*p*</sub> pour chaque *p* et multipliez le rapport par
+> 2. Pour chaque nombre premier *p* au-delà de 3, avec un exposant α<sub>*p*</sub>, enregistrez α<sub>*p*</sub> pour chaque *p* et multipliez le rapport par
 >
 > 	$$(\text{comma} (p))^{-\alpha _p}$$
 >
@@ -383,7 +383,7 @@ C'est tout dont vous avez besoin pour utiliser *tout* le FJS et représenter *to
 
 Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS est *linéaire*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer par une (seconde majeure)<sup>5</sup>, on transpose d'abord par une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
 
-Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces; vous pourriez calculer ce tableau vous-même si vous vouliez (mais vous ne voudriez pas, donc je l'ai fait pour vous).
+Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces; vous auriez pu calculer ce tableau vous-même si vous aviez voulu (mais vous ne voudriez pas, donc je l'ai fait pour vous).
 
 | Nombre | Génératrice | Comma formel |
 |-------:|:-----------:|:------------:|
