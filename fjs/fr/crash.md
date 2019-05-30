@@ -1,6 +1,6 @@
 ﻿# Le Cours Intensif du FJS
 
-Vous êtes alors curieux ou curieuse de ce qui offert le FJS et vous voudriez l'apprendre.
+Vous êtes alors curieux ou curieuse de ce que le FJS offre et vous voudriez l'apprendre.
 
 Ce "cours intensif" a été créé pour juste ce but: pouvoir maîtriser tous les éléments obligatoires du FJS rapidement. Les abréviations du FJS ne sont pas mentionnées, puisque le système est complet aussi sans elles. Si tu as déjà de l'expérience avec l'intonation juste, l'apprentissage du FJS te semblera très facile, tu peux apprendre le système entier, avec sa beauté et élégance, en quelques minutes.
 
