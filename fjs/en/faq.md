@@ -24,10 +24,14 @@ I've outlined some of my reasoning on the [comparison](compare.html) page.
 
 ## Why the fuss if I can define my pitches at the top of a score?
 
-Sure, you can do that, but there are a few things you'll be missing on:
+Sure, you can do that, but there are a few things you'll be missing out on:
 
 - the ability to modulate to any foreign ‘key’ of your choice as you go, without the need for convoluted reassignments or cumbersome or verbose annotations;
 - the ‘one size fits all’ property of the FJS which, with very little notational overhead, allows you to use the same system for *all* JI, making way for an intuitive and firm understanding of the FJS's – and JI's – inner workings and mental shortcuts;
 - quick sightreading – even across scores.
 
 If you care about none of these, the FJS might not be the right choice for you. I recommend you give it a chance anyway.
+
+## What is this Just Intonation and natural tuning that you're so concerned about? Does that have anything to do with the New Age movement?
+
+No. Just Intonation is a science and theory of pitches and frequencies based on demonstrable acoustic properties of sound, and a form of music which uses these relation as the foundation of the chromatic palette that a piece uses, rather than equal divisions of the octave or what have you. The FJS is a formal system that facilitates intuitive understanding of the acoustic relations that JI researches. New Age is neither a science nor a theory, so you perhaps should look into such ‘sciences’ and ‘theories’such as [this](https://attunedvibrations.com/432hz/) alternative tuning that is ‘mathematically’ ‘consistent’ with ‘the universe’… Or maybe not.
