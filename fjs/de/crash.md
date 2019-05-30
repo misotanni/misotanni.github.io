@@ -175,6 +175,19 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 > 4. Beträgt die Differenz zwischen diesem Intervall und dem Primzahlintervall weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
+>
+> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die "Kommas" sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
+>
+> | Generator | Pythagoreisch |   Komma   |          Schlussfolgerungen |
+> |----------:|:-------------:|:---------:|----------------------------:|
+> |       0   |      1/1      |    5/4    |  386.31¢   ≥ λ; fortfahren. |
+> |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
+> |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
+> |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
+> |      −2   |     16/9      |   35/64   |  609.78¢   ≥ λ; fortfahren. |
+> |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
+> |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
+> |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
 
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
