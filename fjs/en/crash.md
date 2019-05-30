@@ -180,7 +180,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 >
 > | Generator | Pythagorean |   Comma   |                 Conclusions |
 > |----------:|:-----------:|:---------:|----------------------------:|
-> |      ±0   |     1/1     |    5/4    |  386.31¢   ≥ λ; continuing. |
+> |       0   |     1/1     |    5/4    |  386.31¢   ≥ λ; continuing. |
 > |      +1   |     3/2     |    5/6    |  315.64¢   ≥ λ; continuing. |
 > |      −1   |     4/3     |   15/16   |  111.73¢   ≥ λ; continuing. |
 > |      +2   |     9/8     |   10/9    |  182.40¢   ≥ λ; continuing. |
