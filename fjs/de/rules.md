@@ -50,7 +50,7 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 ## Regeln für das Erzeugen von FJS-Notennamen
 
-1. Für übliche Notenschrift benutzt das FJS die pythagoreische Stimmung. D.h. C–E ist 81/64, C–Des ist 256/243, Des–Cis ist 531441-524288, usw.
+1. Für übliche Notenschrift benutzt das FJS die pythagoreische Stimmung. D.h. C–E ist 81/64, C–Des ist 256/243, Des–Cis ist 531441/524288, usw.
 
 2. Ein einziges Komma der Primzahl *p* (größer als 3) wird die Zahl "p" selbst (am besten hochgestellt) benutzen, um eine Abweichung um dieses Komma **in der Originalrichtung** darzustellen. Z.B. E<sup>5</sup> ist um 81/80 **niedriger** als E (da das Komma von 5 80/81 beträgt); F<sup>11</sup> ist um 33/32 **höher** als F (da das Komma von 11 33/32 beträgt). Diese Notennamen spricht man aus, indem die Zahl dazugeklebt wird: "E-fünf", "F-elf". Dazu kann optional das Präfix "super" hinzugefügt werden, um die Trennung zu betonen. Gedenke, dass die Originalrichtung erhalten bleibt.
 
@@ -63,6 +63,8 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 6. Produkte positiver und negativer Kommas sind voneinander unabhängig. Sie werden gleichzeitig hoch- und tiefgestellt geschrieben, z.B. F<sup>7</sup><sub>5</sub> bedeutet F erniedrigt um 64/63 und dann erhöht um 81/80 (oder anders herum: zuerst erhöht um 81/80 und dann erniedrigt um 64/63, das Ergebnis bleibt gleich). Die Produkte für die positiven und negativen Kommas werden immer zueinander teilerfremd sein: falls nicht, dann gibt es Faktoren, die gekürzt werden können; \*C<sup>35</sup><sub>5</sub> ist das Gleiche wie C<sup>7</sup>.
 
 7. Die Zahl 1 bedeutet das Auflösen aller mikrotonalen Versetzungszeichen, genauso wie das Auflösungszeichen in üblicher Notenschrift. Sie kann man entweder hoch- oder tiefgestellt schreiben. Z.B. Die Abfolge C – D – E<sup>5</sup> – E<sup>1</sup> (oder einfach C – D – E<sup>5</sup> – E) bedeutet 1/1, 9/8, 5/4, 81/64 von C.
+
+8. Intervalle können dieselben Modifikatoren als Noten besitzen.
 
 ## Regeln für die Anwendung von FJS-Notennamen in Notenschrift
 
@@ -78,9 +80,9 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 ## Regeln für die Anwendung von FJS-Vorzeichen (\*)
 
-1. FJS-Vorzeichen funktionieren genauso wie pythagoreische, sind von ihnen unabhängig, und werden nach pythagoreischen Vorzeichen, wenn beide gleichzeitig vorhanden sind.
+1. FJS-Vorzeichen funktionieren genauso wie pythagoreische, sind von ihnen unabhängig, und werden nach pythagoreischen Vorzeichen, wenn beide gleichzeitig vorhanden sind, geschrieben.
 
-2. FJS-Vorzeichen können standardmäßig nur dort mikrotonale Versetzungszeichen hinfügen, wo die Töne bereits in einer Tonart diatonisch sind. Z.B. ein Stück in A-Dur, das die Vorzeichen Fis-Cis-Gis besitzt, kann normalerweise nur für die Noten A, H, Cis, D, E, Fis und Gis FJS-Vorzeichen erhalten. Weil diese Vorzeichen sie bereits normwidrig sind, gibt es keine vorgesetzte Reihenfolge, in der sie vorkommen müssen. Wegen des pythagoreischen Wesens des FJS kommt es aber oft vor, dass sie doch Fragmente der Reihenfolgen FCGDAEH oder HEADGCF enthalten.
+2. FJS-Vorzeichen können standardmäßig nur dort mikrotonale Versetzungszeichen hinfügen, wo die Töne bereits in einer Tonart diatonisch sind. Z.B. ein Stück in A-Dur, das die Vorzeichen Fis-Cis-Gis besitzt, kann normalerweise nur für die Noten A, H, Cis, D, E, Fis und Gis FJS-Vorzeichen erhalten. Weil diese Vorzeichen bereits normwidrig sind, gibt es keine vorgesetzte Reihenfolge, in der sie vorkommen müssen. Wegen des pythagoreischen Wesens des FJS kommt es aber oft vor, dass sie doch Fragmente der Reihenfolgen FCGDAEH oder HEADGCF enthalten.
 
 3. FJS-Vorzeichen können nicht-diatonische Töne auch modifizieren, indem sie auf dem korrekten Stammton geschrieben werden, und ihnen ein in Klammern geschriebenes pythagoreisches Versetzungszeichen folgt. Die Klammern sind notwendig, um zu wissen, dass das pythagoreische Versetzungszeichen selbst nicht gilt. Stattdessen ist die Bedeutung: wenn das pythagoreische Versetzungszeichen folgt, dann wird auch das mikrotonale Versetzungszeichen dazu angewendet. Die FJS-Vorzeichen für C-Dur harmonisch könnten so aussehen: H<sup>5</sup> E<sup>5</sup> A<sup>5</sup> As<sub>5</sub>. D.h. alle H, E, und A erhalten ein +5, und alle As erhalten ein −5. A wird nicht zu As; *wenn* es As ist, *dann* erhält es auch ein −5.
 
@@ -103,6 +105,12 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 3. Eine FJS-Transpositionslinie beginnt mit einem verbundenen FJS-Versetzungszeichen, genauso, wie man es bei einer Note schreiben würde. +5 erscheint also als "5", +7−5 erscheint als "7−5", usw. "loco" danach zu schreiben, ist nicht notwendig.
 
 4. Alle Noten unter einer FJS-Transpositionslinie **addieren** das Versetzungszeichen dieser Linie zu den üblichen Werten, die Versetzungszeichen und Vorzeichen bewirken.
+
+## Mehr experimentelle Elemente (\*)
+
+Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze "Dialekte" des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, oder mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen.
+
+Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
 
 ## Beispiele
 

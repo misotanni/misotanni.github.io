@@ -96,20 +96,24 @@ i xu pau nai rinka lo nu lo zgipre cu creze'a lo ka zmiku tu'a cy ty kei gi'e ku
 ni'o lo ka snici'e na sai jai se steci tu'a fy jy sy
 i lo nu mi zbasu fy jy sy cu nibli lo po'o nai nu mi jimpe fi lo simlu kalsa pe cy ty
 i ji'a fakri'a mi lo du'u lo zgisnici'e cu terjavni gi'e dunli cy ty so'i ue da
-i mi cpedu fi do ji'a fe lo ka zukte filo ka jimpe fi lo du'u melbi je frili fa fy jy sy kau kei e lo du'u lo ri zgike denxi'u pe'a cu jai rinka lo nu re sidbo poi simlu lo ka simxu lo ka srana te ki'i no da cu simxu lo ka ba'e simsa
+i mi cpedu fi do ji'a fe lo ka zukte fi lo ka jimpe fi lo du'u melbi je frili fa fy jy sy kau kei e lo du'u lo ri zgike denxi'u pe'a cu jai rinka lo nu re sidbo poi simlu lo ka simxu lo ka srana te ki'i no da cu simxu lo ka ba'e simsa
 
 ni'o karbi fy jy sy la lojban
 i ly noi runbau cu se finti fi lo nu facki lo du'u ma kau se cenba lo pensi pruce fo lo nu lo ri remna cu baupli su'o lojykai je jai smudra
-i ia fy jy sy panra lo jbobau lo ka bangu fi tu'a lo cmato'aku'e zgike
-i pe'i lo jbobau fa'u fy jy sy jai rinka lo nu lo baupli fa'u lo zgipli cu curve pensi ci'e lo logji fa'u cy ty
+i ia fy jy sy panra ly lo ka bangu fi tu'a lo cmato'aku'e zgike
+i pe'i ly fa'u fy jy sy jai rinka lo nu lo baupli fa'u lo zgipli cu curve pensi ci'e lo logji fa'u cy ty
 i ji'a ro zu'o zgike ke finti ja lanli ja tigni cu binxo co sarxe lo pu'i se djuno be fi lo zgike ente'ori
-i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgiky'ente'ori poi cabna cu kairjo'e lo me cy ty moi
+i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgike ente'ori poi cabna cu kairjo'e lo me cy ty moi
+
+## xu zvati fa la cafrai preti
+
+[ni'o ja'a go'i](faq.html)
 
 ## ca zukte ma
 
 ni'o tu'e
 
-- i zvati ti fa [la janli ve ctuca](crash.html) ku pe fy jy sy i fau lo ji'a nu so'o va'e jimpe fi cy ty cu sarcu lo nu cilre lo jicmu be lo fy jy sy sidbo kei fa tu'a lo mentu be li so'o po'o
+- i zvati ti fa [la janli xe ctuca](crash.html) ku pe fy jy sy i fau lo ji'a nu so'o va'e jimpe fi cy ty cu sarcu lo nu cilre lo jicmu be lo fy jy sy sidbo kei fa tu'a lo mentu be li so'o po'o
 - i tcidu [lo se javni](rules.html) fau lo nu fa'idji fi lo se senpi
 - i zgana [lo cmaci](math.html) pe fy jy sy i lo ctaipe be lo du'u fy jy sy cu pavysmu gi'e ckaji so'i da vau cu zvati ti
 - i mencti [lo xe karbi](compare.html) be fy jy sy bei lo re jivna snici'e no'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston i ba'o la'e di'u jimpe lo du'u fy jy sy zmadu re zo'e ma kau

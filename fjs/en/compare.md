@@ -20,6 +20,8 @@ Ben Johnston, on the other hand, does something a little more... innovative. It 
 - F – A, C – E, and G – B are 5/4 major thirds.
 - The standard sharp and flat represent accidentals of 25/24 (a Pythagorean chromatic semitone minus two syntonic commas; A1<sup>25</sup>).
 
+(A syntonic comma is 81/80.)
+
 This is done, I presume, so that C–E–G, F–A–C and G–B–D are all 4:5:6 major triads, and C–E♭–G, F–A♭–C and G–B♭–D are all 10:12:15 minor triads. Hence we get C–D–E–F–G–A–B–C as Ptolemy's intense diatonic or just major scale, and C–D–E♭–F–G–A♭–B♭–C as the just minor scale.
 
 I assume therefore that the alleged goal is to make the notation of 5-limit music based on diatonic harmony easier, at the cost of literally everything else.
@@ -66,6 +68,8 @@ Here is the list, up to the 61-limit, for Helmholtz-Ellis:
 A few of these accidentals coincide with those of the FJS: 5, 7, 11, 19, 23, and 43.
 
 What stands out most is that the accidentals for 17, 29, 31, 37, 41, 47, 53, 57, and 61 involve factors other than 2, 3, and the prime in question. In fact, the only Helmholtz-Ellis commas that are in the form of bridge numbers are those for 5, 7, 11, 13, 19, 23, and 43. (Among the primes between 32 and 64, only one of them – 43 – is in the form of a bridge number.)
+
+(The term *bridge number* is from the [mathematics page](math.html).)
 
 Why is this a problem? While these can still be represented, they require two accidentals combined from two different primes, which is unnecessarily confusing. It seems as though all commas after the 23-comma were specifically selected to be a ratio of the form $$\frac{n+1}{n}$$ (referred to as superparticular), often at the cost of having a complicated prime factorization. (What is particularly notable is that such a form does not even guarantee that the resulting comma is small. One famous comma in microtonal music theory, 1029/1024, the difference between a 3/2 fifth and three 8/7 septimal whole tones, is not of this form, yet it is particularly small.)
 
@@ -318,7 +322,7 @@ Ben Johnston notation does force the user to constantly multiply and divide, bec
 
 When you attempt to use Helmholtz-Ellis notation, you automatically assume the same restrictions that you were bound to with Ben Johnston notation: trying to figure out the value of a minor seventh using a major seventh minus a chromatic semitone. You criticize Helmholtz-Ellis for the fact that one of these intervals now requires four-digit numbers to represent, while Johnston usually works with up to two-digit numbers.
 
-The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths (major seventh) to then immediately return seven fifths back (chromatic semitone)? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its major seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
+The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths (major seventh) to then immediately return seven fifths back (chromatic semitone)? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its minor seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
 
 Your guide to figuring out the ratios from notation does indeed start at looking at the natural notes and figuring out the interval between them. This is because this interval *depends* on the natural notes in Johnston notation, so there indeed is no other way to figure it out. For example, D to E is 10/9, which is different from C to D, 9/8. Helmholtz-Ellis and the FJS do not have this absurd restriction. Every major second is 9/8. This allows a composer to be freed from the restriction of the diatonic scale when thinking in JI, and it allows one to translate interval names directly to ratios.
 

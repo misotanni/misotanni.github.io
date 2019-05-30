@@ -63,9 +63,13 @@ Pourquoi est-ce que j'ai pourtant décidé de réaliser cette idée? Pour la rai
 
 **Bien sûr que oui.**
 
-Le FJS, c'est beaucoup plus qu'un système de notation. Lorsque j'ai créé le système, il m'a permis de trouver un sens dans un chaos apparent de l'intonation juste. Il m'a démonstré que la notation de portée est beaucoup plus logique et plus liée à l'intonation juste que j'avais pensé. Pour toutes ces raisons, je vous invite aussi à connaître la facilité et la beauté du FJS et à comprendre comment ses roues dentées musicales connectent deux aspects qui semblent très éloignés.
+Le FJS, c'est beaucoup plus qu'un système de notation. Lorsque j'ai créé le système, il m'a permis de trouver un sens dans un chaos apparent de l'intonation juste. Il m'a démontré que la notation de portée est beaucoup plus logique et plus liée à l'intonation juste que j'avais pensé. Pour toutes ces raisons, je vous invite aussi à connaître la facilité et la beauté du FJS et à comprendre comment ses roues dentées musicales connectent deux aspects qui semblent très éloignés.
 
-Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour découvrir comment la pensée des gens se changerait si leur langue était complètement logique et avait du sens. Je crois que le FJS serait un "Lojban de la musique microtonale". Comme Lojban motive des gens à penser de manière logique, le FJS motive des musiciens à penser en intonation juste. C'est pourquoi il permet de lier la composition, l'analyse et la performance de cette musique à leur connaissance de la théorie de la musique, qui est elle-même liée à celle de JI.
+Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour découvrir comment la pensée des gens changerait si leur langue était complètement logique et avait du sens. Je crois que le FJS serait un "Lojban de la musique microtonale". Comme Lojban motive des gens à penser de manière logique, le FJS motive des musiciens à penser en intonation juste. C'est pourquoi il permet de lier la composition, l'analyse et la performance de cette musique à leur connaissance de la théorie de la musique, qui est elle-même liée à celle de JI.
+
+## FAQ: Y a-t-il un FAQ?
+
+[Il y en a!](faq.html)
 
 ## Quoi maintenant?
 

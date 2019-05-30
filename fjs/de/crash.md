@@ -2,7 +2,7 @@
 
 Also, du bist neugierig, was das FJS so bietet. Du möchtest lernen, es zu benutzen.
 
-Dieser "Crash-Kurs" ist genau in diesem Zweck gedacht: um alle notwendige Elemente des FJS schnell zu beherrschen. Die Kurzschrift des Systems wird nicht behandelt, da das System ohne ihr sowieso komplett ist. Falls du schon Erfahrung mit Naturtonstimmung hast, wird es dir sehr leicht fallen. Du kannst das ganze auf einmal in ein paar Minuten lernen. Seine Eleganz steht direkt vor dir.
+Dieser "Crash-Kurs" ist genau in diesem Zweck gedacht: um alle notwendige Elemente des FJS schnell zu beherrschen. Die Kurzschrift des Systems wird nicht behandelt, da das System ohne ihr sowieso komplett ist. Falls du schon Erfahrung mit Naturtonstimmung hast, wird es dir sehr leicht fallen. Du kannst das Ganze auf einmal in ein paar Minuten lernen. Seine Eleganz steht direkt vor dir.
 
 ## Inhalt
 
@@ -175,6 +175,19 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 > 4. Beträgt die Differenz zwischen diesem Intervall und dem Primzahlintervall weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
+>
+> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die "Kommas" sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
+>
+> | Generator | Pythagoreisch |   Komma   |          Schlussfolgerungen |
+> |----------:|:-------------:|:---------:|----------------------------:|
+> |       0   |      1/1      |    5/4    |  386.31¢   ≥ λ; fortfahren. |
+> |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
+> |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
+> |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
+> |      −2   |     16/9      |   35/64   |  609.78¢   ≥ λ; fortfahren. |
+> |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
+> |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
+> |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
 
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
@@ -193,7 +206,7 @@ Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes K
 - Bei Notennamen werden positive Versetzungszeichen hochgestellt und negative tiefgestellt.
 - Bei Notenschrift werden positive Versetzungszeichen als einfach die Primzahl, negative als die Primzahl mit einem Minus-Zeichen geschrieben.
 
-Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Statt dessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
+Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Stattdessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
 
 Diejenigen von euch, denen das Ben-Johnston-System schon bekannt ist, ist diese Idee nicht fremd. Für den Rest von euch:
 
@@ -289,7 +302,7 @@ Versuche diese Methoden, um die nächste Aufgabe zu lösen.
 
 1. Schreibe die FJS-Darstellungen folgender Frequenzverhältnisse: 5/3, 6/5, 7/6, 9/5.
 2. Finde die Frequenzverhältnisse folgender FJS-Intervalle: (große Sekunde)<sup>5</sup>, (große Terz)<sub>7</sub>, (kleine Septime)<sup>11</sup>.
-3. Notiere die ptolemäische Tonleiter im FJS. Die Verhältnisse lauten: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
+3. Notiere die ptolemäische Tonleiter im FJS von C. Die Verhältnisse lauten: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
 4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/exercise_2.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C">
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
@@ -300,7 +313,7 @@ Während du diese Identitäten verwendetest, um die Aufgabe zu lösen, hast du d
 
 Die Antwort auf diese Frage ist zufällig auch die Methode, die das FJS für die zweite Gruppe der übrigen Intervalle benutzt: *verbundene Versetzungszeichen*.
 
-Jeder FJS-Note oder jedem -Intervall kann man nicht nur eines, aber beliebig viele FJS-Versetzungszeichen hinzufügen. Die otonalen und utonalen sind immer getrennt, aber bei mehr als einem Versetzungszeichen derselben "Tonalität" (Otonalität oder Utonalität) verbindet man sie. Und zwar durch Multiplikation. Wieso? Weil sie alle Primzahlen sind; bei der Multiplikation (anders als z.B. bei der Addition oder Verkettung in der Basis zehn) geht die Information über die ursprünglichen Bestandteile nie verloren, denn jede positive ganze Zahl kann nur auf eine Weise wieder zerlegt werden, und die Reihenfolge macht keinen Unterschied.
+Jeder FJS-Note oder jedem -Intervall kann man nicht nur eines, aber beliebig viele FJS-Versetzungszeichen hinzufügen. Die Otonalen und Utonalen sind immer getrennt, aber bei mehr als einem Versetzungszeichen derselben "Tonalität" (Otonalität oder Utonalität) verbindet man sie. Und zwar durch Multiplikation. Wieso? Weil sie alle Primzahlen sind; bei der Multiplikation (anders als z.B. bei der Addition oder Verkettung in der Basis zehn) geht die Information über die ursprünglichen Bestandteile nie verloren, denn jede positive ganze Zahl kann nur auf eine Weise wieder zerlegt werden, und die Reihenfolge macht keinen Unterschied.
 
 Falls die Versetzungszeichen so verbunden werden, dass du nicht mehr auf den ersten Blick sehen kannst, wie sie sich faktorisieren (z.B. 119 = 7 × 17), kannst du sie auch getrennt hintereinander schreiben, mit Kommas zwischen jeder Primzahl (mit "Komma" wird hier natürlich das Satzzeichen, nicht ein kleines Intervall, gemeint). Das heißt, D<sup>7,17</sup> bedeutet genau dasselbe wie D<sup>119</sup>. Normalerweise sollten diese Primzahl in nicht-absteigender Reihenfolge geschrieben werden, aber jede Reihenfolge ist korrekt. Du kannst auch multiplizieren, wie du willst. Du kannst also z.B. G<sup>11,125</sup> schreiben, wobei du nur manche der Faktoren miteinander multiplizierst.
 
@@ -375,7 +388,7 @@ Beispielsweise wird E<sup>5</sup> als "E-fünf" oder "E-super-fünf" ausgesproch
 
 Falls du die Versetzungszeichen trennst, gibt es keinen Unterschied. A<sup>5,17</sup><sub>13</sub> wäre "A-(super)-fünf-siebzehn-sub-dreizehn". Das wort "sub" ist nur ein Terminator des otonalen Teils. Er markiert also, dass das Folgende zum utonalen Teil gehört.
 
-Was ASCII angeht: Es wäre problematisch, diese Namen auf dem Computer zu tippen, wegen der hoch- und tiefgestellten Zahlen. Alternativ kannst du tiefgestellte Versetzungszeichen mit einem Unterstrich markieren, wie üblich, und du kannst in demselben Sinne das Einschaltungszeichen für hochgestellte Versetzungszeichen benutzen. Das Einschaltungszeichen brauchst du aber nie im Deutschen. E<sup>5</sup> wäre E^5 oder einfach E5, und eine (große Terz)<sup>5</sup> wäre eine (große Terz)^5 oder einfach eine (große Terz)5.
+Was ASCII angeht: Es wäre problematisch, diese Namen auf dem Computer zu tippen, wegen der hoch- und tiefgestellten Zahlen. Alternativ kannst du tiefgestellte Versetzungszeichen mit einem Unterstrich markieren, wie üblich, und du kannst in demselben Sinne das Einschaltungszeichen für hochgestellte Versetzungszeichen benutzen. Das Einschaltungszeichen brauchst du aber nie im Deutschen. E<sup>5</sup> wäre `E^5` oder einfach `E5`, und eine (große Terz)<sup>5</sup> wäre eine `(große Terz)^5` oder einfach eine `(große Terz)5`.
 
 **Fertig!**
 

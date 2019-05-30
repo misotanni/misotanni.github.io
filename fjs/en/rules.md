@@ -62,6 +62,8 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 
 7. The number 1 represents canceling any microtonal accidentals, similar to the natural sign used to cancel standard accidentals. It can be written either in a superscript or a subscript. For example, the sequence C – D – E<sup>5</sup> – E<sup>1</sup> (or simply C – D – E<sup>5</sup> – E) represents the intervals 1/1, 9/8, 5/4, 81/64 above C.
 
+8. Intervals may have the same modifiers as notes.
+
 ## Rules for Using FJS Note Names in Notation
 
 1. To add positive comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, as an accidental. For consistency, just like standard accidentals are prepended to a note on a staff but appended to its name, the same happens to microtonal accidentals. They are written in front of the note, and if there is a standard accidental as well, then in front of the accidental.
@@ -101,6 +103,12 @@ $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
 3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with "5", a transposition line of +7−5 will begin with "7−5", etc. As with octave lines, "loco" following such a line is optional.
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
+
+## More Experimental Features (\*)
+
+From this point onwards, the FJS is open source! Make new shorthand features if you feel they are needed. You can make entire FJS dialects with nonstandard radii of tolerance (the calculator has a function for that), using commas for every odd limit rather than just every prime limit, or even having all positive accidentals be upward and all negatives be downward.
+
+I'm not a stubborn original creator who won't let anyone modify their work if the changes benefit the work. The FJS used to have so many bad features, some of which have gone through last-minute changes or removals. If you think you've made a nice new feature, share it with me by e-mail and I'll be happy to add it here.
 
 ## Examples
 

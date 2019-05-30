@@ -67,6 +67,10 @@ The FJS is much more than just a notation system for Just Intonation. The constr
 
 One concept I would compare the FJS to is Lojban: a constructed language that was created to see what would happen to people's thinking when the language they used was completely logical and actually made sense. I believe the FJS to be a Lojban for microtonal music. I think that, in the same way Lojban makes people think in logic terms, the FJS will help musicians *think* in JI, and their composition, analysis, and performance will be able to blend in much better with their existing knowledge of music theory, as the FJS allows existing music theory to be intertwined with JI music theory.
 
+## FAQ: Is there a FAQ?
+
+[Why indeed there is one!](faq.html)
+
 ## What Now?
 
 - Go here for a [crash course](crash.html) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
