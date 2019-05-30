@@ -27,7 +27,7 @@
 
 ## Zestaw 4
 
-1. 2><sup>7</sup>, 2<<sup>5</sup><sub>13</sub>, 4><sup>11</sup><sub>25</sub>.
+1. 2><sup>7</sup>, 2&lt;<sup>5</sup><sub>13</sub>, 4><sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solution_4_3.png" alt="c5–d5-es-g5–b, f–c1–es7–f–as5, b–c–d5–f–a5">
 4. Następujące pięć akordów:
