@@ -174,6 +174,19 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 > 4. Czy różnica między tym interwałym a podanym interwałem docelowym jest mniejsza niż promień tolerancji?
 > 5. Jeżeli tak: *k* to funkcja generująca. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
+>
+> **Przykład.** Poniżej: demonstracja działania algorytmu dla 5, przy promieniu tolerancji λ = sqrt(33/31). „Komaty” to testowe wartości komatu, obliczane poprzez podzielenie 5/4 przez testowe przybliżenia „pitagorejskie”.
+>
+> | Generator | Pitagorejskie |   Komat   |                     Wnioski   |
+> |----------:|:-------------:|:---------:|------------------------------:|
+> |       0   |      1/1      |    5/4    |  386.31¢   ≥ λ; kontynuujemy. |
+> |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; kontynuujemy. |
+> |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; kontynuujemy. |
+> |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; kontynuujemy. |
+> |      −2   |     16/9      |   35/64   |  609.78¢   ≥ λ; kontynuujemy. |
+> |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; kontynuujemy. |
+> |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; kontynuujemy. |
+> |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; kończymy.     |
 
 Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
 
