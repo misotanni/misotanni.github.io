@@ -22,7 +22,7 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 ## La conversion de chaque rapport JI en sa forme FJS
 
 > 1. Factorisez le rapport.
-> 2. Pour chaque nombre premier *p* au-delà de 3, avec un exposant α<sub>*p*</sub>, enregistez α<sub>*p*</sub> pour chaque *p* et multipliez le rapport par
+> 2. Pour chaque nombre premier *p* au-delà de 3, avec un exposant α<sub>*p*</sub>, enregistrez α<sub>*p*</sub> pour chaque *p* et multipliez le rapport par
 >
 > 	$$(\text{comma} (p))^{-\alpha _p}$$
 >
