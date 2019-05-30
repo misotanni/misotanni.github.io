@@ -2,72 +2,72 @@
 
 ni'o za'a a'u dai do kucli lo prali be fi tu'a fy jy sy i do djica lo nu cilre fi ri
 
-ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi ro jicmu selci be le ciste
-i na ctuca fo lo sutra ciska ciste noi na jai nibli lo du'u mulno
-i ga nai do djuno so'o da fi lo cuvyto'aci'e gi mutce frili do fa lo nu cilre fi fy jy sy
-i do ka'e cilre ro da fi'o se mentu li so'u
-i do ba zi lifri lo si'o melbi je frili
+ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi tu'a ro jicmu selci be le ciste
+i na ctuca fo lo jai nu sutri noi na jai sarcu lo nu mulno
+i ga nai do djuno so'o da lo cuvyto'aci'e gi mutce frili do fa lo ka cilre tu'a fy jy sy
+i ka'e ku do cilre ro da ca lo mentu be li so'u po'o
+i melbi je frili ri'i ko
 
 ## liste
 
-* [lo lidne zo'u: ko tolmorji lo si'o togbasti](#introduction)
-* [no mo'o: cfapru se djuno](#lesson_0)
+* [lo lidne zo'u: vimcu tu'a lo si'o togbasti](#introduction)
+* [no mo'o: sarcu co cfapru se djuno](#lesson_0)
 * [pa mo'o: cistrpitagora](#lesson_1)
 * [re mo'o: dilcysle togyku'e](#lesson_2)
 * [ci mo'o: pluja togystika](#lesson_3)
-* [la dakapo'alfin zo'u: ma stali](#da_capo_al_fine)
+* [la dakapo'alfin zo'u: ca mo](#da_capo_al_fine)
 
 ---
 
-## <a name="introduction">lo lidne zo'u: ko tolmorji lo si'o togbasti</a>
+## <a name="introduction">lo lidne zo'u: vimcu tu'a lo si'o togbasti</a>
 
 ni'o ro ma'a se slabu lo fadni zgisnici'e e lo ri fadni togystika
-i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e va'o lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
-i to mi cusku zo dunto'aci'e sa'u ba'o lo cabna toi
+i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e pe ma'i lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
+i to ba'o lo cabna zo'u ai cmene ri fa zo dunto'aci'e to'u toi
 
 ni'o mu'a ti se cmima ro se dunto'aci'e
 
 <img src="../assets/example_1.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
 
-ni'o no'e go'i i so'e roi ku jarco ti uo
+ni'o no'e drani i so'e roi jarco ti uo dai
 
 <img src="../assets/example_2.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
 
 ni'o ka'u u'e nai lo gapnonto'a lo nitpavyto'a cu basti
-i ma'a djuno lo du'u cmene re zgika'u poi simxu co se tonga
-i lo nu cuxna ma kau fi lo'i cmene cu se mukti lo nuntidyfrili e lo nunsto e lo nunsampu gi'e se krinu lo vanbi
+i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
+i lo du'u cmedu'a ma kau cu se nibli tu'a lo ni tcidu frili a lo ni stodi a lo ni sampu kei gi'e jai se krinu tu'a lo vanbi
 i ku'i dunli
 
-ni'o lo bi'u nai selkai noi ka lo mecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka se togyku'e ku'o cu se cmene lu lo si'o togbasti li'u
-i ji'a lo zgipre poi na se slabu ja sanji lo drata togyci'e cu la'a cu'i na djuno lo du'u le selkai cu kampu be na ku gi'e se ckaji lo dunto'aci'e ku po'o ru'e
-i lo drata togyci'e zo'u go nai no da togbasti gi lo togyku'e pe lo nu togbasti cu drata
-i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo ba'e relmecpavyto'aku'e cu dunli ja'e lo du'u lo gapyvonto'a lo nitmumto'a cu dunli toi
+ni'o lo bi'u nai selkai noi ka lo mecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka klani se me'e si'o togbasti
+i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
+i lo drata togyci'e zo'u go nai no nu togbasti kei ri cumki gi lo togyku'e pe lo nu togbasti cu drata
+i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo pavy'uspe be li ni'u ba'e ci cu dunli ja'e lo nu no'a fa lo gapyvonto'a lo nitmumto'a toi
 
-ni'o ku'i ei ko morji lo du'u lo nu sinxa lo zgike cu mutce purci lo nu lo dunto'aci'e cu rolzva gi'a se ba'e pensi
-i lo zgisnici'e cu se jicmu lo cistrxiioniiano noi ckaji so'i da ne mu'u lo ka se zbasu lo'i vonto'aku'e
-i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu lo drata
+ni'o ku'i ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
+i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
+i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u lo pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu su'o na'e bo dy
 
-ni'o va'i lo ka togbasti cu selte'i tu'a lo dunto'aci'e lo selkai be lo zgisnici'e
-i ro drata cu sezbanzu
+ni'o va'i lo ka togbasti cu se steci lo ka lo dunto'aci'e cu ckaji kei lo selkai be lo zgisnici'e
+i ro drata cu na'e srana
 
-## <a name="lesson_0">no mo'o: cfapru se djuno</a>
+## <a name="lesson_0">no mo'o: sarcu co cfapru se djuno</a>
 
-ni'o ei mi birti lo du'u do djuno je se slabu so'o jufra kei pu lo nu do cilre fi fy jy sy
+ni'o ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
 i tu'e
 
-- i djuno lo du'u ca'engau lo du'u ro togyku'e be va'o lo cuvyto'aci'e cu frinyna'u
-- i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u lo'o e li ci fi'u re lo'o e li mu fi'u vo lo'o e li ze fi'u vo
-- i djuno lo du'u jmina lo togyku'e ta'i lo nu pilji lo ty parbi kei gi'e vimcu ta'i lo nu fendi lo ty parbi kei gi'e fatne ta'i lo nu pavdilcu
-- i kakne lo ka pilno lo si'o toglai vau vau gi'e djuno lo du'u ge lo togytikyka'u fa'u lo zelto'aku'e cu toglai li pa no no fa'u pa re no no
-- i kakne lo ka kanji lo se toglai be lo nalvaime togyku'e se pi'o pa lo vi mekso
+- i djuno lo du'u smuxu'a fi lo cuvyto'aci'e fe lu'e su'o da poi ro togyku'e be va'o ke'a cu frinyna'u
+- i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u e li ci fi'u ree li mu fi'u voe li ze fi'u vo
+- i djuno lo du'u kanji lo du'u ma kau togyku'e ke sumji fa'u velvi'u fa'u dukti kei fo lo nu kanji lo du'u ma kau pilji fa'u parbi fa'u pavdilcu fe joi fi lo ty parbi
+- i kakne lo ka kanji tu'a lo toglai kei gi'e djuno lo du'u lo togytikyka'u pe lo dunto'aci'e ge'u fa'u lo zelto'aku'e cu toglai li pa no no fa'u li pa re no no
+- i kakne lo ka kanji lo se toglai be ro togyku'e fo su'o vi mekso
 	
-	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ sei dugri be fi li su'e ro}$$
+	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ sei dugri be fi su'o simxu mintu}$$
 	
 	$$\text{C}(d)=\log_c d \text{ , }c=\sqrt[1200]{2}$$
 
 tu'u
 
-ni'o ji'a ei ko se slabu ci da poi cmaci sidbo gi'e srana fy jy sy po'o
+ni'o ji'a ei se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
 
 The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C–G–D. Similarly a **minor third** is **−3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C–F–B♭–E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
 
@@ -79,7 +79,7 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 This is just about all you need, so let's get started!
 
-## <a name="lesson_1">Lesson 1: Pythagorean Tuning</a>
+## <a name="lesson_1">pa mo'o: cistrpitagora</a>
 
 You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
 
@@ -145,7 +145,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 
 You can check your answers [here](solutions.html).
 
-## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
+## <a name="lesson_2">re mo'o: dilcysle togyku'e</a>
 
 All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much – aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
 
@@ -276,7 +276,7 @@ OK, that's all you need to know to notate the prime intervals. Below is one more
 
 You can check your answers [here](solutions.html).
 
-## <a name="lesson_3">Lesson 3: Compound Accidentals</a>
+## <a name="lesson_3">ci mo'o: pluja togystika</a>
 
 You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime (including 3), like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
 
@@ -437,7 +437,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 
 You can check your answers [here](solutions.html).
 
-## <a name="da_capo_al_fine">Da Capo Al Fine: What Else?</a>
+## <a name="da_capo_al_fine">la dakapo'alfin zo'u: ca mo</a>
 
 This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and transposition lines. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
 
