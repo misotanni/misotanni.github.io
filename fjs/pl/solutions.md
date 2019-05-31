@@ -1,4 +1,4 @@
-# Rozwiązania do zadań z [intensywnego kursu](crash.md)
+﻿# Rozwiązania do zadań z [intensywnego kursu](crash.md)
 
 ## Zestaw 1
 
@@ -32,8 +32,8 @@
 3. <img src="../assets/solution_4_3.png" alt="c5–d5-es-g5–b, f–c1–es7–f–as5, b–c–d5–f–a5">
 4. Następujące pięć akordów:
 	- T: 1/1, 3/2, 5/4, 1/1
-	- \<D\> (T<sub>VI</sub>): 5/3, 5/3, 5/4, 1/1
-	- \<D\> (S<sub>II</sub>): 4/3, 5/3, 4/3, 10/9
+	- T<sub>VI</sub>: 5/3, 5/3, 5/4, 1/1
+	- S<sub>II</sub>: 4/3, 5/3, 4/3, 10/9
 	- D: 3/2, 3/2, 9/8, 15/8
 	- T: 1/1, 3/2, 5/4, 1/1
 5. <img src="../assets/solution_4_5.png" alt="a–b11_5, a–h5, a–h, a–h_7">
