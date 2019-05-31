@@ -145,7 +145,7 @@ Si vous avez déjà quelques connaissances en JI, vous avez déjà entendu parle
 
 En revanche, formalement, on trouve quelque chose d'étrange.
 
-Supposons que nous l'acceptons d'abord. 5/4 est alors un genre de tierce majeure. Donc nous l'écrivons comme tierce majeure, *avec un symbole supplémentaire qui signifie la différence.* La différence entre 5/4 et la tierce majeure pythagoricienne (81/64) ne s'élève qu'à 81/80, soit environ 22 cents. Pourquoi est-ce que c'est problématique? Parce qu'il y a beaucoup d'approximations plus précises, par exemple la quarte diminuée pythagoricienne (8192/6561) qui diffère par seulement 32805/32768, soit environ 2 cents!
+Supposons que nous l'acceptons d'abord. 5/4 est alors un genre de tierce majeure. Donc nous l'écrivons comme tierce majeure, *avec un symbole supplémentaire qui signifie la différence.* La différence entre 5/4 et la tierce majeure pythagoricienne (81/64) ne s'élève qu'à 81/80, soit environ 22 cents. Pourquoi est-ce que c'est problématique? Parce qu'il y a beaucoup d'approximations plus précises, par exemple la quarte diminuée pythagoricienne (8192/6561) qui diffère de seulement 32805/32768, soit environ 2 cents!
 
 Écoutez la différence entre 81/64 et 5/4:
 
@@ -206,7 +206,7 @@ Comme avec le dièse et le bémol, il y a toujours deux altérations différente
 - Lorsqu'on nomme les notes, on écrit l'altération positive en indice supérieur et la négative en indice inférieur.
 - Lorsqu'on les écrit sur la portée, on écrit l'altération positive comme le nombre lui-même et la négative avec un signe moins.
 
-Remarquez que j'utilise délibérément les mots "positif" et "négatif" au lieu de "ascendant" et "descendant", parce que dans le FJS, des altérations positives ne sont pas toujours ascendantes, et les négatives ne sont pas toujours descendantes. Au lieu de cela, **le positif est toujours otonal** et **le négatif est toujours utonal**. Cela signifie quelque chose de très important: *une altération FJS est toujours positive lorsqu'une approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même.* Par exemple, pour écrire 5/4 sur Do, on écrit d'abord Mi (l'approximation, 81/64) et puis on le transforme en 5/4 en utilisant une altération +5, donc Mi<sup>5</sup>. Ce +5 modifie par 81/80 en *bas*, en fait.
+Remarquez que j'utilise délibérément les mots "positif" et "négatif" au lieu de "ascendant" et "descendant", parce que dans le FJS, des altérations positives ne sont pas toujours ascendantes, et les négatives ne sont pas toujours descendantes. Au lieu de cela, **le positif est toujours otonal** et **le négatif est toujours utonal**. Cela signifie quelque chose de très important: *une altération FJS est toujours positive lorsqu'une approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même.* Par exemple, pour écrire 5/4 sur Do, on écrit d'abord Mi (l'approximation, 81/64) et puis on le transforme en 5/4 en utilisant une altération +5, donc Mi<sup>5</sup>. Ce +5 modifie de 81/80 en *bas*, en fait.
 
 Ceux qui connaissent le système de Ben Johnston vont reconnaître cette idée. Pour le reste, j'explique:
 
@@ -394,7 +394,7 @@ Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup
 
 C'est tout dont vous avez besoin pour utiliser *tout* le FJS et représenter *toute* l'intonation juste! Vous n'avez pas besoin d'apprendre aucuns nombres par cœur ou chercher dans des tableaux, rien! L'un des plus grands avantages de ce système est qu'il est complètement portable. Tout dont vous avez besoin pour le construire à partir de zéro, c'est le rayon de tolérance et des calculs. Les techniques que vous avez appris peuvent être automatisées et le système entier peut être géré par un ordinateur.
 
-Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS est *linéaire*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer par une (seconde majeure)<sup>5</sup>, on transpose d'abord par une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
+Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS est *linéaire*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une (seconde majeure)<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
 
 Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces; vous auriez pu calculer ce tableau vous-même si vous aviez voulu (mais vous ne voudriez pas, donc je l'ai fait pour vous).
 
@@ -428,7 +428,7 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (DIFFICILE!) Il y a une communité qui supporte la "musique 432 Hz", dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS par lequel un morceau serait transposé si cet accord était adopté.
+6. (DIFFICILE!) Il y a une communité qui supporte la "musique 432 Hz", dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
