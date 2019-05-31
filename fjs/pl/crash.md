@@ -168,10 +168,10 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 
 > ### Główny algorytm FJS
 > 
-> 1. Dany jest interwał pierwszy, zredukowany.
+> 1. Dany jest interwał pierwszy, *p*.
 > 2. Niech *k* = 0.
-> 3. Rozważ interwał złożony z *k* skoków o pitagorejską kwintę, zredukowany.
-> 4. Czy różnica między tym interwałym a podanym interwałem docelowym jest mniejsza niż promień tolerancji?
+> 3. Rozważ interwał złożony z *k* skoków o pitagorejską kwintę, *P*.
+> 4. Czy różnica między *p* a *P* jest mniejsza niż promień tolerancji?
 > 5. Jeżeli tak: *k* to funkcja generująca. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 >
@@ -183,12 +183,21 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 > |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; kontynuujemy. |
 > |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; kontynuujemy. |
 > |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; kontynuujemy. |
-> |      −2   |     16/9      |   35/64   |  609.78¢   ≥ λ; kontynuujemy. |
+> |      −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; kontynuujemy. |
 > |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; kontynuujemy. |
 > |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; kontynuujemy. |
 > |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; kończymy.     |
 
 Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
+
+Co do kroku 4:
+
+- Różnica jest rozpatrywana między takimi oktawami *p* i *P*, żeby była jak najmniejsza.
+- Różnica dotyczy faktycznego rozmiaru, czyli **wartości bezwzględnej** rozmiaru centowego. Tylko w tym kroku 16/15 i 15/16 są równoważne.
+
+Nie potrzebujesz wiedzieć tego ty, ale formalnie tę różnicę oblicza się tak:
+
+$$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
 
 Chociaż algorytm może wyglądać na mozolny, liczy się go bardzo szybko, także w głowie. 5/4 na pewno jest za daleko od oktawy, kwinty, kwarty, sekundy wielkiej, septymy małej, i seksty wielkiej. Wątpliwość jest tylko przy tercji małej. Jeśli odpada ona, to będzie to tercja wielka.
 
