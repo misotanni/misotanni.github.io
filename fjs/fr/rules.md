@@ -82,7 +82,7 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 
 1. Des armures FJS fonctionnent de la même manière que des pythagoriciennes, sont indépendantes des pythagoriciennes, et sont écrites après les pythagoriciennes si les deux existent en même temps.
 
-2. Des armures FJS peuvent par défaut ajouter des altérations microtonales seulement là où les tons sont déjà diatoniques dans une tonalité. Exemple: une pièce en La majeur qui a l'armure ♯Fa-Do-Sol peut par défaut recevoir des altérations d'armure seulement pour les notes La, Si, Do♯, Ré, Mi, Fa♯, et Sol♯. Puisque ces armures sont déjà irrégulières, il n'y a pas d'ordre obligatoire. Pourtant, grâce à la nature pythagoricienne du FJS, elles vont souvent arriver dans des fragments des ordres conventionnels (Fa-Do-Sol-Ré-La-Mi-Si ou l'ordre inverse).
+2. Des armures FJS peuvent normalement ajouter des altérations microtonales seulement là où les tons sont déjà diatoniques dans une tonalité. Exemple: une pièce en La majeur qui a l'armure ♯Fa-Do-Sol peut normalement recevoir des altérations d'armure seulement pour les notes La, Si, Do♯, Ré, Mi, Fa♯, et Sol♯. Puisque ces armures sont déjà irrégulières, il n'y a pas d'ordre obligatoire. Pourtant, grâce à la nature pythagoricienne du FJS, elles vont souvent arriver dans des fragments des ordres conventionnels (Fa-Do-Sol-Ré-La-Mi-Si ou l'ordre inverse).
 
 3. Des armures FJS peuvent aussi ajouter des altérations microtonales aux notes non diatoniques: on les écrit sur le ton diatonique correct, puis on ajoute une altération pythagoricienne en parenthèses. Les parenthèses sont indispensables pour qu'on sache que l'altération pythagoricienne ne compte pas elle-même. L'interprétation correcte: si l'altération pythagoricienne est utilisée dans la partition, l'altération microtonale aussi. Donc l'armure pour Do majeur - gamme majeure harmonique - serait: Si<sup>5</sup> Mi<sup>5</sup> La<sup>5</sup> La<sub>5</sub>(♭). Cela signifie que tous les Si, Mi, et La reçoivent un +5 et tous les La♭ reçoivent un -5. Cela ne signifie pas que tous les La reçoivent un bémol, mais que seulement les La bémol reçoivent un -5.
 
@@ -104,7 +104,7 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 
 3. Une ligne de transposition FJS commence avec une altération composée FJS, de la même manière que si elle était sur la portée. +5 devient donc « 5 » et +7−5 devient « 7−5 », etc. Il n'est pas obligatoire d'écrire « loco » lorsqu'elle termine.
 
-4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs défauts dûs aux altérations accidentelles et celles d'armure.
+4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs normales dues aux altérations accidentelles et celles d'armure.
 
 ## Plus d'éléments expérimentaux (\*)
 
