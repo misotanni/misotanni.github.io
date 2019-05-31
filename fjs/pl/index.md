@@ -1,4 +1,4 @@
----
+﻿---
 title: FJS (Funkcyjny System Stroju Naturalnego)
 ---
 
@@ -16,7 +16,7 @@ Witamy na stronie Funkcyjnego Systemu Stroju Naturalnego (FJS)!
 
 ## Czym jest FJS?
 
-**Funkcyjny System Stroju Naturalnego** (lub: „Funkcyjny System Naturalny”; ang. „Functional Just System”, w skrócie **FJS**) to nowa, rewolucyjna notacja dla muzyki w strojach naturalnych (ang. „Just Intonation”, w skrócie **JI**). By móc odzwierciedlić dowolny taki strój, rozszerza ona tradycyjny zapis nutowy. Swoim pięknem, pomysłem i prostotą przewyższa istniejące systemy notacji dla JI – w to włączając te Helmoltza-Ellisa i Bena Johnstona – co jest moim dotychczas największym osiągnięciem w dziedzinie muzyki mikrotonalnej.
+**Funkcyjny System Stroju Naturalnego** (lub: „Funkcyjny System Naturalny”; ang. „Functional Just System”, w skrócie **FJS**) to nowa, rewolucyjna notacja dla muzyki w strojach naturalnych (ang. „Just Intonation”, w skrócie **JI**). By móc odzwierciedlić dowolny taki strój, rozszerza ona tradycyjny zapis nutowy. Swoim pięknem, pomysłem i prostotą przewyższa istniejące systemy notacji dla JI – w to włączając te Helmholtza-Ellisa i Bena Johnstona – co jest moim dotychczas największym osiągnięciem w dziedzinie muzyki mikrotonalnej.
 
 FJS:
 
@@ -63,7 +63,7 @@ Dlaczego więc podjąłem się takiego zadania pomimo tych trudności? To dlateg
 
 **Tak – pozwoliłoby.**
 
-FJS to coś więcej niż metoda zapisu dla strojów naturalnych. Nie tylko ułatwiła mi ona zrozumienie na głębszym poziomie tego bezkształtnego rozgardiaszu, którym wydawało mi się na początku FJS, ale również uświadomiła mi, że notacja pięcioliniowa jest o wiele bardziej uporządkowana i powiązana z FJS-em, niż mogłem sobie wyobrazić. Zachęcam i Ciebie do odkrycia drzemiącego w FJS-ie piękna i prostoty oraz pojęcia płynnego współdziałania dzięki niemu dwóch inaczej niemożliwych do pogodzenia idei.
+FJS to coś więcej niż metoda zapisu dla strojów naturalnych. Nie tylko ułatwiła mi ona zrozumienie na głębszym poziomie tego bezkształtnego rozgardiaszu, którym wydawało mi się na początku JI, ale również uświadomiła mi, że notacja pięcioliniowa jest o wiele bardziej uporządkowana i powiązana z FJS-em, niż mogłem sobie wyobrazić. Zachęcam i Ciebie do odkrycia drzemiącego w FJS-ie piękna i prostoty oraz pojęcia płynnego współdziałania dzięki niemu dwóch inaczej niemożliwych do pogodzenia idei.
 
 Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, by sprawdzić, jak posługiwanie się logicznym i spójnym językiem wpłynęłoby na procesy myślowe. Uważam, że FJS jest jak Lożban mikrotonalnej muzyki. Tak samo, jak dzięki Lożbanowi zacząłem myśleć przejrzyście i logicznie, FJS może pomóc Tobie myśleć *w* JI, a Twoim kompozycjom, analizom i wykonaniom muzyki naturalnie strojonej zazębiać się gładko z już nabytą wiedzą teoretyczną, gdyż FJS przeplata elementy teorii klasycznej i JI-owej.
 
