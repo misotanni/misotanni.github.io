@@ -51,6 +51,8 @@ sub {
   top: 0.4em; 
 }
 
+/* http://code.iamkate.com/html-and-css/fixing-browsers-broken-monospace-font-handling/ */
 pre, code {
-  font-size: inherit;
+  font-family: monospace, monospace;
+  font-size: 1em;
 }
