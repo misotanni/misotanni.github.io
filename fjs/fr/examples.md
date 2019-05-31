@@ -63,7 +63,7 @@ Do, Ré<sup>5</sup>, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5</sup>, Si<sup>5</sup
 
 Do, Ré<sup>5</sup>, Ré, Mi<sup>5</sup>, Mi, Fa<sup>7</sup>, Fa, Sol, La<sup>5</sup>, La, Si<sup>5</sup>, Do<sup>7</sup>, Do
 
-### L'échelle harmonique 1-64
+### L'échelle harmonique 1–64
 
 | Do                | Do                | Sol              | Do               | Mi<sup>5</sup>   | Sol              | Si♭<sup>7</sup>  | Do              |
 | Ré                | Mi<sup>5</sup>    | Fa<sup>11</sup>  | Sol              | La♭<sup>13</sup> | Si♭<sup>7</sup>  | Si<sup>5</sup>   | Do              |
