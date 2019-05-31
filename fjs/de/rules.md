@@ -6,18 +6,20 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 ## Der FJS-Master-Algorithmus
 
-> 1. Lese die eingegebene Primzahl in reduzierter Form.
+> 1. Lese die eingegebene Primzahl und nenne sie *p*.
 > 2. Fange an mit *k* = 0.
-> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten, in reduzierter Form.
-> 4. Beträgt die Differenz zwischen diesem Intervall und dem Primzahlintervall weniger als der Toleranzradius?
+> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
+> 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
+>
+> Beim 4. Schritt ist die gemeinte Differenz $$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
 
 ## Das formale Komma
 
 > Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
 >
-> $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
+> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
 
 ## Die Umrechnung jedes JI-Verhältnisses in die entsprechende FJS-Form
 
@@ -82,15 +84,15 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 1. FJS-Vorzeichen funktionieren genauso wie pythagoreische, sind von ihnen unabhängig, und werden nach pythagoreischen Vorzeichen, wenn beide gleichzeitig vorhanden sind, geschrieben.
 
-2. FJS-Vorzeichen können standardmäßig nur dort mikrotonale Versetzungszeichen hinfügen, wo die Töne bereits in einer Tonart diatonisch sind. Z.B. ein Stück in A-Dur, das die Vorzeichen Fis-Cis-Gis besitzt, kann normalerweise nur für die Noten A, H, Cis, D, E, Fis und Gis FJS-Vorzeichen erhalten. Weil diese Vorzeichen bereits normwidrig sind, gibt es keine vorgesetzte Reihenfolge, in der sie vorkommen müssen. Wegen des pythagoreischen Wesens des FJS kommt es aber oft vor, dass sie doch Fragmente der Reihenfolgen FCGDAEH oder HEADGCF enthalten.
+2. FJS-Vorzeichen können standardmäßig nur dort mikrotonale Versetzungszeichen hinfügen, wo die Töne bereits in einer Tonart diatonisch sind. Z.B. ein Stück in A-Dur, das die Vorzeichen Fis–Cis–Gis besitzt, kann normalerweise nur für die Noten A, H, Cis, D, E, Fis und Gis FJS-Vorzeichen erhalten. Weil diese Vorzeichen bereits normwidrig sind, gibt es keine vorgesetzte Reihenfolge, in der sie vorkommen müssen. Wegen des pythagoreischen Wesens des FJS kommt es aber oft vor, dass sie doch Fragmente der Reihenfolgen FCGDAEH oder HEADGCF enthalten.
 
 3. FJS-Vorzeichen können nicht-diatonische Töne auch modifizieren, indem sie auf dem korrekten Stammton geschrieben werden, und ihnen ein in Klammern geschriebenes pythagoreisches Versetzungszeichen folgt. Die Klammern sind notwendig, um zu wissen, dass das pythagoreische Versetzungszeichen selbst nicht gilt. Stattdessen ist die Bedeutung: wenn das pythagoreische Versetzungszeichen folgt, dann wird auch das mikrotonale Versetzungszeichen dazu angewendet. Die FJS-Vorzeichen für C-Dur harmonisch könnten so aussehen: H<sup>5</sup> E<sup>5</sup> A<sup>5</sup> As<sub>5</sub>. D.h. alle H, E, und A erhalten ein +5, und alle As erhalten ein −5. A wird nicht zu As; *wenn* es As ist, *dann* erhält es auch ein −5.
 
 4. Wie bei üblichen Vorzeichen werden FJS-Vorzeichen mit FJS-Versetzungszeichen nicht "gemischt". Versetzungszeichen überschreiben die, die aus Vorzeichen stammen würden. Ein E<sub>7</sub> wegen des Versetzungszeichens −7 bleibt E<sub>7</sub>, auch wenn die Vorzeichen E<sup>5</sup> sagen. (Gemeint wird auf jeden Fall nicht E<sup>5</sup><sub>7</sub>.)
 
-5. Eine pythagoreische Vorzeichenänderung bedeutet nicht automatisch, dass die FJS-Vorzeichen sich auch ändern. Ein Stück, das mit den Vorzeichen Fis-Cis-Gis und F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> beginnt, wird seine FJS-Vorzeichen nicht verlieren, wenn das Stück nach As-Dur moduliert (B-Es-As-Des). Da keine FJS-Vorzeichenänderung geschah, bedeutet das immer noch, das in diesem As-Dur jedes Fis ein +5 erhält. Das sieht auf den ersten Blick komisch aus, da ein Fis in As-Dur nie erwartet ist. Aber tatsächlich ist das sinnvoll, denn so kann man das Wiederholen der FJS-Vorzeichen vermeiden, wenn eine einfache Modulation geschieht (z.B. Fis-Cis-Gis zu Fis-Cis). Es wird wahrscheinlich erwartet, dass das Fis und das Cis (und auch das Gis, welches in D-Dur auch vorkommen kann) weiter +5 erhalten.
+5. Eine pythagoreische Vorzeichenänderung bedeutet nicht automatisch, dass die FJS-Vorzeichen sich auch ändern. Ein Stück, das mit den Vorzeichen Fis–Cis–Gis und F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> beginnt, wird seine FJS-Vorzeichen nicht verlieren, wenn das Stück nach As-Dur moduliert (B–Es–As–Des). Da keine FJS-Vorzeichenänderung geschah, bedeutet das immer noch, das in diesem As-Dur jedes Fis ein +5 erhält. Das sieht auf den ersten Blick komisch aus, da ein Fis in As-Dur nie erwartet ist. Aber tatsächlich ist das sinnvoll, denn so kann man das Wiederholen der FJS-Vorzeichen vermeiden, wenn eine einfache Modulation geschieht (z.B. Fis–Cis–Gis zu Fis–Cis). Es wird wahrscheinlich erwartet, dass das Fis und das Cis (und auch das Gis, welches in D-Dur auch vorkommen kann) weiter +5 erhalten.
 
-6. Eine FJS-Vorzeichenänderung wird alle Vorzeichen in der vorherigen immer auflösen. Falls die pythagoreischen sich auch verändert haben (das geschieht immer, bevor die FJS-Vorzeichen sich ändern), dann werden die neuen FJS-Vorzeichen natürlich in Bezug auf die neuen diatonischen Töne definiert. Z.B. Fis-Cis-Gis F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> ist das ptolemäische A-Dur. Eine Veränderung der pythagoreischen Vorzeichen auf B-Es-As-Des bewirkt B-Es-As-Des Fis<sup>5</sup> Cis<sup>5</sup> Gis<sup>5</sup>. Aber wenn die FJS-Vorzeichen (geschrieben als F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>) einfach nach dieser pythagoreischen Veränderung wiederholt werden (also es steht: B-Es-As-Des F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>), verändert sich die Wirkung, denn die F, C, und G, die diatonisch in As-Dur sind, haben sich verändert: es sind jetzt F, C, und G, und nicht Fis, Cis, und Gis.
+6. Eine FJS-Vorzeichenänderung wird alle Vorzeichen in der vorherigen immer auflösen. Falls die pythagoreischen sich auch verändert haben (das geschieht immer, bevor die FJS-Vorzeichen sich ändern), dann werden die neuen FJS-Vorzeichen natürlich in Bezug auf die neuen diatonischen Töne definiert. Z.B. Fis–Cis–Gis F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> ist das ptolemäische A-Dur. Eine Veränderung der pythagoreischen Vorzeichen auf B–Es–As–Des bewirkt B–Es–As–Des Fis<sup>5</sup> Cis<sup>5</sup> Gis<sup>5</sup>. Aber wenn die FJS-Vorzeichen (geschrieben als F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>) einfach nach dieser pythagoreischen Veränderung wiederholt werden (also es steht: B–Es–As–Des F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>), verändert sich die Wirkung, denn die F, C, und G, die diatonisch in As-Dur sind, haben sich verändert: es sind jetzt F, C, und G, und nicht Fis, Cis, und Gis.
 
 7. Eine FJS-Vorzeichenänderung wird mit mindestens einem mikrotonalen Vorzeichen kenngezeichnet. Wenn man darstellen will, dass die vorherigen FJS-Vorzeichen alle aufgelöst sein sollen, kann man das mithilfe einer Serie von +1-Zeichen darstellen (das Äquivalent von Auflösungszeichen im FJS). Solche Auflösungen sind aber schon automatisch in jeder FJS-Vorzeichenänderung vorhanden. Gedenke, dass eine komplette Auflösung aller FJS-Vorzeichen ist nur sehr selten notwendig.
 

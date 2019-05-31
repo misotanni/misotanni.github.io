@@ -63,7 +63,7 @@ C, D<sup>5</sup>, D, E<sup>5</sup>, F, G, A<sup>5</sup>, H<sup>5</sup>, C
 
 C, D<sup>5</sup>, D, E<sup>5</sup>, E, F<sup>7</sup>, F, G, A<sup>5</sup>, A, H<sup>5</sup>, C<sup>7</sup>, C
 
-### Die Obertonreihe 1-64
+### Die Obertonreihe 1–64
 
 | C                | C                | G               | C               | E<sup>5</sup>   | G                | B<sup>7</sup>    | C             |
 | D                | E<sup>5</sup>    | F<sup>11</sup>  | G               | As<sup>13</sup> | B<sup>7</sup>    | H<sup>5</sup>    | C             |

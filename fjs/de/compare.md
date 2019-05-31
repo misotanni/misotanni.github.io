@@ -233,7 +233,7 @@ Also, du denkst jetzt wahrscheinlich, was für eine abstrakte Analyse, was ist m
 
 Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen kann, wie sich alle drei Systeme in Leistungsfähigkeit unterscheiden. (Bei Helmholtz-Ellis benutze ich für Notennamen einfach +5, +7, usw. für die oberen und −5, −7, usw. für die unteren Versetzungszeichen, genauso wie sie in der Notenschrift funktionieren.)
 
-### Die Obertonreihe 1-32
+### Die Obertonreihe 1–32
 
 **FJS.** Diese Tabelle zu schreiben, dauerte eine Minute.
 
@@ -242,7 +242,7 @@ Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen k
 | Des<sup>17</sup> | D               | Es<sup>19</sup> | E<sup>5</sup> | F<sup>7</sup>   | F<sup>11</sup> | Fis<sup>23</sup> | G |
 | Gis<sup>25</sup> | As<sup>13</sup> | A               | B<sup>7</sup> | B<sup>29</sup>  | H<sup>5</sup>  | H<sup>31</sup>   | C |
 
-**Helmholtz-Ellis.** Das dauerte zwei Minuten, und ich war zuerst nicht bei allen Ergebnissen sicher. Ich habe sie mit dem Rechner überprüft.
+**Helmholtz–Ellis.** Das dauerte zwei Minuten, und ich war zuerst nicht bei allen Ergebnissen sicher. Ich habe sie mit dem Rechner überprüft.
 
 | C        | C    | G     | C   | E−5    | G    | B−7     | C |
 | D        | E−5  | F+11  | G   | A−13   | B−7  | H−5     | C |
@@ -256,7 +256,7 @@ Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen k
 | C♯17 | D    | E♭19 | E   | F7+  | F↑  | F♯23+ | G |
 | G♯   | A♭13 | A+   | H7♭ | H♭29 | H   | H31   | C |
 
-### Das "Well-Tuned Piano" von La Monte Young
+### Das "Well–Tuned Piano" von La Monte Young
 
 **Youngs Notation.** (Die Noten sind nach Tonhöhe sortiert, deshalb steht Gis vor G, weil es eine niedrigere Tonhöhe ist.)
 
@@ -270,11 +270,11 @@ So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
 Es, F<sup>7</sup>, F, Ges<sup>49</sup>, As<sup>49</sup>, As<sup>7</sup>, B<sup>7</sup>, B, Ces<sup>49</sup>, Des<sup>49</sup>, Des<sup>7</sup>, Es<sup>7</sup>, Es.
 
-**Helmholtz-Ellis.** Genauso kurz wie das FJS bei Es.
+**Helmholtz–Ellis.** Genauso kurz wie das FJS bei Es.
 
 Es, F−7, F, Ges−7−7, As−7−7, As−7, B−7, B, Ces−7−7, Des−7−7, Des−7, Es−7, Es.
 
-**Ben Johnston.** Viel zu lang. Beachte auch die vielen syntonischen Kommas in einer Stimmung mit keinem 5-Faktor.
+**Ben Johnston.** Viel zu lang. Beachte auch die vielen syntonischen Kommas in einer Stimmung mit keinem 5er–Faktor.
 
 E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
 
@@ -322,15 +322,15 @@ Es stimmt, dass Ben-Johnston-Notation den Benutzer dazu zwingt, immer zu multipl
 
 Wenn du die Helmholtz-Ellis-Notation ausprobierst, nimmst du automatisch dieselben Einschränkungen an, als bei Johnston: du willst die Größe einer kleinen Septime mithilfe einer großen Septime minus einen chromatischen Halbton bestimmen. Du kritisierst Helmholtz-Ellis dafür, dass eines dieser Intervalle jetzt vierstellige Zahlen benutzt, während Johnston oft nur zweistellige Zahlen hat.
 
-Die kleine Septime ist aber so nah am Quintenzirkel; es sind einfach zwei reine Quarten, beide 4/3 (nicht so wie bei Johnston, wo C-F 4/3 beträgt, F-B aber 27/20). Wieso würdest du fünf Quinten (große Septime) nach oben gehen, und dann wieder sieben Quinten (chromatischer Halbton) nach unten? Würdest du von North Carolina nach South Carolina durch Maine reisen? Nur deswegen, dass die kleine Septime von C mit einem Be geschrieben wird, heißt nicht, dass du sie so sehen musst; du tust es, weil Johnston dich dazu zwingt. Moduliere doch nach D. Dort ist die kleine Septime ein Stammton. Im Vergleich zu Johnston ändert sich ihre Größe aber nicht.
+Die kleine Septime ist aber so nah am Quintenzirkel; es sind einfach zwei reine Quarten, beide 4/3 (nicht so wie bei Johnston, wo C–F 4/3 beträgt, F–B aber 27/20). Wieso würdest du fünf Quinten (große Septime) nach oben gehen, und dann wieder sieben Quinten (chromatischer Halbton) nach unten? Würdest du von North Carolina nach South Carolina durch Maine reisen? Nur deswegen, dass die kleine Septime von C mit einem Be geschrieben wird, heißt nicht, dass du sie so sehen musst; du tust es, weil Johnston dich dazu zwingt. Moduliere doch nach D. Dort ist die kleine Septime ein Stammton. Im Vergleich zu Johnston ändert sich ihre Größe aber nicht.
 
-Dein Algorithmus dafür, die JI-Verhältnisse aus der Notation zu berechnen, beginnt tatsächlich damit an, die Stammtöne zu analysieren. Es ist deswegen so, dass dieses Intervall von den Noten bei Johnston *abhängt*, es gibt also keinen anderen Weg. D zu E ist zum Beispiel 10/9, ein anderes Intervall als C zu D, 9/8. Helmholtz-Ellis und das FJS haben diese unsinnige Beschränkung nicht. Jede große Sekunde ist 9/8. Deshalb kann ein Komponist befreit davon sein, immer in der diatonischen Tonleiter zu denken, und es erlaubt uns, Intervallnamen direkt in Verhältnisse zu übersetzen.
+Dein Algorithmus dafür, die JI–Verhältnisse aus der Notation zu berechnen, beginnt tatsächlich damit an, die Stammtöne zu analysieren. Es ist deswegen so, dass dieses Intervall von den Noten bei Johnston *abhängt*, es gibt also keinen anderen Weg. D zu E ist zum Beispiel 10/9, ein anderes Intervall als C zu D, 9/8. Helmholtz–Ellis und das FJS haben diese unsinnige Beschränkung nicht. Jede große Sekunde ist 9/8. Deshalb kann ein Komponist befreit davon sein, immer in der diatonischen Tonleiter zu denken, und es erlaubt uns, Intervallnamen direkt in Verhältnisse zu übersetzen.
 
 Dass C zu B 16/9 beträgt, könntest du auf vielerlei Weisen herausfinden, alle davon viel einfacher als 243/128 mal 2048/2187; du hast den schwierigsten Weg dazu gefunden (den einzigen möglichen, um bei Johnston 9/5 zu erhalten).
 
-Du könntest zum Beispiel bemerken, dass C und B beide keine mikrotonalen Versetzungszeichen haben, deshalb per Definition der Stammtöne muss die kleine Septime zwischen ihnen pythagoreisch sein, also 16/9. Oder du könntest bemerken, dass sie aus zwei 4/3-Quarten besteht, also 16/9. Oder du könntest bemerken, dass sie die Umkehrung des 9/8-Ganztons ist, also 16/9. Das FJS gibt dir so eine Freiheit schneller und effektiver Wege, zu lesen und zu schreiben, nicht wie der langsame, langweilige Prozess Johnstons.
+Du könntest zum Beispiel bemerken, dass C und B beide keine mikrotonalen Versetzungszeichen haben, deshalb per Definition der Stammtöne muss die kleine Septime zwischen ihnen pythagoreisch sein, also 16/9. Oder du könntest bemerken, dass sie aus zwei 4/3–Quarten besteht, also 16/9. Oder du könntest bemerken, dass sie die Umkehrung des 9/8–Ganztons ist, also 16/9. Das FJS gibt dir so eine Freiheit schneller und effektiver Wege, zu lesen und zu schreiben, nicht wie der langsame, langweilige Prozess Johnstons.
 
-So wie ich es sehe, bist du zu Handschellen bei Johnston gewohnt, und paralysiert, wenn Helmholtz-Ellis oder das FJS dich befreien, wegen der vielen Jahre in den Handschellen.
+So wie ich es sehe, bist du zu Handschellen bei Johnston gewohnt, und paralysiert, wenn Helmholtz–Ellis oder das FJS dich befreien, wegen der vielen Jahre in den Handschellen.
 
 Schalte dich auf das FJS um. Es wird die Mathematik und Notation deiner Kompositionen **vielfach vereinfachen**.
 
