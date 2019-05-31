@@ -191,6 +191,8 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 
 Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
 
+Bien que l'algorithme semble très long, en fait, il est très rapide, mentalement aussi. 5/4 est évidemment trop éloigné pour être une octave, quinte, quarte, seconde majeure, septième mineure, ou sixte majeure. Il ne faut que vérifier si elle pourrait être une tierce mineure. Sinon, elle devient alors une tierce majeure.
+
 L'algorithme trouve alors pour chaque intervalle premier l'approximation pythagoricienne la plus simple dans les limites du rayon de tolérance. La différence devient un **comma formel** et reçoit une altération FJS. Pour calculer le comma formel, on utilise la formule suivante:
 
 > ### Le comma formel
@@ -394,7 +396,7 @@ Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup
 
 C'est tout dont vous avez besoin pour utiliser *tout* le FJS et représenter *toute* l'intonation juste! Vous n'avez pas besoin d'apprendre aucuns nombres par cœur ou chercher dans des tableaux, rien! L'un des plus grands avantages de ce système est qu'il est complètement portable. Tout dont vous avez besoin pour le construire à partir de zéro, c'est le rayon de tolérance et des calculs. Les techniques que vous avez appris peuvent être automatisées et le système entier peut être géré par un ordinateur.
 
-Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS est *linéaire*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une (seconde majeure)<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
+Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS a un *isomorphisme*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une (seconde majeure)<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
 
 Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces; vous auriez pu calculer ce tableau vous-même si vous aviez voulu (mais vous ne voudriez pas, donc je l'ai fait pour vous).
 
