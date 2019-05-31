@@ -2,7 +2,7 @@
 
 Vous êtes alors curieux ou curieuse de ce que le FJS offre et vous voudriez l'apprendre.
 
-Ce "cours intensif" a été créé pour juste ce but: pouvoir maîtriser tous les éléments obligatoires du FJS rapidement. Les abréviations du FJS ne sont pas mentionnées, puisque le système est complet aussi sans elles. Si vous avez déjà de l'expérience avec l'intonation juste, l'apprentissage du FJS vous semblera très facile, vous pouvez apprendre le système entier, avec sa beauté et élégance, en quelques minutes.
+Ce «cours intensif» a été créé pour juste ce but: pouvoir maîtriser tous les éléments obligatoires du FJS rapidement. Les abréviations du FJS ne sont pas mentionnées, puisque le système est complet aussi sans elles. Si vous avez déjà de l'expérience avec l'intonation juste, l'apprentissage du FJS vous semblera très facile, vous pouvez apprendre le système entier, avec sa beauté et élégance, en quelques minutes.
 
 ## Contenu
 
@@ -17,21 +17,21 @@ Ce "cours intensif" a été créé pour juste ce but: pouvoir maîtriser tous le
 
 ## <a name="introduction">Introduction: Abandonnez l'enharmonie</a>
 
-Nous sommes tous habitués à la notation de portée conventionnelle, et à ses dièses et bémols. Mais nous ne voyons pas toujours que nous avons appris la notation de portée dans le contexte du tempérament égal omniprésent. (À partir d'ici, ce cours va utiliser l'abréviation 12-EDO, de l'anglais "Equal Divisions of the Octave").
+Nous sommes tous habitués à la notation de portée conventionnelle, et à ses dièses et bémols. Mais nous ne voyons pas toujours que nous avons appris la notation de portée dans le contexte du tempérament égal omniprésent. (À partir d'ici, ce cours va utiliser l'abréviation 12-EDO, de l'anglais «Equal Divisions of the Octave»).
 
 Par exemple, ici nous avons la gamme chromatique:
 
-<img src="../assets/example_1.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
+<img src="../assets/example_1.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–La♯–Si–Do">
 
 Non, attendez. On l'écrit normalement comme ça:
 
-<img src="../assets/example_2.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
+<img src="../assets/example_2.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–Si♭–Si–Do">
 
 Pour nous, bien sûr, il n'y a pas de différence entre La dièse et Si bémol. Nous savons que ce sont deux noms différents qui signifient deux notes différentes de hauteur identique. Le choix de la notation dépend donc de la lisibilité ou la cohérence ou la simplicité, selon le sens, mais les deux signifient le même.
 
 Cette qualité, d'avoir une seconde diminuée de la même hauteur que l'unisson, a un nom: l'enharmonie. Des musiciens qui ne connaissent (ou sont conscients de) aucune intonation alternative ne savent peut-être pas que cette qualité n'est pas du tout universelle. Il n'y a que quelques intonations, y compris 12-EDO, qui en disposent. Dans d'autres, soit il n'y a aucune enharmonie, soit un autre intervalle que la seconde diminuée est équivalent à l'unisson. (Par exemple, en 19-EDO, c'est la seconde sous-diminuée, donc Mi dièse et Fa bémol sont équivalents.)
 
-Mais n'oublions pas que la notation de portée fut inventée beaucoup avant l'idée (sans parler d'une domination) de 12-EDO. Cette notation a été basée sur la gamme diatonique qui a beaucoup de qualités simultanées dont une est importante pour nous: le fait qu'elle est construit d'une séquence de quintes justes (Fa-Do-Sol-Ré-La-Mi-Si). D'ailleurs, le *fait* que nous avons plusieurs moyens de décrire la même hauteur dans notre notation signifie que son origine était différent.
+Mais n'oublions pas que la notation de portée fut inventée beaucoup avant l'idée (sans parler d'une domination) de 12-EDO. Cette notation a été basée sur la gamme diatonique qui a beaucoup de qualités simultanées dont une est importante pour nous: le fait qu'elle est construit d'une séquence de quintes justes (Fa–Do–Sol–Ré–La–Mi–Si). D'ailleurs, le *fait* que nous avons plusieurs moyens de décrire la même hauteur dans notre notation signifie que son origine était différent.
 
 L'enharmonie est donc le seul aspect de 12-EDO dans la notation de portée. Le reste fonctionne aussi sans 12-EDO.
 
@@ -51,9 +51,9 @@ Avant l'apprentissage du FJS, il y a encore quelques informations supplémentair
 
 En outre, il y a trois autres idées mathématiques que vous devez connaître mais qui ne se produisent hors FJS.
 
-Premièrement, vous devez pouvoir rapidement convertir **un intervalle conventionnel** (sans enharmonie) au **nombre de quintes** qui construisent cet intervalle. Une **seconde majeure** par exemple devient **+2** quintes puisqu'il en faut deux (dans le sens des aiguilles d'une montre) pour obtenir une seconde majeure: Do-Sol-Ré. De plus, une **tierce mineure** devient **−3** quintes puisqu'il faut trois quartes, donc trois quintes dans le sens inverse: Do-Fa-Si♭-Mi♭. Chaque intervalle conventionnel correspond exactement à un nombre de quintes. Il vous faut pouvoir convertir de l'un à l'autre et inversement, rapidement.
+Premièrement, vous devez pouvoir rapidement convertir **un intervalle conventionnel** (sans enharmonie) au **nombre de quintes** qui construisent cet intervalle. Une **seconde majeure** par exemple devient **+2** quintes puisqu'il en faut deux (dans le sens des aiguilles d'une montre) pour obtenir une seconde majeure: Do–Sol–Ré. De plus, une **tierce mineure** devient **−3** quintes puisqu'il faut trois quartes, donc trois quintes dans le sens inverse: Do–Fa–Si♭–Mi♭. Chaque intervalle conventionnel correspond exactement à un nombre de quintes. Il vous faut pouvoir convertir de l'un à l'autre et inversement, rapidement.
 
-Deuxièmement, vous devez savoir factoriser un nombre rationnel. Vous savez que chaque **entier positif** peut être écrit d'une unique façon comme un produit de nombres premiers dont les exposants sont des **entiers naturels** (théorème fondamental de l'arithmétique). Par analogie, chaque **nombre rationnel positif** peut être écrit d'une unique façon comme un produit de nombres premiers dont les exposants sont des **entiers relatifs**. Avec humour, je vais appeler ce théorème le "théorème fondamental de l'harmonie". Par exemple, 6/5 se factorise en 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> et il n'y a que cette seule factorisation. (Puisque c'est un cours intensif, j'élimine l'aspect mathématique, mais [il est disponible](math.html) pour les lecteurs curieux. Chaque fois que je mentionne un théorème, vous le trouverez là-bas.)
+Deuxièmement, vous devez savoir factoriser un nombre rationnel. Vous savez que chaque **entier positif** peut être écrit d'une unique façon comme un produit de nombres premiers dont les exposants sont des **entiers naturels** (théorème fondamental de l'arithmétique). Par analogie, chaque **nombre rationnel positif** peut être écrit d'une unique façon comme un produit de nombres premiers dont les exposants sont des **entiers relatifs**. Avec humour, je vais appeler ce théorème le «théorème fondamental de l'harmonie». Par exemple, 6/5 se factorise en 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> et il n'y a que cette seule factorisation. (Puisque c'est un cours intensif, j'élimine l'aspect mathématique, mais [il est disponible](math.html) pour les lecteurs curieux. Chaque fois que je mentionne un théorème, vous le trouverez là-bas.)
 
 Troisièmement, vous devez pouvoir utiliser la forme réduite d'un intervalle. En pratique, pour la trouver, on doit soit multiplier, soit diviser par deux jusqu'à ce que l'intervalle est entre 1 (inclu) et 2 (exclu). C'est similaire au phénomène de *l'équivalence de l'octave*, selon laquelle nous percevons des hauteurs de ton comme équivalentes si elles diffèrent par un multiple de l'octave (2/1). Par exemple 7/1 se transforme en 7/4 et 1/6 en 4/3. La forme réduite peut être calculée selon la formule:
 
@@ -69,7 +69,7 @@ Imaginez la séquence d'intervalles suivante: 11/10, 10/9, 9/8, 8/7. Écoutez:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-La plupart d'entre nous entend ici quatre "secondes environ majeures". Mais ce serait injuste de les nommer égales et représenter toutes avec une seconde majeure sur la portée. Ce sont de différents intervalles. L'élimination de ces différences dans un système où elles comptent le plus est une erreur.
+La plupart d'entre nous entend ici quatre «secondes environ majeures». Mais ce serait injuste de les nommer égales et représenter toutes avec une seconde majeure sur la portée. Ce sont de différents intervalles. L'élimination de ces différences dans un système où elles comptent le plus est une erreur.
 
 Vous pensez alors peut-être qu'il y a une position intermédiaire, une partie de l'intonation juste qui peut être assignée sans équivoque à la notation de portée sans enharmonie, et vous avez encore raison. Cette position intermédiaire est l'intonation juste au 3-limite, aussi appelée accord pythagoricien.
 
@@ -88,7 +88,7 @@ Vous êtes prêt ou prête pour apprendre les deux premières techniques FJS.
 > 3. Si l'exposant de 3 est positif, additionnez autant de quintes dans le sens des aiguilles d'une montre. Si négatif, dans le sens inverse. Vous obtenez un intervalle.
 > 4. Réduisez, puis ajustez l'octave.
 >
-> **Exemple:** Pour convertir 9/8 en FJS, d'abord, nous factorisons: 2<sup>−3</sup> 3<sup>2</sup>. L'exposant de 3 est +2, donc nous additionnons deux quintes: Do-Sol-Ré. On obtient une seconde majeure.
+> **Exemple:** Pour convertir 9/8 en FJS, d'abord, nous factorisons: 2<sup>−3</sup> 3<sup>2</sup>. L'exposant de 3 est +2, donc nous additionnons deux quintes: Do–Sol–Ré. On obtient une seconde majeure.
 
 > ### Technique FJS \#2: Convertir une forme FJS en rapport pythagoricien.
 > 
@@ -97,7 +97,7 @@ Vous êtes prêt ou prête pour apprendre les deux premières techniques FJS.
 > 3. Calculez $$\text{red}(3^n)$$.
 > 4. Ajustez l'octave.
 >
-> **Exemple:** Pour convertir la tierce mineure dans le FJS en rapport pythagoricien, nous découvrons d'abord que la tierce mineure fait −3 quintes: Do-Fa-Si♭-Mi♭. $$\text{red}(3^{-3})$$ égale 32/27.
+> **Exemple:** Pour convertir la tierce mineure dans le FJS en rapport pythagoricien, nous découvrons d'abord que la tierce mineure fait −3 quintes: Do–Fa–Si♭–Mi♭. $$\text{red}(3^{-3})$$ égale 32/27.
 
 Ceux-ci sont les plus fréquents:
 
@@ -120,7 +120,7 @@ Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non! Pour 
 
 1. Calculez les intervalles FJS qui correspondent à ces rapports pythagoriciens: 2187/2048, 1024/729, 8192/6561.
 2. Calculez les rapports pythagoriciens qui correspondent à ces intervalles: septième diminuée, quinte augmentée, tierce diminuée.
-3. Trouvez les rapports entre les degrés de cette gamme: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
+3. Trouvez les rapports entre les degrés de cette gamme: <img src="../assets/exercise_1.png" alt="Mi–Fa♯–La–Si–Ré–Mi">
 4. Écrivez cette gamme dans le FJS avec la tonique Ré: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Calculez le rapport du comma pythagoricien (dans le FJS, une seconde diminuée).
 6. (DIFFICILE!) Le rapport pythagoricien 3<sup>53</sup>/2<sup>84</sup> est minuscule: il ne compte qu'environ 3.6 cents. Trouvez sa représentation FJS.
@@ -139,9 +139,9 @@ L'étape suivante: savoir représenter les intervalles premiers. Ce sont des int
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
-Nous savons déjà représenter 2 et 3: ce sont l'octave et la quinte. À partir d'ici, quand je dis "intervalles premiers", cela signifie seulement ceux qui sont associés aux nombres premiers au-delà de 3.
+Nous savons déjà représenter 2 et 3: ce sont l'octave et la quinte. À partir d'ici, quand je dis «intervalles premiers», cela signifie seulement ceux qui sont associés aux nombres premiers au-delà de 3.
 
-Si vous avez déjà quelques connaissances en JI, vous avez déjà entendu parler de 5/4 comme une "tierce majeure juste" et de 7/4 comme une "septième mineure juste", donc des formes spéciales de la tierce majeure et la septième mineure. Cette langue ne vous semblait probablement pas bizarre. Il semble que ce soient simplement des extensions des idées d'une "tierce majeure" et une "septième mineure" pour inclure des intervalles proches.
+Si vous avez déjà quelques connaissances en JI, vous avez déjà entendu parler de 5/4 comme une «tierce majeure juste» et de 7/4 comme une «septième mineure juste», donc des formes spéciales de la tierce majeure et la septième mineure. Cette langue ne vous semblait probablement pas bizarre. Il semble que ce soient simplement des extensions des idées d'une «tierce majeure» et une «septième mineure» pour inclure des intervalles proches.
 
 En revanche, formalement, on trouve quelque chose d'étrange.
 
@@ -157,7 +157,7 @@ Et celle entre 8192/6561 et 5/4:
 
 Pourquoi alors utiliser la tierce majeure, pas la quarte diminuée, pour 5/4? En raison de la simplicité, vous dites? La tierce majeure s'élève à +4 quintes pendant que la quarte diminuée à −8, donc beaucoup plus compliqué. D'après cela, pourquoi est-ce que nous n'utilisons pas la tierce *mineure* pour 5/4, qui est encore plus simple: seulement −3 quintes au lieu de +4. Maintenant, vous dites qu'elle est trop éloignée? Avez-*vous* l'autorité de décider l'équilibre correct entre simplicité et proximité?
 
-Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question "Comment choisissons-nous les approximations pour chaque intervalle premier?" a une réponse très simple: nous ne le faisons pas. Une constante fixe le fait pour nous: le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant:
+Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question «Comment choisissons-nous les approximations pour chaque intervalle premier?» a une réponse très simple: nous ne le faisons pas. Une constante fixe le fait pour nous: le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
@@ -169,14 +169,14 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 
 > ### L'algorithme principal du FJS
 > 
-> 1. Entrez le nombre premier en forme réduite.
+> 1. Entrez le nombre premier. Nommez-le *p*.
 > 2. Soit *k* = 0.
-> 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes, en forme réduite.
-> 4. Est-ce que la différence entre cet intervalle et l'intervalle premier s'élève à moins que le rayon de tolérance?
+> 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes. Nommez-le *P*.
+> 4. Est-ce que la différence entre *p* et *P* s'élève à moins que le rayon de tolérance?
 > 5. Si oui, *k* égale la fonction génératrice. Fin.
 > 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
 >
-> **Exemple:** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
+> **Exemple:** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les «Commas» sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
 >
 > | Génératrice | Pythagoricienne |   Comma   |                Conclusions |
 > |------------:|:---------------:|:---------:|---------------------------:|
@@ -184,12 +184,21 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 > |       +1    |       3/2       |    5/6    |  315.64¢   ≥ λ; continuer. |
 > |       −1    |       4/3       |   15/16   |  111.73¢   ≥ λ; continuer. |
 > |       +2    |       9/8       |   10/9    |  182.40¢   ≥ λ; continuer. |
-> |       −2    |      16/9       |   35/64   |  609.78¢   ≥ λ; continuer. |
+> |       −2    |      16/9       |   45/32   |  590.22¢   ≥ λ; continuer. |
 > |       +3    |      27/16      |   20/27   |  519.55¢   ≥ λ; continuer. |
 > |       −3    |      32/27      |  135/128  |   92.18¢   ≥ λ; continuer. |
 > |     **+4**  |    **81/64**    | **80/81** | **21.51¢** < λ; arrêter.   |
 
 Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
+
+En ce qui concerne la 4. étape:
+
+- La différence est mesurée entre deux octaves de *p* et *P* choisies pour qu'elle soit minimale.
+- La différence concerne la taille absolue; cela veut dire qu'on compare les **valeurs absolues** des cents. 16/15 et 15/16 sont équivalents dans cette étape.
+
+Pour des calculs mentaux, vous n'avez pas besoin de savoir cela, mais cette différence est définie formalement comme:
+
+$$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
 
 Bien que l'algorithme semble très long, en fait, il est très rapide, mentalement aussi. 5/4 est évidemment trop éloigné pour être une octave, quinte, quarte, seconde majeure, septième mineure, ou sixte majeure. Il ne faut que vérifier si elle pourrait être une tierce mineure. Sinon, elle devient alors une tierce majeure.
 
@@ -199,7 +208,7 @@ L'algorithme trouve alors pour chaque intervalle premier l'approximation pythago
 >
 > Le comma formel d'un nombre premier *p* dont la fonction génératrice est *g* égale:
 >
-> $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
+> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
 
 L'opération inverse est aussi possible: vous pouvez trouver la fonction génératrice d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Divisez la forme réduite de l'intervalle premier par le comma formel. Vous obtenez l'approximation pythagoricienne. Factorisez-la. L'exposant de 3 est alors la fonction génératrice. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous divisons 7/4 par 63/64. Le résultat est (7/4) ÷ (63/64) = 16/9, l'approximation pythagoricienne. Nous la factorisons et obtenons 2<sup>4</sup> 3<sup>−2</sup>. Puisque l'exposant de 3 est −2, −2 est aussi la fonction génératrice de 7.
 
@@ -208,7 +217,7 @@ Comme avec le dièse et le bémol, il y a toujours deux altérations différente
 - Lorsqu'on nomme les notes, on écrit l'altération positive en indice supérieur et la négative en indice inférieur.
 - Lorsqu'on les écrit sur la portée, on écrit l'altération positive comme le nombre lui-même et la négative avec un signe moins.
 
-Remarquez que j'utilise délibérément les mots "positif" et "négatif" au lieu de "ascendant" et "descendant", parce que dans le FJS, des altérations positives ne sont pas toujours ascendantes, et les négatives ne sont pas toujours descendantes. Au lieu de cela, **le positif est toujours otonal** et **le négatif est toujours utonal**. Cela signifie quelque chose de très important: *une altération FJS est toujours positive lorsqu'une approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même.* Par exemple, pour écrire 5/4 sur Do, on écrit d'abord Mi (l'approximation, 81/64) et puis on le transforme en 5/4 en utilisant une altération +5, donc Mi<sup>5</sup>. Ce +5 modifie de 81/80 en *bas*, en fait.
+Remarquez que j'utilise délibérément les mots «positif» et «négatif» au lieu de «ascendant» et «descendant», parce que dans le FJS, des altérations positives ne sont pas toujours ascendantes, et les négatives ne sont pas toujours descendantes. Au lieu de cela, **le positif est toujours otonal** et **le négatif est toujours utonal**. Cela signifie quelque chose de très important: *une altération FJS est toujours positive lorsqu'une approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même.* Par exemple, pour écrire 5/4 sur Do, on écrit d'abord Mi (l'approximation, 81/64) et puis on le transforme en 5/4 en utilisant une altération +5, donc Mi<sup>5</sup>. Ce +5 modifie de 81/80 en *bas*, en fait.
 
 Ceux qui connaissent le système de Ben Johnston vont reconnaître cette idée. Pour le reste, j'explique:
 
@@ -222,7 +231,7 @@ Voyez l'échelle harmonique sur La jusqu'à le huitième harmonique:
 
 Sur la portée:
 
-<img src="../assets/example_3.png" alt="A–A–E–A–C♯5–E–G7–A">
+<img src="../assets/example_3.png" alt="La–La–Mi–La–Do♯5–Mi–Sol7–La">
 
 Écoutez-la:
 
@@ -239,14 +248,14 @@ Je voudrais maintenant expliquer comment ces altérations interagissent.
 
 Pourquoi? Parce que cette règle est plus logique et plus pratique. Voici une démonstration:
 
-<img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
+<img src="../assets/example_4.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
 
 - Dans la première mesure, nous avons un Do♯<sup>5</sup> puis un Do. Puisque c'est le même ton diatonique dans la même octave, il absorbe le dièse. Puisque c'est alors un Do♯ dans la même octave, il absorbe aussi le +5. Nous avons donc Do♯<sup>5</sup>, Do♯<sup>5</sup>.
 - Dans la deuxième mesure, il y a un Do♯<sup>5</sup> puis un Do avec une altération +1. **+1 est l'équivalent d'un bécarre dans le FJS, il annule toutes les altérations FJS, mais rien d'autre.** Donc cela signifie Do♯<sup>5</sup>, Do♯.
 - Dans la troisième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre. Puisque ce n'est plus le même ton pythagoricien, il n'absorbe plus le +5, donc cela signifie Do♯<sup>5</sup>, Do.
 - Dans la quatrième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre avec +5. Nous avons ici Do♯<sup>5</sup>, Do<sup>5</sup>; ce cas serait probablement le plus rare.
 
-Encore une remarque: le FJS permet aussi d'ajouter ces altérations en indice supérieur et inférieur aux noms des intervalles. C'est comment les rapports de l'intonation juste sont formellement nommés dans le FJS. Par exemple, 5/4 "s'appelle" une (tierce majeure)<sup>5</sup>. Cela signifie soit Mi<sup>5</sup> de Do, soit La<sup>5</sup> de Fa, soit Si<sup>5</sup> de Sol, etc.
+Encore une remarque: le FJS permet aussi d'ajouter ces altérations en indice supérieur et inférieur aux noms des intervalles. C'est comment les rapports de l'intonation juste sont formellement nommés dans le FJS. Par exemple, 5/4 «s'appelle» une (tierce majeure)<sup>5</sup>. Cela signifie soit Mi<sup>5</sup> de Do, soit La<sup>5</sup> de Fa, soit Si<sup>5</sup> de Sol, etc.
 
 D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles premiers. Vous allez apprendre une nouvelle technique maintenant. Vous n'avez plus besoin du rayon de tolérance: il n'est utilisé que dans l'algorithme principal pour calculer la fonction génératrice.
 
@@ -256,7 +265,7 @@ D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles 
 > 2. Écrivez l'intervalle qui correspond à ce nombre de quintes.
 > 3. Ajoutez une altération de ce nombre premier. Par exemple, 23/16 recevrait un +23.
 >
-> **Exemple:** Pour convertir 7/4 en forme FJS, nous trouvons d'abord la fonction génératrice de 7: −2. Nous écrivons l'intervalle de −2 quintes: Do-Fa-Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient une (septième mineure)<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
+> **Exemple:** Pour convertir 7/4 en forme FJS, nous trouvons d'abord la fonction génératrice de 7: −2. Nous écrivons l'intervalle de −2 quintes: Do–Fa–Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient une (septième mineure)<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
 
 (La calculation inverse est banale: pour trouver le rapport d'un intervalle dans le FJS, si on sait qu'il s'agit d'un intervalle premier otonal, on prend tout simplement le nombre premier de l'altération en forme réduite!)
 
@@ -294,7 +303,7 @@ Ces identités ont beaucoup de corollaires très pratiques pour devenir encore p
 
 Vous pouvez aussi utiliser ces identités pour représenter le premier groupe d'intervalles manquants. Imaginez par exemple 15/8. Nous le divisons en deux parties: la pythagoricienne et le reste. Nous obtenons 3/2 et 5/4. Nous traduisons maintenant dans le FJS et puis nous additionnons les intervalles obtenus. 3/2 est une (quinte juste) et 5/4 est une (tierce majeure)<sup>5</sup>. La somme est une (septième majeure)<sup>5</sup>. C'est tout simplement l'addition conventionnelle d'intervalles, mais nous ajoutons les altérations FJS, et nous obtenons vraiment la représentation de 15/8 dans le FJS!
 
-D'une manière différente: Le quinzième harmonique est comme le cinquième harmonique dans la tonalité de dominante. Pour représenter 15/8 sur Do, nous commençons avec une "modulation imaginaire" vers Sol. Ici, notre cible est tout simplement le cinquième harmonique, alors Si<sup>5</sup>, ce qui est donc aussi la représentation de 15/8 sur Do.
+D'une manière différente: Le quinzième harmonique est comme le cinquième harmonique dans la tonalité de dominante. Pour représenter 15/8 sur Do, nous commençons avec une «modulation imaginaire» vers Sol. Ici, notre cible est tout simplement le cinquième harmonique, alors Si<sup>5</sup>, ce qui est donc aussi la représentation de 15/8 sur Do.
 
 Encore une manière différente: Vous ne savez peut-être pas comment on écrit 15/8 sur Do dans le FJS, mais vous savez comment on écrit 5/4: c'est Mi<sup>5</sup>. Vous savez aussi que la différence entre 5/4 et 15/8 s'élève à 3/2, un intervalle pythagoricien. Cela signifie que 15/8 et 5/4 ont les mêmes altérations FJS. Vous savez aussi que cet intervalle pythagoricien est une quinte juste. Ces deux informations décrivent ensemble une seule note: Si<sup>5</sup>, donc la réponse correcte.
 
@@ -305,17 +314,17 @@ Essayez d'utiliser ces méthodes pour résoudre l'exercice suivant.
 1. Trouvez les formes FJS des rapports suivants: 5/3, 6/5, 7/6, 9/5.
 2. Trouvez les rapports correspondants aux formes FJS suivants: (seconde majeure)<sup>5</sup>, (tierce majeure)<sub>7</sub>, (septième mineure)<sup>11</sup>.
 3. Écrivez dans le FJS, sur Do, l'échelle ptolémaïque dont les rapports sont: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (DIFFICILE!) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus? <img src="../assets/exercise_2.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C">
+4. (DIFFICILE!) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus? <img src="../assets/exercise_2.png" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do">
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 (À la fin de cette méthode, vous allez connaître des techniques pour pouvoir convertir *chaque* rapport possible en intervalle FJS et inversement. Mais c'est une bonne idée de connaître les méthodes ci-dessus aussi puisqu'elles sont beaucoup plus rapides et vous vous en servirez beaucoup plus. C'est similaire aux méthodes différentes de résoudre une équation du second degré. Il y a une formule pour cela qui fonctionne toujours, mais elle est la méthode la plus lente.)
 
-Pendant que vous utilisiez ces identités pour résoudre cet exercice, vous vous êtes posé ou posée peut-être la question: "Comment est-ce que j'additionnerais deux (tierces majeures)<sup>5</sup>? Qu'est-ce qui serait le résultat?" Est-ce que ce serait une (quinte augmentée)<sup>5</sup>? Non. Elle serait la somme d'une (tierce majeure) et une (tierce majeure)<sup>5</sup>. Ici, nous additionnons une (tierce majeure)<sup>5</sup> à une autre (tierce majeure)<sup>5</sup>.
+Pendant que vous utilisiez ces identités pour résoudre cet exercice, vous vous êtes posé ou posée peut-être la question: «Comment est-ce que j'additionnerais deux (tierces majeures)<sup>5</sup>? Qu'est-ce qui serait le résultat?» Est-ce que ce serait une (quinte augmentée)<sup>5</sup>? Non. Elle serait la somme d'une (tierce majeure) et une (tierce majeure)<sup>5</sup>. Ici, nous additionnons une (tierce majeure)<sup>5</sup> à une autre (tierce majeure)<sup>5</sup>.
 
 La réponse à cette question est aussi la méthode que le FJS utilise pour représenter le deuxième groupe d'intervalles manquants: des *altérations composées*.
 
-Chaque note ou intervalle FJS peut avoir plus qu'une altération FJS – ils en peuvent avoir n'importe quel nombre. On sépare toujours les otonaux et les utonaux, mais des altérations de la même "tonalité" (otonalité ou utonalité) seront toujours composées. On les compose en les multipliant. Pourquoi? Parce qu'elles sont tous des nombres premiers; la multiplication (mais pas l'addition ou l'enchaînement en la base dix) assure que les facteurs peuvent être reconstruits d'une unique façon. Ceci est dû au théorème fondamental de l'arithmétique ainsi qu'au fait que l'ordre ne fait aucune différence.
+Chaque note ou intervalle FJS peut avoir plus qu'une altération FJS – ils en peuvent avoir n'importe quel nombre. On sépare toujours les otonaux et les utonaux, mais des altérations de la même «tonalité» (otonalité ou utonalité) seront toujours composées. On les compose en les multipliant. Pourquoi? Parce qu'elles sont tous des nombres premiers; la multiplication (mais pas l'addition ou l'enchaînement en la base dix) assure que les facteurs peuvent être reconstruits d'une unique façon. Ceci est dû au théorème fondamental de l'arithmétique ainsi qu'au fait que l'ordre ne fait aucune différence.
 
 Si les altérations composées sont assez grandes que vous ne reconnaissez plus les facteurs (par exemple, 119 = 7 × 17), vous pouvez aussi écrire les facteurs en séquence, avec des virgules entre nombres premiers. Un Ré<sup>7,17</sup> serait donc identique à un Ré<sup>119</sup>. Il est habituel d'écrire ces facteurs dans un ordre non décroissant, mais chaque ordre est correct. Vous pouvez aussi les multiplier comment vous voulez. Par exemple, écrire Sol<sup>11,125</sup> est correct (bien que je n'aie pas multiplié que certains facteurs).
 
@@ -328,7 +337,7 @@ Comme j'ai déjà expliqué, l'otonalité et l'utonalité ne sont jamais mixtes.
 
 Donc, les notes Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub> (soit 7/5 et 10/7 sur Do) seraient représentés de la façon suivante:
 
-<img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
+<img src="../assets/example_5.png" alt="Sol♭7_5–Fa♯5_7">
 
 Écoutez-les:
 
@@ -343,7 +352,7 @@ Depuis que vous savez utiliser des altérations composées, vous pouvez faire be
 > - Pour renverser un intervalle FJS, renversez la partie pythagoricienne, puis échangez l'otonal avec l'utonal.
 > - Vous pouvez aussi additionner un intervalle à une note ou soustraire deux notes.
 
-Quand vous composez des altérations, vous pouvez (et devez) annuler des facteurs identiques dans l'otonal et l'utonal. Par exemple, si vous additionnez une (tierce majeure)<sup>5</sup> (5/4) et une (tierce mineure)<sub>5</sub> (6/5), vous obtenez une "(quinte juste)<sup>5</sup><sub>5</sub>", ce qui est identique à une quinte juste, ce que nous avons prévu (3/2). Un autre exemple: En additionnant une (seconde mineure)<sup>49</sup> (49/48) et une (seconde majeure)<sub>7</sub> (8/7), on obtient une "(tierce mineure)<sup>49</sup><sub>7</sub>" donc une (tierce mineure)<sup>7</sup> (7/6).
+Quand vous composez des altérations, vous pouvez (et devez) annuler des facteurs identiques dans l'otonal et l'utonal. Par exemple, si vous additionnez une (tierce majeure)<sup>5</sup> (5/4) et une (tierce mineure)<sub>5</sub> (6/5), vous obtenez une «(quinte juste)<sup>5</sup><sub>5</sub>», ce qui est identique à une quinte juste, ce que nous avons prévu (3/2). Un autre exemple: En additionnant une (seconde mineure)<sup>49</sup> (49/48) et une (seconde majeure)<sub>7</sub> (8/7), on obtient une «(tierce mineure)<sup>49</sup><sub>7</sub>» donc une (tierce mineure)<sup>7</sup> (7/6).
 
 Vous pouvez déjà utiliser l'arithmétique des intervalles pour représenter *n'importe quel* rapport JI dans le FJS et convertir *n'importe quelle* forme FJS en rapport JI. Pour ce but, vous pouvez utiliser les méthodes suivantes si les rapports ne sont pas trop compliqués.
 
@@ -383,12 +392,12 @@ Une dernière remarque est à propos de la prononciation et ASCII. Si vous voule
 > ### Prononciation FJS
 >
 > 1. Prononcez la partie conventionnelle (pythagoricienne) du nom de la note ou l'intervalle.
-> 2. Ajoutez l'altération otonale composée (s'il y en a): prononcez le nombre lui-même, avec un préfixe "super" qui est optionnel.
-> 3. Ajoutez l'altération utonale composée (s'il y en a): prononcez le nombre lui-même avec un préfixe "sub".
+> 2. Ajoutez l'altération otonale composée (s'il y en a): prononcez le nombre lui-même, avec un préfixe «super» qui est optionnel.
+> 3. Ajoutez l'altération utonale composée (s'il y en a): prononcez le nombre lui-même avec un préfixe «sub».
 
-Par exemple, on prononce Mi<sup>5</sup> comme "Mi-cinq" ou "Mi-super-cinq", et Mi♭<sub>5</sub> comme "Mi-bémol-sub-cinq". Un intervalle comme la (quarte juste)<sup>7</sup><sub>11</sub> serait "quarte-juste-(super)-sept-sub-onze" où le mot "super" est optionnel, pour accentuer la séparation entre le nom conventionnel et le début des altérations FJS.
+Par exemple, on prononce Mi<sup>5</sup> comme «Mi-cinq» ou «Mi-super-cinq», et Mi♭<sub>5</sub> comme «Mi-bémol-sub-cinq». Un intervalle comme la (quarte juste)<sup>7</sup><sub>11</sub> serait «quarte-juste-(super)-sept-sub-onze» où le mot «super» est optionnel, pour accentuer la séparation entre le nom conventionnel et le début des altérations FJS.
 
-Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup><sub>13</sub> serait "La-(super)-cinq-dix-sept-sub-treize". Le mot "sub" est tout simplement un terminateur de la partie otonale. Il indique que les nombres suivant appartiennent à la partie utonale.
+Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup><sub>13</sub> serait «La-(super)-cinq-dix-sept-sub-treize». Le mot «sub» est tout simplement un terminateur de la partie otonale. Il indique que les nombres suivant appartiennent à la partie utonale.
 
 À propos d'ASCII: Ce serait problématique d'écrire ces noms avec un clavier conventionnel à cause des indices supérieurs et inférieurs. Alternativement, on peut indiquer l'utonal avec une barre de soulignement, comme d'habitude, et vous pouvez ainsi indiquer l'otonal avec un signe caret, mais vous n'avez jamais besoin du signe caret en français. Mi<sup>5</sup> serait `Mi^5` ou `Mi5`; une (tierce majeure)<sup>5</sup> serait une `(tierce majeure)^5` ou une `(tierce majeure)5`.
 
@@ -424,13 +433,13 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	- 1/1, 9/8, 5/4, 3/2, 15/8
 4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique:
 	
-	<img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭">
+	<img src="../assets/exercise_3.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭">
 	
 5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici: 11/10, 10/9, 9/8, 8/7. La tonique, c'est La.
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (DIFFICILE!) Il y a une communité qui supporte la "musique 432 Hz", dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
+6. (DIFFICILE!) Il y a une communité qui supporte la «musique 432 Hz», dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
