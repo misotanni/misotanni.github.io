@@ -17,16 +17,16 @@ Comme aussi le FJS, Helmholtz-Ellis définit que la notation conventionnelle ser
 En revanche, Ben Johnston est un peu plus... innovatif. Il utilise une définition différente de la notation conventionnelle, celle ci-dessous:
 
 - Fa – Do – Sol – Ré est une chaîne de quintes justes (3/2).
-- Fa – La, Do – Mi, et Sol - Si sont des tierces majeures justes (5/4).
+- Fa – La, Do – Mi, et Sol – Si sont des tierces majeures justes (5/4).
 - Le dièse et le bémol sont des altérations de 25/24 (un demi-ton chromatique pythagoricien moins deux commas syntoniques; (prime augmentée)<sup>25</sup>).
 
 (Un comma syntonique, c'est 81/80.)
 
-Je suppose que ce choix est dû au fait que Do-Mi-Sol, Fa-La-Do et Sol-Si-Ré sont alors des triades majeures 4:5:6, et Do-Mi♭-Sol, Fa-La♭-Do et Sol-Si♭-Ré sont des triades mineures 10:12:15. Nous avons donc Do-Ré-Mi-Fa-Sol-La-Si-Do pour l'échelle ptolémaïque ou majeure naturelle, et Do-Ré-Mi♭-Fa-Sol-La♭-Si♭-Do pour la mineure naturelle.
+Je suppose que ce choix est dû au fait que Do–Mi–Sol, Fa–La–Do et Sol–Si–Ré sont alors des triades majeures 4:5:6, et Do–Mi♭–Sol, Fa–La♭–Do et Sol–Si♭–Ré sont des triades mineures 10:12:15. Nous avons donc Do–Ré–Mi–Fa–Sol–La–Si–Do pour l'échelle ptolémaïque ou majeure naturelle, et Do–Ré–Mi♭–Fa–Sol–La♭–Si♭–Do pour la mineure naturelle.
 
 Je suppose donc aussi que ce choix avait le but de simplifier la notation de la musique diatonique au 5-limite, au prix de tout le reste.
 
-Mais ce n'est pas vrai. Même la musique diatonique au 5-limite devient plus difficile à noter à cause de cela. Ré-La n'est pas une quinte juste, mais 40/27. Cela signifie qu'on trouve partout les altérations d'un comma syntonique (un signe plus: ascendant, un signe moins: descendant). Joe Monzo, l'auteur d'une encyclopédie de la musique microtonale en ligne, y écrit sur la notation de Johnston:
+Mais ce n'est pas vrai. Même la musique diatonique au 5-limite devient plus difficile à noter à cause de cela. Ré–La n'est pas une quinte juste, mais 40/27. Cela signifie qu'on trouve partout les altérations d'un comma syntonique (un signe plus: ascendant, un signe moins: descendant). Joe Monzo, l'auteur d'une encyclopédie de la musique microtonale en ligne, y écrit sur la notation de Johnston:
 
 > *Beaucoup de théoreticiens croient que l'idée de Johnston est bonne, mais qu'elle pourrait être améliorée en utilisant une échelle pythagoricienne au lieu d'une du 5-limite pour sa base.*
 
@@ -34,7 +34,7 @@ Les contradictions de ces tons diatoniques causent une avalanche de problèmes c
 
 Des accords sans aucun facteur de 5, par exemple celui du Well-Tuned Piano inventé par La Monte Young (qui n'utilise que les facteurs 2, 3, et 7), nécessite beaucoup de commas syntoniques dans la représentation Johnston bien que le nombre 5 n'existe nulle part dans cet accord. C'est absolument ridicule. (En bas de ce site, vous trouvez beaucoup de comparaisons comme ça.)
 
-C'est pratiquement impossible de transposer dans la notation de Johnston. Une pièce en Helmholtz-Ellis ou le FJS peut être transposé très facilement d'une quinte 3/2, en transposant tout simplement les parties pythagoriciennes de chaque note et ne changeant aucune altération microtonale. On peut aussi facilement transposer d'un intervalle non pythagoricien, comme 5/4: transposez tout simplement de 81/64 puis ajoutez un +5 à chaque note. Au contraire, une pièce en Johnston est très difficile à transposer d'un intervalle pythagoricien ou un du 5-limite (sans parler de ceux au-delà). Une pièce en Sol majeur nécessiterait pendant une transposition en Ré majeur un comma syntonique (un signe plus) chez chaque La, parce que Sol-Ré (3/2) n'égale pas Ré-La (40/27), et un comma syntonique inverse (un signe moins) chez chaque Fa, parce que Sol-Si♭ (6/5) n'égale pas Ré-Fa (32/27). Des instruments qui transposent devraient complètement récrire leur partition avec des milliers de signes plus et moins, même si leur intervalle de transposition n'est qu'une seconde majeure. On voit cela clairement dans le guide de Kyle Gann qui liste **sept** différentes versions de l'échelle harmonique 16-32 pour sept différents tons diatoniques comme tonique! 
+C'est pratiquement impossible de transposer dans la notation de Johnston. Une pièce en Helmholtz-Ellis ou le FJS peut être transposé très facilement d'une quinte 3/2, en transposant tout simplement les parties pythagoriciennes de chaque note et ne changeant aucune altération microtonale. On peut aussi facilement transposer d'un intervalle non pythagoricien, comme 5/4: transposez tout simplement de 81/64 puis ajoutez un +5 à chaque note. Au contraire, une pièce en Johnston est très difficile à transposer d'un intervalle pythagoricien ou un du 5-limite (sans parler de ceux au-delà). Une pièce en Sol majeur nécessiterait pendant une transposition en Ré majeur un comma syntonique (un signe plus) chez chaque La, parce que Sol–Ré (3/2) n'égale pas Ré–La (40/27), et un comma syntonique inverse (un signe moins) chez chaque Fa, parce que Sol–Si♭ (6/5) n'égale pas Ré–Fa (32/27). Des instruments qui transposent devraient complètement récrire leur partition avec des milliers de signes plus et moins, même si leur intervalle de transposition n'est qu'une seconde majeure. On voit cela clairement dans le guide de Kyle Gann qui liste **sept** différentes versions de l'échelle harmonique 16–32 pour sept différents tons diatoniques comme tonique! 
 
 Remarque: *Kyle Gann a écrit une réponse intéressante à ce problème. Je lui réponds directement en bas de ce site.*
 
@@ -147,7 +147,7 @@ Voyons alors comment ces altérations fonctionnent. Comment transforment-elles l
 
 Chez Helmholtz-Ellis, une note sera toujours élevée par une altération positive et baissée par une négative. C'est une généralisation de l'idée qu'un dièse élève et un bémol baisse.
 
-Chez Helmholtz-Ellis, toutes les altérations positives sont otonales et toutes les négatives sont utonales. C'est une généralisation de l'idée qu'un dièse ajoute des quintes et un bémol en soustrait. 
+Chez Johnston, toutes les altérations positives sont otonales et toutes les négatives sont utonales. C'est une généralisation de l'idée qu'un dièse ajoute des quintes et un bémol en soustrait. 
 
 Dans le FJS, les altérations positives sont toujours otonales et les négatives toujours utonales.
 
@@ -169,7 +169,7 @@ Il est presque impossible de nommer des notes chez Helmholtz-Ellis à cause de s
 
 Chez Johnston, il semble que ses altérations pourraient permettre cela. Mais la notation de Johnston a aussi un système bizarre où quelques altérations sont écrites entre le ton diatonique et l'altération pythagoricienne, et il n'y a aucune règle pour cela. Si on voudrait écrire Mi♭<sup>7</sup> dans le FJS, ce serait Mi7♭+ chez Johnston (oui!). Le signe 7 est écrit entre le Mi est le ♭, mais le signe plus est écrit après le ♭. Il saute le plus aux yeux que le *comma céleste* chez Johnston est représenté avec deux altérations: premièrement *baisse d'un comma syntonique et céleste*, puis *rehausse d'un syntonique*.
 
-Johnston a aussi un système profond pour la prononciation de ces noms. Il est similaire à celui du FJS, mais beaucoup plus compliqué, parce que les commas pour 5, 7, et 11 utilisent des symboles irréguliers. Kyle Gann démontre un exemple en anglais: « G-sharp-up-arrow-double-sub-seven-minus » (environ « Sol-dièse-flèche-en-haut-double-sub-sept-moins »). Cela est beaucoup plus compliqué que le nom le plus compliqué chez le FJS, qui suit toujours le schéma suivant: (partie pythagoricienne)-(préfixe « super » optionnel)-(otonal)-(« sub »)-(utonal) dans cet ordre. Gann écrit que les combinaisons des altérations ne sont pas uniformisées chez Johnston.
+Johnston a aussi un système profond pour la prononciation de ces noms. Il est similaire à celui du FJS, mais beaucoup plus compliqué, parce que les commas pour 5, 7, et 11 utilisent des symboles irréguliers. Kyle Gann démontre un exemple en anglais: «G-sharp-up-arrow-double-sub-seven-minus» (environ «Sol-dièse-flèche-en-haut-double-sub-sept-moins»). Cela est beaucoup plus compliqué que le nom le plus compliqué chez le FJS, qui suit toujours le schéma suivant: (partie pythagoricienne)-(préfixe «super» optionnel)-(otonal)-(«sub»)-(utonal) dans cet ordre. Gann écrit que les combinaisons des altérations ne sont pas uniformisées chez Johnston.
 
 Ce système est pourtant meilleur que rien.
 
@@ -233,7 +233,7 @@ Vous pensez maintenant probablement: comme c'est une analyse très abstraite, co
 
 Vous voyez ici donc des exemples de contextes JI très fréquents pour qu'on voie comment se comportent tous les trois systèmes en ce qui concerne leur efficacité. (Pour représenter des noms de notes chez Helmholtz-Ellis, j'ai utilisé tout simplement +5, +7, etc. pour les hausses et −5, −7, etc. pour les baisses, comme elles fonctionnent dans la notation.)
 
-### L'échelle harmonique 1-32
+### L'échelle harmonique 1–32
 
 **FJS.** Une minute de durée pour écrire ce tableau.
 
@@ -312,7 +312,7 @@ Ce n'est aucune surprise que le FJS est le meilleur système de notation pour l'
 
 Comme j'ai déjà dit: Le manuel du système de Johnston écrit par Kyle Gann contient un addenda où il explique pourquoi il préfère Johnston plutôt que Helmholtz-Ellis bien que ses tons diatoniques soient tellement mal choisis.
 
-Vous expliquez qu'il est beaucoup plus facile de déterminer la hauteur de Si♭ sur Do chez Johnston que chez Helmholtz-Ellis. Chez Johnston, Do-Si est 15/8, un bémol le baisse de 25/24, donc 9/5. Au contraire, chez Helmholtz-Ellis, Do-Si est 243/128, un bémol le baisse de 2187/2048, et vous avez besoin d'une calculatrice pour calculer que cela s'élève à 16/9. Vous trouvez la cohérence peu importante, et alors vous rejetez Helmholtz-Ellis parce que vous pensez qu'il vous obligerait à faire des calculs avec des nombres à quatre chiffres.
+Vous expliquez qu'il est beaucoup plus facile de déterminer la hauteur de Si♭ sur Do chez Johnston que chez Helmholtz-Ellis. Chez Johnston, Do–Si est 15/8, un bémol le baisse de 25/24, donc 9/5. Au contraire, chez Helmholtz-Ellis, Do–Si est 243/128, un bémol le baisse de 2187/2048, et vous avez besoin d'une calculatrice pour calculer que cela s'élève à 16/9. Vous trouvez la cohérence peu importante, et alors vous rejetez Helmholtz-Ellis parce que vous pensez qu'il vous obligerait à faire des calculs avec des nombres à quatre chiffres.
 
 Je réponds à cet argument parce qu'il est basé sur le fait que Helmholtz-Ellis, comme le FJS, utilise l'échelle pythagoricienne pour sa base. Si cet argument est valide contre Helmholtz-Ellis, il est valide aussi contre le FJS.
 
@@ -322,11 +322,11 @@ Il est vrai que la notation de Ben Johnston oblige l'utilisateur à constamment 
 
 Quand vous essayez la notation de Helmholtz-Ellis, vous assumez automatiquement les mêmes restrictions que chez Johnston: vous voulez calculer la hauteur d'une septième mineure en utilisant celle d'une majeure moins un demi-ton chromatique. Vous critiquez Helmholtz-Ellis pour la raison qu'un de ces intervalles nécessite un nombre à quatre chiffres pendant que Johnston utilise souvent seulement des nombres à deux chiffres maximum.
 
-Mais la septième mineure est tellement proche dans le cycle des quintes; ce ne sont que deux quartes justes (4/3, pas comme chez Johnston où Do-Fa est 4/3 mais Fa-Si♭ est 27/20). Pourquoi additionneriez-vous cinq quintes (septième majeure) pour tout de suite en soustraire sept (demi-ton chromatique)? Voyageriez-vous de North Carolina à South Carolina via Maine? Bien que la septième mineure de Do soit écrit avec un bémol, vous n'avez pas l'obligation d'en penser comme ça; vous le faites parce que Johnston vous oblige à cette manière de penser. Modulez à Ré. Ici, la septième mineure est une note sans altération, pourtant nous ne sommes pas chez Johnston: sa hauteur ne change pas.
+Mais la septième mineure est tellement proche dans le cycle des quintes; ce ne sont que deux quartes justes (4/3, pas comme chez Johnston où Do–Fa est 4/3 mais Fa–Si♭ est 27/20). Pourquoi additionneriez-vous cinq quintes (septième majeure) pour tout de suite en soustraire sept (demi-ton chromatique)? Voyageriez-vous de North Carolina à South Carolina via Maine? Bien que la septième mineure de Do soit écrit avec un bémol, vous n'avez pas l'obligation d'en penser comme ça; vous le faites parce que Johnston vous oblige à cette manière de penser. Modulez à Ré. Ici, la septième mineure est une note sans altération, pourtant nous ne sommes pas chez Johnston: sa hauteur ne change pas.
 
-Votre algorithme pour calculer des rapports JI de la notation commence en fait avec l'analyse des tons diatoniques. C'est dû au fait que cet intervalle *dépend* de ces notes chez Johnston, donc il n'y a aucune autre méthode. Ré-Mi est par exemple 10/9, ça n'égale pas Do-Ré, 9/8. Helmholtz-Ellis et le FJS n'ont pas cette restriction ridicule. Chaque seconde majeure s'élève à 9/8. Le compositeur peut alors être libéré de la pensée en échelle diatonique. Cela nous permet aussi de traduire entre des rapports et des noms d'intervalles directement.
+Votre algorithme pour calculer des rapports JI de la notation commence en fait avec l'analyse des tons diatoniques. C'est dû au fait que cet intervalle *dépend* de ces notes chez Johnston, donc il n'y a aucune autre méthode. Ré–Mi est par exemple 10/9, ça n'égale pas Do–Ré, 9/8. Helmholtz-Ellis et le FJS n'ont pas cette restriction ridicule. Chaque seconde majeure s'élève à 9/8. Le compositeur peut alors être libéré de la pensée en échelle diatonique. Cela nous permet aussi de traduire entre des rapports et des noms d'intervalles directement.
 
-Vous auriez pu déterminer que Do-Si♭ s'élève à 16/9 avec beaucoup, beaucoup de méthodes, beaucoup plus simples que 243/128 × 2048/2187; vous avez trouvé la méthode la plus difficile (qui correspond à la seule méthode chez Johnston pour obtenir 9/5).
+Vous auriez pu déterminer que Do–Si♭ s'élève à 16/9 avec beaucoup, beaucoup de méthodes, beaucoup plus simples que 243/128 × 2048/2187; vous avez trouvé la méthode la plus difficile (qui correspond à la seule méthode chez Johnston pour obtenir 9/5).
 
 Vous auriez pu remarquer que Do et Si♭ n'ont aucune altération microtonale, donc par définition des notes diatoniques, la septième mineure entre eux est pythagoricienne, alors 16/9. Ou vous auriez pu remarquer qu'elle est composée de deux quartes 4/3, alors 16/9. Ou vous auriez pu remarquer qu'elle est le renversement de la seconde majeure 9/8, donc 16/9. Le FJS vous donne une telle liberté de méthodes très rapides et efficaces pour lire et écrire, qui n'est pas du tout comme le processus lent et ennuyeux chez Johnston.
 
