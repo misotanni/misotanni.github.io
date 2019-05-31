@@ -169,10 +169,10 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 
 > ### Der FJS-Master-Algorithmus
 > 
-> 1. Lese die eingegebene Primzahl in reduzierter Form.
+> 1. Lese die eingegebene Primzahl und nenne sie *p*.
 > 2. Fange an mit *k* = 0.
-> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten, in reduzierter Form.
-> 4. Beträgt die Differenz zwischen diesem Intervall und dem Primzahlintervall weniger als der Toleranzradius?
+> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
+> 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
 >
@@ -184,12 +184,21 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 > |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
 > |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
 > |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
-> |      −2   |     16/9      |   35/64   |  609.78¢   ≥ λ; fortfahren. |
+> |      −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; fortfahren. |
 > |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
 > |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
 > |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
 
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
+
+Bemerkungen über den 4. Schritt:
+
+- Wir betrachten so gewählte Oktaven von *p* und *P*, dass die Differenz minimal ist.
+- Wir betrachten die absolute Größe der Differenz, also den **Betrag** der Cent-Größe. Nur in diesem Schritt sind 16/15 und 15/16 gleichwertig.
+
+Das brauchst du nicht wissen, aber die formale Definition dieser Differenz lautet:
+
+$$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
 
 Obwohl der Algorithmus langweilig wirkt, ist er tatsächlich sehr schnell, auch im Kopf. 5/4 ist natürlich zu weit von der Oktave, Quinte, Quarte, großen Sekunde, kleinen Septime, und großen Sexte. Hier ist es nur die Frage, ob sie zu weit von der kleinen Terz ist. Dann ist die große Terz eine prima Annäherung.
 
