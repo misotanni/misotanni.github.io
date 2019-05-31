@@ -26,7 +26,7 @@ $$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \fra
 
 ## Théorème 2
 
-**Chaque nombre rationnel positif peut être factorisé en nombres premiers dont les exposants sont des entiers relatifs.** (« Théorème fondamental de l'harmonie »)
+**Chaque nombre rationnel positif peut être factorisé en nombres premiers dont les exposants sont des entiers relatifs.** («Théorème fondamental de l'harmonie»)
 
 Pour la démonstration, nous commençons avec le théorème fondamental de l'arithmétique, donc la faculté de factoriser chaque entier positif en nombres premiers dont les exposants sont des entiers naturels. La notation p⁡(*n*) signifie ici le *n*-ième nombre premier, donc $$\text{p}(1)=2$$.
 
@@ -70,7 +70,7 @@ Cela est un fragment d'une ligne de quintes centrée sur Ré:
 
 Ces entiers relatifs signifient le nombre de quintes autour de cette spirale infinie de quintes; les nombres positifs signifient l'addition de quintes, et les nombres négatifs en signifient la soustraction.
 
-Mais remarquez que nous savons déjà comment étendre cette chaîne. Le dièse et le bémol sont définis comme altérations qui causent les identités: Si♭-Fa = Si-Fa♯ = quinte juste. Lorsqu'on ajoute une copie diésée et bémolisée de l'échelle diatonique, on obtient une chaîne jusqu'à −10 à gauche et +10 à droite:
+Mais remarquez que nous savons déjà comment étendre cette chaîne. Le dièse et le bémol sont définis comme altérations qui causent les identités: Si♭–Fa = Si–Fa♯ = quinte juste. Lorsqu'on ajoute une copie diésée et bémolisée de l'échelle diatonique, on obtient une chaîne jusqu'à −10 à gauche et +10 à droite:
 
 Fa♭, Do♭, Sol♭, Ré♭, La♭, Mi♭, Si♭, Fa, Do, Sol, Ré, La, Mi, Si, Fa♯, Do♯, Sol♯, Ré♯, La♯, Mi♯, Si♯
 
