@@ -51,7 +51,7 @@ Bevor du beginnst, über das FJS zu lernen, gibt es ein paar zusätzliche Inform
 
 Dazu gibt es auch noch drei mathematische Konzepte, die dir bekannt sein müssen, aber außerhalb des FJS nicht vorkommen.
 
-Erstens musst du schnell **ein übliches Intervall** (ohne enharmonische Verwechslung) in **eine Anzahl von Quintenschritten** und zurück umrechnen können. Eine **große Sekunde** zum Beispiel entspricht **+2** Quinten, denn man braucht zwei Quintenschritte im Uhrzeigersinn, um die große Sekunde zu erreichen: C-G-D. Ebenso entspricht eine **kleine Terz −3** Quinten, denn dazu braucht man drei Quartenschritte, also Quintenschritte gegen den Uhrzeigersinn: C-F-B-Es. Jedes übliche Intervall entspricht genau einer Anzahl von Quintenschritten. Du musst diese Umrechnung sowohl vorwärts als auch rückwärts durchführen können, dazu am besten schnell.
+Erstens musst du schnell **ein übliches Intervall** (ohne enharmonische Verwechslung) in **eine Anzahl von Quintenschritten** und zurück umrechnen können. Eine **große Sekunde** zum Beispiel entspricht **+2** Quinten, denn man braucht zwei Quintenschritte im Uhrzeigersinn, um die große Sekunde zu erreichen: C–G–D. Ebenso entspricht eine **kleine Terz −3** Quinten, denn dazu braucht man drei Quartenschritte, also Quintenschritte gegen den Uhrzeigersinn: C–F–B–Es. Jedes übliche Intervall entspricht genau einer Anzahl von Quintenschritten. Du musst diese Umrechnung sowohl vorwärts als auch rückwärts durchführen können, dazu am besten schnell.
 
 Zweitens musst du wissen, wie man eine rationale Zahl faktorisiert. Genauso wie jede **positive ganze Zahl** auf nur eine Weise in Primfaktoren zerlegt werden kann, wobei die Potenzen **natürliche Zahlen** sind, kann man jede **positive rationale Zahl** auf nur eine Weise in Primfaktoren zerlegen, wobei die Potenzen **ganze Zahlen** sind. Nach dem Fundamentalsatz der Arithmetik werde ich diesen Satz humorvoll den Fundamentalsatz der Harmonie nennen. Beispielsweise lässt sich 6/5 in 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> zerlegen, und es gibt keine andere Zerlegung. (Weil dies ein Crash-Kurs ist, werde ich die mathematischen Genauigkeiten weglassen, natürlich sind sie aber für [neugierige Leser](math.html) vorhanden. Überall, wo in diesem Kurs ein mathematischer Satz vorkommt, findest du einen Beweis auf der Mathematikseite.)
 
@@ -208,7 +208,7 @@ Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung 
 >
 > Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
 >
-> $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
+> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
 
 Es geht auch anders herum: du kannst aus dem formalen Komma die Generatorfunktion einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Generatorfunktion. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Generatorfunktion für 7.
 
@@ -299,7 +299,7 @@ Die erste Gruppe kannst du schon notieren – du weißt es nur noch nicht. Das F
 > - Die Differenz zweier FJS-Intervalle zweier Frequenzverhältnisse ist die FJS-Darstellung des Quotients der Verhältnisse.
 > - Die Umkehrung eines FJS-Intervalls eines Frequenzverhältnisses ist die FJS-Darstellung des Kehrwertes des Verhältnisses.
 
-Diese Identitäten haben ein paar nette logische Folgen, die nützlich zu wissen sind, um noch flüssiger zu werden. Wenn du zum Beispiel zwei Noten mit gleichen FJS-Versetzungszeichen hast, weißt du, dass das Intervall zwischen ihnen pythagoreisch sein muss. E<sup>5</sup> und Fis<sup>5</sup>? Du kannst zwar keine Ahnung haben, was sie in der Tonart B<sub>7</sub> sind, aber du weißt, dass das Intervall zwischen ihnen eine pythagoreische große Sekunde sein muss - also 9/8. Cool, oder?
+Diese Identitäten haben ein paar nette logische Folgen, die nützlich zu wissen sind, um noch flüssiger zu werden. Wenn du zum Beispiel zwei Noten mit gleichen FJS-Versetzungszeichen hast, weißt du, dass das Intervall zwischen ihnen pythagoreisch sein muss. E<sup>5</sup> und Fis<sup>5</sup>? Du kannst zwar keine Ahnung haben, was sie in der Tonart B<sub>7</sub> sind, aber du weißt, dass das Intervall zwischen ihnen eine pythagoreische große Sekunde sein muss – also 9/8. Cool, oder?
 
 Diese Identitäten kannst du auch schon benutzen, um die erste Gruppe fehlender Intervalle zu notieren. Betrachten wir z.B. 15/8. Wir spalten es in zwei Teile: den pythagoreischen und das, was übrig bleibt. Wir erhalten 3/2 und 5/4. Wir übersetzen jetzt ins FJS und addieren dann die Intervalle, die wir dabei erhalten. 3/2 wird zu einer (reinen Quinte), und 5/4 wird zu einer (großen Terz)<sup>5</sup>. Zusammen haben wir eine (große Septime)<sup>5</sup>. Wir addieren die Intervalle wie gewöhnlich, und kleben die Versetzungszeichen auf. Das ist wirklich die Darstellung von 15/8 im FJS!
 
