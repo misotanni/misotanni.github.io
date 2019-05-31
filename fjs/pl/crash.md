@@ -2,7 +2,7 @@
 
 Zastanawiasz się, co FJS ma Tobie do zaoferowania, i chciałbyś nauczyć się go używać.
 
-Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię się na pewnych udogodnieniach i skrótach, ponieważ nie są one konieczne ani niezbędne. Jeżeli już miałeś kontakt z naturalnymi temperacjami, FJS będzie dla Ciebie igraszką – nauczysz się go naraz, w kilka minut, a jego piękno i prostota będą Tobie w zasięgu ręki.
+Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię się na pewnych udogodnieniach i skrótach, ponieważ nie są one konieczne ani niezbędne. Jeżeli już miałeś kontakt ze strojami naturalnymi, FJS będzie dla Ciebie igraszką – nauczysz się go naraz, w kilka minut, a jego piękno i prostota będą Tobie w zasięgu ręki.
 
 ## Spis treści
 
@@ -29,7 +29,7 @@ Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
 Oczywiście zamiana *ais* na *b* w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
 
-Tę własność – przyrównanie sekundy małej do prymy zwiększonej czy sekundy zmniejszonej do prymy czystej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc eis i fes tymi samymi wysokościami).
+Tę własność – przyrównanie sekundy zmniejszonej do prymy czystej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. Inne albo nie mają żadnej enharmonii, albo interwał inny niż sekunda zmniejszona jest zredukowany do zera. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc eis i fes tymi samymi wysokościami).
 
 Mimo tego nie zapominajmy, że historia zapisu nutowego sięga dalej niż sam pomysł 12-EDO – o jednomyślnym przyjęciu nie wspominając – poprzedzając go o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, którą tworzono przez serię kwint (*f*–*c*–*g*–*d*–*a*–*e*–*h*). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że jego pochodzenie opiera się na czymś zupełnie odmiennym od 12-EDO.
 
@@ -96,7 +96,7 @@ Czas najwyższy, by nauczyć się pierwszych dwóch technik FJS-owych:
 > 3. Podnieś 3 do takiej potęgi i zredukuj.
 > 4. Jeżeli trzeba, dostosuj oktawy.
 >
-> **Przykład.** By zamienić tercję małą z FJS-u na 3-limit, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3: *c*–*f*–*b*–*es*. Podnosimy 3 do −3 i uzyskujemy 1/27. Ponieważ chcemy zredukować ten interwał – czyli wsunąć go do przedziału \[1, 2) – mnożymy go przez 2<sup>6</sup>, uzyskując ostateczny wynik: 32/27.
+> **Przykład.** By zamienić tercję małą z FJS-u na 3-limit, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3: *c*–*f*–*b*–*es*. Podnosimy 3 do −3 i uzyskujemy 1/27. Ponieważ chcemy zredukować ten interwał – czyli wsunąć go do przedziału \[1, 2) – mnożymy go przez 2<sup>5</sup>, uzyskując ostateczny wynik: 32/27.
 
 Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 
@@ -190,6 +190,8 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 
 Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
 
+Chociaż algorytm może wyglądać na mozolny, liczy się go bardzo szybko, także w głowie. 5/4 na pewno jest za daleko od oktawy, kwinty, kwarty, sekundy wielkiej, septymy małej, i seksty wielkiej. Wątpliwość jest tylko przy tercji małej. Jeśli odpada ona, to będzie to tercja wielka.
+
 Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie podanego interwału pierwszego, które jest mniej daleko od tego pożądanego interwału niż o promień tolerancji. Różnicą pomiędzy nimi dwoma nazywamy **komatem formalnym** i zapisujemy go nową FJS-ową alteracją. W ten sposób liczy się komat formalny:
 
 > ### Komat formalny
@@ -225,7 +227,7 @@ To samo, w wersji audio:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-Czego pewnie się domyśliłeś, wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (utonalne). Nie wygląda to zgrabnie – bardziej, niż gdybyśmy przejmowali się kierunkami? Rozumiem, że ten wybór może cię z początku mylić, ale z czasem zauważysz, jak logiczniejszy i łatwiejszy w użyciu staje się dzięki niemu cały FJS. (Możesz jeszcze posłużyć się inną analogią: zamiast pojmować krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o dodawaniu i obniżaniu kwint).
+Czego pewnie się domyśliłeś, wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (otonalne). Nie wygląda to zgrabnie – bardziej, niż gdybyśmy przejmowali się kierunkami? Rozumiem, że ten wybór może cię z początku mylić, ale z czasem zauważysz, jak logiczniejszy i łatwiejszy w użyciu staje się dzięki niemu cały FJS. (Możesz jeszcze posłużyć się inną analogią: zamiast pojmować krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o dodawaniu i obniżaniu kwint).
 
 Teraz chciałbym wyjaśnić, jak te alteracje oddziałują na siebie nawzajem na pięciolinii.
 
@@ -239,7 +241,7 @@ Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej sp�
 <img src="../assets/example_4.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
 
 - W pierwszym takcie mamy *c*♯5, po którym następuje gołe *c*. Ponieważ druga nuta jest na tym samym polu, co pierwsza, dziedziczy ona krzyżyk ♯, a ponieważ jest to teraz *cis* w tej samej oktawie, dziedziczy również +5. W takim razie mamy *cis*<sup>5</sup>, *cis*<sup>5</sup>.
-- W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz tego.** W takim razie mamy *cis*<sup>5</cis>, *cis*.
+- W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz tego.** W takim razie mamy *cis*<sup>5</sup>, *cis*.
 - W trzecim takcie mamy *c*♯5, po którym następuje *c*♮. Ponieważ drugie *c* jest różną wysokością od pierwszego *cis*, nie dziedziczy alteracji +5. W takim razie mamy *cis*<sup>5</sup>, *c*.
 - W czwartym takcie mamy *c*♯5, po którym następuje *c*♮5. W takim razie mamy *cis*<sup>5</sup>, *c*<sup>5</sup>. To najrzadsza opcja.
 
@@ -287,7 +289,7 @@ Te z pierwszej grupy już potrafisz zapisać, tylko tego jeszcze nie wiesz. To d
 > - Różnicą między FJS-owymi przedstawieniami dwóch JI-owych interwałów jest FJS-owe przedstawienie ilorazu tychże interwałów.
 > - Odwrotnością FJS-owego przedstawienia JI-owego interwału jest FJS-owe przedstawienie odwrotności multyplikatywnej tegoż interwału.
 
-Z tych własności wynika parę interesujących wniosków, które dla płynności warto trzymać z tyłu głowy. Na przykład dwie wysokości z dokładnie tym samym zestawem alteracji FJS-owym będą różniły się o interwał pitagorejski. *E*<sup>5</sup> i *fis*<sup>5</sup>? Możesz nie mieć zielonego pojęcia, czym są w *B*<sup>7</sup>-dur, ale będziesz i tak wiedział, że interwał pomiędzy nimi jest pitagorejski – czyli 9/8. Fajne, nie?
+Z tych własności wynika parę interesujących wniosków, które dla płynności warto trzymać z tyłu głowy. Na przykład dwie wysokości z dokładnie tym samym zestawem alteracji FJS-owym będą różniły się o interwał pitagorejski. *E*<sup>5</sup> i *fis*<sup>5</sup>? Możesz nie mieć zielonego pojęcia, czym są w *B*<sub>7</sub>, ale będziesz i tak wiedział, że interwał pomiędzy nimi jest pitagorejski – czyli 9/8. Fajne, nie?
 
 Te własności można użyć właśnie, by zapisać interwały z pierwszej grupy. Rozważ 15/8. Rozbij je na część pitagorejską i „resztę” – odpowiednio 3/2 i 5/4. Zapisz obydwie te części osobno FJS-em, a potem dodaj je do siebie. 3/2 zapiszemy jako 5, a 5/4 jako 3<sup>5</sup>. Ich sumą będzie więc 7&lt;<sup>5</sup> – po prostu dodajesz pitagorejskie części tak, jakbyś dodawał zwykłe interwały, a następnie łączysz ze sobą FJS-owe alteracje. Właśnie takie jest przedstawienie 15/8 w FJS-ie!
 
@@ -336,7 +338,7 @@ Jak już zdefiniowaliśmy złożone alteracje, możemy dokonać o wiele więcej 
 > ### Arytmetyka interwałowa w FJS-ie
 >
 > - By dodać dwa FJS-owe interwały, dodaj ich pitagorejskie części (części odpowiadające zwykłym interwałom) i połącz alteracje.
-> - By odjąć dwa FJS-owe interwały od siebie, odejmij ich pitagorejskie części, potem zamień w drugim intyerwale otonalne i utonalne alteracje ze sobą, potem połącz. Odejmowanie to dodawanie odwrotności.
+> - By odjąć dwa FJS-owe interwały od siebie, odejmij ich pitagorejskie części, potem zamień w drugim interwale otonalne i utonalne alteracje ze sobą, potem połącz. Odejmowanie to dodawanie odwrotności.
 > - By odwrócić FJS-owy interwał, odwróć część pitagorejską i zamień utonalne i otonalne alteracje ze sobą.
 > - Analogicznie dodaje się interwał do wysokości i odejmuje jedną wysokość od drugiej.
 
@@ -365,7 +367,7 @@ Jednak jedną z zalet FJS-u jest to, że może on być całkowicie zautomatyzowa
 > 4. Teraz dodaj α<sub>*p*</sub> jako alteracje – jeżeli dodatnie, to otonalnie; jeżeli ujemne, to utonalnie.
 > 5. Zredukuj i dostosuj oktawy.
 >
-> **Przykład.** Zamieńmy tzw. słaby naturalny półton chromatyczny – 25/24 – na FJS za pomocą tej techniki.25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Mamy 5<sup>2</sup>, więc zapamiętaj α<sub>5</sub> = 2 i pomnóż przez (80/81)<sup>−2</sup>. Uzyskujemy 2187/2048 – pitagorejskie 1&lt;. Teraz dodajemy +5 dwa razy (= α<sub>5</sub>) i otrzymujemy wynik: 1&lt;<sup>25</sup>.
+> **Przykład.** Zamieńmy tzw. słaby naturalny półton chromatyczny – 25/24 – na FJS za pomocą tej techniki. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Mamy 5<sup>2</sup>, więc zapamiętaj α<sub>5</sub> = 2 i pomnóż przez (80/81)<sup>−2</sup>. Uzyskujemy 2187/2048 – pitagorejskie 1&lt;. Teraz dodajemy +5 dwa razy (= α<sub>5</sub>) i otrzymujemy wynik: 1&lt;<sup>25</sup>.
 
 > ### Technika FJS-owa nr 5: Automatyczna zamiana FJS-owego interwału na ułamek.
 >
@@ -387,13 +389,13 @@ Na przykład *e*<sup>5</sup> wymawiamy „e pięć” (lub ew. „e nad pięć�
 
 Nic się nie zmienia, jeżeli alteracje nie są do końca wymnożone: *a*<sup>5,17</sup><sub>13</sub> wymawiamy „a (nad) pięć siedemnaście pod trzynaście”. Słowo „pod” służy zamknięciu wyliczenia otonalnych alteracji i otwarciu wyliczenia tych utonalnych.
 
-W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślenia (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karetki (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako „e^5” albo po prostu „e5”, natomiast 3<sup>5</sup> można zapisać tylko jako „3^5” (nie „35”, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
+W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślenia (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karetki (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako `e^5` albo po prostu `e5`, natomiast 3<sup>5</sup> można zapisać tylko jako `3^5` (nie `35`, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
 
 **To wszystko!**
 
 To wszystko, co musisz wiedzieć, by wykorzystywać FJS w *całości* oraz być w stanie przedstawić *dowolny* strój JI! Bez żadnego wyuczania się na pamięć, drukowania tabelek, nic z tych rzeczy! Jedną z największych korzyści płynących z tego systemu jest to, że jest on całkowicie mobilny – jedyne, czego potrzebujesz, by się rozłożyć, to odpowiednie kalkulacje i wybrany przez ciebie promień tolerancji. Wszystkie techniki, które poznałeś, mogą być zautomatyzowane, wyręczając cię od żmudnych kalkulacji.
 
-FJS posiada wiele pięknych własności, które powodują, że jest on niewiarygodnie spójny. Najważniejszą cechą jest to, że FJS jest *bijekcją* do JI – każdy dodatni ułamek ma dokładnie jedno FJS-owe przedstawienie, a każde FJS-owy interwał ma jednego reprezentanta wśród liczb wymiernych. Inną własnością jest *izomorfia* – nie ma znaczenia, czy najpierw przemnożymy ułamki, a następnie zamienimy je do FJS, czy najpierw przeniesiemy je do FJS, a potem dodamy – wynik jest ten sam. Te własności zezwalają na prostą transpozycję w FJS-ie: żeby przenieść o np. 2<sup>5</sup>, najpierw przeniósłbyś wszystko o 2 (bez zmiany FJS-owych znaków chromatycznych), a potem dodałbyś +5 to każdej nuty, łącząc po drodze (tak więc +5 stałoby się +25, +7 – +35, a −5 – 1).
+FJS posiada wiele pięknych własności, które powodują, że jest on niewiarygodnie spójny. Najważniejszą cechą jest to, że FJS jest *bijekcją* do JI – każdy dodatni ułamek ma dokładnie jedno FJS-owe przedstawienie, a każde FJS-owy interwał ma jednego reprezentanta wśród liczb wymiernych. Inną własnością jest *izomorfia* – nie ma znaczenia, czy najpierw przemnożymy ułamki, a następnie zamienimy je do FJS, czy najpierw przeniesiemy je do FJS, a potem dodamy – wynik jest ten sam. Te własności zezwalają na prostą transpozycję w FJS-ie: żeby przenieść o np. 2<sup>5</sup>, najpierw przeniósłbyś wszystko o 2 (bez zmiany FJS-owych znaków chromatycznych), a potem dodałbyś +5 to każdej nuty, łącząc po drodze (tak więc +5 zmieniłoby się na +25, +7 na +35, a −5 na 1).
 
 Jeszcze jedna rzecz, zanim wypróbujesz swoich nagromadzonych sił przy następnym ćwiczeniu. To tylko dla odniesienia – mógłbyś sam wyliczyć sobie tę tabelę, jeżeli byś sobie życzył (czego byś i tak nie zrobił, dlatego ja zrobiłem dla ciebie).
 
@@ -415,7 +417,7 @@ Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadr
 
 1. Zamień następujące ułamki na FJS, używając dowolnej techniki: 28/27, 15/13, 33/25.
 2. Zamień następujące FJS-owe interwały na ułamki, używając dowolnej techniki: 6<sub>7</sub>, 4><sup>13</sup><sub>5</sub>, 3><sub>25</sub>.
-3. Zanotuj tę JI-ową interpretację słynnej durowej kadencji &lt;D&gt; D T (inaczej zapisywanej S<sub>II</sub> D T) w kluczu *B*, mając dane następujące ułamki (wszystkie od *b*):
+3. Zanotuj tę JI-ową interpretację słynnej durowej kadencji S<sub>II</sub> D T w tonacji *B*, mając dane następujące ułamki (wszystkie od *b*, bez oktaw):
 	- S<sub>II</sub>: 10/9, 5/4, 4/3,   5/3,   1/1
 	- D:              3/2,  9/8, 21/16, 27/16, 15/8
 	- T:              1/1,  9/8, 5/4,   3/2,   15/8
@@ -427,7 +429,7 @@ Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadr
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (Trudne!). Tak zwany „ruch 432-hercowy”, który uparcie twierdzi, że przestrajanie *a* z 440 na 432 herce poprawia fizyczny i duchowy aspekt muzyki. (Nie ma tu znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający temu przestrojeniu.
+6. (Trudne!). Tak zwany „ruch 432-hercowy” uparcie twierdzi, że przestrajanie *a* z 440 na 432 Hz poprawia fizyczny i duchowy aspekt muzyki. (Nie ma tu znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający temu przestrojeniu.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
