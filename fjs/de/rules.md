@@ -8,7 +8,7 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 
 > Die übliche reduzierte Form beträgt $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 >
-> Die ausgeglichene reduzierte Form beträgt $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+> Die ausgeglichene reduzierte Form beträgt $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
 ## Der FJS-Master-Algorithmus
 

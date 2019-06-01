@@ -8,7 +8,7 @@ Everything concerning experimental shorthand elements is marked with the symbol 
 
 > The regular reduced form is $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 >
-> The balanced reduced form is $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+> The balanced reduced form is $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
 ## The FJS Master Algorithm
 

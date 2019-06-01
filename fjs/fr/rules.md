@@ -8,7 +8,7 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 
 > La forme réduite conventionnelle est $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 >
-> La forme réduite équilibrée est $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+> La forme réduite équilibrée est $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
 ## L'algorithme principal du FJS
 

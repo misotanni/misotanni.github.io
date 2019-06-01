@@ -61,7 +61,7 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 The balanced reduced form is also used; here the result is between $$\frac{1}{\sqrt{2}}$$ (inclusive) and $$\sqrt{2}$$ (exclusive). It is defined in terms of the standard reduced form as follows:
 
-$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
 This is just about all you need, so let's get started!
 

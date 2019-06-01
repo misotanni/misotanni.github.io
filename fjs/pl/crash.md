@@ -60,7 +60,7 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 Stosuje się także zrównoważoną redukcję, w tym przypadku wynik jest nie mniejszy od $$\frac{1}{\sqrt{2}}$$, a mniejszy od $$\sqrt{2}$$. Definiuje się ją za pomocą zwykłej redukcji:
 
-$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
 To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
