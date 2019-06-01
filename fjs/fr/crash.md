@@ -59,7 +59,7 @@ Troisièmement, vous devez pouvoir utiliser la forme réduite d'un intervalle. E
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
-On utilise aussi la forme réduite équilibrée; ici, le résultat est entre $$-\sqrt{2}$$ (inclu) et $$\sqrt{2}$$ (exclu). Elle est définie en fonction de la forme réduite classique:
+On utilise aussi la forme réduite équilibrée; ici, le résultat est entre $$\frac{1}{\sqrt{2}}$$ (inclu) et $$\sqrt{2}$$ (exclu). Elle est définie en fonction de la forme réduite classique:
 
 $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
 
