@@ -16,6 +16,8 @@ Welcome to the website of the Functional Just System (FJS)!
 
 ## What is the FJS?
 
+[Watch the introductory video!](https://youtu.be/38I3cylJlW4)
+
 The **Functional Just System** (or **FJS**) is a new revolutionary notation system for music in **Just Intonation** (**JI**). It uses an extension of traditional staff notation to notate any Just Intonation based tuning system. With its beauty, ingenuity and simplicity, it outmatches existing notation systems for this purpose, including both Helmholtz-Ellis notation and Ben Johnston notation; it is my greatest invention and proudest accomplishment so far in the domain of microtonal music.
 
 The Functional Just System:

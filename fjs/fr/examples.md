@@ -93,6 +93,8 @@ Une armure FJS est démontrée aussi.
 
 ## Vidéos
 
+Vous trouvez ici la [vidéo d'introduction](https://youtu.be/38I3cylJlW4) du FJS. Ici, il y a la [musique](https://youtu.be/JH2_Fwuc5E4) du vidéo, écrit bien sûr dans le FJS.
+
 Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint* de Steve Reich en intonation juste du 5-limite utilise un *Tonnetz* écrit dans le FJS pour visualiser l'accord.
 
 Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste du 7-limite démontré ses accords aussi dans le FJS.

@@ -16,6 +16,8 @@ Willkommen auf der Webseite des Naturtonfunktionssystems (FJS)!
 
 ## Was ist das FJS?
 
+[Siehe dir das Einführungsvideo an!](https://youtu.be/38I3cylJlW4)
+
 Das **Naturtonfunktionssystem** (englisch: Functional Just System, **FJS**) ist ein neues, wegweisendes Notationssystem für Musik in sog. **Naturtonstimmung** (auch "reiner Stimmung", eng. Just Intonation, **JI**). Es benutzt eine Erweiterung der traditionellen Notenschrift, um alle möglichen Formen der Naturtonstimmung beschreiben zu können. Es übertrifft bestehende Notationssysteme in diesem Zweck (darunter sowohl die Helmholtz-Ellis-Notation, als auch die Notation von Ben Johnston), indem es viel einfacher, einfallsreicher und schöner ist. Im Bereich der mikrotonalen Musik ist es bisher die Erfindung, auf die ich am stolzesten bin.
 
 Das Naturtonfunktionssystem:

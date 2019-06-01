@@ -16,6 +16,8 @@ Bienvenue à la site Internet du Système fonctionnel de l'intonation juste (FJS
 
 ## Qu'est-ce que le FJS?
 
+[Regardez l'introduction en vidéo!](https://youtu.be/38I3cylJlW4)
+
 Le **Système fonctionnel de l'intonation juste** (en anglais: Functional Just System, **FJS**) est un nouveau système de notation pour la musique en **intonation juste** (en anglais: Just Intonation, **JI**). Il est basé sur une augmentation de la notation contemporaine de la portée pour pouvoir exprimer toutes les formes possibles de l'intonation juste. Il dépasse les autres systèmes de notation actuels en ce qui concerne la simplicité, l'ingéniosité et la beauté (y compris la notation Helmholtz-Ellis et la notation de Ben Johnston). Dans le domaine de la musique microtonale, le FJS est l'invention dont je suis le plus fier.
 
 Le Système fonctionnel de l'intonation juste:

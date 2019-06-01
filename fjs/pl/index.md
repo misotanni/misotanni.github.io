@@ -16,6 +16,8 @@ Witamy na stronie Funkcyjnego Systemu Stroju Naturalnego (FJS)!
 
 ## Czym jest FJS?
 
+[Zobacz wprowadzenie w formie wideo!](https://youtu.be/38I3cylJlW4)
+
 **Funkcyjny System Stroju Naturalnego** (lub: „Funkcyjny System Naturalny”; ang. „Functional Just System”, w skrócie **FJS**) to nowa, rewolucyjna notacja dla muzyki w strojach naturalnych (ang. „Just Intonation”, w skrócie **JI**). By móc odzwierciedlić dowolny taki strój, rozszerza ona tradycyjny zapis nutowy. Swoim pięknem, pomysłem i prostotą przewyższa istniejące systemy notacji dla JI – w to włączając te Helmholtza-Ellisa i Bena Johnstona – co jest moim dotychczas największym osiągnięciem w dziedzinie muzyki mikrotonalnej.
 
 FJS:

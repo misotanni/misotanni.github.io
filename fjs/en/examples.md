@@ -93,6 +93,8 @@ An FJS key signature is also exemplified.
 
 ## Videos
 
+Here's the FJS [introductory video](https://youtu.be/38I3cylJlW4). Here's a [score follower](https://youtu.be/JH2_Fwuc5E4) of the video's music, written – of course – in the FJS.
+
 This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric Counterpoint* in 5-limit Just Intonation uses the 5-limit Tonnetz written in the FJS to visualize the tuning.
 
 This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 7-limit Just Intonation also visualizes its tuning lattices in the FJS.
