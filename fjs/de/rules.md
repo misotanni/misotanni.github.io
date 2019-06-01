@@ -4,6 +4,12 @@ Diese Seite ist *de facto* ein Handbuch des FJS. Es enthält alle Regeln, die du
 
 Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) markiert.
 
+## Reduzierte Formen
+
+> Die übliche reduzierte Form beträgt $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
+>
+> Die ausgeglichene reduzierte Form beträgt $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
+
 ## Der FJS-Master-Algorithmus
 
 > 1. Lese die eingegebene Primzahl und nenne sie *p*.
@@ -13,13 +19,13 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
 >
-> Beim 4. Schritt ist die gemeinte Differenz $$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
+> Beim 4. Schritt ist die gemeinte Differenz der **Betrag** der Cent-Größe von $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ## Das formale Komma
 
 > Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
 >
-> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 ## Die Umrechnung jedes JI-Verhältnisses in die entsprechende FJS-Form
 

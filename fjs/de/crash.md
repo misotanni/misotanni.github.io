@@ -59,6 +59,10 @@ Drittens brauchst du die sog. reduzierte Form eines Intervalls. In der Praxis mu
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
+Es gibt auch die ausgeglichene reduzierte Form; das Ergebnis liegt hier zwischen $$\frac{1}{\sqrt{2}}$$ (einbezogen) und $$\sqrt{2}$$ (ausgeschlossen). Man definiert sie mithilfe der üblichen reduzierten Form:
+
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
+
 Das ist alles, was du brauchst. Fangen wir also an!
 
 ## <a name="lesson_1">Lektion 1: Die pythagoreische Stimmung</a>
@@ -191,14 +195,7 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
-Bemerkungen über den 4. Schritt:
-
-- Wir betrachten so gewählte Oktaven von *p* und *P*, dass die Differenz minimal ist.
-- Wir betrachten die absolute Größe der Differenz, also den **Betrag** der Cent-Größe. Nur in diesem Schritt sind 16/15 und 15/16 gleichwertig.
-
-Das brauchst du nicht wissen, aber die formale Definition dieser Differenz lautet:
-
-$$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
+Im 4. Schritt wählen wir die Oktaven von *p* und *P* so, dass die "Differenz" minimal ist: wir meinen dabei die absolute Größe des Kandidaten für das formale Komma, also den **Betrag** seiner Cent-Größe. Hier, und nur hier, sind z.B. 16/15 und 15/16 gleichwertig. Formal bedeutet "Differenz" hier Folgendes: $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Obwohl der Algorithmus langweilig wirkt, ist er tatsächlich sehr schnell, auch im Kopf. 5/4 ist natürlich zu weit von der Oktave, Quinte, Quarte, großen Sekunde, kleinen Septime, und großen Sexte. Hier ist es nur die Frage, ob sie zu weit von der kleinen Terz ist. Dann ist die große Terz eine prima Annäherung.
 
@@ -208,7 +205,7 @@ Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung 
 >
 > Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
 >
-> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 Es geht auch anders herum: du kannst aus dem formalen Komma die Generatorfunktion einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Generatorfunktion. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Generatorfunktion für 7.
 
