@@ -4,6 +4,12 @@ Ce site est *de facto* un manuel du FJS. Vous trouvez ici toutes les règles don
 
 Tout ce qui concerne des abréviations expérimentales est marqué avec le symbole (\*).
 
+## Formes réduites
+
+> La forme réduite conventionnelle est $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
+>
+> La forme réduite équilibrée est $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+
 ## L'algorithme principal du FJS
 
 > 1. Entrez le nombre premier. Nommez-le *p*.
@@ -13,13 +19,13 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 > 5. Si oui, *k* égale la fonction génératrice. Fin.
 > 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
 >
-> Dans l'étape 4, la différence dont on parle est $$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
+> Dans l'étape 4, la différence dont on parle, c'est la **valeur absolue** du nombre de cents de $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ## Le comma formel
 
 > Le comma formel d'un nombre premier *p* dont la fonction génératrice est *g* égale:
 >
-> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 ## La conversion de chaque rapport JI en sa forme FJS
 

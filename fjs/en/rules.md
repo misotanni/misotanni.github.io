@@ -4,6 +4,12 @@ This page is a *de facto* reference manual for using the FJS. It contains all th
 
 Everything concerning experimental shorthand elements is marked with the symbol (\*).
 
+## Reduced Forms
+
+> The regular reduced form is $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
+>
+> The balanced reduced form is $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+
 ## The FJS Master Algorithm
 
 > 1. Input the desired prime interval in octave-reduced form.
@@ -12,12 +18,14 @@ Everything concerning experimental shorthand elements is marked with the symbol 
 > 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
 > 5. If so: *k* is the generator function. Output. End.
 > 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
+>
+> In step 4, the meaning of "difference" is the **absolute value** of the cent size of $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ## The Formal Comma
 
-The formal comma of a prime *p* with a generator function *g* is given by:
-
-$$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
+> The formal comma of a prime *p* with a generator function *g* is given by:
+>
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 ## Converting JI Ratios into FJS Representations
 
