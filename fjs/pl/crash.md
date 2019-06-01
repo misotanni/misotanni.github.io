@@ -194,7 +194,7 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 
 Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
 
-W kroku 4 dobierasz tak oktawy *p* i *P*, żeby zminimalizować "różnicę", czyli rozmiar testowej wartości komatu (**wartość bezwzględna** jego rozmiaru w centach). Tylko w tym kroku np. 16/15 i 15/16 się nie różnią. Jak mowa o różnicy, formalnie chodzi o $$\text{reb}\left( \frac{p}{3^k} \right)$$.
+W kroku 4 dobierasz tak oktawy *p* i *P*, żeby zminimalizować „różnicę”, czyli rozmiar testowej wartości komatu (**wartość bezwzględna** jego rozmiaru w centach). Tylko w tym kroku np. 16/15 i 15/16 się nie różnią. Jak mowa o różnicy, formalnie chodzi o $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Chociaż algorytm może wyglądać na mozolny, liczy się go bardzo szybko, także w głowie. 5/4 na pewno jest za daleko od oktawy, kwinty, kwarty, sekundy wielkiej, septymy małej, i seksty wielkiej. Wątpliwość jest tylko przy tercji małej. Jeśli odpada ona, to będzie to tercja wielka.
 
