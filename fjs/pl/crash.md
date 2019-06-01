@@ -395,7 +395,7 @@ Na przykład *e*<sup>5</sup> wymawiamy „e pięć” (lub ew. „e nad pięć�
 
 Nic się nie zmienia, jeżeli alteracje nie są do końca wymnożone: *a*<sup>5,17</sup><sub>13</sub> wymawiamy „a (nad) pięć siedemnaście pod trzynaście”. Słowo „pod” służy zamknięciu wyliczenia otonalnych alteracji i otwarciu wyliczenia tych utonalnych.
 
-W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślenia (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karetki (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako `e^5` albo po prostu `e5`, natomiast 3<sup>5</sup> można zapisać tylko jako `3^5` (nie `35`, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
+W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślenia (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karety (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako `e^5` albo po prostu `e5`, natomiast 3<sup>5</sup> można zapisać tylko jako `3^5` (nie `35`, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
 
 **To wszystko!**
 
