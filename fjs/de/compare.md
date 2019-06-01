@@ -249,7 +249,7 @@ Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen k
 | Des+5−17 | D    | Es+19 | E−5 | F−7    | F+11 | Fis+23  | G |
 | Gis−5−5  | A−13 | A     | B−7 | B+5+29 | H−5  | C−11−31 | C |
 
-**Ben Johnston.** Das dauerte drei Minuten, und zwar dabei habe ich die Obertonreihe bei Johnston schon mal gesehen.
+**Ben Johnston.** Das dauerte drei Minuten, und zwar dabei habe ich die Obertonreihe bei Johnston schon mal gesehen. Auf Deutsch schreibe ich bei Johnston die Akzidenzien immer getrennt (z.B. H♭ und nicht B), weil sie manchmal am Notennamen sind, und manchmal gibt es ein anderes Zeichen dazwischen.
 
 | C    | C    | G    | C   | E    | G   | H7♭   | C |
 | D    | E    | F↑   | G   | A♭13 | H7♭ | H     | C |
