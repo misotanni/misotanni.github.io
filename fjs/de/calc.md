@@ -36,7 +36,7 @@ Ergebnis: <br />
            notFrac: "Die Eingabe ist kein Bruch (wie 5/3 oder 928/777).",
               div0: "Wieso würdest du durch null teilen?",
            notReal: "‘%1’ ist keine reelle Zahl.",
-         radiusSet: "Set radius of tolerance to %1.",
+         radiusSet: "Toleranzradius umgestellt auf %1.",
 
              comma: "Finde sowohl die Generatorfunktion, als auch das formale Komma (sowie die Cent-Größe davon) für jede Eingabe einer Primzahl größer als 3.",
              tofjs: "Finde die einzige FJS-Darstellung jeder Eingabe einer positiven Bruchzahl. <br>Alle FJS-Modifikatoren werden dabei getrennt geschrieben, nie miteinander multipliziert. Für Intervalle kleiner als eine reine Prime wird eine negative Zahl benutzt, um ein Intervall nach unten darzustellen. 5/4 ist also <code>M3^5</code>, aber 4/5 ist <code>M-3_5</code>. <br><strong>Pass auf:</strong> der Rechner benutzt englischsprachige Intervallnamen: M3 ist z.B. eine große Terz.",
