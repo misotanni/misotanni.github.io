@@ -61,7 +61,7 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 On utilise aussi la forme réduite équilibrée; ici, le résultat est entre $$-\sqrt{2}$$ (inclu) et $$\sqrt{2}$$ (exclu). Elle est définie en fonction de la forme réduite classique:
 
-$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\bigl \sqrt{2} \cdot \text{red}\bigl \frac{p}{P} \bigr \bigr$$
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
 
 C'est tout dont vous avez besoin. Commençons, alors!
 
@@ -195,7 +195,7 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 
 Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
 
-Dans la 4. étape, la *différence* signifie formellement $$\text{reb}\bigl \frac{p}{3^k} \bigr$$.
+Dans la 4. étape, on choisit les octaves de *p* et *P* pour que la *différence* entre eux soit minimale: la taille absolue du candidat pour le comma formel, donc la **valeur absolue** du nombre de cents. Formellement, la différence signifie $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Bien que l'algorithme semble très long, en fait, il est très rapide, mentalement aussi. 5/4 est évidemment trop éloigné pour être une octave, quinte, quarte, seconde majeure, septième mineure, ou sixte majeure. Il ne faut que vérifier si elle pourrait être une tierce mineure. Sinon, elle devient alors une tierce majeure.
 
@@ -205,7 +205,7 @@ L'algorithme trouve alors pour chaque intervalle premier l'approximation pythago
 >
 > Le comma formel d'un nombre premier *p* dont la fonction génératrice est *g* égale:
 >
-> $$\text{comma} (p)=\text{reb}\bigl \frac{p}{3^g} \bigr$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 L'opération inverse est aussi possible: vous pouvez trouver la fonction génératrice d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Divisez la forme réduite de l'intervalle premier par le comma formel. Vous obtenez l'approximation pythagoricienne. Factorisez-la. L'exposant de 3 est alors la fonction génératrice. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous divisons 7/4 par 63/64. Le résultat est (7/4) ÷ (63/64) = 16/9, l'approximation pythagoricienne. Nous la factorisons et obtenons 2<sup>4</sup> 3<sup>−2</sup>. Puisque l'exposant de 3 est −2, −2 est aussi la fonction génératrice de 7.
 

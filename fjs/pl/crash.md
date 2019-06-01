@@ -58,6 +58,10 @@ Trzecią z nich jest redukowanie interwałów. Opiera się ono na mnożeniu czy 
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
+Stosuje się także zrównoważoną redukcję, w tym przypadku wynik jest nie mniejszy od $$-\sqrt{2}$$, a mniejszy od $$\sqrt{2}$$. Definiuje się ją za pomocą zwykłej redukcji:
+
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
+
 To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
 ## <a name="lesson_1">Lekcja 1: Strój pitagorejski</a>
@@ -190,14 +194,7 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 
 Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
 
-Co do kroku 4:
-
-- Różnica jest rozpatrywana między takimi oktawami *p* i *P*, żeby była jak najmniejsza.
-- Różnica dotyczy faktycznego rozmiaru, czyli **wartości bezwzględnej** rozmiaru centowego. Tylko w tym kroku 16/15 i 15/16 są równoważne.
-
-Nie potrzebujesz wiedzieć tego ty, ale formalnie tę różnicę oblicza się tak:
-
-$$\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \text{red}(\frac{p}{P}))$$
+W kroku 4 dobierasz tak oktawy *p* i *P*, żeby zminimalizować "różnicę", czyli rozmiar testowej wartości komatu (**wartość bezwzględna** jego rozmiaru w centach). Tylko w tym kroku np. 16/15 i 15/16 się nie różnią. Jak mowa o różnicy, formalnie chodzi o $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Chociaż algorytm może wyglądać na mozolny, liczy się go bardzo szybko, także w głowie. 5/4 na pewno jest za daleko od oktawy, kwinty, kwarty, sekundy wielkiej, septymy małej, i seksty wielkiej. Wątpliwość jest tylko przy tercji małej. Jeśli odpada ona, to będzie to tercja wielka.
 
@@ -207,7 +204,7 @@ Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie
 > 
 > Komat formalny dla liczby pierwszej *p* i funkcji generującej *g* wynosi:
 >
-> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 Można by też pójść od drugiej strony: wyznaczyć funkcję generującą dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie funkcją generującą. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, funkcją generującą dla 7 musi być też −2.
 
