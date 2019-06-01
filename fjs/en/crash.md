@@ -61,7 +61,7 @@ $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 The balanced reduced form is also used; here the result is between $$-\sqrt{2}$$ (inclusive) and $$\sqrt{2}$$ (exclusive). It is defined in terms of the standard reduced form as follows:
 
-$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\bigl \sqrt{2} \cdot \text{red}\bigl \frac{p}{P} \bigr \bigr$$
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}\left( \sqrt{2} \cdot \text{red}\left( \frac{p}{P} \right) \right)$$
 
 This is just about all you need, so let's get started!
 
@@ -195,7 +195,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
 
-In step 4, the "difference" formally refers to $$\text{reb}\bigl \frac{p}{3^k} \bigr$$.
+In step 4, the "difference" formally refers to $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Although the algorithm may look daunting, it's really fast to carry out in your head. Obviously 5/4 is too far from the octave, fifth, fourth, major second, minor seventh, and major sixth. The only difficult check here is whether it's too far from the minor third. If not, then the major third nails it.
 
@@ -205,7 +205,7 @@ The FJS master algorithm finds the simplest possible Pythagorean approximation o
 >
 > The formal comma of a prime *p* with a generator function *g* is given by:
 >
-> $$\text{comma} (p)=\text{reb}\bigl \frac{p}{3^g} \bigr$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 You can also go the other way: determine the generator function of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the generator function. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
 
