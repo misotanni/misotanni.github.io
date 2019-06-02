@@ -193,6 +193,8 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 > |       −3    |      32/27      |  135/128  |   92.18¢   ≥ λ; continuer. |
 > |     **+4**  |    **81/64**    | **80/81** | **21.51¢** < λ; arrêter.   |
 
+Vous trouvez ici une [visualisation](https://youtu.be/jG7lj98Yy-0).
+
 Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
 
 Dans la 4. étape, on choisit les octaves de *p* et *P* pour que la *différence* entre eux soit minimale: la taille absolue du candidat pour le comma formel, donc la **valeur absolue** du nombre de cents. Formellement, la différence signifie $$\text{reb}\left( \frac{p}{3^k} \right)$$.

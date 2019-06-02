@@ -193,6 +193,8 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 > |      −3   |    32/27    |  135/128  |   92.18¢   ≥ λ; continuing. |
 > |    **+4** |  **81/64**  | **80/81** | **21.51¢** < λ; halting.    |
 
+Here you'll find a [visualization](https://youtu.be/jG7lj98Yy-0).
+
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
 
 In step 4, the octaves of *p* and *P* are chosen to minimize the "difference", which is the absolute size of the comma candidate (or the **absolute value** of its cent size). In this step only, 16/15 and 15/16 are equivalent. The difference formally refers to $$\text{reb}\left( \frac{p}{3^k} \right)$$.
