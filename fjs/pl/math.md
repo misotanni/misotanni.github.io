@@ -40,7 +40,7 @@ Teraz co najwyżej jeden z tych rozkładów musimy przedłużyć, żeby oba mia�
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{t} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{t} \text{p}(j)^{\beta _j}}=\prod_{k=1}^{t} \text{p}(k)^{\gamma _k}$$
 
-Zasadnicze twierdzenie arytmetyki głosi, że nowymi potęgami będą różnice dwóch liczb naturalnych. Liczby naturalne z operacją odejmowania nie tworzą grupoidu, natomiast ich najmniejszy nadzbiór o tej właściwości to liczby całkowite. Zatem dla każdego interwału JI istnieje dokładnie jeden rozkład na czynniki pierwsze do potęg całkowitych, a twierdzenie jest prawdziwe.&nbsp;$$\blacksquare$$
+Zasadnicze twierdzenie arytmetyki głosi, że nowymi potęgami będą różnice dwóch liczb naturalnych. Liczby naturalne z operacją odejmowania nie tworzą grupoidu, natomiast ich najmniejszy nadzbiór o tej właściwości to liczby całkowite. Zatem dla każdego interwału JI istnieje dokładnie jeden rozkład na czynniki pierwsze do potęg całkowitych, a twierdzenie jest prawdziwe.&nbsp;∎
 
 ## Twierdzenie 3.
 
@@ -52,7 +52,7 @@ $$p^n=q^m$$
 
 Jako że *p* i *q* już są pierwsze, jest to także już rozkład na czynniki pierwsze według zasadniczego twierdzenia arytmetyki.
 
-Jest to także od razu sprzeczność, ponieważ ono głosi, że każda dodatnia liczba całkowita da się przedstawić jako iloczyn liczb pierwszych tylko na jeden sposób, a tutaj mamy dwa różne iloczyny liczb pierwszych przedstawiające tę samą liczbę całkowitą. Nie jest to sprzeczne, jeżeli *n* i *m* oba są zerowe, wtedy rozpatrujemy liczbę 1. To z kolei jednak jest sprzeczne z założeniem, że *n* i *m* oba są niezerowe.&nbsp;$$\blacksquare$$
+Jest to także od razu sprzeczność, ponieważ ono głosi, że każda dodatnia liczba całkowita da się przedstawić jako iloczyn liczb pierwszych tylko na jeden sposób, a tutaj mamy dwa różne iloczyny liczb pierwszych przedstawiające tę samą liczbę całkowitą. Nie jest to sprzeczne, jeżeli *n* i *m* oba są zerowe, wtedy rozpatrujemy liczbę 1. To z kolei jednak jest sprzeczne z założeniem, że *n* i *m* oba są niezerowe.&nbsp;∎
 
 **Następstwo.** Dla *p* = 2, *q* = 3, twierdzenie jest prawdziwe dla oktaw i duodecym czystych, czyli dla oktaw i kwint czystych. To oznacza, że nie istnieje „koło” kwintowe z kwint naturalnych 3/2.
 
@@ -78,7 +78,7 @@ Ale zauważ, że już wiemy przecież, jak ten ciąg przedłużyć. Krzyżyk i b
 
 Podwójne krzyżyki i bemole rozciągną go aż do 17, potrójne – do 24, itd.
 
-*Łańcuch nigdy się nie zamknie i nie stworzy koła kwintowego*, bo to udowodniliśmy w twierdzeniu 3. Zatem jest w obu kierunkach nieskończony, czyli każda nuta pasuje dokładnie do jednej liczby całkowitej, która z kolei odpowiada liczbie kroków kwintowych.&nbsp;$$\blacksquare$$
+*Łańcuch nigdy się nie zamknie i nie stworzy koła kwintowego*, bo to udowodniliśmy w twierdzeniu 3. Zatem jest w obu kierunkach nieskończony, czyli każda nuta pasuje dokładnie do jednej liczby całkowitej, która z kolei odpowiada liczbie kroków kwintowych.&nbsp;∎
 
 **Następstwo.** Każdy ułamek pitagorejski odpowiada dokładnie jednemu interwałowi, w ten sam sposób, jak FJS kojarzy strój pitagorejski z interwałami na pięciolinii.
 
@@ -144,6 +144,6 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C
 
 Mamy zatem niepowtarzalną postać tego interwału JI z czynnikami aż do $$\text{p}(n+1)$$ wynikającą z czynników do $$\text{p}(n)$$.
 
-Jako że twierdzenie także zostało udowodnione dla $$\text{p}(n)=5$$, jest według indukcji matematycznej również prawdziwe dla wszystkich liczb pierwszych większych niż 3.&nbsp;$$\blacksquare$$
+Jako że twierdzenie także zostało udowodnione dla $$\text{p}(n)=5$$, jest według indukcji matematycznej również prawdziwe dla wszystkich liczb pierwszych większych niż 3.&nbsp;∎
 
 **Następstwo.** Jako że każdy komat formalny jest liczbą-mostem, dla każdej danej listy komatów formalnych (jeden dla każdej liczby pierwszej) można dowolny ułamek JI przedstawić w tylko jeden sposób jako ułamek pitagorejski pomnożony przez komaty formalne podniesione do potęg całkowitych. Tak właśnie działa FJS.

@@ -40,7 +40,7 @@ Berechne $$t=\text{max}(n,m)$$ und erweitere maximal eines der Produkte, bis bei
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{t} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{t} \text{p}(j)^{\beta _j}}=\prod_{k=1}^{t} \text{p}(k)^{\gamma _k}$$
 
-Wegen des Fundamentalsatzes der Arithmetik sind die Exponenten jetzt Differenzen je zweier natürlichen Zahlen. Die natürlichen Zahlen sind selbst nicht bezüglich der Subtraktion abgeschlossen, die ganzen Zahlen sind aber deren kleinste Obermenge mit dieser Eigenschaft. Deshalb gibt es eine einzelne Darstellung jeder positiven rationalen Zahl als Produkt von Primzahlen mit ganzen Zahlen als Potenzen.&nbsp;$$\blacksquare$$
+Wegen des Fundamentalsatzes der Arithmetik sind die Exponenten jetzt Differenzen je zweier natürlichen Zahlen. Die natürlichen Zahlen sind selbst nicht bezüglich der Subtraktion abgeschlossen, die ganzen Zahlen sind aber deren kleinste Obermenge mit dieser Eigenschaft. Deshalb gibt es eine einzelne Darstellung jeder positiven rationalen Zahl als Produkt von Primzahlen mit ganzen Zahlen als Potenzen.&nbsp;∎
 
 ## 3. Satz
 
@@ -52,7 +52,7 @@ $$p^n=q^m$$
 
 Die Zahlen *p* und *q* sind bereits Primzahlen, das ist also auch schon die Primfaktorzerlegung.
 
-Dies ist ein Widerspruch, denn der Fundamentalsatz der Arithmetik gibt an, dass es nur eine Weise gibt, jede positive ganze Zahl in Primfaktoren zu zerlegen. Hier haben wir angeblich zwei verschiedene Primfaktorzerlegungen derselben Zahl. Den Widerspruch kann man vermeiden, indem *n*, *m* beide gleich null sind (dann sind es zwei verschiedene Darstellungen der Zahl 1). Das aber ist wiederum ein Widerspruch mit der Annahme, dass *n*, *m* beide ungleich null sind.&nbsp;$$\blacksquare$$
+Dies ist ein Widerspruch, denn der Fundamentalsatz der Arithmetik gibt an, dass es nur eine Weise gibt, jede positive ganze Zahl in Primfaktoren zu zerlegen. Hier haben wir angeblich zwei verschiedene Primfaktorzerlegungen derselben Zahl. Den Widerspruch kann man vermeiden, indem *n*, *m* beide gleich null sind (dann sind es zwei verschiedene Darstellungen der Zahl 1). Das aber ist wiederum ein Widerspruch mit der Annahme, dass *n*, *m* beide ungleich null sind.&nbsp;∎
 
 **Folge.** Mit *p* = 2, *q* = 3 erhalten wir eine Aussage über Oktaven und reine Duodezimen, also Quinten. Das heißt, ein "Quintenzirkel" aus 3/2-Quinten schließt sich niemals.
 
@@ -78,7 +78,7 @@ F♭, C♭, G♭, D♭, A♭, E♭, B♭, F, C, G, D, A, E, B, F♯, C♯, G♯,
 
 Doppelkreuze und Doppel-Be ermöglichen eine Erweiterung bis zu 17, dreifache Kreuze und Be bis zu 24, usw.
 
-*Die Kette wird sich niemals schließen und ein Zirkel bilden*, das haben wir bereits im 3. Satz bewiesen. Sie ist also in beiden Richtungen unendlich, jeder Note wird also genau eine ganze Zahl zugeordnet, eine Anzahl von Quintenschritten.&nbsp;$$\blacksquare$$
+*Die Kette wird sich niemals schließen und ein Zirkel bilden*, das haben wir bereits im 3. Satz bewiesen. Sie ist also in beiden Richtungen unendlich, jeder Note wird also genau eine ganze Zahl zugeordnet, eine Anzahl von Quintenschritten.&nbsp;∎
 
 **Folge.** Jedes pythagoreische Frequenzverhältnis wird genau einem üblichen Intervall zugeordnet, genauso, wie das FJS es macht.
 
@@ -144,6 +144,6 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C
 
 Das ist eine einzigartige Darstellung des JI-Intervalls mit Faktoren bis zu $$\text{p}(n+1)$$ mithilfe der Faktoren bis zu $$\text{p}(n)$$. Der Induktionsschritt gilt.
 
-Da der Satz auch für den Induktionsanfang $$\text{p}(n)=5$$ bewiesen wurde, gilt er auch für alle Primzahlen über 3 wegen der vollständigen Induktion.&nbsp;$$\blacksquare$$
+Da der Satz auch für den Induktionsanfang $$\text{p}(n)=5$$ bewiesen wurde, gilt er auch für alle Primzahlen über 3 wegen der vollständigen Induktion.&nbsp;∎
 
 **Folge.** Da ein formales Komma immer eine Brückenzahl ist, ist es möglich, für jede bekannte Liste formaler Kommas – eines für jede Primzahl – jedes JI-Verhältnis auf nur eine Weise als pythagoreisches Verhältnis multipliziert mit formalen Kommas mit ganzen Zahlen als Exponenten darzustellen. Das FJS tut genau das.

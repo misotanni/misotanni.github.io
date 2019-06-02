@@ -40,7 +40,7 @@ Considérez maintenant $$t=\text{max}(n,m)$$ et rallongez au plus un de ces prod
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{t} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{t} \text{p}(j)^{\beta _j}}=\prod_{k=1}^{t} \text{p}(k)^{\gamma _k}$$
 
-Grâce au théorème fondamental de l'arithmétique, les exposants sont maintenant des différences de deux entiers naturels. Ces différences ne sont pas toujours des entiers naturels, mais elles sont toujours des entiers relatifs. Donc il n'y a qu'une seule représentation de chaque intervalle en intonation juste dans ce format, est la proposition est vraie.&nbsp;$$\blacksquare$$
+Grâce au théorème fondamental de l'arithmétique, les exposants sont maintenant des différences de deux entiers naturels. Ces différences ne sont pas toujours des entiers naturels, mais elles sont toujours des entiers relatifs. Donc il n'y a qu'une seule représentation de chaque intervalle en intonation juste dans ce format, est la proposition est vraie.&nbsp;∎
 
 ## Théorème 3
 
@@ -52,7 +52,7 @@ $$p^n=q^m$$
 
 Les nombres *p*, *q* sont déjà premiers, donc ce sont déjà leurs factorisations d'après le théorème fondamental de l'arithmétique.
 
-C'est une contradiction tout de suite, parce que le théorème fondamental de l'arithmétique dit que la factorisation de chaque entier positif doit être unique, et ici nous avons deux factorisations différentes du même entier positif. Ce n'est pas une contradiction seulement si *n*, *m* sont zéro (on a alors le nombre 1), mais c'est une contradiction contre la supposition que les deux entiers relatifs ne sont pas zéro.&nbsp;$$\blacksquare$$
+C'est une contradiction tout de suite, parce que le théorème fondamental de l'arithmétique dit que la factorisation de chaque entier positif doit être unique, et ici nous avons deux factorisations différentes du même entier positif. Ce n'est pas une contradiction seulement si *n*, *m* sont zéro (on a alors le nombre 1), mais c'est une contradiction contre la supposition que les deux entiers relatifs ne sont pas zéro.&nbsp;∎
 
 **Corollaire.** Pour *p* = 2, *q* = 3, nous obtenons la proposition à propos des octaves et douzièmes (quintes) justes. Cela signifie qu'il n'y pas de cycle de quintes justes 3/2.
 
@@ -78,7 +78,7 @@ Fa♭, Do♭, Sol♭, Ré♭, La♭, Mi♭, Si♭, Fa, Do, Sol, Ré, La, Mi, Si,
 
 L'utilisation des double-dièses et double-bémols étendra la chaîne jusqu'à 17, les triples l'étendront jusqu'à 24, etc.
 
-*La chaîne ne formera jamais un cycle*, ce qui nous avons prouvé dans le troisième théorème. Elle est alors infinie dans les deux directions, donc chaque note correspondera à un entier relatif, qui lui-même correspond à un nombre de quintes 3/2.&nbsp;$$\blacksquare$$
+*La chaîne ne formera jamais un cycle*, ce qui nous avons prouvé dans le troisième théorème. Elle est alors infinie dans les deux directions, donc chaque note correspondera à un entier relatif, qui lui-même correspond à un nombre de quintes 3/2.&nbsp;∎
 
 **Corollaire.** Chaque rapport pythagoricien correspond à exactement un type d'intervalle conventionnel, de la même manière que le FJS les associe.
 
@@ -144,6 +144,6 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C
 
 Cela est une représentation unique de l'intervalle JI avec des facteurs jusqu'à $$\text{p}(n+1)$$ en fonction des facteurs jusqu'à $$\text{p}(n)$$. L'hérédité est complète.
 
-Puisque la proposition est aussi vraie pour l'initialisation $$\text{p}(n)=5$$, elle est alors vraie pour tous les nombres premiers au-delà de 3 grâce au principe de la récurrence.&nbsp;$$\blacksquare$$
+Puisque la proposition est aussi vraie pour l'initialisation $$\text{p}(n)=5$$, elle est alors vraie pour tous les nombres premiers au-delà de 3 grâce au principe de la récurrence.&nbsp;∎
 
 **Corollaire.** Puisqu'un comma formel est toujours un nombre pont, pour chaque liste de commas formels – un comma pour chaque nombre premier – on peut représenter chaque rapport JI d'une seule façon comme rapport pythagoricien multiplé par des commas formels dont les exposants sont des entiers relatifs. Le FJS fait exactement cela.

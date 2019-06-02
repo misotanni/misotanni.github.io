@@ -40,7 +40,7 @@ Now consider $$t=\text{max}(n,m)$$ and expand at most one of these products unti
 
 $$\frac{a}{b}=\frac{\prod_{i=1}^{t} \text{p}(i)^{\alpha _i}}{\prod_{j=1}^{t} \text{p}(j)^{\beta _j}}=\prod_{k=1}^{t} \text{p}(k)^{\gamma _k}$$
 
-By the Fundamental Theorem of Arithmetic, the exponents are differences of two natural numbers. The natural numbers are not closed under subtraction, but their least superset which is closed under subtraction is the set of integers. Hence there exists a unique representation of every just interval as a product of primes raised to integer exponents and the proposition holds.&nbsp;$$\blacksquare$$
+By the Fundamental Theorem of Arithmetic, the exponents are differences of two natural numbers. The natural numbers are not closed under subtraction, but their least superset which is closed under subtraction is the set of integers. Hence there exists a unique representation of every just interval as a product of primes raised to integer exponents and the proposition holds.&nbsp;∎
 
 ## Theorem 3
 
@@ -52,7 +52,7 @@ $$p^n=q^m$$
 
 The numbers *p* and *q* are already prime, so this also already is their prime factorization using the Fundamental Theorem of Arithmetic.
 
-This is an immediate contradiction, since by the Fundamental Theorem of Arithmetic, the decomposition of any positive integer into primes is unique, and here we have two different prime factorizations of the same positive integer. The only case where this is not a contradiction is if *n*, *m* are both zero. Then the positive integer in question is 1. But this is a contradiction with the assumption that *n*, *m* are both nonzero.&nbsp;$$\blacksquare$$
+This is an immediate contradiction, since by the Fundamental Theorem of Arithmetic, the decomposition of any positive integer into primes is unique, and here we have two different prime factorizations of the same positive integer. The only case where this is not a contradiction is if *n*, *m* are both zero. Then the positive integer in question is 1. But this is a contradiction with the assumption that *n*, *m* are both nonzero.&nbsp;∎
 
 **Corollary.** Taking *p* = 2, *q* = 3, we obtain the statement for octaves and perfect twelfths, equivalent to the statement for octaves and perfect fifths. This implies that a "circle" of just 3/2 fifths never closes.
 
@@ -78,7 +78,7 @@ F♭, C♭, G♭, D♭, A♭, E♭, B♭, F, C, G, D, A, E, B, F♯, C♯, G♯,
 
 Using double flats and double sharps extends the chain to 17, using triple flats and triple sharps extends it even further to 24, etc.
 
-*The chain will never close to form a circle*, which we have proved in Theorem 3. Thus it is infinite in both directions, and so every note will correspond to an integer on the number line, which corresponds to a number of motions of fifths.&nbsp;$$\blacksquare$$
+*The chain will never close to form a circle*, which we have proved in Theorem 3. Thus it is infinite in both directions, and so every note will correspond to an integer on the number line, which corresponds to a number of motions of fifths.&nbsp;∎
 
 **Corollary.** Any Pythagorean ratio corresponds exactly to one conventional interval class, in the same way the FJS associates Pythagorean tuning with conventional interval classes.
 
@@ -144,6 +144,6 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C
 
 This is a unique representation of a JI interval with factors up to $$\text{p}(n+1)$$ in terms of the factors up to $$\text{p}(n)$$. The induction step holds.
 
-As the statement has also been proven for the base case $$\text{p}(n)=5$$, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction.&nbsp;$$\blacksquare$$
+As the statement has also been proven for the base case $$\text{p}(n)=5$$, it also holds for all the prime numbers greater than 3 by the principle of mathematical induction.&nbsp;∎
 
 **Corollary.** Since a formal comma is a bridge number, for any given list of formal commas – one for every prime – every JI ratio can be uniquely represented as a Pythagorean ratio multiplied by formal commas raised to integer powers. This is exactly what the FJS does.
