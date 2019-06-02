@@ -8,13 +8,13 @@ Tutaj znajdziesz jeszcze więcej przykładów zastosowania FJS.
 
 | 1                           | 1<sub>5</sub>   | 1<sup>11</sup>   | 2\><sup>7</sup><sub>5</sub> | 2\><sub>5</sub>              | 2<sub>11</sub>  | 2\><sup>11</sup><sub>5</sub> | 2<sup>5</sup>               | 2              | 2<sub>7</sub>  | 3\><sup>7</sup>             |
 | 3\>                         | 3\><sub>5</sub> | 3\><sup>11</sup> | 3<sup>5</sup>               | 4<sup>7</sup><sub>11</sub>   | 3<sub>7</sub>   | 4<sup>7</sup>                | 4                           | 4<sub>5</sub>  | 4<sup>11</sup> | 5\><sup>7</sup><sub>5</sub> |
-| 4\<\<sup>5</sup><sub>7</sub> | 5<sub>11</sub>  | 5<sup>5</sup>    | 5                           | 5<sub>7</sub>                | 6\><sup>7</sup> | 5<sup>11</sup><sub>7</sub>   | 6\><sub>5</sub>             | 6<sub>11</sub> | 6<sup>5</sup>  | 6                           |
-| 6<sub>7</sub>               | 7<sup>7</sup>   | 7                | 7<sub>5</sub>               | 7\<\<sup>5</sup><sub>11</sub> | 7<sup>11</sup>  | 7\<\<sup>5</sup>              | 7\<\<sup>5</sup><sub>7</sub> | 8<sub>11</sub> | 8<sup>5</sup>  | 8                           |
+| 4&lt;<sup>5</sup><sub>7</sub> | 5<sub>11</sub>  | 5<sup>5</sup>    | 5                           | 5<sub>7</sub>                | 6\><sup>7</sup> | 5<sup>11</sup><sub>7</sub>   | 6\><sub>5</sub>             | 6<sub>11</sub> | 6<sup>5</sup>  | 6                           |
+| 6<sub>7</sub>               | 7<sup>7</sup>   | 7                | 7<sub>5</sub>               | 7&lt;<sup>5</sup><sub>11</sub> | 7<sup>11</sup>  | 7&lt;<sup>5</sup>              | 7&lt;<sup>5</sup><sub>7</sub> | 8<sub>11</sub> | 8<sup>5</sup>  | 8                           |
 
 ### 21-tonowa skala Dantego Rosatiego
 
 | 1                           | 2\><sub>5</sub> | 2<sup>5</sup>   | 2               | 2<sub>7</sub> | 3\><sup>7</sup> | 3\><sub>5</sub> | 3<sup>5</sup> | 3<sub>7</sub> | 4               | 5\><sup>7</sup><sub>5</sub> |
-| 4\<\<sup>5</sup><sub>7</sub> | 5               | 6\><sup>7</sup> | 6\><sub>5</sub> | 6<sup>5</sup> | 6<sub>7</sub>   | 7<sup>7</sup>   | 7             | 7<sub>5</sub> | 7\<\<sup>5</sup> | P8                          |
+| 4&lt;<sup>5</sup><sub>7</sub> | 5               | 6\><sup>7</sup> | 6\><sub>5</sub> | 6<sup>5</sup> | 6<sub>7</sub>   | 7<sup>7</sup>   | 7             | 7<sub>5</sub> | 7&lt;<sup>5</sup> | P8                          |
 
 ### Strój *Revelation* Michaela Harrisona
 
@@ -41,7 +41,7 @@ Tutaj znajdziesz jeszcze więcej przykładów zastosowania FJS.
 | 1                           | 3\><sup>7</sup> | 4<sup>7</sup><sub>11</sub>   | 5\><sup>7</sup><sub>5</sub>  | 6\><sup>7</sup>  | 7<sup>7</sup>  |
 | 6<sub>7</sub>               | 1               | 2<sub>11</sub>               | 3\><sub>5</sub>              | 4                | 5              |
 | 5<sup>11</sup><sub>7</sub>  | 7<sup>11</sup>  | 1                            | 2\><sup>11</sup><sub>5</sub> | 3\><sup>11</sup> | 4<sup>11</sup> |
-| 4\<\<sup>5</sup><sub>7</sub> | 6\><sup>5</sup> | 7\<\<sup>5</sup><sub>11</sub> | 1                            | 2<sup>5</sup>    | 3<sup>5</sup>  |
+| 4&lt;<sup>5</sup><sub>7</sub> | 6\><sup>5</sup> | 7&lt;<sup>5</sup><sub>11</sub> | 1                            | 2<sup>5</sup>    | 3<sup>5</sup>  |
 | 3<sub>7</sub>               | 5               | 6<sub>11</sub>               | 7<sub>5</sub>                | 1                | 2              |
 | 2<sub>7</sub>               | 4               | 5<sub>11</sub>               | 6\><sub>5</sub>              | 7                | 1              |
 
