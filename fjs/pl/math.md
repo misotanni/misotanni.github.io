@@ -64,7 +64,7 @@ Rozpatrzmy skalę *C*-dur, w kolejności poszczególnych kwint:
 
 *f*, *c*, *g*, *d*, *a*, *e*, *h*
 
-Jest ona fragmentem ciągu kwint rozpoczynającego się od D:
+Jest ona fragmentem ciągu kwint rozpoczynającego się od *d*:
 
 −3, −2, −1, 0, +1, +2, +3
 
