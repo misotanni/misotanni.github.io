@@ -69,6 +69,10 @@ FJS to coś więcej niż metoda zapisu dla strojów naturalnych. Nie tylko ułat
 
 Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, by sprawdzić, jak posługiwanie się logicznym i spójnym językiem wpłynęłoby na procesy myślowe. Uważam, że FJS jest jak Lożban mikrotonalnej muzyki. Tak samo, jak dzięki Lożbanowi zacząłem myśleć przejrzyście i logicznie, FJS może pomóc Tobie myśleć *w* JI, a Twoim kompozycjom, analizom i wykonaniom muzyki naturalnie strojonej zazębiać się gładko z już nabytą wiedzą teoretyczną, gdyż FJS przeplata elementy teorii klasycznej i JI-owej.
 
+## FAQ: Czy jest FAQ?
+
+[Jak najbardziej!](faq.html)
+
 ## Co teraz?
 
 - Tu znajdziesz [intensywny kurs](crash.html), dzięki któremu nawet z powierzchownym zrozumieniem JI nauczysz się FJS-u w kilkanaście minut.
