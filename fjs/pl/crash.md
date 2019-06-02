@@ -50,7 +50,7 @@ Oto krótka lista wiadomości, które musisz rozumieć, żebyś mógł zrozumie�
 	
 Do tego będziesz potrzebował jeszcze trzech matematycznych umiejętności konkretnych dla FJS-u.
 
-Pierwszą z nich jest zdolność szybkiej zamiany między **interwałami na pięciolinii** (bez podmian enharmonicznych) a **ilością kwint** potrzebną do zbudowania tego interwału – i vice versa. Na przykład **sekunda wielka** to **+2** kwinty, ponieważ by dosięgnąć tego interwału, potrzebujemy zrobić dwa skoki kwintowe w górę: *c*–*g*–*d*. Podobnie, **tercja mała** to **−3** kwinty, gdyż można ją skonstruować trzema kwartami – czyli odwrotnościami kwint: *c*–*f*–*b*–*es*. Każdemu interwałowi pięcioliniowemu odpowiada dokładnie jedna taka liczba. Powinieneś umieć dokonywać tej konwersji i w tę, i we w tę – najlepiej szybko.
+Pierwszą z nich jest zdolność szybkiej zamiany między **interwałami na pięciolinii** (bez podmian enharmonicznych) a **liczbą kwint** potrzebną do zbudowania tego interwału – i vice versa. Na przykład **sekunda wielka** to **+2** kwinty, ponieważ by dosięgnąć tego interwału, potrzebujemy zrobić dwa skoki kwintowe w górę: *c*–*g*–*d*. Podobnie, **tercja mała** to **−3** kwinty, gdyż można ją skonstruować trzema kwartami – czyli odwrotnościami kwint: *c*–*f*–*b*–*es*. Każdemu interwałowi pięcioliniowemu odpowiada dokładnie jedna taka liczba. Powinieneś umieć dokonywać tej konwersji i w tę, i we w tę – najlepiej szybko.
 
 Drugą z nich jest rozkładanie liczb wymiernych na czynniki pierwsze. Tak, jak każda **dodatnia liczba naturalna** daje się przedstawić jako iloczyn liczb pierwszych podniesionych do **naturalnych** wykładników (jak głosi zasadnicze twierdzenie arytmetyki), każdą **dodatnią liczbę wymierną** można jednoznacznie rozłożyć na iloczyn liczb pierwszych podniesionych do **całkowitych** potęg. (Zwykłem żartobliwie nazywać ten fakt „zasadniczym twierdzeniem harmonii”). Na przykład 6/5 przedstawilibyśmy jako 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup>. Nie istnieje żadna inna taka reprezentacja. (W tym intensywnym kursie pominiemy szczegóły matematyczne, ale zainteresowani mogą posłużyć się [tą stroną](math.html). Jeżeli w tym kursie założona jest prawdziwość jakiejś matematycznej własności, prawdopodobnie właśnie tam znajdziesz jej dowód).
 
@@ -122,10 +122,10 @@ Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba
 ### Ćwiczenia – zestaw 1
 
 1. Znajdź FJS-owe interwały odpowiadające wymienionych ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
-2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3>>. (Zauważ, że pierwszy interwał to septyma zmniejszona, nie mała).
+2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3\>\>. (Zauważ, że pierwszy interwał to septyma zmniejszona, nie mała).
 3. Oblicz interwały pitagorejskie pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e">
 4. Zapisz tę skalę w FJS-ie, przyjmując za tonikę *d*: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
-5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2>>.
+5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2\>\>.
 6. (Trudne!). Pewien wyjątkowo mały interwał w stroju pitagorejskim, o wielkości tylko ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
