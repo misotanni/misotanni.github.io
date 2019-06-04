@@ -2,7 +2,7 @@
 
 Ce site est *de facto* un manuel du FJS. Vous trouvez ici toutes les règles dont vous avez besoin pour utiliser le FJS, y compris le système des abréviations. Pourtant, la lecture de cette page ne vous sera pas utile si vous n'avez pas encore lu le [cours intensif](crash.html).
 
-Tout ce qui concerne des abréviations expérimentales est marqué avec le symbole (\*).
+Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (\*).
 
 ## Formes réduites
 
@@ -113,6 +113,25 @@ Tout ce qui concerne des abréviations expérimentales est marqué avec le symbo
 3. Une ligne de transposition FJS commence avec une altération composée FJS, de la même manière que si elle était sur la portée. +5 devient donc «5» et +7−5 devient «7−5», etc. Il n'est pas obligatoire d'écrire «loco» lorsqu'elle termine.
 
 4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs normales dues aux altérations accidentelles et celles d'armure.
+
+## Le FJS et la notation au-delà de JI (\*)
+
+L'algorithme principal du FJS accepte chaque entrée, pas seulement des nombres premiers. Bien que le FJS ne soit pas construit pour ce but, on peut réaliser toute l'algorithmerie pour des nombres irrationnels aussi bien que des rationnels. Cela fonctionne pour tous nombres réels, mais certains (en particulier, des racines entières des nombres rationnels) détruisent la bijection virginale et délicate du FJS et ne la transforment qu'en surjection. (Vous pouvez alors lire, mais ne plus écrire, sans équivoque.)
+
+Cela signifie que vous pouvez écrire par exemple l'échelle 833 cents dans le FJS. C'est une échelle composée des facteurs de 2, 3, et φ (le nombre d'or). Dans le FJS, φ/1 est une (sixte mineure)<sup>φ</sup>.
+
+En outre, cette expansion du FJS préserve toutes ses qualités stupéfiantes.
+
+Parmi d'autres, on peut aussi utiliser les constantes irrationelles suivantes:
+
+- π; (sixte mineure)<sup>π</sup> (τ, la [vraie constante du cercle](https://tauday.com/tau-manifesto), a la même représentation puisqu'elle égale 2π, donc une octave de π)
+- *e*; (quarte juste)<sup>*e*</sup>
+- γ; (seconde majeure)<sup>γ</sup> (constante d'Euler-Mascheroni)
+- Ω; (seconde majeure)<sup>Ω</sup> (constante Oméga)
+
+Vous pouvez également utiliser tous les nombres transcendants.
+
+On n'a pas encore essayé de représenter des nombres négatifs ou complexes dans le FJS. :)
 
 ## Plus d'éléments expérimentaux (\*)
 

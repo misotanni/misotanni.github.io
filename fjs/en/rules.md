@@ -2,7 +2,7 @@
 
 This page is a *de facto* reference manual for using the FJS. It contains all the rules you will need to use the FJS, including its shorthand elements. However it will not be of much use to you unless you have read through the [Crash Course](crash.html) first.
 
-Everything concerning experimental shorthand elements is marked with the symbol (\*).
+Everything concerning experimental elements is marked with the symbol (\*).
 
 ## Reduced Forms
 
@@ -111,6 +111,25 @@ Everything concerning experimental shorthand elements is marked with the symbol 
 3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with "5", a transposition line of +7−5 will begin with "7−5", etc. As with octave lines, "loco" following such a line is optional.
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
+
+## Using the FJS for Notation Beyond JI (\*)
+
+Any number, not just primes, can be the input of the FJS master algorithm. In fact, although the FJS was not constructed for this purpose, the entire algorithmic procedure can be carried out for many irrational numbers. Any positive real number works, but a few (in particular, integer roots of rational numbers) will obliterate the FJS's pristine and fragile bijection, leaving a mere surjection behind (unambiguous reading, but no longer unambiguous writing).
+
+This means the FJS can be used to notate e.g. the 833 cents scale, an octave-repeating scale from a lattice of 3/2 and φ (the golden ratio). In the FJS, φ/1 is a m6<sup>φ</sup>.
+
+Moreover, expanding the FJS to notate powers of φ in addition to the rational numbers preserves all its amazing properties.
+
+Among others, the following famous irrational constants work, too:
+
+- π; m6<sup>π</sup> (τ, the [true circle constant](https://tauday.com/tau-manifesto), has the same representation, since it's just 2π, so an octave of π)
+- *e*; P4<sup>*e*</sup>
+- γ; M2<sup>γ</sup> (Euler-Mascheroni constant)
+- Ω; M2<sup>Ω</sup> (Omega constant)
+
+All transcendental numbers work.
+
+There has been no attempt so far to represent negative or complex numbers in the FJS. :)
 
 ## More Experimental Features (\*)
 

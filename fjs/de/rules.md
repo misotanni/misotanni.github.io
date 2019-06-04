@@ -2,7 +2,7 @@
 
 Diese Seite ist *de facto* ein Handbuch des FJS. Es enthält alle Regeln, die du brauchst, um den FJS zu benutzen, Kurzschrift einbezogen. Es wird dir aber nicht besonders nützlich sein, es sei denn, du hast schon den [Crash-Kurs](crash.html) gelesen.
 
-Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) markiert.
+Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 ## Reduzierte Formen
 
@@ -119,6 +119,25 @@ Alles, was experimentelle Kurzschriftelemente angeht, ist mit dem Symbol (\*) ma
 Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze "Dialekte" des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, oder mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen.
 
 Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
+
+## Das FJS und Notation außerhalb JI (\*)
+
+Der FJS-Master-Algorithmus akzeptiert jede Zahl, nicht nur Primzahlen. Obwohl das FJS für diesen Zweck nicht gedacht war, kann die ganze Serie von Algorithmen auch für die allermeisten irrationalen Zahlen durchgeführt werden. Jede positive reelle Zahl passt, aber manche davon (darunter namentlich jede Zahl, die als Wurzel einer rationalen Zahl dargestellt werden kann) werden die wunderschöne und zerbrechliche Bijektion des FJS zerstören und sie in eine bloße Surjektion verändern. (Lesen ist also noch eindeutig, Schreiben aber nicht mehr.)
+
+Das heißt: du kannst das FJS benutzen, um z.B. die 833-Cent-Tonleiter zu notieren, eine Tonleiter aus Faktoren von 2, 3, und φ (den Goldenen Schnitt). φ/1 wird als (kleine Sexte)<sup>φ</sup> im FJS dargestellt.
+
+Das ist aber nicht alles: die tollen Eigenschaften des FJS bleiben bei so einer Erweiterung auch erhalten.
+
+Das geht u.A. auch mit den folgenden irrationalen Konstanten:
+
+- π; (kleine Sexte)<sup>π</sup> (τ, die [echte Kreiskonstante](https://tauday.com/tau-manifesto), wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
+- *e*; (reine Quarte)<sup>*e*</sup>
+- γ; (große Sekunde)<sup>γ</sup> (Euler-Mascheroni-Konstante)
+- Ω; (große Sekunde)<sup>Ω</sup> (Omega-Konstante)
+
+Es funktioniert bei jeder transzendenter Zahl.
+
+Bisher gab es keinen Versuch, negative oder komplexe Zahlen im FJS darzustellen. :)
 
 ## Beispiele
 

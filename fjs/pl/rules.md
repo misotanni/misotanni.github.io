@@ -2,7 +2,7 @@
 
 Ta strona to *de facto* podręcznik użytkowania FJS – zawiera wszystkie reguły, których będziesz potrzebował do używania go, włącznie z zapisami skrótowymi. Nie sprawi ci większego użytku, jeżeli nie przeczytałeś najpierw [intensywnego kursu](crash.html).
 
-Wszystkie testowe skróty zapisu zaznaczyłem gwiazdką (\*).
+Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 ## Redukcje
 
@@ -111,6 +111,25 @@ Wszystkie testowe skróty zapisu zaznaczyłem gwiazdką (\*).
 3. Przenośnik FJS-owy zaczyna się od złożonej alteracji FJS-owej – zapisanej dokładnie tak, jak byłaby zapisana przy nucie. Na przykład transpozycja o +5 zaczynała by się od oznaczenia „5”, o +67 i −5 – „7−5”, itd. Po przenośniku zapis „loco” nie jest wymagany.
 
 4. Wszystkim wysokościom pod przenośnikiem dodaje się podaną alterację złożoną – po ustaleniu wysokości i alteracji ze względu na znaki przygodne i przykluczowe.
+
+## FJS i notacja poza JI (\*)
+
+Główny algorytm FJS działa dla każdej liczby, nie tylko liczb pierwszych. Chociaż FJS nie został stworzony w tym celu, cały proces algorytmów może być równie dobrze zastosowany dla większości liczb niewymiernych. Działa każda dodatnia liczba rzeczywista, ale niektóre z nich – dokładniej mówiąc, pierwiastki całkowitego stopnia z liczb wymiernych – zniszczą w trymiga dziewiczą i jakże kruchą bijekcję FJS-u, zostawiając po sobie tylko marną surjekcję (jednoznaczne czytanie, ale już nie pisanie).
+
+Za pomocą FJS-u możesz więc zanotować np. skalę 833 centów, skalę powtarzającą się w oktawie zawierającą czynniki 3 oraz φ (złotego podziału). φ/1 w FJS-ie to 6><sup>φ</sup>.
+
+Więcej: takie rozszerzenie FJS-a pokrywające dodatkowo potęgi φ zachowuje wszystkie jego niesamowite własności.
+
+Między innymi działają również poniższe znane stałe niewymierne:
+
+- π; 6><sup>π</sup> (τ, czyli [prawdziwa ludolfina](https://tauday.com/tau-manifesto), ma dokładnie taki sam interwał FJS, bo równa się po prostu 2π, czyli oktawie π)
+- *e*; 4<sup>*e*</sup>
+- γ; 2<sup>γ</sup> (stała Eulera-Mascheroniego)
+- Ω; 2<sup>Ω</sup> (stała Omega)
+
+Działają wszystkie liczby przestępne.
+
+Nie było dotąd próby przedstawienia liczb ujemnych ani zespolonych w FJS-ie. :)
 
 ## Dalsze rozszerzenia systemu (\*)
 
