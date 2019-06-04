@@ -44,7 +44,7 @@ Punkt dla HE i FJS-u.
 
 ## Dobór znaków chromatycznych
 
-I HE, i BJ tak jak FJS zapisują całą resztę JI za pomocą znaków chromatycznych przedstawiających skoki komatyczne. 
+I HE, i BJ tak jak FJS zapisują całą resztę JI za pomocą znaków chromatycznych przedstawiających skoki komatyczne.
 
 Oto lista aż do komatu 61. dla HE:
 
@@ -71,7 +71,7 @@ W oczy rzuca się fakt, że większość pozostałych alteracji – 17., 29., 31
 
 (Termin „liczba most” pochodzi ze [strony matematycznej](math.html)).
 
-Dlaczego uważam, że ten fakt jest problematyczny? Otóż chociaż komaty pierwsze można wciąż wyrazić, wymaga to dwóch osobnych alteracji, co jest niepotrzebnie mylące. Wydaje się, że wszystkie komaty po 23. zostały dobrane ze zbioru ułamków postaci \\(\frac{n+1}{n}\\), często kosztem złożonego rozkładu na czynniki pierwsze. (Warto zauważyć, że taka postać nie gwarantuje, że powstały komat jest mały. Jednym dobrze znanym komatem w teorii mikrotonalnej muzyki jest 1029/1024 – różnica pomiędzy kwintą 3/2 a trzema septymowymi całymi tonami (8/7) – czyli liczba nie o takiej postaci, a jednak wyjątkowo drobna).
+Dlaczego uważam, że ten fakt jest problematyczny? Otóż chociaż komaty pierwsze można wciąż wyrazić, wymaga to dwóch osobnych alteracji, co jest niepotrzebnie mylące. Wydaje się, że wszystkie komaty po 23. zostały dobrane ze zbioru ułamków postaci $$\frac{n+1}{n}$$, często kosztem złożonego rozkładu na czynniki pierwsze. (Warto zauważyć, że taka postać nie gwarantuje, że powstały komat jest mały. Jednym dobrze znanym komatem w teorii mikrotonalnej muzyki jest 1029/1024 – różnica pomiędzy kwintą 3/2 a trzema septymowymi całymi tonami (8/7) – czyli liczba nie o takiej postaci, a jednak wyjątkowo drobna).
 
 HE, odrzucając te komaty, wykorzystuje niektóre liczby pierwsze więcej niż raz i niepotrzebnie komplikuje reprezentacje bardziej złożonych interwałów JI. Na przykład 17/16 wymaga zapisania 16/15 przesuniętego o 256/255, a 16/15 samo w sobie to 256/243 przesunięte o 81/80. Używanie dwóch znaków przygodnych dla prostego interwału pierwszego? Na całe szczęście zlitowano się nad nami i żaden interwał pierwszy z 61-limitu nie wymaga *trzech* lub więcej znaków.
 
@@ -89,9 +89,7 @@ A co w takim razie z BJ? Oto lista aż do 31.:
 - 145/144, czyli komat 29. z dodanym czynnikiem pięciu.
 - 31/30, czyli komat 31. z dodanym czynnikiem pięciu.
 
-Jak widać, wszystkie te alteracje – oprócz 11. – zawierają czynnik 5, a 17. ma nawet podwójną 5. To prawdopodobnie korekcja służąca przeciwdziałaniu wszechobecnych piątek w BJ – zupełnie tak, jakby te czynniki były próbą skorygowania błędu, jakim było przypisanie 
-
-Of course, all of these accidentals save the 11-comma have factors of five, and the 17-comma even has a double factor of five. This is probably an adjustment for the abundance of factors of five in Johnston's notation, so it's almost as if these commas are an attempt at correcting Johnston's mistake of mapping the natural notes to the Ptolemaic sequence. The abundance of superparticular commas is also notable, but seems to be coincidental in this case.
+Jak widać, wszystkie te alteracje – oprócz 11. – zawierają czynnik 5, a 17. ma nawet podwójną 5. To prawdopodobnie korekcja służąca przeciwdziałaniu wszechobecnych piątek w BJ – zupełnie tak, jakby te czynniki były próbą skorygowania błędu, jakim było przypisanie tonów diatonicznych do sekwencji ptolemejskiej. Także widzimy dużo komatów o postaci $$\frac{n+1}{n}$$, natomiast tutaj są one prawdopodobnie zjawiskiem przypadkowym.
 
 These factors cannot receive quite the same criticism as they do in Helmholtz-Ellis; they are quite logical in the context of the illogical choice of natural notes. 65/64 maps 8/5 to 13/8; 51/50 maps 25/24 to 17/16; 46/45 maps 45/32 to 23/16. They map simple 5-limit intervals to the primes.
 
