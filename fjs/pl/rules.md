@@ -4,6 +4,12 @@ Ta strona to *de facto* podręcznik użytkowania FJS – zawiera wszystkie regu�
 
 Wszystkie testowe skróty zapisu zaznaczyłem gwiazdką (\*).
 
+## Redukcje
+
+> Redukcja zwyczajna: $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
+>
+> Redukcja zrównoważona: $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
+
 ### Główny algorytm FJS
 
 > 1. Dany jest interwał pierwszy, *p*.
@@ -12,21 +18,21 @@ Wszystkie testowe skróty zapisu zaznaczyłem gwiazdką (\*).
 > 4. Czy różnica między *p* a *P* jest mniejsza niż promień tolerancji?
 > 5. Jeżeli tak: *k* to funkcja generująca. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
+>
+> W kroku 4 przez „różnicę” rozumiemy **wartość bezwzględną** rozmiaru centowego interwału: $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ### Komat formalny
 
 > Komat formalny dla liczby pierwszej *p* i funkcji generującej *g* wynosi:
 > 
-> $$\text{comma} (p)=\frac{1}{\sqrt{2}} \text{red}(\frac{p}{3^g} \cdot \sqrt{2})$$
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
 ### Zamiana ułamka z JI na FJS.
 
 > 1. Rozłóż ułamek na czynniki pierwsze.
 > 2. Dla każdej liczby pierwszej *p* > 3 połóż α<sub>*p*</sub> = wykładnik przy p i pomnóż wyjściowy ułamek przez:
 >
-> 	$$(\text{comma} (p))^{-\alpha _p},$$
->
->	gdzie \\(\text{comma}(p)\\) to komat formalny dla *p*.
+> 	$$(\text{comma} (p))^{-\alpha _p}$$
 >
 > 3. Wynik będzie pitagorejski – zapisz go w FJS-ie.
 > 4. Teraz dodaj α<sub>*p*</sub> jako alteracje – jeżeli dodatnie, to otonalnie; jeżeli ujemne, to utonalnie.
