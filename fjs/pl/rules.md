@@ -133,7 +133,7 @@ Nie było dotąd próby przedstawienia liczb ujemnych ani zespolonych w FJS-ie. 
 
 ## Dalsze rozszerzenia systemu (\*)
 
-Od tego momentu FJS jest otwarty na zmiany! Dodaj swoje rozszerzenia, jeżeli uważasz, że ich potrzebujesz. Możesz korzystać z dowolnych „dialektów” FJS o niestandardowych promieniach tolerancji (do tego jest funkcja w kalkulatorze), rozszerzonych zestawach alteracji idących poza zbiór liczb pierwszych, czy nawet o wszystkich dodatnich alteracjach przenoszących w górę.
+Od tego momentu FJS jest otwarty na zmiany! Dodaj swoje rozszerzenia, jeżeli uważasz, że ich potrzebujesz. Możesz korzystać z dowolnych „dialektów” FJS o niestandardowych promieniach tolerancji (do tego jest funkcja w kalkulatorze), zestawach alteracji idących na zbiór liczb nieparzystych, nie tylko pierwszych, czy nawet o wszystkich dodatnich alteracjach przenoszących w górę.
 
 Nie jestem upartym wynalazcą, który nie pozwoli innym tknąć swojego wynalazku. FJS kiedyś zawierał wiele złych zasad; niektóre z nich wypleniłem niemal w ostatniej chwili. Jeżeli uważasz, że stworzyłeś ciekawy dodatek do FJS-u, podziel się nim ze mną przez e-mail i z chęcią dodam go tutaj.
 
