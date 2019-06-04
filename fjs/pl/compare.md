@@ -60,12 +60,14 @@ Oto lista aż do komatu 61. dla HE:
 - 297/296, czyli komat 37. z dodanym czynnikiem jedenastu.
 - 6561/6560, czyli komat 41. z dodanym czynnikiem pięciu.
 - 129/128, czyli komat 43.
-- 2304/2303, czyli komat 47. z dodanym czynnikiem siedmiu.
+- 2304/2303, czyli komat 47. z dodanym czynnikiem czterdziestu dziewięciu.
 - 160/159, czyli komat 53. z dodanym czynnikiem pięciu.
 - 768/767, czyli komat 57. z dodanym czynnikiem trzynastu.
-- 1281/1280, czyli komat 61. z dodanym czynnikiem siedmiu.
+- 1281/1280, czyli komat 61. z dodanym czynnikiem siedmiu i pięciu.
 
-Kilka z tych alteracji rzuca się w oczy: 5., 7., 11., 13., 19., 23. i 43. Dokładniej mówiąc, w oczy rzuca się fakt, że pozostałe alteracje – 17., 29., 31., 37., 41., 47., 53., 57. i 61. – zawierają oprócz 2, 3 i danej liczby pierwszej inne czynniki. Tak naprawdę jedyne komaty w HE, które mają formę liczb mostów, to te pierwsze. (Spośród liczb pierwszych pomiędzy 32 a 64 tylko jeden, 43., ma taką formę).
+Kilka z tych alteracji brzmi znajomo: 5., 7., 11., 19., 23. i 43. Pokrywają się one z FJS-owymi.
+
+W oczy rzuca się fakt, że większość pozostałych alteracji – 17., 29., 31., 37., 41., 47., 53., 57. i 61. – zawierają oprócz 2, 3 i danej liczby pierwszej inne czynniki. Tak naprawdę jedyne komaty w HE, które mają formę liczb mostów, to te pierwsze plus 13. (Spośród liczb pierwszych pomiędzy 32 a 64 tylko jeden, 43., ma taką formę).
 
 (Termin „liczba most” pochodzi ze [strony matematycznej](math.html)).
 

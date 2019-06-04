@@ -60,10 +60,10 @@ Here is the list, up to the 61-limit, for Helmholtz-Ellis:
 - 297/296, a 37-comma with a factor of eleven.
 - 6561/6560, a 41-comma with a factor of five.
 - 129/128, a 43-comma.
-- 2304/2303, a 47-comma with a factor of seven.
+- 2304/2303, a 47-comma with a factor of forty-nine.
 - 160/159, a 53-comma with a factor of five.
 - 768/767, a 57-comma with a factor of thirteen.
-- 1281/1280, a 61-comma with a factor of seven.
+- 1281/1280, a 61-comma with a factor of seven and five.
 
 A few of these accidentals coincide with those of the FJS: 5, 7, 11, 19, 23, and 43.
 

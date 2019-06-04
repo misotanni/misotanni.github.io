@@ -60,10 +60,10 @@ So sieht die Liste bis zum 61-Limit für Helmholtz-Ellis aus:
 - 297/296, ein 37-Komma mit einem 11er-Faktor.
 - 6561/6560, ein 41-Komma mit einem 5er-Faktor.
 - 129/128, ein 43-Komma.
-- 2304/2303, ein 47-Komma mit einem 7er-Faktor.
+- 2304/2303, ein 47-Komma mit einem 49er-Faktor.
 - 160/159, ein 53-Komma mit einem 5er-Faktor.
 - 768/767, ein 57-Komma mit einem 13er-Faktor.
-- 1281/1280, ein 61-Komma mit einem 7er-Faktor.
+- 1281/1280, ein 61-Komma mit einem 5er- und 7er-Faktor.
 
 Ein paar dieser Versetzungszeichen stimmen mit dem FJS überein: 5, 7, 11, 19, 23, und 43.
 

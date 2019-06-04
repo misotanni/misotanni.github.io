@@ -60,10 +60,10 @@ Voici la liste jusqu'au 61-limite pour Helmholtz-Ellis:
 - 297/296, un comma de 37 avec un facteur 11.
 - 6561/6560, un comma de 41 avec un facteur 5.
 - 129/128, un comma de 43.
-- 2304/2303, un comma de 47 avec un facteur 7.
+- 2304/2303, un comma de 47 avec un facteur 49.
 - 160/159, un comma de 53 avec un facteur 5.
 - 768/767, un comma de 57 avec un facteur 13.
-- 1281/1280, un comma de 61 avec un facteur 7.
+- 1281/1280, un comma de 61 avec des facteur 7 et 5.
 
 Quelques altérations sont identiques dans le FJS: 5, 7, 11, 19, 23, et 43.
 
