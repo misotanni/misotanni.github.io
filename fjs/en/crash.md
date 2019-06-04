@@ -63,6 +63,12 @@ The balanced reduced form is also used; here the result is between $$\frac{1}{\s
 
 $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
+Or like so, a bit easier on mental arithmetic:
+
+$$\text{reb}(d)=\text{red}(d) \text{ , } d < \sqrt{2}$$
+
+$$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } d \geq \sqrt{2}$$
+
 This is just about all you need, so let's get started!
 
 ## <a name="lesson_1">Lesson 1: Pythagorean Tuning</a>

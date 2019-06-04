@@ -62,6 +62,12 @@ Stosuje się także zrównoważoną redukcję, w tym przypadku wynik jest nie mn
 
 $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
+Albo – łatwiej w głowie:
+
+$$\text{reb}(d)=\text{red}(d) \text{ , } d < \sqrt{2}$$
+
+$$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } d \geq \sqrt{2}$$
+
 To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
 ## <a name="lesson_1">Lekcja 1: Strój pitagorejski</a>
