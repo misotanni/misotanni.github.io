@@ -141,67 +141,67 @@ Punkt dla FJS-u, pół dla BJ.
 
 > **FJS: 4, HE: 1,5, BJ: 1,5.**
 
-## Behavior of Accidentals
+## Składnia alteracji
 
-Let's look at how the accidentals themselves behave. In other words, how do they modify the notes they precede?
+Spójrzmy więc, jak te alteracje się zachowują, czyli jak właściwie alterują nuty?
 
-In Helmholtz-Ellis, all positive accidentals are upward and all negative accidentals are downward. This is a generalization of the notion that a sharp raises the pitch and a flat lowers it.
+W HE wszystkie dodatnie alteracje podwyższają, a wszystkie ujemne obniżają. To uogólnienie idei, że krzyżyk podwyższa, a bemol obniża.
 
-In Ben Johnston, excluding 81/80, all positive accidentals are otonal and all negative accidentals are utonal. This is a generalization of the notion that a sharp adds fifths to a pitch and a flat subtracts some.
+W BJ, poza 81/80, wszystkie dodatnie alteracje są otonalne, a wszystkie ujemne – utonalne. To z kolei uogólnienie idei, że krzyżyk dodaje kwinty, a bemol odejmuje.
 
-In the FJS, positive accidentals are always otonal and negative accidentals are always utonal.
+W FJS, wszystkie dodatnie alteracje są otonalne, a wszystkie ujemne – utonalne, bez wyjątku.
 
-This might be the most controversial section in this comparison, because this particular point is where I cannot provide direct evidence for why I believe an otonality/utonality indication is better than a direction indication. All I can say is that after having invented the FJS (which initially used the positive-upward, negative-downward system) and used it to think about and analyze JI tunings, at some point I have suddenly arrived at the conclusion that the positive-upward, negative-downward system overcomplicates things and that I will immediately change it to positive-otonal, negative-utonal. It has drastically simplified my thinking in the FJS and has stayed that way ever since then. Therefore I may merely hope that you, the reader, will arrive at the same conclusion with experience.
+I tutaj prawdopodobnie znajduje się najbardziej kontrowersyjny punkt tego porównania. Tutaj nie mogę podać konkretnego powodu, dla którego uważam, że wskazywanie otonalności i utonalności jest lepsze od wskazywania kierunku. Mogę natomiast powiedzieć to: Jak wymyśliłem FJS, który początkowo faktycznie wskazywał kierunek, używałem go do rozmyślania i analizowania strojów naturalnych, nagle odkryłem, że przez wskazywanie kierunku FJS przekomplikowuje sprawę – zmienię natychmiast na wskazywanie otonalności i utonalności. Sprawiło to, że moje myślenie FJS-owe ogromnie się uprościło, a zatem tak zostało. Pozostaje mi tylko mieć nadzieję, że to samo spotka również Ciebie, czytelniku.
 
-Ben Johnston would be nearly tied with the FJS on this point, except the really annoying fact that 81/80 is exempt from its own rule. But due to the fact that 81/80 works differently from the other accidentals and is seen as an adjustment instead, and due to the fact that pluses and minuses really convey the idea of up and down, I will overlook this minor sin.
+BJ byłby tutaj na równi z FJS-em, poza bardzo irytującym szczegółem, że 81/80 samo jest wyjątkiem własnej reguły. Ale dlatego, że 81/80 w ogóle działa inaczej – jako dostrojenie-korekta – oraz dlatego, że znaki plus i minus naprawdę oddają ideę podwyższania i obniżania, odpuszczam mu ten grzech lekki.
 
-(If you think positive-upward and negative-downward is better, you may give Helmholtz-Ellis the point, instead of the FJS and Johnston. It won't make a big difference for determining the winner in the end.)
+(Jeśli mimo to uważasz, że lepsze jest wskazywanie kierunku, proszę cię bardzo: daj punkt Helmholtzowi, zamiast FJS i BJ. I tak nie będzie to miało końcowego znaczenia.)
 
-One point for Johnston and the FJS.
+Punkt dla BJ i FJS-u.
 
-> **FJS: 5, HE: 1.5, Johnston: 2.5.**
+> **FJS: 5, HE: 1,5, BJ: 2.5.**
 
-## Note Naming
+## Nazwy nut
 
-We will now look at another aspect: note naming (and by extension, interval naming). While both Helmholtz-Ellis and Johnston give this aspect minimal importance, the FJS actually *starts* from here and builds up to staff notation from note naming.
+Popatrzymy teraz na coś innego: nazwy nut (a także interwałów). Chociaż HE i BJ oba przykładają do tej kwestii minimalną wagę, FJS tutaj *rozpoczyna* i stąd buduje zapis nutowy.
 
-Given its arbitrary glyphs, note naming is practically impossible in Helmholtz-Ellis, unless one were to use either a completely different system or type using the dedicated Helmholtz-Ellis font. I have not seen any such attempt so far.
+Z powodu losowych symboli, prawie niemożliwe jest nazywanie nut w HE, chyba że chcesz używać całkowicie innego systemu albo pisać czcionką stworzoną specjalnie dla HE. Jeszcze nie widziałem takiego wyczynu.
 
-As for Johnston, its accidentals look promising to allow something like this. But Johnston notation also has a strange system of arbitrary division of its accidentals when it is used to name notes. Some Johnston accidentals are written between the diatonic pitch class and a Pythagorean accidental, but there is no rule which ones. For example, representing a celestial comma below E♭ requires one to write E7♭+ (sic). The septimal accidental goes between the E and the ♭, while the + required to adjust is then written after the ♭. What is most hurtful is that the deviation downwards by a celestial comma is, in Johnston notation, expressed using two accidentals, as "downwards by a syntonic plus celestial comma, but then upwards by a syntonic comma again".
+A co z BJ? Jego alteracje w końcu wyglądają obiecująco. Ale BJ znowu z kolei ma dziwny system podziału swoich alteracji przy nazywaniu nut. Niektóre z nich są pisane między tonem diatonicznym a alterację pitagorejską, ale nikt nie mówi, które. Na przykład nuta o komat niebiański niżej niż *es* to jest *e*7♭+ (sic!) Alteracja 7 znajduje się między *e* a bemolem, ale + już po tym bemolu. Najbardziej boli fakt, że komat niebiański w dół u BJ to jest „najpierw komat niebiański plus syntoniczny w dół, ale potem z powrotem o syntoniczny w górę”.
 
-Johnston also has an elaborate system of pronunciation for its note names, which parallels that of the FJS but is much more complicated due to the 5-, 7-, and 11-commas having special glyphs. Kyle Gann gives "G-sharp-up-arrow-double-sub-seven-minus" as a possible note name. This is far more complicated than the most complicated possible note name in the FJS, consisting always of exactly (Pythagorean part)-(optional "super")-(otonal)-("sub")-(utonal), in that order. Gann writes that the combinations of accidentals have not been standardized in Johnston notation.
+BJ także ma zaawansowany system wypowiadania tych nazw. Jest on podobny do FJS-a, ale dużo bardziej skomplikowany, skoro komaty dla 5, 7, i 11 mają nieregularne symbole. Kyle Gann podaje możliwą nazwę „G-sharp-up-arrow-double-sub-seven-minus” (czyli mniej więcej „gis-strzałka-w-górę-podwójny-pod-siedem-minus”). To dużo bardziej skomplikowane, niż najdziksza możliwa nazwa w FJS-ie, która zawsze będzie się składać z: (części pitagorejskiej)-(ewentualnego „nad”)-(otonalnych)-(„pod”)-(utonalnych), w tej kolejności. Gann mówi, że składanie alteracji w BJ nie ma standardowej formy.
 
-Still, this system is better than nothing. Sigh.
+Ten system jest nadal lepszy niż nic.
 
-Neither system has any evidence of interval naming, which is a direct translation of tonic-less JI ratios.
+Żaden system nie pokazuje nazw interwałów, które przecież byłyby dokładnym tłumaczeniem ułamków JI bez toniki.
 
-One point for the FJS, half a point for Johnston.
+Punkt dla FJS-u, pół dla BJ.
 
-> **FJS: 6, HE: 1.5, Johnston: 3.**
+> **FJS: 6, HE: 1,5, BJ: 3.**
 
-## Scope and Precision
+## Zasięg i precyzja
 
-All three systems notate JI pitch-perfectly, there is no arbitrary precision. (This is why I did not consider Sagittal in this analysis. Sagittal, being a universal language for all microtonality, has fixed precision and anyway it is based on completely different principles, as it is not limited to JI.)
+Wszystkie trzy systemy są w stanie zapisać JI z nieskończoną precyzją. (Też dlatego nie wziąłem pod uwagę Sagittal w tej analizie. Sagittal, będąc uniwersalnym językiem całej mikrotonalności, ma zawsze skończoną precyzję, poza tym i tak działa całkowicie inaczej, skoro nie operuje wyłącznie w JI.)
 
-As for scope, I could say that the FJS comes in at first place, Helmholtz-Ellis second, and Johnston third. But this is pretty pointless; just comparing the raw numbers as of now. It's insignificant that Helmholtz-Ellis can represent the 61-limit, but Johnston can only do the 31-limit, because Johnston could easily assign additional commas to extend his notation all the way to the 127-limit if he wanted. What is significant is that the FJS can represent **all** of Just Intonation and that it can do it **now**. Moreover, following the current design, neither Helmholtz-Ellis nor Johnston will *ever* be able to represent as much JI as the FJS can. Extending the scope for those notation systems requires someone to sit down, inspect the harmonic series, and actually do the work. The FJS does this automatically, meaning it will always be ahead.
+Co do zasięgu, mógłbym powiedzieć, że FJS dostaje złoty medal, HE srebrny, a BJ brązowy. Ale to nie ma większego sensu: po prostu porównuję stany obecne. Nie jest to ważne, że HE potrafi zapisać 61-limit, a BJ tylko 31-limit, bo Johnston mógłby wymyślić dodatkowe komaty aż do 127-limitu, gdyby chciał. Ważne jest to, że FJS zapisuje **cały** strój naturalny **teraz**. Jeśli HE i BJ będą dalej kontynuować tak jak teraz, to *nigdy* nie będą w stanie zapisywać tyle JI, co FJS. Zawsze wymaga to, żeby ktoś usiadł, „przeguglował” sobie ciąg alikwotów, i faktycznie się napracował. FJS zaś czyni to automatycznie, czyli zawsze będzie naprzód.
 
-This is the second extremely important advantage that the FJS has from using an algorithm: it literally has no limits.
+Jest to druga mocna strona algorytmu FJS-owego: sprawia, że FJS dosłownie nie ma limitu.
 
-(Still, given how far ahead Helmholtz-Ellis is, it can have half a point.)
+(Dobra, mogę dać Helmholtzowi pół punktu, skoro jest aż tak naprzód w porównaniu do BJ.)
 
-One point for the FJS, half a point for Helmholtz-Ellis.
+Punkt dla FJS-u, pół dla HE.
 
-> **FJS: 7, HE: 2, Johnston: 3.**
+> **FJS: 7, HE: 2, BJ: 3.**
 
-## Automatization
+## Automatyzacja
 
-The third, and final, advantage from using an algorithm is that the FJS can be automated. Writing any JI ratio allows the FJS representation to be calculated given only the radius of tolerance. This will allow the FJS to be integrated into music software in the future.
+Trzecim i zarazem ostatnim atutem algorytmu jest to, że FJS można zautomatyzować. Znając tylko promień tolerancji, każdy ułamek JI można zamienić na interwał FJS-owy. To pozwoli w przyszłości włączyć FJS do programów komputerowych muzycznych.
 
-Helmholtz-Ellis can also do this. The only minor complication is the fact that sometimes two accidentals must be used for one purpose. But it is possible to fully automate it without any problems. There even exists an [online calculator](https://www.plainsound.org/HEJI/) that does this.
+HE też to potrafi. Jedynym drobnym problemem jest to, że czasami potrzeba więcej niż jednej alteracji na jeden cel. Ale nadal da się bez problemów go zautomatyzować. Nawet istnieje do tego [kalkulator online](https://www.plainsound.org/HEJI/).
 
-As for Johnston? The same website has a [Johnston to HE converter](https://www.plainsound.org/HEJI/johnston.html), which works if you want to let a computer do it. But often when composing music, we don't want to have to use a calculator all the time.
+A BJ? Ta sama strona ma również [konwerter z BJ do HE](https://www.plainsound.org/HEJI/johnston.html), który – no cóż – dla komputera działa. Ale czy naprawdę przy każdej nucie będziesz się uciekał do kalkulatora?
 
-One of the merits of the FJS is that its algorithms are easy to implement in your head and carry out instantly without any external tools, which makes using it much faster. But if you wanted to do the same in Johnston's notation...
+Jednym z atutów FJS-a jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona...
 
 > *For every 5 in the numerator: Ascend one major 3rd. (Add plus if starting on a D.)*
 >
@@ -217,15 +217,15 @@ One of the merits of the FJS is that its algorithms are easy to implement in you
 >
 > *For every 19 in the numerator: Ascend a minor third and add a 19. (Add plus if starting on a D.)*
 
-This is just a fragment of the long list of rules required to derive the notation from JI ratios in Johnston notation, as given in Kyle Gann's guide.
+Jest to tylko fragment długiej listy reguł, za pomocą których ułamki JI zamienia się na notację BJ, jak mówi poradnik Kyle'a Ganna.
 
-What's especially agitating is the presence of extra rules for adding pluses or minuses if starting on very specific notes, which are different for every prime. (I do understand there is a deterministic relation between the interval and the notes on which pluses/minuses have to be added for said interval, but it still doesn't change the fact that this is a huge overcomplication!)
+Najbardziej irytujące jest to, że mamy dodatkowe reguły dodające plusy i minusy przy interwałach zbudowanych od niektórych nut, i listy tych nut się różnią dla każdej liczby pierwszej (dostrzegam oczywiście związki przyczynowo-skutkowe, ale nadal nie zmienia to faktu, że jest to ogromne przekomplikowanie sprawy!)
 
-And yes, this is just an *excerpt* of the Johnston notation equivalent of something that can be summarized in a single concise algorithm in the FJS.
+I owszem, to jest tylko *część* tego, co u BJ jest odpowiednikiem krótkiego i zwięzłego algorytmu w FJS-ie.
 
-One point for Helmholtz-Ellis and the FJS.
+Punkt dla HE i FJS-a.
 
-> **FJS: 8, HE: 3, Johnston: 3.**
+> **FJS: 8, HE: 3, BJ: 3.**
 
 ## Examples
 
