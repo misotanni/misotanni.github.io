@@ -203,19 +203,19 @@ A BJ? Ta sama strona ma również [konwerter z BJ do HE](https://www.plainsound.
 
 Jednym z atutów FJS-a jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona...
 
-> *For every 5 in the numerator: Ascend one major 3rd. (Add plus if starting on a D.)*
+> *Dla każdej piątki w liczniku: Dodaj tercję wielką. (I plus, jeśli zaczynasz na *d*.)*
 >
-> *For every 7 in the numerator: Ascend one minor seventh and add a 7. (Add plus if starting on a G, B, or D.)*
+> *Dla każdej siódemki w liczniku: Dodaj septymę małą i siódemkę. (I plus, jeśli zaczynasz na *g*, *h* albo *d*.)*
 >
-> *For every 9 in the numerator: Ascend one major second. (Add plus if starting on an E, G, B, or D.)*
+> *Dla każdej dziewiątki w liczniku: Dodaj sekundę wielką. (I plus, jeśli zaczynasz na *e*, *g*, *h* albo *d*.)*
 >
-> *For every 11 in the numerator: Ascend one perfect fourth and add ↑. (Add minus if starting on an A or F.)*
+> *Dla każdej jedenastki w liczniku: Dodaj kwartę czystą i ↑. (I minus, jeśli zaczynasz na *a* albo *f*.)*
 >
-> *For every 13 in the numerator: Ascend one minor sixth and add a 13. (Add minus if starting on an F.)*
+> *Dla każdej trzynastki w liczniku: Dodaj sekstę małą i 13. (I minus, jeśli zaczynasz na *f*.)*
 >
-> *For every 17 in the numerator: Add a sharp and a 17.*
+> *Dla każdej siedemnastki w liczniku: Dodaj krzyżyk i 17.*
 >
-> *For every 19 in the numerator: Ascend a minor third and add a 19. (Add plus if starting on a D.)*
+> *Dla każdej dziewiętnastki w liczniku: Dodaj tercję małą i 19. (I plus, jeśli zaczynasz na *d*.)*
 
 Jest to tylko fragment długiej listy reguł, za pomocą których ułamki JI zamienia się na notację BJ, jak mówi poradnik Kyle'a Ganna.
 
@@ -227,29 +227,29 @@ Punkt dla HE i FJS-a.
 
 > **FJS: 8, HE: 3, BJ: 3.**
 
-## Examples
+## Przykłady
 
-All right, you may think, here's all this abstract analysis, but what about actual examples? How do the three systems perform *in practice*?
+No dobra, myślisz sobie: ale to ładna analiza niemająca żadnego związku z rzeczywistością, a gdzie faktyczne przykłady? Jak wyglądają te trzy systemy *w praktyce*?
 
-Below I've provided examples of actual common JI contexts, so it can be seen how all three systems compare in their efficiency within these contexts. (To name notes in Helmholtz-Ellis, I just use +5, +7, etc. for upward accidentals, and −5, −7, etc. for downward accidentals, to reflect its pitch notation.)
+Tutaj pokazuję przykłady prawdziwych kontekstów JI-owych, żebyś zobaczył, jak wszystkie trzy systemy różnią się efektywnością w tych kontekstach. (Nazwałem nuty w HE, po prostu pisząc +5, +7, itd. na oznaczenie alteracji do góry, i −5, −7, itd. do dołu, czyli tak samo, jak HE je przedstawia.)
 
-### The Harmonic Series 1-32
+### Seria alikwotów 1-32
 
-**FJS.** This table took me about a minute to write.
+**FJS.** Ta tabela zajęła mi minutę.
 
 | C               | C               | G               | C              | E<sup>5</sup>   | G              | B♭<sup>7</sup>  | C |
 | D               | E<sup>5</sup>   | F<sup>11</sup>  | G              | A♭<sup>13</sup> | B♭<sup>7</sup> | B<sup>5</sup>   | C |
 | D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>  | F<sup>7</sup>   | F<sup>11</sup> | F♯<sup>23</sup> | G |
 | G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup> | B♭<sup>29</sup> | B<sup>5</sup>  | B<sup>31</sup>  | C |
 
-**Helmholtz-Ellis.** This table took me roughly two minutes to write, being initially uncertain of my results. I used the calculator to verify them.
+**HE.** Ta tabela zajęła mi około dwie minuty. Początkowo nie byłem pewny swoich wyników, więc sprawdziłem je kalkulatorem.
 
 | C       | C    | G     | C    | E−5     | G    | B♭−7    | C |
 | D       | E−5  | F+11  | G    | A−13    | B♭−7 | B−5     | C |
 | D♭+5−17 | D    | E♭+19 | E−5  | F−7     | F+11 | F♯+23   | G |
 | G♯−5−5  | A−13 | A     | B♭−7 | B♭+5+29 | B−5  | C−11−31 | C |
 
-**Ben Johnston.** This table took roughly three minutes, given that I have actually seen this fragment of the harmonic series in Johnston's system before.
+**BJ.** Ta tabela zajęła mniej więcej trzy minuty, przy czym już kiedyś widziałem tę serię alikwotów zapisaną w BJ.
 
 | C    | C    | G    | C   | E    | G   | B7♭   | C |
 | D    | E    | F↑   | G   | A♭13 | B7♭ | B     | C |
