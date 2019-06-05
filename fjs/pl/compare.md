@@ -262,53 +262,55 @@ Poniżej podaję kilka przykładów częstych użyć JI, żebyś mógł porówna
 
 > es, e, f, fis, gis, g, a, b, h, cis, c, d, es.
 
-**FJS.** Exactly as concise as Young, without relying on an arbitrary keyboard mapping. Also notates the tonic as its true pitch with reference to A = 440 Hz, the tuning of Young's piano.
+**FJS.** Tak samo zwięźle, jak u Younga, ale nie polegając na arbitralnym przypisaniu do klawiszy fortepianu. Z *a* = 440 Hz, ta notacja zarazem zapisuje rzeczywiste wysokości zgodnie ze strojem Younga.
 
-D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+> d<sub>7</sub>, e, e<sub>7</sub>, f<sup>7</sup>, g<sup>7</sup>, g, a, a<sub>7</sub>, b<sup>7</sup>, c<sup>7</sup>, c, d, d<sub>7</sub>.
 
-Here is what it would be if it used E♭ to notate the tonic; a little less concise.
+Tak wyglądałoby to, gdybyśmy ustalili za tonikę *es*, zgodnie z zapisem Younga. Rezultat jest trochę mniej zwięzły.
 
-E♭, F<sup>7</sup>, F, G♭<sup>49</sup>, A♭<sup>49</sup>, A♭<sup>7</sup>, B♭<sup>7</sup>, B♭, C♭<sup>49</sup>, D♭<sup>49</sup>, D♭<sup>7</sup>, E♭<sup>7</sup>, E♭.
+> es, f<sup>7</sup>, f, ges<sup>49</sup>, as<sup>49</sup>, as<sup>7</sup>, b<sup>7</sup>, b, c♭<sup>49</sup>, des<sup>49</sup>, des<sup>7</sup>, es<sup>7</sup>, es.
 
 **Helmholtz-Ellis.** Just as concise as the FJS on E♭.
 
-E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
+**Helmholtz-Ellis.** Zwięzłe w tym samym stopniu, co w przypadku FJS na *es*.
 
-**Ben Johnston.** Very inconcise. Also note the abundance of syntonic comma accidentals, in a tuning with no factor of five.
+> es, f−7, f, ges−7−7, as−7−7, as−7, b−7, b, c−7−7, des−7−7, des−7, es−7, es.
 
-E♭, F7++, F+, G77♭+, A77♭++, A7♭+, B7♭+, B♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+**Ben Johnston.** Okrężne. Zauważ wielość znaków dla komatu syntonicznego, mimo że strój nie wykorzystuje czynnika 5.
 
-### Terry Riley's "Harp of New Albion"
+> e♭, f7++, f+, g77♭+, a77♭++, a7♭+, h7♭+, h♭, c77♭+, d77♭+, d7♭, e7♭+, e♭.
 
-**Riley's notation.**
+### „Harfa Nowego Albionu” Terry'ego Riley'ego.
 
-C♯, D, D♯, E, E♯, F♯, G, G♯, A, A♯, B, B♯, C♯.
+**Zapis Riley'ego.**
 
-**FJS.** The Pythagorean pitch classes match Riley's.
+> cis, d, dis, e, eis, fis, g, gis, a, ais, b, h, cis.
 
-C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G, G♯<sup>5</sup>, A, A♯<sup>25</sup>, B<sup>5</sup>, B♯<sup>25</sup>, C♯<sup>5</sup>.
+**FJS.** Zgadza się z Rileym pod względem nazw pitagorejskich.
 
-**Helmholtz-Ellis.** On par with the FJS. Virtually identical.
+> cis<sup>5</sup>, d, dis<sup>5</sup>, e, eis<sup>25</sup>, fis<sup>5</sup>, g, gis<sup>5</sup>, a, ais<sup>25</sup>, b<sup>5</sup>, h<sup>25</sup>, cis<sup>5</sup>.
 
-C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, B−5, B♯−5−5, C♯−5.
+**Helmholtz-Ellis.** Na równi z FJS-em. Niemal identyczne.
 
-**Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
+> cis−5, d, dis−5, e, eis−5−5, fis−5, g, gis−5, a, ais−5−5, b−5, h−5−5, cis−5.
 
-C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+**Ben Johnston.** Podobno sprawny dla 5-limitów… a jednak zajęło mi trzy minuty, zanim poprawnie wyprowadziłem ten szereg:
 
-### Notation Comparison
+> c♯−, d−−, d♯−, e−, e♯−, f♯−, g−−, g♯−, a−, a♯−, h−−, h♯−, c♯−.
 
-This [comparison](../assets/comparison.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage... well, see for yourself.
+### Porównanie notacji obok siebie
 
-Listen to it:
+To [przyrównanie](../assets/comparison.pdf) trzech notacji opiera się na 12-taktowej harmonizacji średniowiecznej zgadywanki w skali doryckiej na *d* w 5-limicie. Że użyłem 5-limitu, powinno dać niesprawiedliwą przewagę BJ… sam zobacz.
+
+Możesz posłuchać:
 
 <audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
 
-## Verdict
+## Werdykt
 
-Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis notation, unsurprisingly, is quite bad, being the first attempt at such a task. Johnston notation, given its absurd choice of the natural notes, is considerably worse than even Helmholtz-Ellis; its equal score is a result of figurative transfer error. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
+Nie jest żadną niespodzianką, że FJS jest najlepszym systemem zapisu JI spośród tych trzech. HE niestety wypada całkiem źle jako pierwsza próba. Wyobrażam sobie, że BJ, biorąc pod uwagę dziwny wybór wysokości niealterowanych, jest jeszcze gorszy niż sam HE – równy wynik to błąd statystyczny. FJS znacząco prześciga i HE, i BJ w zadaniu notowania JI.
 
-## A Note to Kyle Gann
+## Wiadomość dla Kyle'a Ganna
 
 As mentioned, Kyle Gann's guide for Ben Johnston's system contains an addendum where he explains why he prefers Johnston over Helmholtz-Ellis despite its very inconvenient choice of natural notes.
 
