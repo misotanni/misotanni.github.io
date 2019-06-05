@@ -19,7 +19,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 > 5. If so: *k* is the generator function. Output. End.
 > 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
-> In step 4, the meaning of "difference" is the **absolute value** of the cent size of $$\text{reb}\left( \frac{p}{3^k} \right)$$
+> In step 4, the meaning of “difference” is the **absolute value** of the cent size of $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ## The Formal Comma
 
@@ -58,13 +58,13 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 1. By default, the FJS uses Pythagorean tuning for traditional staff notation. So the interval C–E is 81/64, the interval C–D♭ is 256/243, the interval D♭–C♯ is 531441/524288, etc.
 
-2. A single comma of the prime *p* (greater than 3) will use the appended number "p" (preferably as a superscript) to represent a deviation by that comma **in its original direction**. E.g. E<sup>5</sup> is an interval of 81/80 **below** E (because the comma of 5 is 80/81); F<sup>11</sup> is an interval of 33/32 **above** F (because the comma of 11 is 33/32). These note names are pronounced with the number appended: "E-five", "F-eleven". I do not expect them to cause confusion with chord symbols, since it is often clear from context whether a single note or a chord is meant. In the case of confusion, an optional "super" prefix can be attached. Note that the original direction is preserved.
+2. A single comma of the prime *p* (greater than 3) will use the appended number “p” (preferably as a superscript) to represent a deviation by that comma **in its original direction**. E.g. E<sup>5</sup> is an interval of 81/80 **below** E (because the comma of 5 is 80/81); F<sup>11</sup> is an interval of 33/32 **above** F (because the comma of 11 is 33/32). These note names are pronounced with the number appended: “E-five”, “F-eleven”. I do not expect them to cause confusion with chord symbols, since it is often clear from context whether a single note or a chord is meant. In the case of confusion, an optional “super” prefix can be attached. Note that the original direction is preserved.
 
-3. A single comma of the prime *p* will use the appended number "p" as a subscript to represent a deviation by that comma in the **opposite of its original direction**. E.g. E♭<sub>5</sub> is an interval of 81/80 above E♭; A<sub>19</sub> is an interval of 513/512 below A. These are pronounced with the number appended, but with a "sub" prefix attached: "E-flat-sub-five", "A-sub-nineteen".
+3. A single comma of the prime *p* will use the appended number “p” as a subscript to represent a deviation by that comma in the **opposite of its original direction**. E.g. E♭<sub>5</sub> is an interval of 81/80 above E♭; A<sub>19</sub> is an interval of 513/512 below A. These are pronounced with the number appended, but with a “sub” prefix attached: “E-flat-sub-five”, “A-sub-nineteen”.
 
 4. To represent combinations of movements by commas **in the same orientation** (either all otonal or all utonal), **multiply** the numbers that the original commas would contain (rather than add or concatenate them). This is because these numbers are primes. A sum of primes cannot be uniquely resolved into its summands, and neither can a contenation of primes, but due to the Fundamental Theorem of Arithmetic, a product of primes can. Therefore, from the final product, we can always uniquely deduce which primes were multiplied. Order does not matter. E.g. G♯<sup>25</sup> is two 81/80 intervals below G♯ and there is no other interpretation, since 25 = 5 × 5 and no other prime decomposition exists.
 
-5. Usually the product allows the deduction of the prime factorization immediately at first sight. Some of the most frequent products are all recognizable: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121 are all familiar. If it is completely unclear at first sight what a number factorizes to, e.g. 119 = 7 × 17, an alternative notation can be used where all factors are listed, separated with commas (punctuation marks). The example from above could alternatively be written as G♯<sup>5,5</sup> and both notations are equally correct. If commas are listed out individually, it is preferred to list them in non-descending order, so D<sup>119</sup> is D<sup>7,17</sup> rather than D<sup>17,7</sup>. These extremes can also be combined in any way, and individual factors may be multiplied in any combination, e.g. G<sup>11,125</sup> is a perfectly valid representation of G<sup>1375</sup>. These are pronounced as normal: "G-eleven-one-hundred-twenty-five"
+5. Usually the product allows the deduction of the prime factorization immediately at first sight. Some of the most frequent products are all recognizable: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121 are all familiar. If it is completely unclear at first sight what a number factorizes to, e.g. 119 = 7 × 17, an alternative notation can be used where all factors are listed, separated with commas (punctuation marks). The example from above could alternatively be written as G♯<sup>5,5</sup> and both notations are equally correct. If commas are listed out individually, it is preferred to list them in non-descending order, so D<sup>119</sup> is D<sup>7,17</sup> rather than D<sup>17,7</sup>. These extremes can also be combined in any way, and individual factors may be multiplied in any combination, e.g. G<sup>11,125</sup> is a perfectly valid representation of G<sup>1375</sup>. These are pronounced as normal: “G-eleven-one-hundred-twenty-five”
 
 6. Products of positive and negative commas are independent. They are written as a combined subscript and superscript, e.g. F<sup>7</sup><sub>5</sub> represents F lowered by 64/63 and then raised by 81/80 (or in the opposite order; first raised by 81/80 and then lowered by 64/63; the result is the same). Note that the products used to represent positive and negative commas will always be coprime, otherwise there is an unnecessary shift in one direction that is canceled out in the other one; \*C<sup>35</sup><sub>5</sub> is the same note as C<sup>7</sup>.
 
@@ -76,13 +76,13 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 1. To add positive comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, as an accidental. For consistency, just like standard accidentals are prepended to a note on a staff but appended to its name, the same happens to microtonal accidentals. They are written in front of the note, and if there is a standard accidental as well, then in front of the accidental.
 
-2. To add negative comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, but prepended with a negative sign (e.g. "−35").
+2. To add negative comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, but prepended with a negative sign (e.g. “−35”).
 
 3. If both positive and negative comma shifts appear, then the total positive shift should be written to the left of the total negative shift.
 
 4. *Pythagorean accidentals divide notes with the same diatonic pitch class (C, D, E, F, G, A, or B) into their Pythagorean pitch classes. Hence, a Pythagorean accidental applies to all notes with the same diatonic pitch class and octave in the same bar, until overwritten or canceled.* Analogically, microtonal accidentals divide notes with the same Pythagorean pitch class into their absolute JI pitches. Hence, a microtonal accidental applies to all notes with the same Pythagorean pitch class and octave in the same bar, until overwritten or canceled. This means that, if the first E in a bar is written with a +5 accidental, then all other E in that bar in the same octave will also have the +5 accidental implied (until it is canceled with a 1), however, an E♭, just as much as a D or an F, will not have that accidental implied, even if it is in the same bar.
 
-5. A "1" accidental cancels any microtonal accidentals for the Pythagorean pitch class it is applied to.
+5. A “1” accidental cancels any microtonal accidentals for the Pythagorean pitch class it is applied to.
 
 ## Rules for Using FJS Key Signatures (\*)
 
@@ -92,7 +92,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 3. An FJS key signature can supply microtonal accidentals to non-diatonic pitches by selecting an appropriate space or line on the staff for the diatonic pitch class, writing the FJS accidental, and then appending a Pythagorean accidental in parentheses to indicate the Pythagorean pitch class. The parentheses are required to indicate that the Pythagorean accidental itself is not part of the key signature, instead the meaning is as follows: if the Pythagorean accidental is used, then the microtonal accidental that follows will also be applied. For instance, an FJS key signature for C harmonic major could be B<sup>5</sup> E<sup>5</sup> A<sup>5</sup> A<sub>5</sub>(♭), indicating that all B, E, and A should be altered by a +5 accidental, and all A♭ should be altered by a −5 accidental. In this case, A is not flat by default; but *if* it is, *then* it is also altered by −5.
 
-4. As with standard key signatures, FJS key signatures do not "mix" with proper FJS accidentals. Rather, standalone FJS accidentals overwrite those that would be due to an FJS key signature. An E<sub>7</sub> indicated by writing E with a −7 accidental before it is still E<sub>7</sub>, even if there is an FJS key signature that says E<sup>5</sup> instead. (It does not, for instance, become E<sup>5</sup><sub>7</sub>.)
+4. As with standard key signatures, FJS key signatures do not “mix” with proper FJS accidentals. Rather, standalone FJS accidentals overwrite those that would be due to an FJS key signature. An E<sub>7</sub> indicated by writing E with a −7 accidental before it is still E<sub>7</sub>, even if there is an FJS key signature that says E<sup>5</sup> instead. (It does not, for instance, become E<sup>5</sup><sub>7</sub>.)
 
 5. A Pythagorean key signature change does not automatically also trigger an FJS key signature change. A piece which begins with the key signatures ♯FCG and F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> will not have its FJS key signature canceled when the piece changes key to A♭ major (♭BEAD). If no FJS key signature change has happened, then it is still assumed that in this key of A♭ major, if an F♯ appears, then alter it by +5. This may seem strange, since an F♯ is never expected to appear in A♭ major. However, it actually makes lots of sense because it helps avoid the need to restate the FJS key signature every time that a simple modulation occurs (e.g. from ♯FCG to ♯FC). In such cases, it may very probably be desired that the F♯ and C♯ (and G♯, which may appear in D major as part of a II chord) remain altered by +5.
 
@@ -108,7 +108,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 2. An FJS transposition line can be written either as alta or bassa, with no difference in meaning.
 
-3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with "5", a transposition line of +7−5 will begin with "7−5", etc. As with octave lines, "loco" following such a line is optional.
+3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with “5”, a transposition line of +7−5 will begin with “7−5”, etc. As with octave lines, “loco” following such a line is optional.
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
 
