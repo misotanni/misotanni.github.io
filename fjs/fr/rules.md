@@ -1,4 +1,4 @@
-﻿# La description formale complète
+﻿# La description formelle complète
 
 Ce site est *de facto* un manuel du FJS. Vous trouvez ici toutes les règles dont vous avez besoin pour utiliser le FJS, y compris le système des abréviations. Pourtant, la lecture de cette page ne vous sera pas utile si vous n'avez pas encore lu le [cours intensif](crash.html).
 
