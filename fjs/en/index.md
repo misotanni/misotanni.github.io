@@ -1,5 +1,6 @@
 ---
 title: The Functional Just System
+redirect_from: "/fjs/"
 ---
 
 > *Such is the advantage of a well-constructed language that its simplified notation often becomes the source of profound theories.*
