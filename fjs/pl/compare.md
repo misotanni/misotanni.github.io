@@ -169,7 +169,7 @@ Z powodu losowych symboli, prawie niemożliwe jest nazywanie nut w HE, chyba że
 
 A co z BJ? Jego alteracje w końcu wyglądają obiecująco. Ale BJ znowu z kolei ma dziwny system podziału swoich alteracji przy nazywaniu nut. Niektóre z nich są pisane między tonem diatonicznym a alterację pitagorejską, ale nikt nie mówi, które. Na przykład nuta o komat niebiański niżej niż *es* to jest *e*7♭+ (sic!) Alteracja 7 znajduje się między *e* a bemolem, ale + już po tym bemolu. Najbardziej boli fakt, że komat niebiański w dół u BJ to jest „najpierw komat niebiański plus syntoniczny w dół, ale potem z powrotem o syntoniczny w górę”.
 
-BJ także ma zaawansowany system wypowiadania tych nazw. Jest on podobny do FJS-a, ale dużo bardziej skomplikowany, skoro komaty dla 5, 7, i 11 mają nieregularne symbole. Kyle Gann podaje możliwą nazwę „G-sharp-up-arrow-double-sub-seven-minus” (czyli mniej więcej „gis-strzałka-w-górę-podwójny-pod-siedem-minus”). To dużo bardziej skomplikowane, niż najdziksza możliwa nazwa w FJS-ie, która zawsze będzie się składać z: (części pitagorejskiej)-(ewentualnego „nad”)-(otonalnych)-(„pod”)-(utonalnych), w tej kolejności. Gann mówi, że składanie alteracji w BJ nie ma standardowej formy.
+BJ także ma zaawansowany system wypowiadania tych nazw. Jest on podobny do FJS-u, ale dużo bardziej skomplikowany, skoro komaty dla 5, 7, i 11 mają nieregularne symbole. Kyle Gann podaje możliwą nazwę „G-sharp-up-arrow-double-sub-seven-minus” (czyli mniej więcej „gis-strzałka-w-górę-podwójny-pod-siedem-minus”). To dużo bardziej skomplikowane, niż najdziksza możliwa nazwa w FJS-ie, która zawsze będzie się składać z: (części pitagorejskiej)-(ewentualnego „nad”)-(otonalnych)-(„pod”)-(utonalnych), w tej kolejności. Gann mówi, że składanie alteracji w BJ nie ma standardowej formy.
 
 Ten system jest nadal lepszy niż nic.
 
@@ -201,21 +201,21 @@ HE też to potrafi. Jedynym drobnym problemem jest to, że czasami potrzeba wię
 
 A BJ? Ta sama strona ma również [konwerter z BJ do HE](https://www.plainsound.org/HEJI/johnston.html), który – no cóż – dla komputera działa. Ale czy naprawdę przy każdej nucie będziesz się uciekał do kalkulatora?
 
-Jednym z atutów FJS-a jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona...
+Jednym z atutów FJS-u jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona...
 
-> *For every 5 in the numerator: Ascend one major 3rd. (Add plus if starting on a D.)*
+> Dla każdego czynnika 5 w liczniku: pójdź o tercję wielką w górę. (Dodaj plus, jeżeli zacząłeś od *d*).
 >
-> *For every 7 in the numerator: Ascend one minor seventh and add a 7. (Add plus if starting on a G, B, or D.)*
+> Dla każdego czynnika 7 w liczniku: pójdź o septymę małą w górę i dodaj 7. (Jeżeli zacząłeś od *g*, *h* lub *d*, dodaj plus).
 >
-> *For every 9 in the numerator: Ascend one major second. (Add plus if starting on an E, G, B, or D.)*
+> Dla każdego czynnika 9 w liczniku: pójdź o sekundę wielką w górę. (Dla *e*, *g*, *h* i *d* dodaj plus).
 >
-> *For every 11 in the numerator: Ascend one perfect fourth and add ↑. (Add minus if starting on an A or F.)*
+> Dla każdego czynnika 11 w liczniku: pójdź o kwartę czystą w górę i dodaj ↑. (Dodaj minus, jeżeli zacząłeś od *a* lub *f*).
 >
-> *For every 13 in the numerator: Ascend one minor sixth and add a 13. (Add minus if starting on an F.)*
+> Dla każdego czynnika 13 w liczniku: pójdź o sekstę czystą w górę i dodaj 13. (Dla *f*, dodaj również minus).
 >
-> *For every 17 in the numerator: Add a sharp and a 17.*
+> Dla każdego czynnika 17 w liczniku: dodaj krzyżyk i 17.
 >
-> *For every 19 in the numerator: Ascend a minor third and add a 19. (Add plus if starting on a D.)*
+> Dla każdego czynnika 19 w liczniku: pójdź o tercję małą i dodaj 19. (Dodaj plus, jeżeli zacząłeś od *d*).
 
 Jest to tylko fragment długiej listy reguł, za pomocą których ułamki JI zamienia się na notację BJ, jak mówi poradnik Kyle'a Ganna.
 
@@ -223,44 +223,44 @@ Najbardziej irytujące jest to, że mamy dodatkowe reguły dodające plusy i min
 
 I owszem, to jest tylko *część* tego, co u BJ jest odpowiednikiem krótkiego i zwięzłego algorytmu w FJS-ie.
 
-Punkt dla HE i FJS-a.
+Punkt dla HE i FJS-u.
 
 > **FJS: 8, HE: 3, BJ: 3.**
 
-## Examples
+## Przykłady
 
-All right, you may think, here's all this abstract analysis, but what about actual examples? How do the three systems perform *in practice*?
+No dobrze – mówisz – tu mam tę całą abstrakcyjną analizę, ale co z rzeczywistymi przykładami? Jak sprawdzają się te trzy systemy *w praktyce*?
 
-Below I've provided examples of actual common JI contexts, so it can be seen how all three systems compare in their efficiency within these contexts. (To name notes in Helmholtz-Ellis, I just use +5, +7, etc. for upward accidentals, and −5, −7, etc. for downward accidentals, to reflect its pitch notation.)
+Poniżej podaję kilka przykładów częstych użyć JI, żebyś mógł porównać na własną rękę wydajność trzech systemów w tych kontekstach. (Wysokości w HE nazywam, zapisując +5, +7 itp. dla alteracji przenoszących w górę, a −5, −7 itp. – w dół, by odzwierciedlić HE-owy zapis nutowy).
 
-### The Harmonic Series 1-32
+### Seria alikwotowa (1.–32.)
 
-**FJS.** This table took me about a minute to write.
+**FJS.** Ta tabela zajęła mi około minutę.
 
-| C               | C               | G               | C              | E<sup>5</sup>   | G              | B♭<sup>7</sup>  | C |
-| D               | E<sup>5</sup>   | F<sup>11</sup>  | G              | A♭<sup>13</sup> | B♭<sup>7</sup> | B<sup>5</sup>   | C |
-| D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>  | F<sup>7</sup>   | F<sup>11</sup> | F♯<sup>23</sup> | G |
-| G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup> | B♭<sup>29</sup> | B<sup>5</sup>  | B<sup>31</sup>  | C |
+| c                | c               | g               | c             | e<sup>5</sup>   | g              | b<sup>7</sup>    | c |
+| d                | e<sup>5</sup>   | f<sup>11</sup>  | g             | as<sup>13</sup> | b<sup>7</sup>  | h<sup>5</sup>    | c |
+| des<sup>17</sup> | d               | es<sup>19</sup> | e<sup>5</sup> | f<sup>7</sup>   | f<sup>11</sup> | fis<sup>23</sup> | g |
+| gis<sup>25</sup> | as<sup>13</sup> | a               | b<sup>7</sup> | b<sup>29</sup>  | b<sup>5</sup>  | b<sup>31</sup>   | c |
 
-**Helmholtz-Ellis.** This table took me roughly two minutes to write, being initially uncertain of my results. I used the calculator to verify them.
+**HE.** Samą tabelę skonstruowałem w dwie minuty, ale nie byłem pewien swoich obliczeń. Potwierdziłem je kalkulatorem.
 
-| C       | C    | G     | C    | E−5     | G    | B♭−7    | C |
-| D       | E−5  | F+11  | G    | A−13    | B♭−7 | B−5     | C |
-| D♭+5−17 | D    | E♭+19 | E−5  | F−7     | F+11 | F♯+23   | G |
-| G♯−5−5  | A−13 | A     | B♭−7 | B♭+5+29 | B−5  | C−11−31 | C |
+| c        | c    | g     | c   | e−5    | g    | b−7     | c |
+| d        | e−5  | f+11  | g   | a−13   | b−7  | h−5     | c |
+| des+5−17 | d    | es+19 | e−5 | f−7    | f+11 | fis+23  | g |
+| gis−5−5  | a−13 | a     | b−7 | b+5+29 | h−5  | c−11−31 | c |
 
-**Ben Johnston.** This table took roughly three minutes, given that I have actually seen this fragment of the harmonic series in Johnston's system before.
+**BJ.** Pomimo że widziałem już gdzieś tę rozpiskę, odtworzenie jej zajęło mi aż trzy minuty.
 
-| C    | C    | G    | C   | E    | G   | B7♭   | C |
-| D    | E    | F↑   | G   | A♭13 | B7♭ | B     | C |
-| C♯17 | D    | E♭19 | E   | F7+  | F↑  | F♯23+ | G |
-| G♯   | A♭13 | A+   | B7♭ | B♭29 | B   | B31   | C |
+| c    | c    | g    | c   | e    | g   | h7♭   | c |
+| d    | e    | f↑   | g   | a♭13 | h7♭ | h     | c |
+| c♯17 | d    | e♭19 | e   | f7+  | f↑  | f♯23+ | g |
+| g♯   | a♭13 | a+   | h7♭ | h♭29 | h   | h31   | c |
 
-### La Monte Young's "Well-Tuned Piano"
+### „Dobrze nastrojony fortepian” La Monte'a Younga.
 
-**Young's notation.** (I write the scale as ascending, not as a sequence of keys on the keyboard, so G♯ comes before G as it is a lower pitch.)
+**Notacja Younga.** (Tu dźwięki wypisane są w kolejności rosnącej, a nie jako szereg klawiszy na klawiaturze; z tego powodu *gis* postawione jest przed *g*, ponieważ jest niższe).
 
-E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
+> es, e, f, fis, gis, g, a, b, h, cis, c, d, es.
 
 **FJS.** Exactly as concise as Young, without relying on an arbitrary keyboard mapping. Also notates the tonic as its true pitch with reference to A = 440 Hz, the tuning of Young's piano.
 
