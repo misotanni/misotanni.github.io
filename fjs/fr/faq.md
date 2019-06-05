@@ -38,4 +38,4 @@ Non.
 
 L'intonation juste, ce sont des mathématiques. C'est aussi une théorie des fréquences, basée sur des qualités du son scientifiquement examinées. C'est aussi un genre de musique qui utilise ces relations pour la base de sa palette chromatique, au lieu d'une division de l'octave ou quelque chose d'autre. Le FJS est un système formel pour mieux comprendre ces relations acoustiques présentes dans JI.
 
-En revanche, New Age n'est ni une science ni une théorie. Donc il vous vaudrait peut-être mieux de rechercher ces «sciences» et «théories» comme [cet](https://attunedvibrations.com/432hz/) accord alternatif qui est «mathématiquement en harmonie avec l'univers»... Ou peut-être non.
+En revanche, New Age n'est ni une science ni une théorie. Donc il vous vaudrait peut-être mieux de rechercher ces « sciences » et « théories » comme [cet](https://attunedvibrations.com/432hz/) accord alternatif qui est « mathématiquement en harmonie avec l'univers »... Ou peut-être non.
