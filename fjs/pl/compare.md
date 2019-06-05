@@ -270,8 +270,6 @@ Tak wyglądałoby to, gdybyśmy ustalili za tonikę *es*, zgodnie z zapisem Youn
 
 > es, f<sup>7</sup>, f, ges<sup>49</sup>, as<sup>49</sup>, as<sup>7</sup>, b<sup>7</sup>, b, c♭<sup>49</sup>, des<sup>49</sup>, des<sup>7</sup>, es<sup>7</sup>, es.
 
-**Helmholtz-Ellis.** Just as concise as the FJS on E♭.
-
 **Helmholtz-Ellis.** Zwięzłe w tym samym stopniu, co w przypadku FJS na *es*.
 
 > es, f−7, f, ges−7−7, as−7−7, as−7, b−7, b, c−7−7, des−7−7, des−7, es−7, es.
@@ -308,34 +306,34 @@ Możesz posłuchać:
 
 ## Werdykt
 
-Nie jest żadną niespodzianką, że FJS jest najlepszym systemem zapisu JI spośród tych trzech. HE niestety wypada całkiem źle jako pierwsza próba. Wyobrażam sobie, że BJ, biorąc pod uwagę dziwny wybór wysokości niealterowanych, jest jeszcze gorszy niż sam HE – równy wynik to błąd statystyczny. FJS znacząco prześciga i HE, i BJ w zadaniu notowania JI.
+Nie jest żadną niespodzianką, że FJS jest najlepszym systemem zapisu JI spośród tych trzech. HE niestety wypada całkiem źle jako pierwsza próba. Wyobrażam sobie, że BJ, biorąc pod uwagę dziwny wybór wysokości niealterowanych, jest jeszcze gorszy niż sam HE – równy wynik pochodzi stąd, że zignorowałem propagację błędów. FJS znacząco prześciga i HE, i BJ w zadaniu notowania JI.
 
 ## Wiadomość dla Kyle'a Ganna
 
-As mentioned, Kyle Gann's guide for Ben Johnston's system contains an addendum where he explains why he prefers Johnston over Helmholtz-Ellis despite its very inconvenient choice of natural notes.
+Jak wspomniałem, poradnik Kyle'a Ganna reklamujący system Johnstona zawiera uzupełnienie, w którym wyjaśnia, dlaczego woli BJ niż HE, chociaż ten pierwszy bardzo niezręcznie wybrał swoje dźwięki niealterowane.
 
-You explain that finding the value of B♭ in the key of C is easier in Johnston than in Helmholtz-Ellis. In Johnston, C to B is 15/8, and adding a flat lowers it by 25/24, resulting in 9/5. In Helmholtz-Ellis, however, C to B is 243/128, and adding a flat lowers it by 2187/2048, and only a calculator can tell you that this results in 16/9. Considering consistency as one of the less important virtues, you dismiss Helmholtz-Ellis because apparently it will force you to constantly multiply and divide by four-digit numbers.
+Tłumaczysz pan, że wyliczenie wartości *b* w tonacji *C* jest dużo łatwiejsze w BJ niż w HE. W BJ, *c*-*h* to 15/8, a bemol obniża o 25/24, co daje 9/5. Natomiast w HE, *c*-*h* to 243/128, a bemol obniża o 2187/2048, i potrzeba kalkulatora, żeby stwierdzić, że wychodzi 16/9. Skoro uważasz pan regularność za mało ważny atut, odrzucasz pan HE, ponieważ podobno zmusza do ciągłego mnożenia i dzielenia przez liczby czterocyfrowe.
 
-I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale. So if this argument works against Helmholtz-Ellis, it should also work against the FJS.
+Odpowiadam na ten argument z dwóch powodów: po pierwsze dlatego, że wynika z faktu, że zarówno HE, jak i FJS, bazuje na skali pitagorejskiej. Jeśli ten argument skutecznie obala HE, to obala również FJS-a.
 
-I also respond because this argument is a non-sequitur.
+Drugi powód jest taki, że – nie, nie obala. Wręcz przeciwnie. Jest błędny.
 
-Ben Johnston notation does force the user to constantly multiply and divide, because even the simplest notes are made of many factors of five juggled back and forth and adjusted for with pluses and minuses. Because the 5-limit scale is not consistent, it also forces the user to always think in terms of the seven diatonic pitches, rather than intervals.
+BJ faktycznie zmusza do ciągłego mnożenia i dzielenia, ponieważ nawet najprostsze nuty składają się z wielu piątek przerzucanych w tę i we w tę, z plusami i minusami. Dlatego, że skala 5-limitowa przeczy sama sobie, trzeba także zawsze myśleć o siedmiu tonach diatonicznych, nie samych interwałach.
 
-When you attempt to use Helmholtz-Ellis notation, you automatically assume the same restrictions that you were bound to with Ben Johnston notation: trying to figure out the value of a minor seventh using a major seventh minus a chromatic semitone. You criticize Helmholtz-Ellis for the fact that one of these intervals now requires four-digit numbers to represent, while Johnston usually works with up to two-digit numbers.
+Gdy próbujesz pan używać HE, pan zakładasz od razu wszystkie ograniczenia notacji BJ: pan próbujesz wyliczyć septymę małą z septymy wielkiej obniżonej o półton chromatyczny. Pan krytykujesz HE za to, że jeden z tych interwałów teraz ma cztery cyfry, podczas gdy BJ ładnie sobie radzi z dwucyfrowymi.
 
-The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths (major seventh) to then immediately return seven fifths back (chromatic semitone)? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its minor seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
+Panie Gannie, septyma mała jest tuż, tuż na kole kwintowym; są to dwie kwarty czyste, obie równe 4/3 (chociaż nie ma tak łatwo w BJ, gdzie *c*-*f*, 4/3, nie równa się *f*-*b*, 27/20). Po co wchodziłbyś pan o pięć kwint do góry (septyma wielka), aby potem od razu zejść o siedem (półton chromatyczny)? Czy podróż z Karoliny Północnej do Południowej przez Maine brzmi tak samo zachęcająco? Tylko dlatego, że w *c* septymę małą pisze się z bemolem, nie oznacza, że musisz pan tak o niej myśleć. Pan jesteś do tego zmuszony przez BJ. A przenieś się pan do tonacji *d*, gdzie septyma mała nie ma alteracji, ale w przeciwieństwie do BJ ma ten sam rozmiar.
 
-Your guide to figuring out the ratios from notation does indeed start at looking at the natural notes and figuring out the interval between them. This is because this interval *depends* on the natural notes in Johnston notation, so there indeed is no other way to figure it out. For example, D to E is 10/9, which is different from C to D, 9/8. Helmholtz-Ellis and the FJS do not have this absurd restriction. Every major second is 9/8. This allows a composer to be freed from the restriction of the diatonic scale when thinking in JI, and it allows one to translate interval names directly to ratios.
+Pana poradnik do wyliczania ułamków z notacji faktycznie zaczyna od nut niealterowanych i wyliczenia interwału między nimi: dlatego, że ten interwał *zależy* od nich w BJ, czyli nie ma innego sposobu. Na przykład *d*-*e* to 10/9, czyli interwał różny od *c*-*d*, 9/8. Ani HE, ani FJS tego absurdalnego ograniczenia. Każda sekunda wielka to 9/8. Pozwala to kompozytorom uwolnić się od skali diatonicznej, gdy myślimy w JI, i pozwala na tłumaczenie od razu z ułamków na nazwy interwałów, bez kroku pośredniego, czyli konkretnych nut.
 
-You could have arrived at the fact that C to B♭ is 16/9 in so many different (and easier) ways than 243/128 times 2048/2187; in fact, you probably chose the most inconvenient possible way to arrive at 16/9 (the equivalent of the only possible way to arrive at 9/5 in Johnston).
+Pan mogłeś wyliczyć 16/9 z *c*-*b* na tyle różnych (dużo łatwiejszych) sposobów niż 243/128 razy 2187/2048. Właściwie wybrałeś pan prawdopodobnie najtrudniejszy z możliwych sposobów wyliczenia 16/9 (ale pamiętajmy, jest to ekwiwalent jedynego możliwego sposobu w BJ, żeby wyliczyć 9/5).
 
-For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
+Mogłeś pan na przykład zauważyć, że *c* i *b* oba nie mają żadnych mikrotonalnych alteracji, czyli z definicji niealterowanych dźwięków, septyma mała między nimi musi być pitagorejska, czyli 16/9. Albo, że składa się z dwóch kwart czystych 4/3, czyli 16/9. Albo, że jest to odwrócenie całego tonu 9/8, czyli 16/9. FJS daje ogromną wolność szybkiego i wydajnego czytania i pisania, w przeciwieństwie do powolnego i mozolnego procesu, który wymaga BJ.
 
-The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
+Ja widzę to tak, że pan jesteś przyzwyczajony do kajdanek Johnstona, a uwolnienie przez HE (albo FJS) powoduje u pana paraliż, ponieważ przez te lata spędzone w kajdankach pan nie wyobrażasz sobie ich braku.
 
-Switch to the FJS. It will make the math and notation part of your compositional pursuit **so much easier**.
+Przenieś się pan na FJS. To **ogromnie ułatwi** matematykę i notację pańskiej działalności kompozytorskiej.
 
-Or don't, and continue juggling syntonic commas.
+Albo nie – żongluj pan dalej komatami syntonicznymi.
 
-Others may have different criteria.
+Inni mogą mieć inne kryteria.

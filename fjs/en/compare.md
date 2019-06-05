@@ -260,41 +260,41 @@ Below I've provided examples of actual common JI contexts, so it can be seen how
 
 **Young's notation.** (I write the scale as ascending, not as a sequence of keys on the keyboard, so G♯ comes before G as it is a lower pitch.)
 
-E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
+> E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
 
 **FJS.** Exactly as concise as Young, without relying on an arbitrary keyboard mapping. Also notates the tonic as its true pitch with reference to A = 440 Hz, the tuning of Young's piano.
 
-D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+> D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
 
 Here is what it would be if it used E♭ to notate the tonic; a little less concise.
 
-E♭, F<sup>7</sup>, F, G♭<sup>49</sup>, A♭<sup>49</sup>, A♭<sup>7</sup>, B♭<sup>7</sup>, B♭, C♭<sup>49</sup>, D♭<sup>49</sup>, D♭<sup>7</sup>, E♭<sup>7</sup>, E♭.
+> E♭, F<sup>7</sup>, F, G♭<sup>49</sup>, A♭<sup>49</sup>, A♭<sup>7</sup>, B♭<sup>7</sup>, B♭, C♭<sup>49</sup>, D♭<sup>49</sup>, D♭<sup>7</sup>, E♭<sup>7</sup>, E♭.
 
 **Helmholtz-Ellis.** Just as concise as the FJS on E♭.
 
-E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
+> E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
 
 **Ben Johnston.** Very inconcise. Also note the abundance of syntonic comma accidentals, in a tuning with no factor of five.
 
-E♭, F7++, F+, G77♭+, A77♭++, A7♭+, B7♭+, B♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+> E♭, F7++, F+, G77♭+, A77♭++, A7♭+, B7♭+, B♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
 
 ### Terry Riley's "Harp of New Albion"
 
 **Riley's notation.**
 
-C♯, D, D♯, E, E♯, F♯, G, G♯, A, A♯, B, B♯, C♯.
+> C♯, D, D♯, E, E♯, F♯, G, G♯, A, A♯, B, B♯, C♯.
 
 **FJS.** The Pythagorean pitch classes match Riley's.
 
-C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G, G♯<sup>5</sup>, A, A♯<sup>25</sup>, B<sup>5</sup>, B♯<sup>25</sup>, C♯<sup>5</sup>.
+> C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G, G♯<sup>5</sup>, A, A♯<sup>25</sup>, B<sup>5</sup>, B♯<sup>25</sup>, C♯<sup>5</sup>.
 
 **Helmholtz-Ellis.** On par with the FJS. Virtually identical.
 
-C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, B−5, B♯−5−5, C♯−5.
+> C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, B−5, B♯−5−5, C♯−5.
 
 **Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
 
-C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+> C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
 
 ### Notation Comparison
 

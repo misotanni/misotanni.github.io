@@ -260,41 +260,41 @@ Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen k
 
 **Youngs Notation.** (Die Noten sind nach Tonhöhe sortiert, deshalb steht Gis vor G, weil es eine niedrigere Tonhöhe ist.)
 
-Es, E, F, Fis, Gis, G, A, B, H, Cis, C, D, Es.
+> Es, E, F, Fis, Gis, G, A, B, H, Cis, C, D, Es.
 
 **FJS.** Genauso kurz wie Young, ohne sich auf zufälliger Zuordnung der Tastatur zu verlassen. Notiert auch den Grundton mit seinem richtigen Namen, in Bezug auf A = 440 Hz, die Stimmung von Youngs Klavier.
 
-D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+> D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
 
 So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
-Es, F<sup>7</sup>, F, Ges<sup>49</sup>, As<sup>49</sup>, As<sup>7</sup>, B<sup>7</sup>, B, Ces<sup>49</sup>, Des<sup>49</sup>, Des<sup>7</sup>, Es<sup>7</sup>, Es.
+> Es, F<sup>7</sup>, F, Ges<sup>49</sup>, As<sup>49</sup>, As<sup>7</sup>, B<sup>7</sup>, B, Ces<sup>49</sup>, Des<sup>49</sup>, Des<sup>7</sup>, Es<sup>7</sup>, Es.
 
 **Helmholtz–Ellis.** Genauso kurz wie das FJS bei Es.
 
-Es, F−7, F, Ges−7−7, As−7−7, As−7, B−7, B, Ces−7−7, Des−7−7, Des−7, Es−7, Es.
+> Es, F−7, F, Ges−7−7, As−7−7, As−7, B−7, B, Ces−7−7, Des−7−7, Des−7, Es−7, Es.
 
 **Ben Johnston.** Viel zu lang. Beachte auch die vielen syntonischen Kommas in einer Stimmung mit keinem 5er–Faktor.
 
-E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+> E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
 
 ### Die "Harp of New Albion" von Terry Riley
 
 **Rileys Notation.**
 
-Cis, D, Dis, E, Eis, Fis, G, Gis, A, Ais, H, His, Cis.
+> Cis, D, Dis, E, Eis, Fis, G, Gis, A, Ais, H, His, Cis.
 
 **FJS.** Die pythagoreischen Tonhöhen stimmen mit Riley überein.
 
-Cis<sup>5</sup>, D, Dis<sup>5</sup>, E, Eis<sup>25</sup>, Fis<sup>5</sup>, G, Gis<sup>5</sup>, A, Ais<sup>25</sup>, H<sup>5</sup>, His<sup>25</sup>, Cis<sup>5</sup>.
+> Cis<sup>5</sup>, D, Dis<sup>5</sup>, E, Eis<sup>25</sup>, Fis<sup>5</sup>, G, Gis<sup>5</sup>, A, Ais<sup>25</sup>, H<sup>5</sup>, His<sup>25</sup>, Cis<sup>5</sup>.
 
 **Helmholtz-Ellis.** Beinahe identisch wie das FJS. Ein Unentschieden.
 
-Cis−5, D, Dis−5, E, Eis−5−5, Fis−5, G, Gis−5, A, Ais−5−5, H−5, His−5−5, Cis−5.
+> Cis−5, D, Dis−5, E, Eis−5−5, Fis−5, G, Gis−5, A, Ais−5−5, H−5, His−5−5, Cis−5.
 
 **Ben Johnston.** Angeblich für 5-Limit-Musik optimal. Es hat ungefähr drei Minuten gedauert, das umzurechnen.
 
-C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, H−−, H♯−, C♯−.
+> C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, H−−, H♯−, C♯−.
 
 ### Notationsvergleich
 

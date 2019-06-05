@@ -260,41 +260,41 @@ Vous voyez ici donc des exemples de contextes JI très fréquents pour qu'on voi
 
 **Notation de Young.** (Les notes sont arrangés selon leur hauteur absolue, donc Sol♯ devant Sol puisqu'il est plus bas.)
 
-Mi♭, Mi, Fa, Fa♯, Sol♯, Sol, La, Si♭, Si, Do♯, Do, Ré, Mi♭.
+> Mi♭, Mi, Fa, Fa♯, Sol♯, Sol, La, Si♭, Si, Do♯, Do, Ré, Mi♭.
 
 **FJS.** Aussi court que Young, sans devoir compter sur une attribution abstraite du clavier. Il écrit aussi la tonique en utilisant son vrai nom, d'après La = 440 Hz, l'accord du piano de Young.
 
-Ré<sub>7</sub>, Mi, Mi<sub>7</sub>, Fa<sup>7</sup>, Sol<sup>7</sup>, Sol, La, La<sub>7</sub>, Si♭<sup>7</sup>, Do<sup>7</sup>, Do, Ré, Ré<sub>7</sub>.
+> Ré<sub>7</sub>, Mi, Mi<sub>7</sub>, Fa<sup>7</sup>, Sol<sup>7</sup>, Sol, La, La<sub>7</sub>, Si♭<sup>7</sup>, Do<sup>7</sup>, Do, Ré, Ré<sub>7</sub>.
 
 L'échelle sur Mi♭ est un peu plus longue.
 
-Mi♭, Fa<sup>7</sup>, Fa, Sol♭<sup>49</sup>, La♭<sup>49</sup>, La♭<sup>7</sup>, Si♭<sup>7</sup>, Si♭, Do♭<sup>49</sup>, Ré♭<sup>49</sup>, Ré♭<sup>7</sup>, Mi♭<sup>7</sup>, Mi♭.
+> Mi♭, Fa<sup>7</sup>, Fa, Sol♭<sup>49</sup>, La♭<sup>49</sup>, La♭<sup>7</sup>, Si♭<sup>7</sup>, Si♭, Do♭<sup>49</sup>, Ré♭<sup>49</sup>, Ré♭<sup>7</sup>, Mi♭<sup>7</sup>, Mi♭.
 
 **Helmholtz-Ellis.** Aussi court que le FJS sur Mi♭.
 
-Mi♭, Fa−7, Fa, Sol♭−7−7, La♭−7−7, La♭−7, Si♭−7, Si♭, Do♭−7−7, Ré♭−7−7, Ré♭−7, Mi♭−7, Mi♭.
+> Mi♭, Fa−7, Fa, Sol♭−7−7, La♭−7−7, La♭−7, Si♭−7, Si♭, Do♭−7−7, Ré♭−7−7, Ré♭−7, Mi♭−7, Mi♭.
 
 **Ben Johnston.** Beaucoup trop long. Remarquez aussi les commas syntoniques, bien sûr dans un accord sans aucun facteur de 5.
 
-Mi♭, Fa7++, Fa+, Sol77♭+, La77♭++, La7♭+, Si7♭+, Si♭, Do77♭+, Ré77♭+, Ré7♭, Mi7♭+, Mi♭.
+> Mi♭, Fa7++, Fa+, Sol77♭+, La77♭++, La7♭+, Si7♭+, Si♭, Do77♭+, Ré77♭+, Ré7♭, Mi7♭+, Mi♭.
 
 ### La "Harp of New Albion" par Terry Riley
 
 **Notation de Riley.**
 
-Do♯, Ré, Ré♯, Mi, Mi♯, Fa♯, Sol, Sol♯, La, La♯, Si, Si♯, Do♯.
+> Do♯, Ré, Ré♯, Mi, Mi♯, Fa♯, Sol, Sol♯, La, La♯, Si, Si♯, Do♯.
 
 **FJS.** Les tons pythagoriciens sont identiques à ceux de Riley.
 
-Do♯<sup>5</sup>, Ré, Ré♯<sup>5</sup>, Mi, Mi♯<sup>25</sup>, Fa♯<sup>5</sup>, Sol, Sol♯<sup>5</sup>, La, La♯<sup>25</sup>, Si<sup>5</sup>, Si♯<sup>25</sup>, Do♯<sup>5</sup>.
+> Do♯<sup>5</sup>, Ré, Ré♯<sup>5</sup>, Mi, Mi♯<sup>25</sup>, Fa♯<sup>5</sup>, Sol, Sol♯<sup>5</sup>, La, La♯<sup>25</sup>, Si<sup>5</sup>, Si♯<sup>25</sup>, Do♯<sup>5</sup>.
 
 **Helmholtz-Ellis.** Presque identique au FJS, un remis.
 
-Do♯−5, Ré, Ré♯−5, Mi, Mi♯−5−5, Fa♯−5, Sol, Sol♯−5, La, La♯−5−5, Si−5, Si♯−5−5, Do♯−5.
+> Do♯−5, Ré, Ré♯−5, Mi, Mi♯−5−5, Fa♯−5, Sol, Sol♯−5, La, La♯−5−5, Si−5, Si♯−5−5, Do♯−5.
 
 **Ben Johnston.** Dit optimal pour la musique du 5-limite. Les calculs pour cette séquence ont duré environ trois minutes.
 
-Do♯−, Ré−−, Ré♯−, Mi−, Mi♯−, Fa♯−, Sol−−, Sol♯−, La−, La♯−, Si−−, Si♯−, Do♯−.
+> Do♯−, Ré−−, Ré♯−, Mi−, Mi♯−, Fa♯−, Sol−−, Sol♯−, La−, La♯−, Si−−, Si♯−, Do♯−.
 
 ### Comparaison de notation
 
