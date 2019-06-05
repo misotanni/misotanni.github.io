@@ -2,7 +2,7 @@
 
 Also, du bist neugierig, was das FJS so bietet. Du möchtest lernen, es zu benutzen.
 
-Dieser "Crash-Kurs" ist genau in diesem Zweck gedacht: um alle notwendige Elemente des FJS schnell zu beherrschen. Die Kurzschrift des Systems wird nicht behandelt, da das System ohne ihr sowieso komplett ist. Falls du schon Erfahrung mit Naturtonstimmung hast, wird es dir sehr leicht fallen. Du kannst das Ganze auf einmal in ein paar Minuten lernen. Seine Eleganz steht direkt vor dir.
+Dieser „Crash-Kurs“ ist genau in diesem Zweck gedacht: um alle notwendige Elemente des FJS schnell zu beherrschen. Die Kurzschrift des Systems wird nicht behandelt, da das System ohne ihr sowieso komplett ist. Falls du schon Erfahrung mit Naturtonstimmung hast, wird es dir sehr leicht fallen. Du kannst das Ganze auf einmal in ein paar Minuten lernen. Seine Eleganz steht direkt vor dir.
 
 ## Inhalt
 
@@ -17,7 +17,7 @@ Dieser "Crash-Kurs" ist genau in diesem Zweck gedacht: um alle notwendige Elemen
 
 ## <a name="introduction">Einleitung: Gib die Enharmonie auf!</a>
 
-Wir sind alle an die gewöhnliche Notenschrift gewohnt, und an ihre üblichen Kreuze und Be. Was wir aber nicht immer sehen, ist, dass uns Notenschrift im Zusammenhang mit der allgegenwärtigen gleichstufigen Stimmung beigebracht wird. (Ab jetzt wird dieser Kurs die Abkürzung 12-EDO benutzen, aus dem Englischen "Equal Divisions of the Octave").
+Wir sind alle an die gewöhnliche Notenschrift gewohnt, und an ihre üblichen Kreuze und Be. Was wir aber nicht immer sehen, ist, dass uns Notenschrift im Zusammenhang mit der allgegenwärtigen gleichstufigen Stimmung beigebracht wird. (Ab jetzt wird dieser Kurs die Abkürzung 12-EDO benutzen, aus dem Englischen „Equal Divisions of the Octave“).
 
 Hier zum Beispiel steht die chromatische Tonleiter:
 
@@ -79,7 +79,7 @@ Stelle dir die folgende Intervallreihe an: 11/10, 10/9, 9/8, 8/7. Hör zu:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-Die allermeisten hören hier vier "etwa große Sekunden". Es wäre aber falsch, alle von ihnen als große Sekunden aufzuschreiben. Sie sind unterschiedliche Intervalle. Die Unterdrückung der Vielfalt dort, wo sie am meisten zählt, widerspricht JI selbst.
+Die allermeisten hören hier vier „etwa große Sekunden“. Es wäre aber falsch, alle von ihnen als große Sekunden aufzuschreiben. Sie sind unterschiedliche Intervalle. Die Unterdrückung der Vielfalt dort, wo sie am meisten zählt, widerspricht JI selbst.
 
 Du denkst also vielleicht, dass es einen Mittelweg gibt, einen Teil der ganzen Naturtonstimmung, der genau eindeutig dieser Notenschrift ohne Enharmonie zugeordnet werden kann. Da hättest du auch Recht. Dieser Mittelweg ist genau die Naturtonstimmung bis zum 3-Limit, auch pythagoreische Stimmung genannt.
 
@@ -149,9 +149,9 @@ Der nächste Schritt ist die Fähigkeit, sog. Primzahlintervalle darzustellen. D
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
-Wir wissen schon, wie die ersten zwei Primzahlen aussehen: die Oktave und die Quinte. Ab jetzt, wenn ich "Primzahlintervalle" sage, meine ich nur die, die Primzahlen über 3 zugeordnet sind.
+Wir wissen schon, wie die ersten zwei Primzahlen aussehen: die Oktave und die Quinte. Ab jetzt, wenn ich „Primzahlintervalle“ sage, meine ich nur die, die Primzahlen über 3 zugeordnet sind.
 
-Falls du dich mit JI auskennst, hast du schon gehört, dass 5/4 als "Naturterz" und 7/4 als "Naturseptime" bezeichnet werden – also Sonderformen der großen Terz bzw. der kleinen Septime. Diese Sprache fiel dir wahrscheinlich erstens nicht auf. Es sieht sich so an, als wären es einfach Erweiterungen der Begriffe "große Terz" und "kleine Septime", um Intervalle einzubeziehen, die nah sind.
+Falls du dich mit JI auskennst, hast du schon gehört, dass 5/4 als „Naturterz“ und 7/4 als „Naturseptime“ bezeichnet werden – also Sonderformen der großen Terz bzw. der kleinen Septime. Diese Sprache fiel dir wahrscheinlich erstens nicht auf. Es sieht sich so an, als wären es einfach Erweiterungen der Begriffe „große Terz“ und „kleine Septime“, um Intervalle einzubeziehen, die nah sind.
 
 Auf einem formalen Niveau aber geschieht etwas Merkwürdiges.
 
@@ -167,7 +167,7 @@ Und den Unterschied zwischen 8192/6561 und 5/4:
 
 Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/4 benutzen? Einfachheit, sagst du? Die große Terz beträgt nur +4 Quinten, während die verminderte Quarte −8 anbietet, also viel komplizierter. Wieso benutzen wir also nicht die *kleine* Terz als 5/4? Sie ist doch einfacher, nur −3 statt +4 Quinten. Ach, jetzt ist sie nicht nah genug? Wieso bestimmst *du* das richtige Gleichgewicht zwischen Einfachheit und Nähe?
 
-Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. "Wie wählen wir also die Annäherungen für jedes Primzahlintervall?" Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
+Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. „Wie wählen wir also die Annäherungen für jedes Primzahlintervall?“ Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
@@ -186,7 +186,7 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
 >
-> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die "Kommas" sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
+> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
 >
 > | Generator | Pythagoreisch |   Komma   |          Schlussfolgerungen |
 > |----------:|:-------------:|:---------:|----------------------------:|
@@ -203,7 +203,7 @@ Hier findest du eine [Visualisierung](https://youtu.be/jG7lj98Yy-0).
 
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
-Im 4. Schritt wählen wir die Oktaven von *p* und *P* so, dass die "Differenz" minimal ist: wir meinen dabei die absolute Größe des Kandidaten für das formale Komma, also den **Betrag** seiner Cent-Größe. Hier, und nur hier, sind z.B. 16/15 und 15/16 gleichwertig. Formal bedeutet "Differenz" hier Folgendes: $$\text{reb}\left( \frac{p}{3^k} \right)$$.
+Im 4. Schritt wählen wir die Oktaven von *p* und *P* so, dass die „Differenz“ minimal ist: wir meinen dabei die absolute Größe des Kandidaten für das formale Komma, also den **Betrag** seiner Cent-Größe. Hier, und nur hier, sind z.B. 16/15 und 15/16 gleichwertig. Formal bedeutet „Differenz“ hier Folgendes: $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Obwohl der Algorithmus langweilig wirkt, ist er tatsächlich sehr schnell, auch im Kopf. 5/4 ist natürlich zu weit von der Oktave, Quinte, Quarte, großen Sekunde, kleinen Septime, und großen Sexte. Hier ist es nur die Frage, ob sie zu weit von der kleinen Terz ist. Dann ist die große Terz eine prima Annäherung.
 
@@ -222,7 +222,7 @@ Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes K
 - Bei Notennamen werden positive Versetzungszeichen hochgestellt und negative tiefgestellt.
 - Bei Notenschrift werden positive Versetzungszeichen als einfach die Primzahl, negative als die Primzahl mit einem Minus-Zeichen geschrieben.
 
-Bemerke, dass ich mit Absicht die Worte "positiv" und "negativ" statt "aufwärts" und "abwärts" verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Stattdessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
+Bemerke, dass ich mit Absicht die Worte „positiv“ und „negativ“ statt „aufwärts“ und „abwärts“ verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Stattdessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
 
 Diejenigen von euch, denen das Ben-Johnston-System schon bekannt ist, ist diese Idee nicht fremd. Für den Rest von euch:
 
@@ -260,7 +260,7 @@ Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veransch
 - Im dritten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C. Weil es jetzt nicht mehr derselbe pythagoreische Ton ist, wird das +5 nicht mehr absorbiert, deshalb heißt es Cis<sup>5</sup>, C.
 - Im vierten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C mit +5. Jetzt haben wir Cis<sup>5</sup>, C<sup>5</sup>; dieser Fall tritt wahrscheinlich am seltensten auf.
 
-Noch eine Anmerkung: das FJS ermöglicht auch, Intervallnamen diese hoch- und tiefgestellten Versetzungszeichen anzuhängen. Auf diese Weise werden JI-Frequenzverhältnisse formal im FJS benannt. Zum Beispiel "heißt" 5/4 die (große Terz)<sup>5</sup>. Das wäre also E<sup>5</sup> von C, oder A<sup>5</sup> von F, oder H<sup>5</sup> von G, usw.
+Noch eine Anmerkung: das FJS ermöglicht auch, Intervallnamen diese hoch- und tiefgestellten Versetzungszeichen anzuhängen. Auf diese Weise werden JI-Frequenzverhältnisse formal im FJS benannt. Zum Beispiel „heißt“ 5/4 die (große Terz)<sup>5</sup>. Das wäre also E<sup>5</sup> von C, oder A<sup>5</sup> von F, oder H<sup>5</sup> von G, usw.
 
 OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben zu können. Unten findest du eine neue Technik. Den Toleranzradius brauchst du nicht mehr. Man benutzt ihn nur im Master-Algorithmus, wo die Generatorfunktion einer Primzahl bestimmt wird.
 
@@ -308,7 +308,7 @@ Diese Identitäten haben ein paar nette logische Folgen, die nützlich zu wissen
 
 Diese Identitäten kannst du auch schon benutzen, um die erste Gruppe fehlender Intervalle zu notieren. Betrachten wir z.B. 15/8. Wir spalten es in zwei Teile: den pythagoreischen und das, was übrig bleibt. Wir erhalten 3/2 und 5/4. Wir übersetzen jetzt ins FJS und addieren dann die Intervalle, die wir dabei erhalten. 3/2 wird zu einer (reinen Quinte), und 5/4 wird zu einer (großen Terz)<sup>5</sup>. Zusammen haben wir eine (große Septime)<sup>5</sup>. Wir addieren die Intervalle wie gewöhnlich, und kleben die Versetzungszeichen auf. Das ist wirklich die Darstellung von 15/8 im FJS!
 
-Mal anders: Der fünfzehnte Oberton ist wie der fünfte Oberton in der Tonart der Dominante. Um 15/8 in der Tonart C zu notieren, wir können mit einer "imaginären Modulation" zur Tonart G anfangen. Dort ist dein Ziel einfach der fünfte Oberton, d.h. H<sup>5</sup>. Das ist deshalb auch die Darstellung von 15/8 in der Tonart C.
+Mal anders: Der fünfzehnte Oberton ist wie der fünfte Oberton in der Tonart der Dominante. Um 15/8 in der Tonart C zu notieren, wir können mit einer „imaginären Modulation“ zur Tonart G anfangen. Dort ist dein Ziel einfach der fünfte Oberton, d.h. H<sup>5</sup>. Das ist deshalb auch die Darstellung von 15/8 in der Tonart C.
 
 Noch mal anders: Du weißt vielleicht nicht, was 15/8 in der Tonart C im FJS ist, aber du weißt bereits, was 5/4 ist: es ist E<sup>5</sup>. Du weißt auch, dass die Differenz zwischen 5/4 und 15/8 3/2 beträgt, ein pythagoreisches Intervall. Deshalb müssen 15/8 und 5/4 dieselbe FJS-Versetzungszeichen haben. Du weißt auch, dass dieses pythagoreische Intervall eine reine Quinte ist. Die zwei Informationen beschreiben zusammen eine einzige Note: H<sup>5</sup>. Das ist die richtige Antwort.
 
@@ -325,13 +325,13 @@ Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
 (Am Ende dieser Lektion wirst du Techniken kennen, mit denen du *jedes* mögliche Frequenzverhältnis zu einem FJS-Intervall und zurück umrechnen kannst. Es ist aber eine gute Idee, diese Methoden auch im Kopf zu behalten, weil sie viel schneller sind, und du meistens sie benutzen wirst. Es ähnelt den verschiedenen Methoden zur Lösung einer quadratischen Gleichung. Die Formel wirkt immer, ist aber gleichzeitig die langsamste Methode.)
 
-Während du diese Identitäten verwendetest, um die Aufgabe zu lösen, hast du dich vielleicht gefragt: "Wie würde ich beispielsweise zwei (große Terzen)<sup>5</sup> zueinander addieren? Was wäre das Ergebnis?" Wäre es eine (übermäßige Quinte)<sup>5</sup>? Nein, das wäre das Ergebnis, wenn man eine (große Terz) zu einer (großen Terz)<sup>5</sup> addiert. Bei uns ist es anders. Wir addieren eine (große Terz)<sup>5</sup> zu noch einer (großen Terz)<sup>5</sup>.
+Während du diese Identitäten verwendetest, um die Aufgabe zu lösen, hast du dich vielleicht gefragt: „Wie würde ich beispielsweise zwei (große Terzen)<sup>5</sup> zueinander addieren? Was wäre das Ergebnis?“ Wäre es eine (übermäßige Quinte)<sup>5</sup>? Nein, das wäre das Ergebnis, wenn man eine (große Terz) zu einer (großen Terz)<sup>5</sup> addiert. Bei uns ist es anders. Wir addieren eine (große Terz)<sup>5</sup> zu noch einer (großen Terz)<sup>5</sup>.
 
 Die Antwort auf diese Frage ist zufällig auch die Methode, die das FJS für die zweite Gruppe der übrigen Intervalle benutzt: *verbundene Versetzungszeichen*.
 
-Jeder FJS-Note oder jedem -Intervall kann man nicht nur eines, aber beliebig viele FJS-Versetzungszeichen hinzufügen. Die Otonalen und Utonalen sind immer getrennt, aber bei mehr als einem Versetzungszeichen derselben "Tonalität" (Otonalität oder Utonalität) verbindet man sie. Und zwar durch Multiplikation. Wieso? Weil sie alle Primzahlen sind; bei der Multiplikation (anders als z.B. bei der Addition oder Verkettung in der Basis zehn) geht die Information über die ursprünglichen Bestandteile nie verloren, denn jede positive ganze Zahl kann nur auf eine Weise wieder zerlegt werden, und die Reihenfolge macht keinen Unterschied.
+Jeder FJS-Note oder jedem -Intervall kann man nicht nur eines, aber beliebig viele FJS-Versetzungszeichen hinzufügen. Die Otonalen und Utonalen sind immer getrennt, aber bei mehr als einem Versetzungszeichen derselben „Tonalität“ (Otonalität oder Utonalität) verbindet man sie. Und zwar durch Multiplikation. Wieso? Weil sie alle Primzahlen sind; bei der Multiplikation (anders als z.B. bei der Addition oder Verkettung in der Basis zehn) geht die Information über die ursprünglichen Bestandteile nie verloren, denn jede positive ganze Zahl kann nur auf eine Weise wieder zerlegt werden, und die Reihenfolge macht keinen Unterschied.
 
-Falls die Versetzungszeichen so verbunden werden, dass du nicht mehr auf den ersten Blick sehen kannst, wie sie sich faktorisieren (z.B. 119 = 7 × 17), kannst du sie auch getrennt hintereinander schreiben, mit Kommas zwischen jeder Primzahl (mit "Komma" wird hier natürlich das Satzzeichen, nicht ein kleines Intervall, gemeint). Das heißt, D<sup>7,17</sup> bedeutet genau dasselbe wie D<sup>119</sup>. Normalerweise sollten diese Primzahl in nicht-absteigender Reihenfolge geschrieben werden, aber jede Reihenfolge ist korrekt. Du kannst auch multiplizieren, wie du willst. Du kannst also z.B. G<sup>11,125</sup> schreiben, wobei du nur manche der Faktoren miteinander multiplizierst.
+Falls die Versetzungszeichen so verbunden werden, dass du nicht mehr auf den ersten Blick sehen kannst, wie sie sich faktorisieren (z.B. 119 = 7 × 17), kannst du sie auch getrennt hintereinander schreiben, mit Kommas zwischen jeder Primzahl (mit „Komma“ wird hier natürlich das Satzzeichen, nicht ein kleines Intervall, gemeint). Das heißt, D<sup>7,17</sup> bedeutet genau dasselbe wie D<sup>119</sup>. Normalerweise sollten diese Primzahl in nicht-absteigender Reihenfolge geschrieben werden, aber jede Reihenfolge ist korrekt. Du kannst auch multiplizieren, wie du willst. Du kannst also z.B. G<sup>11,125</sup> schreiben, wobei du nur manche der Faktoren miteinander multiplizierst.
 
 Um die Frage also zu beantworten: Die Summe zweier (großen Terzen)<sup>5</sup> ist eine (übermäßige Quinte)<sup>25</sup>, die auch gut als der FJS-Name des Verhältnisses 25/16 passt. Wenn du dazu noch weißt, dass 7/4 als (kleine Septime)<sup>7</sup> dargestellt wird, weißt du sofort, dass 49/32 eine (kleine Sexte)<sup>49</sup> und 35/32 eine (große Sekunde)<sup>35</sup> ist.
 
@@ -357,7 +357,7 @@ Seitdem du verbundene Versetzungszeichen kennst, kannst du viel mehr mit dem FJS
 > - Um ein FJS-Intervall umzukehren, kehre den pythagoreischen Teil um, dann vertausche das Otonale mit dem Utonalen.
 > - Du kannst auch ein Intervall zu einer Note addieren, oder eine Note von einer anderen Note subtrahieren.
 
-Wenn du Versetzungszeichen verbindest, kannst (und sollst) du gleiche Faktoren im Otonalen und im Utonalen kürzen. Beispielsweise ergibt sich bei der Addition einer (großen Terz)<sup>5</sup> (5/4) zu einer (kleinen Terz)<sub>5</sub> (6/5) eine "(reine Quinte)<sup>5</sup><sub>5</sub>". Das ist dasselbe wie einfach eine reine Quinte. Das haben wir erwartet (3/2). Die Addition einer (kleinen Sekunde)<sup>49</sup> (49/48) zu einer (großen Sekunde)<sub>7</sub> (8/7) ergibt eine "(kleine Terz)<sup>49</sup><sub>7</sub>", also eine (kleine Terz)<sup>7</sup> (7/6).
+Wenn du Versetzungszeichen verbindest, kannst (und sollst) du gleiche Faktoren im Otonalen und im Utonalen kürzen. Beispielsweise ergibt sich bei der Addition einer (großen Terz)<sup>5</sup> (5/4) zu einer (kleinen Terz)<sub>5</sub> (6/5) eine „(reine Quinte)<sup>5</sup><sub>5</sub>“. Das ist dasselbe wie einfach eine reine Quinte. Das haben wir erwartet (3/2). Die Addition einer (kleinen Sekunde)<sup>49</sup> (49/48) zu einer (großen Sekunde)<sub>7</sub> (8/7) ergibt eine „(kleine Terz)<sup>49</sup><sub>7</sub>“, also eine (kleine Terz)<sup>7</sup> (7/6).
 
 Mit der Intervall-Arithmetik kannst du schon jetzt ein *beliebiges* JI-Verhältnis im FJS darstellen, und jedes FJS-Intervall zurück in ein Verhältnis umrechnen. Du kannst die folgenden Methoden anwenden, wenn die Verhältnisse nicht besonders primzahlkompliziert sind.
 
@@ -397,12 +397,12 @@ Eine letzte Anmerkung über Aussprache und ASCII. Wenn du mithilfe des FJS kommu
 > ### FJS-Aussprache
 >
 > 1. Spreche den pythagoreischen (üblichen) Teil des Noten- oder Intervallnamens aus.
-> 2. Dann füge das verbundene otonale Versetzungszeichen (falls vorhanden) an, ausgesprochen als die Zahl selbst, mit einem optionalen Präfix "super".
-> 3. Dann füge das verbundene utonale Versetzungszeichen (falls vorhanden) an, ausgesprochen als die Zahl selbst, mit einem Präfix "sub".
+> 2. Dann füge das verbundene otonale Versetzungszeichen (falls vorhanden) an, ausgesprochen als die Zahl selbst, mit einem optionalen Präfix „super“.
+> 3. Dann füge das verbundene utonale Versetzungszeichen (falls vorhanden) an, ausgesprochen als die Zahl selbst, mit einem Präfix „sub“.
 
-Beispielsweise wird E<sup>5</sup> als "E-fünf" oder "E-super-fünf" ausgesprochen, und Es<sub>5</sub> als "Es-sub-fünf". Ein Intervall wie (reine Quarte)<sup>7</sup><sub>11</sub> wäre "reine Quarte-(super)-sieben-sub-elf", wobei das Wort "super" optional ist, eine Art Betonung der Trennung zwischen dem Intervallnamen und dem Beginn der FJS-Versetzungszeichen.
+Beispielsweise wird E<sup>5</sup> als „E-fünf“ oder „E-super-fünf“ ausgesprochen, und Es<sub>5</sub> als „Es-sub-fünf“. Ein Intervall wie (reine Quarte)<sup>7</sup><sub>11</sub> wäre „reine Quarte-(super)-sieben-sub-elf“, wobei das Wort „super“ optional ist, eine Art Betonung der Trennung zwischen dem Intervallnamen und dem Beginn der FJS-Versetzungszeichen.
 
-Falls du die Versetzungszeichen trennst, gibt es keinen Unterschied. A<sup>5,17</sup><sub>13</sub> wäre "A-(super)-fünf-siebzehn-sub-dreizehn". Das wort "sub" ist nur ein Terminator des otonalen Teils. Er markiert also, dass das Folgende zum utonalen Teil gehört.
+Falls du die Versetzungszeichen trennst, gibt es keinen Unterschied. A<sup>5,17</sup><sub>13</sub> wäre „A-(super)-fünf-siebzehn-sub-dreizehn“. Das wort „sub“ ist nur ein Terminator des otonalen Teils. Er markiert also, dass das Folgende zum utonalen Teil gehört.
 
 Was ASCII angeht: Es wäre problematisch, diese Namen auf dem Computer zu tippen, wegen der hoch- und tiefgestellten Zahlen. Alternativ kannst du tiefgestellte Versetzungszeichen mit einem Unterstrich markieren, wie üblich, und du kannst in demselben Sinne das Einschaltungszeichen für hochgestellte Versetzungszeichen benutzen. Das Einschaltungszeichen brauchst du aber nie im Deutschen. E<sup>5</sup> wäre `E^5` oder einfach `E5`, und eine (große Terz)<sup>5</sup> wäre eine `(große Terz)^5` oder einfach eine `(große Terz)5`.
 
@@ -444,7 +444,7 @@ Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den To
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (SCHWIERIG!) Es gibt Anhänger der "432-Hz-Trends", die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
+6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 

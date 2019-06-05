@@ -22,21 +22,21 @@ Auf dieser Seite sind mehr Beispiele des FJS im Einsatz zu sehen.
 | Es<sup>7</sup> | B<sup>7</sup> | F<sup>7</sup> | C<sup>7</sup> | G<sup>7</sup> |   |   |      |
 | F              | C             | G             | D             | A             | E | H | +3:2 |
 
-### Die "Harp of New Albion"-Stimmung von Terry Riley
+### Die „Harp of New Albion“-Stimmung von Terry Riley
 
 | +5:4          |                  |                  |                  |                 |      |
 |               | Ais<sup>25</sup> | Eis<sup>25</sup> | His<sup>25</sup> |                 |      |
 | H<sup>5</sup> | Fis<sup>5</sup>  | Cis<sup>5</sup>  | Gis<sup>5</sup>  | Dis<sup>5</sup> |      |
 | G             | D                | A                | E                |                 | +3:2 |
 
-### Die "Well-Tuned Piano"-Stimmung von La Monte Young
+### Die „Well-Tuned Piano“-Stimmung von La Monte Young
 
 | +7:4          |               |               |               |   |      |
 | B<sup>7</sup> | F<sup>7</sup> | C<sup>7</sup> | G<sup>7</sup> |   |      |
 | C             | G             | D             | A             | E |      |
 | D<sub>7</sub> | A<sub>7</sub> | E<sub>7</sub> |               |   | +3:2 |
 
-### Der "Tonality Diamond" von Harry Partch im 11-Limit
+### Der „Tonality Diamond“ von Harry Partch im 11-Limit
 
 | (reine Prime)                               | (kleine Terz)<sup>7</sup>     | (reine Quarte)<sup>7</sup><sub>11</sub>  | (verminderte Quinte)<sup>7</sup><sub>5</sub> | (kleine Sexte)<sup>7</sup>  | (kleine Septime)<sup>7</sup> |
 | (große Sexte)<sub>7</sub>                   | (reine Prime)                 | (große Sekunde)<sub>11</sub>             | (kleine Terz)<sub>5</sub>                    | (reine Quarte)              | (reine Quinte)               |
