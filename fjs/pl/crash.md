@@ -142,11 +142,11 @@ A więc umiesz zapisać wszystko, co pitagorejskie. To na razie całkiem nudna u
 
 Następnym krokiem przybliżającym nas do naturalnego oświecenia jest omówienie tzw. interwałów pierwszych. Są to interwały występujące w szeregach alikwotowych oparte na liczbach pierwszych. By je wynaleźć, wypisz kilka liczb pierwszych:
 
-> 2, 3, 5, 7, 11, 13, 17, 19, ...
+> 2, 3, 5, 7, 11, 13, 17, 19, …
 
 Następnie zredukuj je:
 
-> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
 Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Co więcej, jeżeli w dalszej części tego kursu odniosę się do „interwałów pierwszych”, to będę miał na myśli tylko te, które odpowiadają liczbom pierwszym większym od 3.
 

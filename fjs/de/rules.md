@@ -17,7 +17,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 > 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
 > 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
-> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
+> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
 >
 > Beim 4. Schritt ist die gemeinte Differenz der **Betrag** der Cent-Größe von $$\text{reb}\left( \frac{p}{3^k} \right)$$
 

@@ -17,7 +17,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 > 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
 > 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
 > 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
+> 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
 > In step 4, the meaning of "difference" is the **absolute value** of the cent size of $$\text{reb}\left( \frac{p}{3^k} \right)$$
 

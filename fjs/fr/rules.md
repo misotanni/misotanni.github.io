@@ -17,7 +17,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 > 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes. Nommez-le *P*.
 > 4. Est-ce que la différence entre *p* et *P* s'élève à moins que le rayon de tolérance?
 > 5. Si oui, *k* égale la fonction génératrice. Fin.
-> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
+> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, …), et retournez à l'étape 3.
 >
 > Dans l'étape 4, la différence dont on parle, c'est la **valeur absolue** du nombre de cents de $$\text{reb}\left( \frac{p}{3^k} \right)$$
 

@@ -143,11 +143,11 @@ All right, you've learned to write all of Pythagorean tuning. This is pretty bor
 
 The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
 
-> 2, 3, 5, 7, 11, 13, 17, 19, ...
+> 2, 3, 5, 7, 11, 13, 17, 19, …
 
-...and we take the reduced form of all of them:
+…and we take the reduced form of all of them:
 
-> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
 We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to "prime intervals", I refer exclusively to the ones corresponding to primes greater than 3.
 
@@ -184,7 +184,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 > 3. Consider the interval of *k* Pythagorean fifths and call it *P*.
 > 4. Is the difference between *p* and *P* less than the radius of tolerance?
 > 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
+> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
 > **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = sqrt(33/31).) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
 >
@@ -228,7 +228,7 @@ Those of you who are already familiar with Ben Johnston's notation for JI will r
 
 This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 with a +17 accidental attached. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator. It's also where the system gets its name from: the **Functional** Just System; the one that focuses on representing *function* rather than pitch position.
 
-In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now...)
+In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now…)
 
 Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
 

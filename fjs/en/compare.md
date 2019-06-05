@@ -14,7 +14,7 @@ Here, I will compare both of these systems to the FJS.
 
 Helmholtz-Ellis, like the FJS, assumes that default staff notation represents Pythagorean tuning. This way, as in the FJS, every Pythagorean interval corresponds to exactly one traditional interval class, and every fifth is tuned as 3/2. Up to this point, Helmholtz-Ellis is identical to the FJS. As in the FJS, this promotes consistency and a notation based on intervals, rather than specific pitch classes.
 
-Ben Johnston, on the other hand, does something a little more... innovative. It differs in its definitions of the natural notes and accidentals. Traditional staff notation has the following meaning in Ben Johnston notation:
+Ben Johnston, on the other hand, does something a little more… innovative. It differs in its definitions of the natural notes and accidentals. Traditional staff notation has the following meaning in Ben Johnston notation:
 
 - F – C – G – D is a chain of perfect fifths (3/2).
 - F – A, C – E, and G – B are 5/4 major thirds.
@@ -123,7 +123,7 @@ Let's have a look at how to actually write these accidentals, then.
 
 Helmholtz-Ellis has a dedicated list by Marc Sabat and Wolfgang von Schweinitz, [which can be seen here](http://www.marcsabat.com/pdfs/fulllegendE.pdf).
 
-What's this? A unique glyph for each limit that has nearly no relation at all to the limit itself? Gee, yet another series of arbitrary shapes to memorize or constantly look up...
+What's this? A unique glyph for each limit that has nearly no relation at all to the limit itself? Gee, yet another series of arbitrary shapes to memorize or constantly look up…
 
 The only relation I could find between these shapes and the commas they represent was by inspection. Helmholtz-Ellis divides its accidentals into four categories by size, descending: third-tones, quarter-tones, commas, and schismas. There only is one third-tone (27/26) and only one quarter-tone (33/32); these take alterations of the traditional quarter-tone accidentals. Schismas up to the 31-limit take slashes and backslashes, or pluses and minuses, while commas take arrows. From 32 to 64, curly brackets are used around existing accidentals, again with no visible relationship.
 
@@ -131,9 +131,9 @@ The only relation I could find between these shapes and the commas they represen
 
 Ben Johnston performs much, much better. While his commas remain a fixed list, the symbols for these commas are predictable from the 13-limit onwards. Only the following accidental forms are arbitrary: the 5-limit uses a plus and minus for a syntonic comma, the 7-limit uses a digit 7 shaped arrow (the same as in Helmholtz-Ellis) for 35/36, and the 11-limit uses an up or down arrow for 33/32. (Johnston's 7-limit accidental can also attach to sharps and flats, but unlike with Helmholtz-Ellis, this is not a disadvantage because this combination is not mandatory.)
 
-Every accidental from the 13-limit onwards uses just the prime number itself for the positive adjustment... (yay, off to such a good start!)
+Every accidental from the 13-limit onwards uses just the prime number itself for the positive adjustment… (yay, off to such a good start!)
 
-...and the prime number *upside down* for the negative adjustment. Seriously? The only reason why this is not a **very serious** problem is because the 11-limit is notated with a special accidental and not the number "11", which looks the same when written upside down if the digit 1 is written as a vertical line. If not, then the first prime with this problem is 686989.
+…and the prime number *upside down* for the negative adjustment. Seriously? The only reason why this is not a **very serious** problem is because the 11-limit is notated with a special accidental and not the number "11", which looks the same when written upside down if the digit 1 is written as a vertical line. If not, then the first prime with this problem is 686989.
 
 The FJS uses the number itself to represent all accidentals, and they are merged by multiplication. I assume Johnston's accidentals would merge simply by concatenation (which cannot be split unambiguously; 1097 is prime, and the concatenation of the prime numbers 109 and 7). However, I have never seen a note in Johnston's writings that had to be modified by more than one numerical accidental.
 
@@ -201,7 +201,7 @@ Helmholtz-Ellis can also do this. The only minor complication is the fact that s
 
 As for Johnston? The same website has a [Johnston to HE converter](https://www.plainsound.org/HEJI/johnston.html), which works if you want to let a computer do it. But often when composing music, we don't want to have to use a calculator all the time.
 
-One of the merits of the FJS is that its algorithms are easy to implement in your head and carry out instantly without any external tools, which makes using it much faster. But if you wanted to do the same in Johnston's notation...
+One of the merits of the FJS is that its algorithms are easy to implement in your head and carry out instantly without any external tools, which makes using it much faster. But if you wanted to do the same in Johnston's notation…
 
 > *For every 5 in the numerator: Ascend one major 3rd. (Add plus if starting on a D.)*
 >
@@ -298,7 +298,7 @@ Here is what it would be if it used E♭ to notate the tonic; a little less conc
 
 ### Notation Comparison
 
-This [comparison](../assets/comparison.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage... well, see for yourself.
+This [comparison](../assets/comparison.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage… well, see for yourself.
 
 Listen to it:
 

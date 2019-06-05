@@ -143,11 +143,11 @@ Vous avez appris jusqu'à maintenant comment écrire l'accord pythagoricien. C'�
 
 L'étape suivante: savoir représenter les intervalles premiers. Ce sont des intervalles dans l'échelle des harmoniques qui viennent des nombres premiers. Commençons avec la séquence des nombres premiers:
 
-> 2, 3, 5, 7, 11, 13, 17, 19, ...
+> 2, 3, 5, 7, 11, 13, 17, 19, …
 
-...et transformons-les en forme réduite:
+…et transformons-les en forme réduite:
 
-> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
 Nous savons déjà représenter 2 et 3: ce sont l'octave et la quinte. À partir d'ici, quand je dis « intervalles premiers », cela signifie seulement ceux qui sont associés aux nombres premiers au-delà de 3.
 
@@ -184,7 +184,7 @@ L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaq
 > 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes. Nommez-le *P*.
 > 4. Est-ce que la différence entre *p* et *P* s'élève à moins que le rayon de tolérance?
 > 5. Si oui, *k* égale la fonction génératrice. Fin.
-> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
+> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, …), et retournez à l'étape 3.
 >
 > **Exemple:** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
 >
@@ -228,7 +228,7 @@ Ceux qui connaissent le système de Ben Johnston vont reconnaître cette idée. 
 
 Il est vrai que cela semble trop compliquée, mais en fait, ça simplifie beaucoup. Par exemple: Une altération positive de +17 signifie toujours que son utilisation ajoute un facteur de 17 dans le numérateur. Si vous connaissez l'approximation pythagoricienne de 17/16 (c'est la seconde mineure), vous savez automatiquement que 17/16 s'écrit comme seconde mineure avec +17. Il ne vous faut pas savoir si l'approximation se trouve plus haut ou plus bas que la cible! Ce principe basé sur l'otonalité et l'utonalité au lieu de la direction simplifie aussi la notation de plusieurs gammes et intonations. D'ailleurs, le FJS décrit que le comma formel de +5 est en fait 80/81, pas 81/80. En général, une liste de commas formels pour chaque nombre premier *p* > 3 contient dans chaque comma un facteur de *p* dans le numérateur. C'est aussi la raison pour laquelle le système s'appelle Système **fonctionnel** de l'intonation juste: il se concentre sur la représentation de la **fonction**, pas la hauteur.
 
-Ici, je voudrais raconter une anecdote. Pendant que je développais un prototype du Système fonctionnel de l'intonation juste (même avant l'avoir nommé), au début, tous les commas formels positifs étaient ascendants et tous négatifs étaient descendants. Mais une fois, j'ai réfléchi sur quelques accords au 5- et au 7-limite, et tout à coup, je me suis rendu compte que cette règle est beaucoup trop compliquée, et que je vais la changer tout de suite, la nouvelle version étant positif-otonal, négatif-utonal. Après ce changement, mes pensées en FJS ont été beaucoup simplifiés, donc cela a continué. (Au début du FJS, il y avait beaucoup d'autres complications, et il me fallait beaucoup de temps pour les éliminer jusqu'à la forme extrêmement simple d'aujourd'hui...)
+Ici, je voudrais raconter une anecdote. Pendant que je développais un prototype du Système fonctionnel de l'intonation juste (même avant l'avoir nommé), au début, tous les commas formels positifs étaient ascendants et tous négatifs étaient descendants. Mais une fois, j'ai réfléchi sur quelques accords au 5- et au 7-limite, et tout à coup, je me suis rendu compte que cette règle est beaucoup trop compliquée, et que je vais la changer tout de suite, la nouvelle version étant positif-otonal, négatif-utonal. Après ce changement, mes pensées en FJS ont été beaucoup simplifiés, donc cela a continué. (Au début du FJS, il y avait beaucoup d'autres complications, et il me fallait beaucoup de temps pour les éliminer jusqu'à la forme extrêmement simple d'aujourd'hui…)
 
 Voyez l'échelle harmonique sur La jusqu'à le huitième harmonique:
 
@@ -249,7 +249,7 @@ Je voudrais maintenant expliquer comment ces altérations interagissent.
 > ### La propagation des altérations FJS
 >
 > - Il est connu que les altérations pythagoriciennes trient les tons diatoniques (Do, Ré, Mi, Fa, Sol, La, Si) en leurs catégories pythagoriciennes correctes. C'est pourquoi elles s'appliquent à chaque note du même ton diatonique dans la même octave et la même mesure.
-> - Par analogie, les altérations FJS trient les tons pythagoriciens (Do, Ré♭, Do♯, Ré, ...) en leurs hauteurs absolues. C'est pourquoi elles, elles s'appliquent seulement à chaque note du même ton pythagoricien dans la même octave et la même mesure.
+> - Par analogie, les altérations FJS trient les tons pythagoriciens (Do, Ré♭, Do♯, Ré, …) en leurs hauteurs absolues. C'est pourquoi elles, elles s'appliquent seulement à chaque note du même ton pythagoricien dans la même octave et la même mesure.
 
 Pourquoi? Parce que cette règle est plus logique et plus pratique. Voici une démonstration:
 

@@ -143,11 +143,11 @@ Also bisher hast du gelernt, die pythagoreische Stimmung aufzuschreiben. Bis jet
 
 Der nächste Schritt ist die Fähigkeit, sog. Primzahlintervalle darzustellen. Das sind Intervalle der Obertonreihe, die aus Primzahlen bestehen. Wir nehmen also die Reihe der Primzahlen:
 
-> 2, 3, 5, 7, 11, 13, 17, 19, ...
+> 2, 3, 5, 7, 11, 13, 17, 19, …
 
-...und wir verwandeln alle in ihre reduzierte Formen:
+…und wir verwandeln alle in ihre reduzierte Formen:
 
-> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
 Wir wissen schon, wie die ersten zwei Primzahlen aussehen: die Oktave und die Quinte. Ab jetzt, wenn ich „Primzahlintervalle“ sage, meine ich nur die, die Primzahlen über 3 zugeordnet sind.
 
@@ -184,7 +184,7 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 > 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
 > 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
-> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
+> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
 >
 > **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
 >
@@ -228,7 +228,7 @@ Diejenigen von euch, denen das Ben-Johnston-System schon bekannt ist, ist diese 
 
 Es sieht zuerst überflüssig kompliziert aus. Tatsächlich ist es aber viel einfacher. Zum Beispiel: Ein positives Versetzungszeichen von +17 bedeutet immer, dass seine Anwendung einen Faktor von 17 zum Zähler hinzubringt. Solange du weißt, welche pythagoreische Annäherung 17/16 hat (es ist die kleine Sekunde), weißt du auch, dass 17/16 einfach als kleine Sekunde mit +17 geschrieben wird. Du brauchst dazu nicht zu wissen, ob die Annäherung höher oder niedriger als das Ziel ist! Dieses Prinzip, das auf Otonalität und Utonalität anstatt Richtung basiert, vereinfacht auch die Notation vieler Tonleitern und Stimmungssystemen. Im FJS ist das Versetzungszeichen +5 eigentlich als 80/81, nicht 81/80, beschrieben. In einer Liste formaler Kommas für jede Primzahl *p* > 3 wird das formale Komma einen Faktor von *p* immer im Zähler enthalten. Es ist auch der Grund, warum dieses System das Naturton**funktions**system heißt: sein Schwerpunkt ist, die **Funktion**, und nicht die Tonhöhe, wiederzugeben.
 
-Ich möchte dazu gerne eine Anekdote erzählen. Während ich ein Prototyp des Naturtonfunktionssystems entwickelte (noch bevor es einen Namen hatte), ursprünglich waren alle formalen Kommas doch positiv aufwärts und negativ abwärts. Einmal dachte ich über einige 5-Limit- und 7-Limit-Stimmungen nach, und plötzlich fiel mir auf, dass diese Konvention überflüssig kompliziert ist, und ich habe mich sofort entschieden, sie auf die jetzige zu ändern: positiv-otonal, negativ-utonal. Nachdem ich dies getan habe, hat es mein Denken im FJS drastisch vereinfacht, also so blieb es. (Das ursprüngliche FJS hatte noch viele andere Unbequemlichkeiten, bevor ich es zur heutigen, extrem einfachen Form reduzieren konnte...)
+Ich möchte dazu gerne eine Anekdote erzählen. Während ich ein Prototyp des Naturtonfunktionssystems entwickelte (noch bevor es einen Namen hatte), ursprünglich waren alle formalen Kommas doch positiv aufwärts und negativ abwärts. Einmal dachte ich über einige 5-Limit- und 7-Limit-Stimmungen nach, und plötzlich fiel mir auf, dass diese Konvention überflüssig kompliziert ist, und ich habe mich sofort entschieden, sie auf die jetzige zu ändern: positiv-otonal, negativ-utonal. Nachdem ich dies getan habe, hat es mein Denken im FJS drastisch vereinfacht, also so blieb es. (Das ursprüngliche FJS hatte noch viele andere Unbequemlichkeiten, bevor ich es zur heutigen, extrem einfachen Form reduzieren konnte…)
 
 So sieht die Obertonreihe von A bis zum achten Oberton im FJS aus:
 
@@ -249,7 +249,7 @@ Jetzt möchte ich erklären, wie diese Versetzungszeichen miteinander interagier
 > ### Propagierung der FJS-Versetzungszeichen
 >
 > - Wir wissen alle, dass pythagoreische Versetzungszeichen die einzelnen Stammtöne (C, D, E, F, G, A, H) in dessen korrekte pythagoreische Tonhöhen kategorisieren. Deshalb gelten sie für alle Noten desselben Stammtons in derselben Oktave in demselben Takt.
-> - Ebenso kategorisieren FJS-Versetzungszeichen die pythagoreischen Töne (C, Des, Cis, D, ...) in dessen korrekte absolute Tonhöhen. Deshalb gelten sie für alle Noten desselben pythagoreischen Tons in derselben Oktave in demselben Takt.
+> - Ebenso kategorisieren FJS-Versetzungszeichen die pythagoreischen Töne (C, Des, Cis, D, …) in dessen korrekte absolute Tonhöhen. Deshalb gelten sie für alle Noten desselben pythagoreischen Tons in derselben Oktave in demselben Takt.
 
 Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veranschaulichung dieser Regel:
 

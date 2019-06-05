@@ -14,7 +14,7 @@ Hier werde ich beide dieser Systeme mit dem FJS vergleichen.
 
 Wie auch das FJS nimmt Helmholtz-Ellis an, dass die übliche Notenschrift die pythagoreische Stimmung wiedergibt. Wie im FJS wird jedes pythagoreische Intervall genau einem üblichen Intervall zugeordnet, und jede reine Quinte hat die Größe von 3/2. Bis zu diesem Punkt sind das FJS und Helmholtz-Ellis also identisch. Wie im FJS promoviert das die Einheitlichkeit und eine Notation, die auf Intervallen, nicht Noten, basiert.
 
-Ben Johnston dagegen ist da ein bisschen... innovativer. Er benutzt eine andere Definition der Stammtöne und üblichen Versetzungszeichen. Traditionelle Notenschrift hat die folgende Bedeutung bei Ben Johnston:
+Ben Johnston dagegen ist da ein bisschen… innovativer. Er benutzt eine andere Definition der Stammtöne und üblichen Versetzungszeichen. Traditionelle Notenschrift hat die folgende Bedeutung bei Ben Johnston:
 
 - F – C – G – D ist eine Kette reiner Quinten (3/2).
 - F – A, C – E, and G – H sind Naturterzen (5/4).
@@ -123,7 +123,7 @@ Schauen wir uns also an, wie man diese Versetzungszeichen überhaupt schreibt.
 
 Marc Sabat und Wolfgang von Schweinitz haben eine Liste für das Helmholtz-Ellis-System entworfen, [die man hier sieht](http://www.marcsabat.com/pdfs/fulllegendE.pdf).
 
-Was ist das denn? Ein einzigartiges Symbol für jedes Limit, das fast gar nicht mit dem Limit selbst verwandt ist? Schade, noch eine andere Serie zufälliger Formen, die man sich merken oder ständig nachschauen muss...
+Was ist das denn? Ein einzigartiges Symbol für jedes Limit, das fast gar nicht mit dem Limit selbst verwandt ist? Schade, noch eine andere Serie zufälliger Formen, die man sich merken oder ständig nachschauen muss…
 
 Das Einzige, was ich bemerken konnte, war durch meine eigene Analyse. Helmholtz-Ellis teilt seine Versetzungszeichen in vier Gruppen nach Größe: Dritteltöne, Vierteltöne, Kommas, und Schismen. Es gibt nur ein Drittelton (27/26) und nur ein Viertelton (33/32); diese schreibt man mit veränderten Vierteltonakzidenzien. Schismen bis zum 31-Limit schreibt man mit Schrägstrichen, oder Plus- und Minus-Zeichen, während Kommas Pfeile benutzen. Von 32 bis 64 werden Klammern in Verbindung mit anderen schon benutzten Versetzungszeichen verwendet, und es sieht wieder zufällig aus.
 
@@ -131,9 +131,9 @@ Dazu funktionieren 5-Limit-Versetzungszeichen noch ganz anders. Anstatt unabhän
 
 Bei Ben Johnston sieht es viel, viel besser aus. Obwohl seine Kommas immer noch zufällige Konstanten sind, sind die Symbole dieser Kommas komplett regelmäßig ab dem 13-Limit. Unregelmäßig sind nur: der 5-Limit mit einem Plus und Minus für ein syntonisches Komma, der 7-Limit mit einem Pfeil, der wie die Ziffer 7 aussieht (genauso wie bei Helmholtz-Ellis) für 35/36, und der 11-Limit mit einem Pfeil nach oben oder unten für 33/32. (Das Versetzungszeichen für den 7-Limit kann man an pythagoreische Versetzungszeichen ankleben, aber hier ist es kein Problem, denn es besteht keine Pflicht.)
 
-Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst für das positive Zeichen... (ja, mit Schwung geht's los!)
+Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst für das positive Zeichen… (ja, mit Schwung geht's los!)
 
-...und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl „11“, die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
+…und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl „11“, die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
 
 Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 1097 sowie 109 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
 
@@ -201,7 +201,7 @@ Helmholtz-Ellis kann das auch. Es gibt nur den Unterschied, dass manchmal zwei V
 
 Was ist mit Johnston? Dieselbe Website hat auch einen [Konverter von Johnston zu HE](https://www.plainsound.org/HEJI/johnston.html). Das funktioniert, wenn du dich immer auf den Computer verlassen willst. Oft aber, wenn wir komponieren, wollen wir nicht die ganze Zeit mit Rechnern arbeiten.
 
-Das FJS hat das Verdienst, dass seine Algorithmen sich sehr einfach im Kopf durchführen. Daher kann man es viel schneller verwenden. Aber wenn du dasselbe bei Johnston probieren möchtest...
+Das FJS hat das Verdienst, dass seine Algorithmen sich sehr einfach im Kopf durchführen. Daher kann man es viel schneller verwenden. Aber wenn du dasselbe bei Johnston probieren möchtest…
 
 > *Für jede 5 im Zähler: Addiere eine große Terz. (Und einen Plus bei D.)*
 >
@@ -298,7 +298,7 @@ So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
 ### Notationsvergleich
 
-Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen... na ja, sieh dir es mal an.
+Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen… na ja, sieh dir es mal an.
 
 Hör zu:
 

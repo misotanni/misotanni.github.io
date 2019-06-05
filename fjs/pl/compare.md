@@ -201,7 +201,7 @@ HE też to potrafi. Jedynym drobnym problemem jest to, że czasami potrzeba wię
 
 A BJ? Ta sama strona ma również [konwerter z BJ do HE](https://www.plainsound.org/HEJI/johnston.html), który – no cóż – dla komputera działa. Ale czy naprawdę przy każdej nucie będziesz się uciekał do kalkulatora?
 
-Jednym z atutów FJS-u jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona...
+Jednym z atutów FJS-u jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona…
 
 > Dla każdego czynnika 5 w liczniku: pójdź o tercję wielką w górę. (Dodaj plus, jeżeli zacząłeś od *d*).
 >
