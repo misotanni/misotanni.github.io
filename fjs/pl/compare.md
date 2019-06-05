@@ -2,7 +2,7 @@
 
 FJS to nie jedyny istniejący system zapisu JI. Wielu kompozytorów pisze muzykę mikrotonalną na własną rękę, co spowodowało stworzenie wielu szczególnych dla nich systemów dla wielu skal mikrotonalnych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonalności, na przykład konkretnego mikrotonalnego podziału oktawy, zatem jest niezdatna do użycia przy JI.
 
-FJS stworzyłem specjalnie dla JI, więc jest on dobrze dostosowany do jego zapisu. Niestety nie potrafi zapisać prawie czegokolwiek innego. **Istnieją dwa inne szeroko używane systemy o podobnych zamierzeniach:** Helmholtza-Ellisa i Bena Johnstona. (Jest także jeszcze inny system – Sagittal – przeznaczony do notowania wszelkiej muzyki mikrotonalnej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przedstawianiu wysokości, a więc niezależnie od dokładności wartości reprezentowanych przez znaki zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI są nieskończenie dokładne, jak ułamki naturalne).
+FJS stworzyłem specjalnie dla JI, więc jest on dobrze dostosowany do jego zapisu. Niestety nie potrafi zapisać prawie czegokolwiek innego. **Istnieją dwa inne szeroko używane systemy o podobnych zamierzeniach:** Helmholtza-Ellisa i Bena Johnstona. (Jest także jeszcze inny system – Sagittal – przeznaczony do notowania wszelkiej muzyki mikrotonalnej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przedstawianiu wysokości, a więc niezależnie od dokładności wartości reprezentowanych przez znaki zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI są nieskończenie dokładne, jak ułamki naturalne).
 
 System Helmholtza-Ellisa (czasem rozszerzany do „HEWM” – Helmholtza-Ellisa-Wolfa-Monzo) to pierwsza próba rozszerzenia zapisu nutowego do JI. [Najnowszy stworzony dodatek](http://www.marcsabat.com/pdfs/notation.pdf) do HE, który mogłem znaleźć, jest autorstwa Marca Sabata i potrafi przedstawić 61-limit.
 
@@ -12,7 +12,7 @@ Od teraz będę porównywał obydwa te systemy z FJS-em.
 
 ## Wysokości niealterowane
 
-HE, podobnie jak FJS, zakłada, że zwykły zapis pięcioliniowy przedstawia strój pitagorejski. W ten sposób – tak jak w FJS – każdy pitagorejski interwał odpowiada dokładnie jednemu interwałowi – każda kwinta strojona jest na 3/2. Do tego momentu HE i FJS są identyczne. Tak jak w FJS-ie sprzyja to spójności, naturalności i notowaniu opartym na interwałach, a nie z góry ustalonych wysokościach.
+HE, podobnie jak FJS, zakłada, że zwykły zapis pięcioliniowy przedstawia strój pitagorejski. W ten sposób – tak jak w FJS – każdy pitagorejski interwał odpowiada dokładnie jednemu interwałowi – każda kwinta strojona jest na 3/2. Do tego momentu HE i FJS są identyczne. Tak jak w FJS-ie sprzyja to spójności, naturalności i notowaniu opartym na interwałach, a nie z góry ustalonych wysokościach.
 
 BJ, z drugiej strony, opiera się na czymś bardziej… innowacyjnym. Różni się definicjami niealterowanych dźwięków i alteracji. Zwyczajny zapis nutowy u BJ ma następujące znaczenie:
 
@@ -32,7 +32,7 @@ Ale i to się nie zgadza – nawet 5-limitową harmonię diatoniczną trudno w t
 
 W rzeczywistości brak spójności w niealterowanych wysokościach powoduje lawinę problemów w BJ – nie zdziw się więc, jeżeli będę się odnosił do tego głównego problemu z BJ praktycznie przez całą resztę tej strony.
 
-Stroje niezawierające piątki – na przykład ten z „Dobrze nastrojonego fortepianu” La Monte Younga (który wsławił się używaniem jedynie czynników pierwszych 2, 3 i 7) – wymagają ogromnej ilości korekcji komatem syntonicznym w BJ, pomimo że nawet jeden czynnik 5 nie pojawia się w stroju. To po prostu absurdalne. (Na dole tej strony wyliczam różne tego typu porównania).
+Stroje niezawierające piątki – na przykład ten z „Dobrze nastrojonego fortepianu” La Monte Younga (który wsławił się używaniem jedynie czynników pierwszych 2, 3 i 7) – wymagają ogromnej ilości korekcji komatem syntonicznym w BJ, pomimo że nawet jeden czynnik 5 nie pojawia się w stroju. To po prostu absurdalne. (Na dole tej strony wyliczam różne tego typu porównania).
 
 To wręcz niewykonalne zadanie przetransponować utwór w BJ. Utwór zapisany HE lub FJS można z łatwością przetransponować o kwintę 3/2, przesuwając pitagorejskie części nazw wysokości, a zostawiając alteracje mikrotonalne bez zmian. Da się to samo osiągnąć i przy niepitagorejskiej transpozycji, jak np. 5/4 – po prostu najpierw przesuń (pitagorejsko) o 81/64, a potem dodaj +5 do wszystkich nut. W BJ tak nie jest – transpozycja o interwał 3- czy 5-limitowy (o dalszych nie wspominając) jest o wiele bardziej skomplikowana. Jeżeli utwór jest w *G*-dur, przełożenie go na *D*-dur wymagałoby dodania komatu syntonicznego (plusa) przy każdym *a*, ponieważ *g*–*d* (3/2) to nie ten sam interwał, co *d*–*a* (40/27), a także jego odwrotności (minusa) do każdego *f*, ponieważ *g*–*b* (6/5) to nie to samo, co *d*–*f* (32/27). Partie instrumentów transponujących musiałyby zostać przepisane w zupełności z ogromną liczbą dodatkowych plusów i minusów, nawet jeżeli interwał, o który transponują, to coś tak prostego, jak mocny cały ton (9/8). To łatwo zauważyć w poradniku Kyle'a Ganna, który rozpisuje **siedem** różnych wersji szeregu alikwotowego od 16. do 32., zależnie od podstawy!
 
@@ -44,7 +44,7 @@ Punkt dla HE i FJS-u.
 
 ## Dobór znaków chromatycznych
 
-I HE, i BJ tak jak FJS zapisują całą resztę JI za pomocą znaków chromatycznych przedstawiających skoki komatyczne.
+I HE, i BJ tak jak FJS zapisują całą resztę JI za pomocą znaków chromatycznych przedstawiających skoki komatyczne.
 
 Oto lista aż do komatu 61. dla HE:
 
@@ -77,7 +77,7 @@ HE, odrzucając te komaty, wykorzystuje niektóre liczby pierwsze więcej niż r
 
 Jest też duża różnorodność wielkości komatów: komat 13., 27/26, jest ogromny w porównaniu do 41. – 6561/6560.
 
-A co w takim razie z BJ? Oto lista aż do 31.:
+A co w takim razie z BJ? Oto lista aż do 31.:
 
 - 81/80, komat 5., niemający zupełnie takiej samej funkcji, co inne; to bardziej znak do dostrajania (ponieważ utwóry zapisane w BJ są obficie posypane komatami syntonicznymi).
 - 35/36, czyli komat 7. z dodanym czynnikiem pięciu.
@@ -89,7 +89,7 @@ A co w takim razie z BJ? Oto lista aż do 31.:
 - 145/144, czyli komat 29. z dodanym czynnikiem pięciu.
 - 31/30, czyli komat 31. z dodanym czynnikiem pięciu.
 
-Jak widać, wszystkie te alteracje – oprócz 11. – zawierają czynnik 5, a 17. ma nawet podwójną 5. To prawdopodobnie korekcja służąca przeciwdziałaniu wszechobecnych piątek w BJ – zupełnie tak, jakby te czynniki były próbą skorygowania błędu, jakim było przypisanie tonów diatonicznych do sekwencji ptolemejskiej. Także widzimy dużo komatów o postaci $$\frac{n+1}{n}$$, natomiast tutaj są one prawdopodobnie zjawiskiem przypadkowym.
+Jak widać, wszystkie te alteracje – oprócz 11. – zawierają czynnik 5, a 17. ma nawet podwójną 5. To prawdopodobnie korekcja służąca przeciwdziałaniu wszechobecnych piątek w BJ – zupełnie tak, jakby te czynniki były próbą skorygowania błędu, jakim było przypisanie tonów diatonicznych do sekwencji ptolemejskiej. Także widzimy dużo komatów o postaci $$\frac{n+1}{n}$$, natomiast tutaj są one prawdopodobnie zjawiskiem przypadkowym.
 
 Tych czynników nie można skrytykować w ten sam sposób, jak to zrobiłem przy HE – to całkiem logiczny wybór przy takim nielogicznym zestawie wysokości niealterowanych. 65/64 przenosi 8/5 do 13/8, 51/50 przenosi 25/24 do 17/16, 46/45 przenosi 45/32 do 23/16. Są to odzworowania prostych 5-limitowych interwałów na liczby pierwsze.
 
