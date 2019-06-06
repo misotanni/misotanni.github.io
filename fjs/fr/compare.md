@@ -2,7 +2,9 @@
 
 Le FJS n'est pas le seul système de notation pour JI. Beaucoup de compositeurs s'intéressent pour la musique microtonale, c'est pourquoi il y a beaucoup de systèmes très individuels pour la notation des accords microtonaux. Pourtant, la plupart d'entre eux est adaptée à un seul aspect de la microtonalité, par exemple une seule division de l'octave, donc ne suffit pas pour JI.
 
-Le FJS fut créé spécialement pour JI. Pendant qu'il est optimal pour JI, il ne peut représenter guère quelque chose d'autre. **Il y a deux autres systèmes avec un but similaire:** celui de Helmholtz-Ellis et celui de Ben Johnston. (Il y a aussi un système appelé Sagittal qui est adapté à toute la musique microtonale, mais je ne vais pas le mentionner ici, parce que Sagittal ne représente que la hauteur d'un son, donc il sera toujours ambigu en ce qui concerne JI, bien que ses altérations soient très précises.)
+Le FJS fut créé spécialement pour JI. Pendant qu'il est optimal pour JI, il ne peut représenter guère quelque chose d'autre. **Il y a deux autres systèmes avec un but similaire:** celui de Helmholtz-Ellis et celui de Ben Johnston.
+
+Il y a aussi deux systèmes que je ne considère pas ici. Le premier s'appelle Sagittal; il est adapté à toute la musique microtonale, mais je ne vais pas le mentionner ici, parce que Sagittal ne représente que la hauteur d'un son, donc il sera toujours ambigu en ce qui concerne JI, bien que ses altérations soient très précises. Le deuxième, c'est la Rational Comma Notation de David Ryan, qui est étonnamment similaire au FJS (elle peut représenter toute l'intonation juste), mais qui est moins pratique faute d'une notation légère, un système de noms d'intervalles, et un algorithme assez simple. Je ne la considère donc pas non plus.
 
 La notation Helmholtz-Ellis (aussi appelée HEWM, Helmholtz-Ellis-Wolf-Monzo) était le premier essai d'étendre la notation de portée pour représenter JI. Marc Sabat a créé pour elle [l'extension la plus récente](http://www.marcsabat.com/pdfs/notation.pdf) qui peut représenter JI jusqu'au 61-limite.
 
