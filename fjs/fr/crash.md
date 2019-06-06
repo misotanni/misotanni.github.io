@@ -69,7 +69,7 @@ $$\text{reb}(d)=\text{red}(d) \text{ , } \text{red}(d) < \sqrt{2}$$
 
 $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}$$
 
-C'est tout dont vous avez besoin. Commençons, alors!
+C'est tout ce dont vous avez besoin. Commençons, alors!
 
 ## <a name="lesson_1">Leçon 1: L'accord pythagoricien</a>
 
@@ -81,11 +81,11 @@ Imaginez la séquence d'intervalles suivante: 11/10, 10/9, 9/8, 8/7. Écoutez:
 
 La plupart d'entre nous entend ici quatre « secondes environ majeures ». Mais ce serait injuste de les nommer égales et représenter toutes avec une seconde majeure sur la portée. Ce sont de différents intervalles. L'élimination de ces différences dans un système où elles comptent le plus est une erreur.
 
-Vous pensez alors peut-être qu'il y a une position intermédiaire, une partie de l'intonation juste qui peut être assignée sans équivoque à la notation de portée sans enharmonie, et vous avez encore raison. Cette position intermédiaire est l'intonation juste au 3-limite, aussi appelée accord pythagoricien.
+Vous pensez alors peut-être qu'il y a une position intermédiaire, une partie de l'intonation juste qui peut être assignée sans équivoque à la notation de portée sans enharmonie, et vous avez encore raison. Cette position intermédiaire est l'intonation juste à la 3-limite, aussi appelée accord pythagoricien.
 
 Cela signifie que nous assignons le rapport 2/1 à l'octave (comme en 12-EDO) et le rapport 3/2 à la quinte juste. Avec cette attribution, on peut assigner chaque intervalle conventionnel à exactement un rapport pythagoricien. Il y a une bijection.
 
-C'est aussi une manière dont nous pouvons même *définir* les notes de l'échelle diatonique. Fa, Do, Sol, Ré, La, Mi, et Si sont alors définis ainsi: Fa–Do est 3/2, aussi Do–Sol, etc. On remarque que Si–Fa devient 1024/729, qui est un peu plus petit que 3/2. Nous définissons donc le dièse et le bémol ainsi: Si–Fa♯ et Si♭–Fa sont 3/2. Vous verrez que le FJS étend ce principe: des petites différences sont annulées avec des altérations.
+C'est aussi une manière dont nous pouvons même *définir* les notes de l'échelle diatonique. Fa, Do, Sol, Ré, La, Mi, et Si sont alors définis ainsi: Fa–Do est 3/2, aussi Do–Sol, etc. On remarque que Si–Fa devient 1024/729, qui est un peu plus petit que 3/2. Nous définissons donc le dièse et le bémol ainsi: Si–Fa♯ et Si♭–Fa sont 3/2. Vous verrez que le FJS étend ce principe: de petites différences sont annulées avec des altérations.
 
 Remarquez que cette bijection a besoin de quelque chose dont peut-être quelques ne sont pas conscients: des dièses et bémols plus que doubles. Bien qu'ils soient très rares dans la musique conventionnelle, ils sont indispensables ici pour que la ligne de quintes soit infinie dans deux directions. Dans le FJS, vous pourriez voir aussi des triple- et quadruple-dièses et bémols, etc. Cela ne signifie pas du tout qu'ils sont fréquents, mais ne paniquez pas quand vous en avez besoin.
 
@@ -139,7 +139,7 @@ Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 ## <a name="lesson_2">Leçon 2: Les intervalles premiers</a>
 
-Vous avez appris jusqu'à maintenant comment écrire l'accord pythagoricien. C'était sûrement un peu ennuyeux: l'accord pythagoricien ne diffère pas beaucoup de 12-EDO, et ce n'est pas assez pour pouvoir décrire toute l'intonation juste.
+Vous avez maintenant appris comment écrire l'accord pythagoricien. C'était sûrement un peu ennuyeux: l'accord pythagoricien ne diffère pas beaucoup de 12-EDO, et ce n'est pas assez pour pouvoir décrire toute l'intonation juste.
 
 L'étape suivante: savoir représenter les intervalles premiers. Ce sont des intervalles dans l'échelle des harmoniques qui viennent des nombres premiers. Commençons avec la séquence des nombres premiers:
 
@@ -165,15 +165,15 @@ Et celle entre 8192/6561 et 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Pourquoi alors utiliser la tierce majeure, pas la quarte diminuée, pour 5/4? En raison de la simplicité, vous dites? La tierce majeure s'élève à +4 quintes pendant que la quarte diminuée à −8, donc beaucoup plus compliqué. D'après cela, pourquoi est-ce que nous n'utilisons pas la tierce *mineure* pour 5/4, qui est encore plus simple: seulement −3 quintes au lieu de +4. Maintenant, vous dites qu'elle est trop éloignée? Avez-*vous* l'autorité de décider l'équilibre correct entre simplicité et proximité?
+Pourquoi alors utiliser la tierce majeure et pas la quarte diminuée pour 5/4? En raison de la simplicité, vous dites? La tierce majeure s'élève à +4 quintes pendant que la quarte diminuée à −8, donc beaucoup plus compliquée. D'après cela, pourquoi n'utilisons-nous pas la tierce *mineure* pour 5/4, qui est encore plus simple: seulement −3 quintes au lieu de +4. Maintenant, vous dites qu'elle est trop éloignée? Avez-*vous* l'autorité de décider l'équilibre correct entre simplicité et proximité?
 
-Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question « Comment choisissons-nous les approximations pour chaque intervalle premier? » a une réponse très simple: nous ne le faisons pas. Une constante fixe le fait pour nous: le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant:
+Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question « Comment choisissons-nous les approximations pour chaque intervalle premier? » a une réponse très simple: *nous*, nous ne le faisons pas. Une constante fixe le fait pour nous: le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
 J'expliquerai ce choix plus tard.
 
-Comment le FJS utilise-t-il ce nombre? L'étape suivante est l'élément le plus important de tout le FJS. C'est l'élément qui fait la différence entre le FJS et toutes les autres notations de JI. C'est l'**algorithme principal du FJS**. Ici, vous trouvez une forme lisible pour des humains, mais il existe aussi dans des langages de programmation, y compris une calculatrice sur ce site.
+Comment le FJS utilise-t-il ce nombre? L'étape suivante est l'élément le plus important de tout le FJS. C'est l'élément qui fait la différence entre le FJS et toutes les autres notations de JI. C'est l'**algorithme principal du FJS**. Ici, vous trouvez une forme lisible pour des humains, mais l'algorithme existe aussi dans des langages de programmation, y compris une calculatrice sur ce site.
 
 L'**algorithme principal du FJS** trouve la **fonction génératrice** pour chaque nombre premier en utilisant le rayon de tolérance. J'explique le but de l'algorithme, sa tâche, et le but de la fonction génératrice.
 
@@ -217,7 +217,7 @@ L'algorithme trouve alors pour chaque intervalle premier l'approximation pythago
 
 L'opération inverse est aussi possible: vous pouvez trouver la fonction génératrice d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Divisez la forme réduite de l'intervalle premier par le comma formel. Vous obtenez l'approximation pythagoricienne. Factorisez-la. L'exposant de 3 est alors la fonction génératrice. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous divisons 7/4 par 63/64. Le résultat est (7/4) ÷ (63/64) = 16/9, l'approximation pythagoricienne. Nous la factorisons et obtenons 2<sup>4</sup> 3<sup>−2</sup>. Puisque l'exposant de 3 est −2, −2 est aussi la fonction génératrice de 7.
 
-Comme avec le dièse et le bémol, il y a toujours deux altérations différentes pour chaque comma: soit positif, soit négatif. Le symbole des altérations est toujours basée sur le nombre premier lui-même, est diffère selon l'utilisation:
+Comme avec le dièse et le bémol, il y a toujours deux altérations différentes pour chaque comma: soit positif, soit négatif. Le symbole des altérations est toujours basé sur le nombre premier lui-même, il diffère selon l'utilisation:
 
 - Lorsqu'on nomme les notes, on écrit l'altération positive en indice supérieur et la négative en indice inférieur.
 - Lorsqu'on les écrit sur la portée, on écrit l'altération positive comme le nombre lui-même et la négative avec un signe moins.
@@ -228,9 +228,9 @@ Ceux qui connaissent le système de Ben Johnston vont reconnaître cette idée. 
 
 Il est vrai que cela semble trop compliquée, mais en fait, ça simplifie beaucoup. Par exemple: Une altération positive de +17 signifie toujours que son utilisation ajoute un facteur de 17 dans le numérateur. Si vous connaissez l'approximation pythagoricienne de 17/16 (c'est la seconde mineure), vous savez automatiquement que 17/16 s'écrit comme seconde mineure avec +17. Il ne vous faut pas savoir si l'approximation se trouve plus haut ou plus bas que la cible! Ce principe basé sur l'otonalité et l'utonalité au lieu de la direction simplifie aussi la notation de plusieurs gammes et intonations. D'ailleurs, le FJS décrit que le comma formel de +5 est en fait 80/81, pas 81/80. En général, une liste de commas formels pour chaque nombre premier *p* > 3 contient dans chaque comma un facteur de *p* dans le numérateur. C'est aussi la raison pour laquelle le système s'appelle Système **fonctionnel** de l'intonation juste: il se concentre sur la représentation de la **fonction**, pas la hauteur.
 
-Ici, je voudrais raconter une anecdote. Pendant que je développais un prototype du Système fonctionnel de l'intonation juste (même avant l'avoir nommé), au début, tous les commas formels positifs étaient ascendants et tous négatifs étaient descendants. Mais une fois, j'ai réfléchi sur quelques accords au 5- et au 7-limite, et tout à coup, je me suis rendu compte que cette règle est beaucoup trop compliquée, et que je vais la changer tout de suite, la nouvelle version étant positif-otonal, négatif-utonal. Après ce changement, mes pensées en FJS ont été beaucoup simplifiés, donc cela a continué. (Au début du FJS, il y avait beaucoup d'autres complications, et il me fallait beaucoup de temps pour les éliminer jusqu'à la forme extrêmement simple d'aujourd'hui…)
+Ici, je voudrais raconter une anecdote. Pendant que je développais un prototype du Système fonctionnel de l'intonation juste (même avant l'avoir nommé), au début, tous les commas formels positifs étaient ascendants et tous négatifs étaient descendants. Mais une fois, j'ai réfléchi sur quelques accords à la 5- et à la 7-limite, et tout à coup, je me suis rendu compte que cette règle est beaucoup trop compliquée, et que je vais la changer tout de suite, la nouvelle version étant positif-otonal, négatif-utonal. Après ce changement, mes pensées en FJS ont été beaucoup simplifiées, donc cela a continué. (Au début du FJS, il y avait beaucoup d'autres complications, et il me fallait beaucoup de temps pour les éliminer jusqu'à la forme extrêmement simple d'aujourd'hui…)
 
-Voyez l'échelle harmonique sur La jusqu'à le huitième harmonique:
+Voyez l'échelle harmonique sur La jusqu'au huitième harmonique:
 
 > La, La, Mi, La, Do♯<sup>5</sup>, Mi, Sol<sup>7</sup>, La.
 
@@ -289,7 +289,7 @@ Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 ## <a name="lesson_3">Leçon 3: Altérations composées</a>
 
-Vous savez maintenant comment on écrit une grande partie de l'intonation juste dans le FJS. Vous savez représenter tout l'accord pythagoricien et tous les intervalles premiers. Mais nous n'avons pas encore terminé; il nous manque tous les intervalles qui sont composés de plus qu'un nombre premier (3 inclu), comme 15/8 ou 25/16, et il nous manque les intervalles qui n'apparaissent pas du tout dans l'échelle harmonique, comme 5/3, 6/5, ou 9/7.
+Vous savez maintenant écrire une grande partie de l'intonation juste dans le FJS. Vous savez représenter tout l'accord pythagoricien et tous les intervalles premiers. Mais nous n'avons pas encore terminé; il nous manque tous les intervalles qui sont composés de plus qu'un nombre premier (3 inclu), comme 15/8 ou 25/16, et il nous manque les intervalles qui n'apparaissent pas du tout dans l'échelle harmonique, comme 5/3, 6/5, ou 9/7.
 
 Dans ce cours, j'ai trié ces intervalles manquants en deux groupes:
 
@@ -361,7 +361,7 @@ Quand vous composez des altérations, vous pouvez (et devez) annuler des facteur
 
 Vous pouvez déjà utiliser l'arithmétique des intervalles pour représenter *n'importe quel* rapport JI dans le FJS et convertir *n'importe quelle* forme FJS en rapport JI. Pour ce but, vous pouvez utiliser les méthodes suivantes si les rapports ne sont pas trop compliqués.
 
-Pour convertir un rapport simple en forme FJS: Factorisez d'abord le numérateur pour obtenir une partie pythagoricienne et des parties premiers. Construisez un intervalle pythagoricien et chaque intervalle premier, puis additionnez. Répétéz pour le dénominateur. Finalement, trouvez la différence entre l'intervalle du numérateur et celui du dénominateur. Par exemple, pour convertir 36/25, nous construisons d'abord le numérateur: 36, donc 9/8, donc une seconde majeure. Puis le dénominateur: 25, donc 5 et 5, donc deux (tierces majeures)<sup>5</sup>, donc une (quinte augmentée)<sup>25</sup>. Finalement nous soustrayons: (seconde majeure) − (quinte augmentée) = (quinte diminuée). Les altérations: (0) − (+25) = (−25). La réponse: (quinte diminuée)<sub>25</sub>.
+Pour convertir un rapport simple en forme FJS: Factorisez d'abord le numérateur pour obtenir une partie pythagoricienne et des parties premières. Construisez un intervalle pythagoricien et chaque intervalle premier, puis additionnez. Répétéz pour le dénominateur. Finalement, trouvez la différence entre l'intervalle du numérateur et celui du dénominateur. Par exemple, pour convertir 36/25, nous construisons d'abord le numérateur: 36, donc 9/8, donc une seconde majeure. Puis le dénominateur: 25, donc 5 et 5, donc deux (tierces majeures)<sup>5</sup>, donc une (quinte augmentée)<sup>25</sup>. Finalement nous soustrayons: (seconde majeure) − (quinte augmentée) = (quinte diminuée). Les altérations: (0) − (+25) = (−25). La réponse: (quinte diminuée)<sub>25</sub>.
 
 Pour convertir un intervalle FJS en rapport JI: Essayez d'abord $$\frac{\text{altération otonale}}{\text{altération utonale}}$$. (Vous ne devez pas même factoriser l'altération, puisqu'elle est composée en multipliant.) Vous obtenez soit déjà la réponse correcte, soit une erreur pythagoricienne. Ajustez. Par exemple, nous essayons de convertir la (prime augmentée)<sup>5</sup><sub>7</sub>. Nous essayons d'abord 5/7, donc 10/7; après avoir utilisé la méthode ci-dessus, on obtient la (quarte augmentée)<sup>5</sup><sub>7</sub>. L'erreur n'est qu'une quinte, donc nous additionnons une quinte pythagoricienne. La réponse: (3/2) × (5/7) = 15/14.
 
@@ -402,15 +402,15 @@ Une dernière remarque est à propos de la prononciation et ASCII. Si vous voule
 
 Par exemple, on prononce Mi<sup>5</sup> comme « Mi-cinq » ou « Mi-super-cinq », et Mi♭<sub>5</sub> comme « Mi-bémol-sub-cinq ». Un intervalle comme la (quarte juste)<sup>7</sup><sub>11</sub> serait « quarte-juste-(super)-sept-sub-onze » où le mot « super » est optionnel, pour accentuer la séparation entre le nom conventionnel et le début des altérations FJS.
 
-Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup><sub>13</sub> serait « La-(super)-cinq-dix-sept-sub-treize ». Le mot « sub » est tout simplement un terminateur de la partie otonale. Il indique que les nombres suivant appartiennent à la partie utonale.
+Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup><sub>13</sub> serait « La-(super)-cinq-dix-sept-sub-treize ». Le mot « sub » est tout simplement un terminateur de la partie otonale. Il indique que les nombres suivants appartiennent à la partie utonale.
 
 À propos d'ASCII: Ce serait problématique d'écrire ces noms avec un clavier conventionnel à cause des indices supérieurs et inférieurs. Alternativement, on peut indiquer l'utonal avec une barre de soulignement, comme d'habitude, et vous pouvez ainsi indiquer l'otonal avec un signe caret, mais vous n'avez jamais besoin du signe caret en français. Mi<sup>5</sup> serait `Mi^5` ou `Mi5`; une (tierce majeure)<sup>5</sup> serait une `(tierce majeure)^5` ou une `(tierce majeure)5`.
 
 **C'est tout!**
 
-C'est tout dont vous avez besoin pour utiliser *tout* le FJS et représenter *toute* l'intonation juste! Vous n'avez pas besoin d'apprendre aucuns nombres par cœur ou chercher dans des tableaux, rien! L'un des plus grands avantages de ce système est qu'il est complètement portable. Tout dont vous avez besoin pour le construire à partir de zéro, c'est le rayon de tolérance et des calculs. Les techniques que vous avez appris peuvent être automatisées et le système entier peut être géré par un ordinateur.
+C'est tout dont vous avez besoin pour utiliser *tout* le FJS et représenter *toute* l'intonation juste! Vous n'avez pas besoin d'apprendre aucuns nombres par cœur ou chercher dans des tableaux, rien! L'un des plus grands avantages de ce système est qu'il est complètement portable. Tout ce dont vous avez besoin pour le construire à partir de zéro, c'est le rayon de tolérance et des calculs. Les techniques que vous avez appris peuvent être automatisées et le système entier peut être géré par un ordinateur.
 
-Le FJS a encore beaucoup de qualités belles grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS a un *isomorphisme*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une (seconde majeure)<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
+Le FJS a encore beaucoup de belles qualités grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé: le FJS a un *isomorphisme*; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une (seconde majeure)<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
 
 Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces; vous auriez pu calculer ce tableau vous-même si vous aviez voulu (mais vous ne voudriez pas, donc je l'ai fait pour vous).
 
@@ -450,8 +450,8 @@ Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 ## <a name="da_capo_al_fine">Da Capo Al Fine: Quoi d'autre?</a>
 
-C'est *tout* dont vous avez besoin pour utiliser le FJS! Vous pouvez maintenant écrire toute la musique en intonation juste dans le FJS. Le reste du FJS, ce sont des méthodes d'abréviation, y compris des armures FJS et des lignes de transposition, que j'ai créées pour pouvoir éviter d'écrire beaucoup d'altérations dans les cas les plus fréquents. Ces éléments n'apparaissent pas dans ce cours. Si vous voulez apprendre comment les utiliser, lisez la [description formale complète](rules.html) du FJS, où vous trouverez aussi des règles exactes si vous avez un doute.
+C'est *tout* dont vous avez besoin pour utiliser le FJS! Vous pouvez maintenant écrire toute la musique en intonation juste dans le FJS. Le reste du FJS, ce sont des méthodes d'abréviation, y compris des armures FJS et des lignes de transposition, que j'ai créées pour pouvoir éviter d'écrire beaucoup d'altérations dans les cas les plus fréquents. Ces éléments n'apparaissent pas dans ce cours. Si vous voulez apprendre comment les utiliser, lisez la [description formelle complète](rules.html) du FJS, où vous trouverez aussi des règles exactes si vous avez un doute.
 
-À part cela, c'est tout! Vous avez déjà appris tout le FJS en quelques minutes. Que le FJS soit pour vous une simplification lorsque vous recontrez l'intonation juste la prochaine fois.
+À part cela, c'est tout! Vous avez déjà appris tout le FJS en quelques minutes. Que le FJS soit pour vous une simplification lorsque vous rencontrez l'intonation juste la prochaine fois.
 
 **Fin.**
