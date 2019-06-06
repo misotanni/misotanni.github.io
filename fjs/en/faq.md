@@ -22,7 +22,7 @@ You don't need one! Let the [calculators](calc.html) handle that.
 
 I've outlined some of my reasoning on the [comparison](compare.html) page.
 
-## What about (Rational Comma Notation / Sagittal / the H-system / Kite's color notation / \[insert some other alternative notation system\])?
+## What about (Sagittal / the H-system / Kite's color notation / \[insert some other alternative notation system\])?
 
 Again, consult the [comparison](compare.html).
 
@@ -38,6 +38,18 @@ Sure, you can do that, but there are a few things you'll be missing out on:
 - quick sightreading – even across scores.
 
 If you care about none of these, the FJS might not be the right choice for you. I recommend you give it a chance anyway.
+
+---
+
+## Hey, this whole FJS thing sounds very similar to Rational Comma Notation, what's up with that?
+
+An unfortunate case of independent invention.
+
+The [Rational Comma Notation](https://en.xen.wiki/w/Rational_Comma_Notation_(RCN)) is David Ryan's invention which happens to be very similar to the FJS.
+
+It has also been invented completely independently from the FJS and vice versa. I have only discovered about its existence when the FJS was already fully complete.
+
+It also differs quite strongly from the FJS in a few very important ways, in which the FJS exceeds it.
 
 ## What is this Just Intonation and natural tuning that you're so concerned about? Does that have anything to do with the New Age movement?
 

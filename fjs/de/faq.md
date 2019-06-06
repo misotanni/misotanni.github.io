@@ -22,7 +22,7 @@ So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
 
 Dazu erfahrst du vieles auf [dieser](compare.html) Seite.
 
-## Was mit (der Rational Comma Notation / Sagittal / dem H-System / Kites Farbennotation / \[noch ein alternatives Notationssystem\])?
+## Was mit (Sagittal / dem H-System / Kites Farbennotation / \[noch ein alternatives Notationssystem\])?
 
 Sehe dir dazu wieder den [Vergleich](compare.html) an.
 
@@ -38,6 +38,18 @@ Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
 - schnelles Blattspiel, mit verschiedenen Partituren.
 
 Wenn du keinen Wert darauf legst, dann ist das FJS vielleicht nicht die richtige Wahl für dich. Ich empfehle, ihm trotzdem eine Chance zu geben.
+
+---
+
+## Warte mal, dieses ganze FJS erinnert mich an die Rational Comma Notation, was ist los?
+
+Ein unglücklicher Fall unabhängiger Erfindungen.
+
+Die [Rational Comma Notation](https://en.xen.wiki/w/Rational_Comma_Notation_(RCN)) ist eine Erfindung von David Ryan, die zufällig dem FJS ähnelt.
+
+Sie wurde auch völlig unabhängig vom FJS erfunden, und umgekehrt. Ich habe von ihr nur dann erfahren, als das FJS bereits völlig fertig war.
+
+Sie unterscheidet sich auch in vielen wichtigen Aspekten vom FJS, wobei das FJS sie überschreitet.
 
 ## Was ist mit dieser „reinen Stimmung“ oder Naturtonstimmung, mit der du dich beschäftigst? Hat es etwas mit dem New-Age-Glauben zu tun?
 

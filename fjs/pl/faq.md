@@ -22,7 +22,7 @@ A na co? Od tego masz [kalkulatory](calc.html).
 
 Na ten temat wypowiedziałem się na stronie [porównania](compare.html).
 
-## A czemu nie (Rational Comma Notation / Sagittal / H-system / Kite'owa notacja kolorów / \[wstaw tutaj inny alternatywny system notacji\])?
+## A czemu nie (Sagittal / H-system / Kite'owa notacja kolorów / \[wstaw tutaj inny alternatywny system notacji\])?
 
 Powtarzam: zobacz sobie [porównanie](compare.html).
 
@@ -38,6 +38,18 @@ Owszem, możesz, ale przez to parę rzeczy stracisz:
 - szybkie czytanie a vista, od jednej partytury do drugiej.
 
 Jeśli nie przejmujesz się żadnym z tych atutów, być może FJS nie pasuje do ciebie. Radzę ci jednak dać mu szansę.
+
+---
+
+## Chwileczkę, ten cały FJS jest bardzo podobny do Rational Comma Notation, o co tu chodzi?
+
+Jest to niefortunny przypadek wynalazków niezależnych.
+
+[Rational Comma Notation](https://en.xen.wiki/w/Rational_Comma_Notation_(RCN)) jest wynalazkiem Davida Ryana, który przypadkowo jest bardzo podobny do FJS-u.
+
+Został także wynaleziony całkowicie niezależnie od FJS-u, i co ważne, vice versa. Nie odkryłem w ogóle, że istnieje, dopóki FJS nie był już dawno ukończony.
+
+Rational Comma Notation też się bardzo różni od FJS-u w niektórych ważnych aspektach, w których lepszy jest FJS.
 
 ## Co to są te „stroje naturalne”, na których ci tak zależy? Czy to nie jest jakaś nowa ezoteryka New Age?
 
