@@ -2,6 +2,14 @@
 
 <style>h2 { font-weight: normal; font-size: 100%; }</style>
 
+## What is this Just Intonation and natural tuning that you're so concerned about? Does that have anything to do with the New Age movement?
+
+No.
+
+Just Intonation is mathematics, and a theory of pitches and frequencies based on demonstrable acoustic properties of sound, as well as a form of music which uses these relations as the foundation of the chromatic palette that a piece uses, rather than equal divisions of the octave or what have you. The FJS is a formal system that facilitates intuitive understanding of the acoustic relations that JI researches.
+
+New Age is neither a science nor a theory, so you perhaps should look into such ‘sciences’ and ‘theories’ such as [this](https://attunedvibrations.com/432hz/) alternative tuning that is ‘mathematically’ ‘in tune’ with ‘the universe’… Or maybe don't.
+
 ## Can the FJS be used to notate equal temperament tunings?
 
 The short answer is no.
@@ -47,14 +55,15 @@ An unfortunate case of independent invention.
 
 The [Rational Comma Notation](https://en.xen.wiki/w/Rational_Comma_Notation_(RCN)) is David Ryan's invention which happens to be very similar to the FJS.
 
-It has also been invented completely independently from the FJS and vice versa. I have only discovered about its existence when the FJS was already fully complete.
+I have only found out about RCN's existence when the FJS was already complete, after having made decisions about all its important aspects. There was nothing to take from RCN at that point as I noticed that it handles many issues worse than the FJS does:
 
-It also differs quite strongly from the FJS in a few very important ways, in which the FJS exceeds it.
+- accidentals are notated very clumsily; E♭<sub>5</sub> or `Eb_5` becomes E♭\[1/5\];
+- there is no evidence of interval naming, which is the exact translation of tonic-less JI ratios;
+- there is no evidence of staff notation, only raw note names;
+- the comma-finding algorithm is not based on an equilibrium between proximity and Pythagorean simplicity, but proximity and numerator-denominator simplicity, which is not a good choice since it makes it seem as if one were going to actually multiply by these fractions (about that, please read the note to Kyle Gann at the bottom of the [comparison](compare.html)) and therefore returns some quite clumsy intervals, e.g. C♯\[17\] instead of D♭\[17\] for 17/16 above C, or C\[31\] instead of B\[31\] for 31/16;
+- the algorithm is really complicated, ruling out the possibility of carrying it out in your head, making the comma list actually another table or a dialogue with a computer;
+- the system occurs in multiple different versions with completely different algorithms in each one, there is no well-defined standard as there is in the FJS.
 
-## What is this Just Intonation and natural tuning that you're so concerned about? Does that have anything to do with the New Age movement?
+Remember that although the FJS may have been created later than RCN (2015-2017; FJS: 2017-2019), it didn't take any inspiration from it – there was no reason to. It's not that difficult to get the idea of using the Pythagorean scale for natural notes (Helmholtz-Ellis already did that) or the idea of multiplying commas (after all, what else can you do to compound primes in a way that can be unambiguously reversed?)
 
-No.
-
-Just Intonation is mathematics, and a theory of pitches and frequencies based on demonstrable acoustic properties of sound, as well as a form of music which uses these relations as the foundation of the chromatic palette that a piece uses, rather than equal divisions of the octave or what have you. The FJS is a formal system that facilitates intuitive understanding of the acoustic relations that JI researches.
-
-New Age is neither a science nor a theory, so you perhaps should look into such ‘sciences’ and ‘theories’ such as [this](https://attunedvibrations.com/432hz/) alternative tuning that is ‘mathematically’ ‘in tune’ with ‘the universe’… Or maybe don't.
+Since RCN has not been used in any musical example, and therefore has no notation potential and its existence is not tied to any actual sheet music, let the FJS do (or have done) that.
