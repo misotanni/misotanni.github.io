@@ -49,7 +49,7 @@ Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'int
 
 3. Toutes les altérations du FJS sont positives quand l'approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même. Cela signifie que le positif n'est pas toujours ascendant et le négatif n'est pas toujours descendant; le positif est toujours otonal et le négatif est toujours utonal.
 
-4. Les altérations du FJS peuvent être combinées. On multiplie les parties otonales, et multiplie les parties utonales. Par exemple: +25 signifie un double +5. L'otonal est l'utonal sont toujours séparés. Lorsque les nombres deviennent trop grands, on peut écrire aussi des facteurs séparés par des virgules.
+4. Les altérations du FJS peuvent être combinées. On multiplie les parties otonales, et on multiplie les parties utonales. Par exemple: +25 signifie un double +5. L'otonal et l'utonal sont toujours séparés. Lorsque les nombres deviennent trop grands, on peut écrire aussi des facteurs séparés par des virgules.
 
 5. Pour nommer les notes, on écrit premièrement la partie conventionnelle du nom, puis l'altération positive combinée comme indice supérieur, puis la négative comme indice inférieur.
 
@@ -59,7 +59,7 @@ Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'int
 
 ## Pourquoi le FJS?
 
-Pourquoi en avons-nous besoin? Qu'est-ce qui m'a motivé à créer le FJS? Quels avantages peuvent en retirer les musiciens? Pourquoi l'utiliser, et comment aide-t-il à composer et à analyser la musique en intonation juste? Pourquoi même essayer de représenter l'intonation juste sur la portée? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon harmonieuse mais étrange. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Tenter de la représenter comme ça serait, certes, anormal et maladroit.
+Pourquoi en avons-nous besoin? Qu'est-ce qui m'a motivé à créer le FJS? Quels avantages peuvent en retirer les musiciens? Pourquoi l'utiliser, et comment aide-t-il à composer et à analyser la musique en intonation juste? Pourquoi même essayer de représenter l'intonation juste sur la portée? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon harmonieuse mais étrange. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Tenter de la représenter de cette façon serait, certes, anormal et maladroit.
 
 Pourquoi ai-je toutefois décidé de réaliser cette idée? Pour la raison que la notation de portée est une langue de communication entre musiciens. Bien qu'elle ne soit pas parfaite, elle est universelle pour tous les musiciens. En outre, nous sommes habitués à penser en notes. Ne serait-il pas utile de pouvoir traduire la langue de l'intonation juste qui est harmonieuse et régulière, mais peu intuitive, dans la langue de la portée qui est familière? Ne permettrait-il pas que les musiciens comprennent l'intonation juste avec plus d'intuition et étendent ses aspects à tous les processus liés à la musique conventionnelle: la composition, l'analyse et la performance?
 
