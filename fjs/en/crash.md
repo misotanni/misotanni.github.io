@@ -2,7 +2,7 @@
 
 So, you are intrigued by what the FJS has to offer, and would like to learn to use it.
 
-This "crash course" was designed specifically with a focus on fast acquisition of all the fundamental elements of the system. It puts no focus on its shorthand system, which is not necessary for completeness. If you already have had exposure to Just Intonation, the FJS will be extremely easy for you to learn – you can learn it all in one sitting within a few minutes. Its beauty and simplicity are at your grasp.
+This “crash course” was designed specifically with a focus on fast acquisition of all the fundamental elements of the system. It puts no focus on its shorthand system, which is not necessary for completeness. If you already have had exposure to Just Intonation, the FJS will be extremely easy for you to learn – you can learn it all in one sitting within a few minutes. Its beauty and simplicity are at your grasp.
 
 ## Contents
 
@@ -79,7 +79,7 @@ Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-All of them are "some type of major second" to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
+All of them are “some type of major second” to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
 
 In that case, you might think that there might exist some middle ground, a subset of JI, which can be mapped exactly onto staff notation without enharmonic equivalence, and again you would be correct. That middle ground is none other than 3-limit JI, also known as Pythagorean tuning.
 
@@ -143,15 +143,15 @@ All right, you've learned to write all of Pythagorean tuning. This is pretty bor
 
 The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
 
-> 2, 3, 5, 7, 11, 13, 17, 19, ...
+> 2, 3, 5, 7, 11, 13, 17, 19, …
 
-...and we take the reduced form of all of them:
+…and we take the reduced form of all of them:
 
-> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
-We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to "prime intervals", I refer exclusively to the ones corresponding to primes greater than 3.
+We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to “prime intervals”, I refer exclusively to the ones corresponding to primes greater than 3.
 
-Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" – a form of "minor seventh". Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
+Now, if you are familiar with JI, then you might have heard of 5/4 being called a “just major third” and 7/4 being called a “harmonic seventh” – a form of “minor seventh”. Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of “major third” and “minor seventh” to include intervals that are close to those interval classes.
 
 But if we consider this on a formal level, things start to get weird.
 
@@ -167,7 +167,7 @@ And the difference between 8192/6561 and 5/4:
 
 Why should we choose the major third over the diminished fourth to notate 5/4? Ah, simplicity, I hear you say. The major third is only +4 fifths, while the diminished fourth is the much more complicated −8 fifths. But then in that case, why don't we use the *minor* third to notate 5/4 – clearly it is simpler, only −3 as opposed to +4 fifths. Oh, it's too far away now? Who are *you* to decide the exactly correct balance between simplicity and proximity?
 
-OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question "How do we choose the approximations for each prime interval?" is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
+OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question “How do we choose the approximations for each prime interval?” is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
@@ -184,7 +184,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 > 3. Consider the interval of *k* Pythagorean fifths and call it *P*.
 > 4. Is the difference between *p* and *P* less than the radius of tolerance?
 > 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, ...) and repeat from step 3.
+> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
 > **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = sqrt(33/31).) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
 >
@@ -203,7 +203,7 @@ Here you'll find a [visualization](https://youtu.be/jG7lj98Yy-0).
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
 
-In step 4, the octaves of *p* and *P* are chosen to minimize the "difference", which is the absolute size of the comma candidate (or the **absolute value** of its cent size). In this step only, 16/15 and 15/16 are equivalent. The difference formally refers to $$\text{reb}\left( \frac{p}{3^k} \right)$$.
+In step 4, the octaves of *p* and *P* are chosen to minimize the “difference”, which is the absolute size of the comma candidate (or the **absolute value** of its cent size). In this step only, 16/15 and 15/16 are equivalent. The difference formally refers to $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Although the algorithm may look daunting, it's really fast to carry out in your head. Obviously 5/4 is too far from the octave, fifth, fourth, major second, minor seventh, and major sixth. The only difficult check here is whether it's too far from the minor third. If not, then the major third nails it.
 
@@ -222,13 +222,13 @@ Just like the sharp and flat, the accidental that modifies by such a formal comm
 - In note naming, positive accidentals are written as a superscript of the number itself, and negative ones as a subscript of the number.
 - In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
 
-You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
+You may have noticed that I used the words “positive” and “negative” rather than “upward” and “downward”. This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
 
 Those of you who are already familiar with Ben Johnston's notation for JI will recognize this idea. For the rest of you:
 
 This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 with a +17 accidental attached. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator. It's also where the system gets its name from: the **Functional** Just System; the one that focuses on representing *function* rather than pitch position.
 
-In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now...)
+In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now…)
 
 Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
 
@@ -308,7 +308,7 @@ These identities have several really nice corollaries that are useful to keep in
 
 These identities can also be used to write the first group of missing intervals. Take 15/8. Break it up into its Pythagorean part and the remainder: 3/2 and 5/4. Write each of these in the FJS in turn, and then add those representations together. 3/2 becomes P5, and 5/4 becomes M3<sup>5</sup>. The sum is M7<sup>5</sup>. You just add the intervals as you normally would, and affix the FJS accidentals at the end. This indeed is the representation of 15/8 in the FJS!
 
-Another way to think about it is like so: the fifteenth harmonic is like the fifth harmonic in the dominant key. So to notate 15/8 in the key of C, you can start with an "imaginary modulation" to the key of G. There, your target is simply the fifth harmonic, which becomes B<sup>5</sup>. This is therefore also the representation of 15/8 in the key of C.
+Another way to think about it is like so: the fifteenth harmonic is like the fifth harmonic in the dominant key. So to notate 15/8 in the key of C, you can start with an “imaginary modulation” to the key of G. There, your target is simply the fifth harmonic, which becomes B<sup>5</sup>. This is therefore also the representation of 15/8 in the key of C.
 
 Yet another way to think about it: you may not know what 15/8 is in the FJS in the key of C, but you know what 5/4 is: it's E<sup>5</sup>. You also know that between 5/4 and 15/8 there's 3/2, a Pythagorean interval. So they must have the same FJS accidentals. You also know that this Pythagorean interval between them is a perfect fifth. That uniquely describes the note B<sup>5</sup>, which is correct.
 
@@ -325,13 +325,13 @@ You can check your answers [here](solutions.html).
 
 (At the end of this lesson, you will be provided with techniques to translate *any* ratio to an FJS representation and backwards. However it's useful to keep these methods in mind because they are much quicker and you will generally be using them instead. It's like choosing factorization over the quadratic formula to solve quadratics; it's much faster if you can.)
 
-While you were using the identities you were given to tackle these questions, you may have asked yourself a question: "How would I add, for instance, two M3<sup>5</sup> intervals to each other? What would the result be?" Would it be A5<sup>5</sup>? No, that would be the result of adding M3 to M3<sup>5</sup>. Our case is different, it's adding M3<sup>5</sup> to another M3<sup>5</sup>.
+While you were using the identities you were given to tackle these questions, you may have asked yourself a question: “How would I add, for instance, two M3<sup>5</sup> intervals to each other? What would the result be?” Would it be A5<sup>5</sup>? No, that would be the result of adding M3 to M3<sup>5</sup>. Our case is different, it's adding M3<sup>5</sup> to another M3<sup>5</sup>.
 
 The answer to this question happens to simultaneously be the way the FJS notates the second group of remaining JI intervals: *compound accidentals*.
 
-Any FJS note or interval may have not just one, but any number of FJS accidentals appended to it. The otonal and utonal accidentals are always kept separate, but if there is more than one accidental of the same "x-tonality" (otonality or utonality), they are merged. FJS accidentals merge by multiplication. Why? Because they are all primes; multiplying them – as opposed to, say, adding or concatenating the digits in base ten – will never make you lose information about the original primes, because every positive integer can be uniquely factorized back into its primes, and order does not matter.
+Any FJS note or interval may have not just one, but any number of FJS accidentals appended to it. The otonal and utonal accidentals are always kept separate, but if there is more than one accidental of the same “x-tonality” (otonality or utonality), they are merged. FJS accidentals merge by multiplication. Why? Because they are all primes; multiplying them – as opposed to, say, adding or concatenating the digits in base ten – will never make you lose information about the original primes, because every positive integer can be uniquely factorized back into its primes, and order does not matter.
 
-If the accidentals merge in such a way that you can't easily factorize them in your head (e.g. 119 = 7 × 17), you can write them out as a list with commas between each prime ("commas" being, of course, the punctuation mark, not a tiny musical interval). For example, D<sup>7,17</sup> would mean the exact same thing as D<sup>119</sup>. The convention is to write these primes in non-descending order, but any order is correct. You can also multiply in any combination, so for example you can write G<sup>11,125</sup>, multiplying only some of the factors.
+If the accidentals merge in such a way that you can't easily factorize them in your head (e.g. 119 = 7 × 17), you can write them out as a list with commas between each prime (“commas” being, of course, the punctuation mark, not a tiny musical interval). For example, D<sup>7,17</sup> would mean the exact same thing as D<sup>119</sup>. The convention is to write these primes in non-descending order, but any order is correct. You can also multiply in any combination, so for example you can write G<sup>11,125</sup>, multiplying only some of the factors.
 
 So to answer the original question, the sum of two M3<sup>5</sup> is A5<sup>25</sup>, which neatly fits as the FJS name of the ratio 25/16. Similarly, given that a 7/4 is a m7<sup>7</sup>, you immediately know that a 49/32 will be a m6<sup>49</sup> and a 35/32 will be a M2<sup>35</sup>.
 
@@ -357,7 +357,7 @@ Once compound accidentals have been defined, you can do a lot more with the FJS.
 > - To invert an FJS interval, invert its Pythagorean part and swap the otonal with the utonal accidental.
 > - You can also add an FJS interval to an FJS note, or subtract an FJS note from another FJS note.
 
-When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives "P5<sup>5</sup><sub>5</sub>" which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> (8/7) gives "m3<sup>49</sup><sub>7</sub>" which becomes m3<sup>7</sup> (7/6).
+When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives “P5<sup>5</sup><sub>5</sub>” which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> (8/7) gives “m3<sup>49</sup><sub>7</sub>” which becomes m3<sup>7</sup> (7/6).
 
 Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. You can use a few simple methods if the ratios in question don't involve many primes.
 
@@ -397,14 +397,14 @@ One final note is on pronunciation and ASCII. If you want to communicate using t
 > ### FJS Pronunciation
 >
 > 1. Pronounce the conventional (Pythagorean) part of the note name, or the conventional (Pythagorean) interval.
-> 2. Then, attach the compound otonal accidental (if any) pronounced simply as the number itself, optionally with a "super" prefix.
-> 3. Then, attach the compound utonal accidental (if any) pronounced simply as the number itself with a "sub" prefix.
+> 2. Then, attach the compound otonal accidental (if any) pronounced simply as the number itself, optionally with a “super” prefix.
+> 3. Then, attach the compound utonal accidental (if any) pronounced simply as the number itself with a “sub” prefix.
 
-So for example, E<sup>5</sup> is pronounced "E-five" or "E-super-five", and E♭<sub>5</sub> is pronounced "E-flat-sub-five". An interval such as P4<sup>7</sup><sub>11</sub> would be pronounced "perfect fourth (super) seven sub eleven", where the word "super" is optional and is used to emphasize the division between the name of the interval and the start of the FJS accidentals.
+So for example, E<sup>5</sup> is pronounced “E-five” or “E-super-five”, and E♭<sub>5</sub> is pronounced “E-flat-sub-five”. An interval such as P4<sup>7</sup><sub>11</sub> would be pronounced “perfect fourth (super) seven sub eleven”, where the word “super” is optional and is used to emphasize the division between the name of the interval and the start of the FJS accidentals.
 
-If you split, there's no change. So A<sup>5,17</sup><sub>13</sub> is pronounced "A-(super)-five-seventeen-sub-thirteen". The word "sub" is just a terminator for the otonal part, and marks that the utonal part follows.
+If you split, there's no change. So A<sup>5,17</sup><sub>13</sub> is pronounced “A-(super)-five-seventeen-sub-thirteen”. The word “sub” is just a terminator for the otonal part, and marks that the utonal part follows.
 
-As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written `E^5` or simply `E5`, but M3<sup>5</sup> can only be written `M3^5` (not `M35`, obviously, as that would be a "major thirty-fifth", or a major seventh plus four octaves; M35 would be 243/8 in the FJS).
+As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written `E^5` or simply `E5`, but M3<sup>5</sup> can only be written `M3^5` (not `M35`, obviously, as that would be a “major thirty-fifth”, or a major seventh plus four octaves; M35 would be 243/8 in the FJS).
 
 **That's it!**
 
@@ -444,7 +444,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
+6. (HARD!) There are supporters of the “432 Hz movement”, which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
 
 You can check your answers [here](solutions.html).
 

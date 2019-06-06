@@ -14,7 +14,7 @@ Hier werde ich beide dieser Systeme mit dem FJS vergleichen.
 
 Wie auch das FJS nimmt Helmholtz-Ellis an, dass die übliche Notenschrift die pythagoreische Stimmung wiedergibt. Wie im FJS wird jedes pythagoreische Intervall genau einem üblichen Intervall zugeordnet, und jede reine Quinte hat die Größe von 3/2. Bis zu diesem Punkt sind das FJS und Helmholtz-Ellis also identisch. Wie im FJS promoviert das die Einheitlichkeit und eine Notation, die auf Intervallen, nicht Noten, basiert.
 
-Ben Johnston dagegen ist da ein bisschen... innovativer. Er benutzt eine andere Definition der Stammtöne und üblichen Versetzungszeichen. Traditionelle Notenschrift hat die folgende Bedeutung bei Ben Johnston:
+Ben Johnston dagegen ist da ein bisschen… innovativer. Er benutzt eine andere Definition der Stammtöne und üblichen Versetzungszeichen. Traditionelle Notenschrift hat die folgende Bedeutung bei Ben Johnston:
 
 - F – C – G – D ist eine Kette reiner Quinten (3/2).
 - F – A, C – E, and G – H sind Naturterzen (5/4).
@@ -105,7 +105,7 @@ Wo kommen sie denn also her?
 
 Die Antwort lautet: weder Helmholtz-Ellis noch Johnston geben einen Grund.
 
-Helmholtz-Ellis hat zwar 81/80 (das **syntonische Komma**) und 64/63 (das sog. **himmlische Komma**, auf Englisch "celestial comma" nach Michael Harrison), die meiner Meinung nach wegen ihrer historischen Bedeutung vorkommen. 33/32 und 27/26 sind Vierteltönen des 11- und 13-Limits ähnlich. Die 17- und 19-Kommas basieren auf Übereinstimmungen mit 2er-Potenzen: 256/255 sowie 513/512. Die 23- und 43-Kommas stimmen mit dem FJS überein. Der Rest wirkt zufällig, als ob diese Kommas nach einer blinden Suche in der Obertonreihe gefunden würden.
+Helmholtz-Ellis hat zwar 81/80 (das **syntonische Komma**) und 64/63 (das sog. **himmlische Komma**, auf Englisch „celestial comma“ nach Michael Harrison), die meiner Meinung nach wegen ihrer historischen Bedeutung vorkommen. 33/32 und 27/26 sind Vierteltönen des 11- und 13-Limits ähnlich. Die 17- und 19-Kommas basieren auf Übereinstimmungen mit 2er-Potenzen: 256/255 sowie 513/512. Die 23- und 43-Kommas stimmen mit dem FJS überein. Der Rest wirkt zufällig, als ob diese Kommas nach einer blinden Suche in der Obertonreihe gefunden würden.
 
 Johnston hat natürlich 81/80, um seine eigene Widersprüche zu korrigieren, der Rest der Kommas erkennt man aber nicht, denn sie sind Zuordnungen aus dem 5-Limit zu den Primzahlintervallen, und manche davon sind wirklich merkwürdig. Man würde erwarten, dass 256/255 eher bei Johnston als in Helmholtz-Ellis vorkommen würde; das stimmt aber nicht, Johnston benutzt 51/50, dass den *chromatischen* und nicht den diatonischen Halbton an 17/16 zuordnet.
 
@@ -123,7 +123,7 @@ Schauen wir uns also an, wie man diese Versetzungszeichen überhaupt schreibt.
 
 Marc Sabat und Wolfgang von Schweinitz haben eine Liste für das Helmholtz-Ellis-System entworfen, [die man hier sieht](http://www.marcsabat.com/pdfs/fulllegendE.pdf).
 
-Was ist das denn? Ein einzigartiges Symbol für jedes Limit, das fast gar nicht mit dem Limit selbst verwandt ist? Schade, noch eine andere Serie zufälliger Formen, die man sich merken oder ständig nachschauen muss...
+Was ist das denn? Ein einzigartiges Symbol für jedes Limit, das fast gar nicht mit dem Limit selbst verwandt ist? Schade, noch eine andere Serie zufälliger Formen, die man sich merken oder ständig nachschauen muss…
 
 Das Einzige, was ich bemerken konnte, war durch meine eigene Analyse. Helmholtz-Ellis teilt seine Versetzungszeichen in vier Gruppen nach Größe: Dritteltöne, Vierteltöne, Kommas, und Schismen. Es gibt nur ein Drittelton (27/26) und nur ein Viertelton (33/32); diese schreibt man mit veränderten Vierteltonakzidenzien. Schismen bis zum 31-Limit schreibt man mit Schrägstrichen, oder Plus- und Minus-Zeichen, während Kommas Pfeile benutzen. Von 32 bis 64 werden Klammern in Verbindung mit anderen schon benutzten Versetzungszeichen verwendet, und es sieht wieder zufällig aus.
 
@@ -131,9 +131,9 @@ Dazu funktionieren 5-Limit-Versetzungszeichen noch ganz anders. Anstatt unabhän
 
 Bei Ben Johnston sieht es viel, viel besser aus. Obwohl seine Kommas immer noch zufällige Konstanten sind, sind die Symbole dieser Kommas komplett regelmäßig ab dem 13-Limit. Unregelmäßig sind nur: der 5-Limit mit einem Plus und Minus für ein syntonisches Komma, der 7-Limit mit einem Pfeil, der wie die Ziffer 7 aussieht (genauso wie bei Helmholtz-Ellis) für 35/36, und der 11-Limit mit einem Pfeil nach oben oder unten für 33/32. (Das Versetzungszeichen für den 7-Limit kann man an pythagoreische Versetzungszeichen ankleben, aber hier ist es kein Problem, denn es besteht keine Pflicht.)
 
-Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst für das positive Zeichen... (ja, mit Schwung geht's los!)
+Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst für das positive Zeichen… (ja, mit Schwung geht's los!)
 
-...und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl "11", die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
+…und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl „11“, die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
 
 Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 1097 sowie 109 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
 
@@ -153,7 +153,7 @@ Im FJS sind positive Versetzungszeichen immer otonal und negative immer utonal.
 
 Wahrscheinlich ist dies der Punkt, wo mein Vergleich vielleicht kontrovers ist, denn hier kann ich keinen direkten Grund dafür geben, wieso ich glaube, dass die Indikation von Otonalität/Utonalität besser ist als eine Indikation der Richtung. Das Einzige, was ich dazu sagen kann, ist Folgendes: Nachdem ich das FJS erfunden habe, wo ursprünglich alle Versetzungszeichen noch die Richtung zeigten, und als ich es zur Analyse von einigen JI-Stimmungen benutzte, war mir plötzlich auf einmal klar, dass die Indikation der Richtung überflüssig kompliziert ist, und dass ich sie in eine Indikation der Tonalität ändern werde. Seitdem hat sich mein Denken im FJS drastisch vereinfacht, und blieb so. Ich kann nur hoffen, dass du, der Leser, das auch mit der Zeit verstehst.
 
-Es hätte fast ein Unentschieden zwischen FJS und Johnston sein können. Aber bei Johnston ist 81/80 von dieser Regel ausgenommen. Deswegen jedoch, dass 81/80 einen anderen Rang als andere Versetzungszeichen bei Johnston hat, und deswegen, dass Plus- und Minus-Zeichen wirklich die Konzepte "aufwärts" und "abwärts" übermitteln, werde ich diese kleine Sünde verzeihen.
+Es hätte fast ein Unentschieden zwischen FJS und Johnston sein können. Aber bei Johnston ist 81/80 von dieser Regel ausgenommen. Deswegen jedoch, dass 81/80 einen anderen Rang als andere Versetzungszeichen bei Johnston hat, und deswegen, dass Plus- und Minus-Zeichen wirklich die Konzepte „aufwärts“ und „abwärts“ übermitteln, werde ich diese kleine Sünde verzeihen.
 
 (Falls du denkst, dass die Indikation der Richtung doch besser ist, kannst du Helmholtz-Ellis anstatt dem FJS und Johnston den Punkt geben. Es macht am Ende sowieso keinen Unterschied.)
 
@@ -167,9 +167,9 @@ Wir sehen uns jetzt etwas anderes an: Notennamen (also auch Intervallnamen). Wä
 
 Das Benennen von Noten ist praktisch unmöglich in Helmholtz-Ellis wegen der zufälligen Zeichen, es sei denn, man würde entweder ein komplett anderes System benutzen oder mit der speziellen Helmholtz-Ellis-Schriftart tippen. Das habe ich bisher nicht gesehen.
 
-Was Johnston angeht, sieht es aus, als ob seine Versetzungszeichen so etwas ermöglichen würden. Die Johnston-Notation hat aber auch ein seltsames System, indem manche Versetzungszeichen zwischen dem Stammton und dem pythagoreischen Versetzungszeichen geschrieben werden, und zwar keine Regel, welche. Was man Es<sup>7</sup> im FJS nennen würde, wäre bei Johnston E7♭+ (sic). Das 7-Zeichen wird zwischen dem E und dem Be geschrieben, der Plus aber nach dem Be. Was am meisten wehtut, ist, dass das "himmlische Komma" bei Johnston mit zwei Versetzungszeichen dargestellt wird: zuerst "herunter um ein syntonisches plus ein himmlisches Komma", dann "wieder zurück um ein syntonisches".
+Was Johnston angeht, sieht es aus, als ob seine Versetzungszeichen so etwas ermöglichen würden. Die Johnston-Notation hat aber auch ein seltsames System, indem manche Versetzungszeichen zwischen dem Stammton und dem pythagoreischen Versetzungszeichen geschrieben werden, und zwar keine Regel, welche. Was man Es<sup>7</sup> im FJS nennen würde, wäre bei Johnston E7♭+ (sic). Das 7-Zeichen wird zwischen dem E und dem Be geschrieben, der Plus aber nach dem Be. Was am meisten wehtut, ist, dass das „himmlische Komma“ bei Johnston mit zwei Versetzungszeichen dargestellt wird: zuerst „herunter um ein syntonisches plus ein himmlisches Komma“, dann „wieder zurück um ein syntonisches“.
 
-Johnston hat auch ein hochentwickeltes System der Aussprache seiner Notennamen. Es ähnelt dem des FJS, aber ist viel komplizierter, weil die 5-, 7-, und 11-Kommas unregelmäßige Zeichen haben. Kyle Gann zeigt uns dazu ein Beispiel auf Englisch: "G-sharp-up-arrow-double-sub-seven-minus": etwa "Gis-Pfeil-nach-oben-doppel-sub-sieben-Minus". Das ist viel komplizierter, als das vertrackteste, was man bei dem FJS erfinden könnte, immer genau nach dem Schema: (pythagoreischer Teil)-(optionales "super")-(Otonales)-("sub")-(Utonales), in dieser Reihenfolge. Gann schreibt, dass die Verbindungen der Versetzungszeichen keine standardisierte Reihenfolge haben.
+Johnston hat auch ein hochentwickeltes System der Aussprache seiner Notennamen. Es ähnelt dem des FJS, aber ist viel komplizierter, weil die 5-, 7-, und 11-Kommas unregelmäßige Zeichen haben. Kyle Gann zeigt uns dazu ein Beispiel auf Englisch: „G-sharp-up-arrow-double-sub-seven-minus“: etwa „Gis-Pfeil-nach-oben-doppel-sub-sieben-Minus“. Das ist viel komplizierter, als das vertrackteste, was man bei dem FJS erfinden könnte, immer genau nach dem Schema: (pythagoreischer Teil)-(optionales „super“)-(Otonales)-(„sub“)-(Utonales), in dieser Reihenfolge. Gann schreibt, dass die Verbindungen der Versetzungszeichen keine standardisierte Reihenfolge haben.
 
 Dieses System ist trotzdem besser als gar nichts.
 
@@ -201,7 +201,7 @@ Helmholtz-Ellis kann das auch. Es gibt nur den Unterschied, dass manchmal zwei V
 
 Was ist mit Johnston? Dieselbe Website hat auch einen [Konverter von Johnston zu HE](https://www.plainsound.org/HEJI/johnston.html). Das funktioniert, wenn du dich immer auf den Computer verlassen willst. Oft aber, wenn wir komponieren, wollen wir nicht die ganze Zeit mit Rechnern arbeiten.
 
-Das FJS hat das Verdienst, dass seine Algorithmen sich sehr einfach im Kopf durchführen. Daher kann man es viel schneller verwenden. Aber wenn du dasselbe bei Johnston probieren möchtest...
+Das FJS hat das Verdienst, dass seine Algorithmen sich sehr einfach im Kopf durchführen. Daher kann man es viel schneller verwenden. Aber wenn du dasselbe bei Johnston probieren möchtest…
 
 > *Für jede 5 im Zähler: Addiere eine große Terz. (Und einen Plus bei D.)*
 >
@@ -256,49 +256,49 @@ Ich habe hier Beispiele häufiger JI-Kontexte zusammengefasst, damit man sehen k
 | C♯17 | D    | E♭19 | E   | F7+  | F↑  | F♯23+ | G |
 | G♯   | A♭13 | A+   | H7♭ | H♭29 | H   | H31   | C |
 
-### Das "Well–Tuned Piano" von La Monte Young
+### Das „Well–Tuned Piano“ von La Monte Young
 
 **Youngs Notation.** (Die Noten sind nach Tonhöhe sortiert, deshalb steht Gis vor G, weil es eine niedrigere Tonhöhe ist.)
 
-Es, E, F, Fis, Gis, G, A, B, H, Cis, C, D, Es.
+> Es, E, F, Fis, Gis, G, A, B, H, Cis, C, D, Es.
 
 **FJS.** Genauso kurz wie Young, ohne sich auf zufälliger Zuordnung der Tastatur zu verlassen. Notiert auch den Grundton mit seinem richtigen Namen, in Bezug auf A = 440 Hz, die Stimmung von Youngs Klavier.
 
-D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+> D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
 
 So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
-Es, F<sup>7</sup>, F, Ges<sup>49</sup>, As<sup>49</sup>, As<sup>7</sup>, B<sup>7</sup>, B, Ces<sup>49</sup>, Des<sup>49</sup>, Des<sup>7</sup>, Es<sup>7</sup>, Es.
+> Es, F<sup>7</sup>, F, Ges<sup>49</sup>, As<sup>49</sup>, As<sup>7</sup>, B<sup>7</sup>, B, Ces<sup>49</sup>, Des<sup>49</sup>, Des<sup>7</sup>, Es<sup>7</sup>, Es.
 
 **Helmholtz–Ellis.** Genauso kurz wie das FJS bei Es.
 
-Es, F−7, F, Ges−7−7, As−7−7, As−7, B−7, B, Ces−7−7, Des−7−7, Des−7, Es−7, Es.
+> Es, F−7, F, Ges−7−7, As−7−7, As−7, B−7, B, Ces−7−7, Des−7−7, Des−7, Es−7, Es.
 
 **Ben Johnston.** Viel zu lang. Beachte auch die vielen syntonischen Kommas in einer Stimmung mit keinem 5er–Faktor.
 
-E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+> E♭, F7++, F+, G77♭+, A77♭++, A7♭+, H7♭+, H♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
 
-### Die "Harp of New Albion" von Terry Riley
+### Die „Harp of New Albion“ von Terry Riley
 
 **Rileys Notation.**
 
-Cis, D, Dis, E, Eis, Fis, G, Gis, A, Ais, H, His, Cis.
+> Cis, D, Dis, E, Eis, Fis, G, Gis, A, Ais, H, His, Cis.
 
 **FJS.** Die pythagoreischen Tonhöhen stimmen mit Riley überein.
 
-Cis<sup>5</sup>, D, Dis<sup>5</sup>, E, Eis<sup>25</sup>, Fis<sup>5</sup>, G, Gis<sup>5</sup>, A, Ais<sup>25</sup>, H<sup>5</sup>, His<sup>25</sup>, Cis<sup>5</sup>.
+> Cis<sup>5</sup>, D, Dis<sup>5</sup>, E, Eis<sup>25</sup>, Fis<sup>5</sup>, G, Gis<sup>5</sup>, A, Ais<sup>25</sup>, H<sup>5</sup>, His<sup>25</sup>, Cis<sup>5</sup>.
 
 **Helmholtz-Ellis.** Beinahe identisch wie das FJS. Ein Unentschieden.
 
-Cis−5, D, Dis−5, E, Eis−5−5, Fis−5, G, Gis−5, A, Ais−5−5, H−5, His−5−5, Cis−5.
+> Cis−5, D, Dis−5, E, Eis−5−5, Fis−5, G, Gis−5, A, Ais−5−5, H−5, His−5−5, Cis−5.
 
 **Ben Johnston.** Angeblich für 5-Limit-Musik optimal. Es hat ungefähr drei Minuten gedauert, das umzurechnen.
 
-C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, H−−, H♯−, C♯−.
+> C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, H−−, H♯−, C♯−.
 
 ### Notationsvergleich
 
-Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen... na ja, sieh dir es mal an.
+Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen… na ja, sieh dir es mal an.
 
 Hör zu:
 

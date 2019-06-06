@@ -1,4 +1,4 @@
-﻿# La description formale complète
+﻿# La description formelle complète
 
 Ce site est *de facto* un manuel du FJS. Vous trouvez ici toutes les règles dont vous avez besoin pour utiliser le FJS, y compris le système des abréviations. Pourtant, la lecture de cette page ne vous sera pas utile si vous n'avez pas encore lu le [cours intensif](crash.html).
 
@@ -17,7 +17,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 > 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes. Nommez-le *P*.
 > 4. Est-ce que la différence entre *p* et *P* s'élève à moins que le rayon de tolérance?
 > 5. Si oui, *k* égale la fonction génératrice. Fin.
-> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, ...), et retournez à l'étape 3.
+> 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, …), et retournez à l'étape 3.
 >
 > Dans l'étape 4, la différence dont on parle, c'est la **valeur absolue** du nombre de cents de $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
@@ -60,13 +60,13 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 1. Pour la notation conventionnelle, le FJS utilise l'accord pythagoricien. Donc Do–Mi est 81/64, Do–Ré♭ est 256/243, Ré♭–Do♯ est 531441/524288, etc.
 
-2. Un seul comma du nombre premier *p* (au-delà de 3) utilisera le nombre *p* (de préférence: en indice supérieur) pour indiquer une déviation de ce comma **dans la direction originale**. Exemple: Mi<sup>5</sup> est **plus bas** que Mi de 81/80 (puisque le comma de 5 égale 80/81); Fa<sup>11</sup> est **plus haut** que Fa de 33/32 (puisque le comma de 11 égale 33/32). On prononce ces noms en ajoutant le nombre au nom conventionnel: «Mi-cinq», «Fa-onze». Il est permis aussi de les séparer avec un préfixe «super» pour accentuer la séparation. La direction originale reste inchangée.
+2. Un seul comma du nombre premier *p* (au-delà de 3) utilisera le nombre *p* (de préférence: en indice supérieur) pour indiquer une déviation de ce comma **dans la direction originale**. Exemple: Mi<sup>5</sup> est **plus bas** que Mi de 81/80 (puisque le comma de 5 égale 80/81); Fa<sup>11</sup> est **plus haut** que Fa de 33/32 (puisque le comma de 11 égale 33/32). On prononce ces noms en ajoutant le nombre au nom conventionnel: « Mi-cinq », « Fa-onze ». Il est permis aussi de les séparer avec un préfixe « super » pour accentuer la séparation. La direction originale reste inchangée.
 
-3. Un seul comma du nombre premier *p* utilisera le nombre *p* en indice inférieur pour indiquer une déviation de ce comma **dans l'inverse de la direction originale**. Exemple: Mi♭<sub>5</sub> est plus haut que Mi♭ de 81/80; La<sub>19</sub> est plus bas que La de 513/512. On prononce ces noms en ajoutant le préfixe «sub», donc: «Mi-bémol-sub-cinq», «La-sub-dix-neuf».
+3. Un seul comma du nombre premier *p* utilisera le nombre *p* en indice inférieur pour indiquer une déviation de ce comma **dans l'inverse de la direction originale**. Exemple: Mi♭<sub>5</sub> est plus haut que Mi♭ de 81/80; La<sub>19</sub> est plus bas que La de 513/512. On prononce ces noms en ajoutant le préfixe « sub », donc: « Mi-bémol-sub-cinq », « La-sub-dix-neuf ».
 
 4. Pour représenter des déviations composées **dans la même orientation** (toutes otonales ou toutes utonales), **multipliez** les nombres des commas (ne les additionnez ou enchaînez pas), parce que ces nombres sont tous premiers, et seulement la multiplication de nombres premiers peut être décomposée d'une seule façon, ce qui est dû au théorème fondamental de l'arithmétique. Nous pouvons alors toujours savoir les nombres premiers qui étaient multipliés (l'ordre ne fait aucune différence). Exemple: Sol♯<sup>25</sup> est plus bas que Sol♯ de deux 81/80 et il n'y a que cette interprétation parce que 25 = 5 × 5 et il n'y a que cette factorisation.
 
-5. Le produit peut généralement être factorisé mentalement. Les produits les plus fréquents sont tous bien connus: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121. Dans le cas où il n'est pas du tout claire (par exemple 119 = 7 × 17), on peut utiliser une notation alternative où tous les facteurs sont écrits en séquence, avec des virgules entre eux. L'exemple ci-dessus peut alors être écrit comme Sol♯<sup>5,5</sup>, les deux notations sont correctes. Si on écrit des commas en séquence, il est d'habitude de les écrire dans un ordre non décroissant. Donc Ré<sup>119</sup> serait Ré<sup>7,17</sup> plutôt que Ré<sup>17,7</sup>. Les deux extrêmes peuvent aussi être combinées comme vous voulez, en multipliant certains facteurs, mais pas tous; donc Sol<sup>11,125</sup> est identique à Sol<sup>1375</sup>. La prononciation n'est pas changée: «Sol-onze-cent-vingt-cinq».
+5. Le produit peut généralement être factorisé mentalement. Les produits les plus fréquents sont tous bien connus: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121. Dans le cas où il n'est pas du tout claire (par exemple 119 = 7 × 17), on peut utiliser une notation alternative où tous les facteurs sont écrits en séquence, avec des virgules entre eux. L'exemple ci-dessus peut alors être écrit comme Sol♯<sup>5,5</sup>, les deux notations sont correctes. Si on écrit des commas en séquence, il est d'habitude de les écrire dans un ordre non décroissant. Donc Ré<sup>119</sup> serait Ré<sup>7,17</sup> plutôt que Ré<sup>17,7</sup>. Les deux extrêmes peuvent aussi être combinées comme vous voulez, en multipliant certains facteurs, mais pas tous; donc Sol<sup>11,125</sup> est identique à Sol<sup>1375</sup>. La prononciation n'est pas changée: « Sol-onze-cent-vingt-cinq ».
 
 6. Des produits de commas positifs et négatifs sont indépendants. Dans le cas où il y a les deux, on écrit en même temps un indice supérieur et inférieur. Exemple: Fa<sup>7</sup><sub>5</sub> signifie un Fa baissé de 64/63 et élevé de 81/80 (ou à l'inverse: élevé de 81/80 et puis baissé de 64/63, sans différence). Les produits des commas positifs et négatifs sont toujours premiers entre eux: sinon, il y a des facteurs qui peuvent être annulés; \*Do<sup>35</sup><sub>5</sub> est identique à Do<sup>7</sup>.
 
@@ -110,7 +110,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 2. Il n'y a aucune différence entre les lignes de transposition *alta* ou *bassa* pour le FJS.
 
-3. Une ligne de transposition FJS commence avec une altération composée FJS, de la même manière que si elle était sur la portée. +5 devient donc «5» et +7−5 devient «7−5», etc. Il n'est pas obligatoire d'écrire «loco» lorsqu'elle termine.
+3. Une ligne de transposition FJS commence avec une altération composée FJS, de la même manière que si elle était sur la portée. +5 devient donc « 5 » et +7−5 devient « 7−5 », etc. Il n'est pas obligatoire d'écrire « loco » lorsqu'elle termine.
 
 4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs normales dues aux altérations accidentelles et celles d'armure.
 

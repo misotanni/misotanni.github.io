@@ -14,7 +14,7 @@ Ici, je compare ces deux systèmes au FJS.
 
 Comme aussi le FJS, Helmholtz-Ellis définit que la notation conventionnelle sert à représenter l'accord pythagoricien. Chaque intervalle pythagoricien n'a qu'une représentation avec un intervalle conventionnel, et chaque quinte juste s'élève à 3/2. Jusqu'à ici, il est donc identique au FJS. Comme dans le FJS, cela favorise la cohésion et une notation basée sur des intervalles, pas des notes concrètes.
 
-En revanche, Ben Johnston est un peu plus... innovatif. Il utilise une définition différente de la notation conventionnelle, celle ci-dessous:
+En revanche, Ben Johnston est un peu plus… innovatif. Il utilise une définition différente de la notation conventionnelle, celle ci-dessous:
 
 - Fa – Do – Sol – Ré est une chaîne de quintes justes (3/2).
 - Fa – La, Do – Mi, et Sol – Si sont des tierces majeures justes (5/4).
@@ -123,7 +123,7 @@ Voyons alors comment on écrit ces altérations.
 
 Marc Sabat et Wolfgang von Schweinitz ont développé une liste pour le système Helmholtz-Ellis: [voici](http://www.marcsabat.com/pdfs/fulllegendE.pdf).
 
-Mais qu'est-ce que cela? Un symbole unique pour chaque limite qui n'est presque pas du tout associé avec le limite lui-même? Dommage, encore une liste de formes choisies par hasard qu'on doit soit mémoriser, soit chercher...
+Mais qu'est-ce que cela? Un symbole unique pour chaque limite qui n'est presque pas du tout associé avec le limite lui-même? Dommage, encore une liste de formes choisies par hasard qu'on doit soit mémoriser, soit chercher…
 
 Les seuls cohérences que j'ai pu trouver sont grâce à ma propre analyse. Helmholtz-Ellis trie ses altérations en quatre groupes selon la hauteur: des tiers de ton, des quarts de ton, des commas, et des schismes. Il n'y a qu'un seul tiers de ton (27/26) et un seul quart de ton (33/32), ils utilisent des altérations de quart de ton un peu modifiées. Les schismes jusqu'au 31-limite utilisent soit des barres obliques, soit des signes plus et moins, pendant que les commas utilisent des flèches. De 32 à 64, on utilise des parenthèses avec des altérations déjà utilisées avant, choisi de retour par hasard.
 
@@ -131,9 +131,9 @@ De plus, les altérations du 5-limite fonctionnent d'une manière complètement 
 
 Ben Johnston se comporte beaucoup mieux. Bien que ses commas sont toujours une liste de constantes choisies sans aucune règle, les symboles pour ces commas sont complètement réguliers à partir du 13-limite. Les seuls irréguliers: le 5-limite avec un signe plus et moins pour le comma syntonique, le 7-limite avec une flèche basée sur le chiffre 7 (le même que chez Helmholtz-Ellis) pour 35/36, et le 11-limite avec une flèche conventionnelle pour 33/32. (On peut apposer les altérations pour le 7-limite aux altérations pythagoriciennes, mais ici ce n'est pas obligatoire, donc aucun problème.)
 
-À partir du 13-limite, chaque altération utilise tout simplement le nombre premier lui-même pour l'altération positive... (oui, continuez comme ça!)
+À partir du 13-limite, chaque altération utilise tout simplement le nombre premier lui-même pour l'altération positive… (oui, continuez comme ça!)
 
-...et le nombre premier *renversé* pour l'altération négative. Quoi? La seule raison pour laquelle ce n'est pas un problème **énorme**, c'est que le 11-limite est lui-même représenté par un symbole irrégulier, pas le nombre 11, qui ne change pas d'apparence lorsqu'il est renversé si on écrit le chiffre 1 avec une ligne verticale. Sinon, 686989 est le plus petit nombre avec ce problème.
+…et le nombre premier *renversé* pour l'altération négative. Quoi? La seule raison pour laquelle ce n'est pas un problème **énorme**, c'est que le 11-limite est lui-même représenté par un symbole irrégulier, pas le nombre 11, qui ne change pas d'apparence lorsqu'il est renversé si on écrit le chiffre 1 avec une ligne verticale. Sinon, 686989 est le plus petit nombre avec ce problème.
 
 Le FJS utilise le nombre lui-même pour toutes les altérations et les compose en les multipliant. Je suppose que celles de Johnston seraient composées tout simplement en les enchaînant (ce qui est parfois équivoque; 1097, 109, et 7 sont tous des nombres premiers), mais je ne l'ai jamais vu chez Johnston.
 
@@ -169,7 +169,7 @@ Il est presque impossible de nommer des notes chez Helmholtz-Ellis à cause de s
 
 Chez Johnston, il semble que ses altérations pourraient permettre cela. Mais la notation de Johnston a aussi un système bizarre où quelques altérations sont écrites entre le ton diatonique et l'altération pythagoricienne, et il n'y a aucune règle pour cela. Si on voudrait écrire Mi♭<sup>7</sup> dans le FJS, ce serait Mi7♭+ chez Johnston (oui!). Le signe 7 est écrit entre le Mi est le ♭, mais le signe plus est écrit après le ♭. Il saute le plus aux yeux que le *comma céleste* chez Johnston est représenté avec deux altérations: premièrement *baisse d'un comma syntonique et céleste*, puis *rehausse d'un syntonique*.
 
-Johnston a aussi un système profond pour la prononciation de ces noms. Il est similaire à celui du FJS, mais beaucoup plus compliqué, parce que les commas pour 5, 7, et 11 utilisent des symboles irréguliers. Kyle Gann démontre un exemple en anglais: «G-sharp-up-arrow-double-sub-seven-minus» (environ «Sol-dièse-flèche-en-haut-double-sub-sept-moins»). Cela est beaucoup plus compliqué que le nom le plus compliqué chez le FJS, qui suit toujours le schéma suivant: (partie pythagoricienne)-(préfixe «super» optionnel)-(otonal)-(«sub»)-(utonal) dans cet ordre. Gann écrit que les combinaisons des altérations ne sont pas uniformisées chez Johnston.
+Johnston a aussi un système profond pour la prononciation de ces noms. Il est similaire à celui du FJS, mais beaucoup plus compliqué, parce que les commas pour 5, 7, et 11 utilisent des symboles irréguliers. Kyle Gann démontre un exemple en anglais: « G-sharp-up-arrow-double-sub-seven-minus » (environ « Sol-dièse-flèche-en-haut-double-sub-sept-moins »). Cela est beaucoup plus compliqué que le nom le plus compliqué chez le FJS, qui suit toujours le schéma suivant: (partie pythagoricienne)-(préfixe « super » optionnel)-(otonal)-(« sub »)-(utonal) dans cet ordre. Gann écrit que les combinaisons des altérations ne sont pas uniformisées chez Johnston.
 
 Ce système est pourtant meilleur que rien.
 
@@ -201,7 +201,7 @@ Chez Helmholtz-Ellis ça marche aussi. Il y a seulement une différence: Helmhol
 
 Et Johnston? Le même site a aussi une [calculatrice de Johnston à HE](https://www.plainsound.org/HEJI/johnston.html). Cela fonctionne si vous voulez toujours être dépendant de votre ordinateur. Néanmoins, souvent quand on compose, on ne veut pas toujours travailler sur l'ordinateur.
 
-Le FJS a l'avantage énorme que ses algorithmes sont très faciles à réaliser mentalement. C'est pourquoi on peut l'utiliser très vite. Mais si vous vouliez essayer le même chez Johnston...
+Le FJS a l'avantage énorme que ses algorithmes sont très faciles à réaliser mentalement. C'est pourquoi on peut l'utiliser très vite. Mais si vous vouliez essayer le même chez Johnston…
 
 > *Pour chaque 5 dans le numérateur: Additionnez une tierce majeure. (Un signe plus pour Ré.)*
 >
@@ -260,45 +260,45 @@ Vous voyez ici donc des exemples de contextes JI très fréquents pour qu'on voi
 
 **Notation de Young.** (Les notes sont arrangés selon leur hauteur absolue, donc Sol♯ devant Sol puisqu'il est plus bas.)
 
-Mi♭, Mi, Fa, Fa♯, Sol♯, Sol, La, Si♭, Si, Do♯, Do, Ré, Mi♭.
+> Mi♭, Mi, Fa, Fa♯, Sol♯, Sol, La, Si♭, Si, Do♯, Do, Ré, Mi♭.
 
 **FJS.** Aussi court que Young, sans devoir compter sur une attribution abstraite du clavier. Il écrit aussi la tonique en utilisant son vrai nom, d'après La = 440 Hz, l'accord du piano de Young.
 
-Ré<sub>7</sub>, Mi, Mi<sub>7</sub>, Fa<sup>7</sup>, Sol<sup>7</sup>, Sol, La, La<sub>7</sub>, Si♭<sup>7</sup>, Do<sup>7</sup>, Do, Ré, Ré<sub>7</sub>.
+> Ré<sub>7</sub>, Mi, Mi<sub>7</sub>, Fa<sup>7</sup>, Sol<sup>7</sup>, Sol, La, La<sub>7</sub>, Si♭<sup>7</sup>, Do<sup>7</sup>, Do, Ré, Ré<sub>7</sub>.
 
 L'échelle sur Mi♭ est un peu plus longue.
 
-Mi♭, Fa<sup>7</sup>, Fa, Sol♭<sup>49</sup>, La♭<sup>49</sup>, La♭<sup>7</sup>, Si♭<sup>7</sup>, Si♭, Do♭<sup>49</sup>, Ré♭<sup>49</sup>, Ré♭<sup>7</sup>, Mi♭<sup>7</sup>, Mi♭.
+> Mi♭, Fa<sup>7</sup>, Fa, Sol♭<sup>49</sup>, La♭<sup>49</sup>, La♭<sup>7</sup>, Si♭<sup>7</sup>, Si♭, Do♭<sup>49</sup>, Ré♭<sup>49</sup>, Ré♭<sup>7</sup>, Mi♭<sup>7</sup>, Mi♭.
 
 **Helmholtz-Ellis.** Aussi court que le FJS sur Mi♭.
 
-Mi♭, Fa−7, Fa, Sol♭−7−7, La♭−7−7, La♭−7, Si♭−7, Si♭, Do♭−7−7, Ré♭−7−7, Ré♭−7, Mi♭−7, Mi♭.
+> Mi♭, Fa−7, Fa, Sol♭−7−7, La♭−7−7, La♭−7, Si♭−7, Si♭, Do♭−7−7, Ré♭−7−7, Ré♭−7, Mi♭−7, Mi♭.
 
 **Ben Johnston.** Beaucoup trop long. Remarquez aussi les commas syntoniques, bien sûr dans un accord sans aucun facteur de 5.
 
-Mi♭, Fa7++, Fa+, Sol77♭+, La77♭++, La7♭+, Si7♭+, Si♭, Do77♭+, Ré77♭+, Ré7♭, Mi7♭+, Mi♭.
+> Mi♭, Fa7++, Fa+, Sol77♭+, La77♭++, La7♭+, Si7♭+, Si♭, Do77♭+, Ré77♭+, Ré7♭, Mi7♭+, Mi♭.
 
 ### La "Harp of New Albion" par Terry Riley
 
 **Notation de Riley.**
 
-Do♯, Ré, Ré♯, Mi, Mi♯, Fa♯, Sol, Sol♯, La, La♯, Si, Si♯, Do♯.
+> Do♯, Ré, Ré♯, Mi, Mi♯, Fa♯, Sol, Sol♯, La, La♯, Si, Si♯, Do♯.
 
 **FJS.** Les tons pythagoriciens sont identiques à ceux de Riley.
 
-Do♯<sup>5</sup>, Ré, Ré♯<sup>5</sup>, Mi, Mi♯<sup>25</sup>, Fa♯<sup>5</sup>, Sol, Sol♯<sup>5</sup>, La, La♯<sup>25</sup>, Si<sup>5</sup>, Si♯<sup>25</sup>, Do♯<sup>5</sup>.
+> Do♯<sup>5</sup>, Ré, Ré♯<sup>5</sup>, Mi, Mi♯<sup>25</sup>, Fa♯<sup>5</sup>, Sol, Sol♯<sup>5</sup>, La, La♯<sup>25</sup>, Si<sup>5</sup>, Si♯<sup>25</sup>, Do♯<sup>5</sup>.
 
 **Helmholtz-Ellis.** Presque identique au FJS, un remis.
 
-Do♯−5, Ré, Ré♯−5, Mi, Mi♯−5−5, Fa♯−5, Sol, Sol♯−5, La, La♯−5−5, Si−5, Si♯−5−5, Do♯−5.
+> Do♯−5, Ré, Ré♯−5, Mi, Mi♯−5−5, Fa♯−5, Sol, Sol♯−5, La, La♯−5−5, Si−5, Si♯−5−5, Do♯−5.
 
 **Ben Johnston.** Dit optimal pour la musique du 5-limite. Les calculs pour cette séquence ont duré environ trois minutes.
 
-Do♯−, Ré−−, Ré♯−, Mi−, Mi♯−, Fa♯−, Sol−−, Sol♯−, La−, La♯−, Si−−, Si♯−, Do♯−.
+> Do♯−, Ré−−, Ré♯−, Mi−, Mi♯−, Fa♯−, Sol−−, Sol♯−, La−, La♯−, Si−−, Si♯−, Do♯−.
 
 ### Comparaison de notation
 
-Dans cette [comparaison](../assets/comparison.pdf) de la pratique des trois systèmes, on voit une harmonisation d'une mélodie médiévale dans le mode dorien sur Ré, 12 mesures. Le fait que c'est le 5-limite donnerait certes un avantage injuste à Johnston... voyez vous-même.
+Dans cette [comparaison](../assets/comparison.pdf) de la pratique des trois systèmes, on voit une harmonisation d'une mélodie médiévale dans le mode dorien sur Ré, 12 mesures. Le fait que c'est le 5-limite donnerait certes un avantage injuste à Johnston… voyez vous-même.
 
 Vous pouvez aussi écouter:
 

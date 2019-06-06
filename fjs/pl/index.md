@@ -35,7 +35,7 @@ Jeżeli zadajesz takie pytanie, dobrej odpowiedzi prawdopodobnie nie znajdziesz 
 
 Przeważająca większość współczesnej (a także nowożytnej) muzyki opiera się na **(dwunastostopniowym) stroju równomiernie temperowanym**, czyli takim, który dzieli oktawę na 12 równych interwałów. **Stroje naturalne** są metodami strojenia i wyrażania wysokości dźwięków, które znacząco różnią się od tego ogólnie przyjętej równomiernej temperacji; opierają się one na seriach alikwotowych oraz nieodłącznych właściwościach akustycznych dźwięku. I choć JI nie używa się już w muzyce klasycznej (czy w większości nurtów muzyki współczesnej), nadal ma wagę dla teorii muzyki, ponieważ naturalne stroje były w kręgach dawnych kultur i w średniowieczu codzienną rzeczą, a dalej stanowią podstawę muzyki tradycyjnej poza Europą. Znajdują też swoje miejsce w muzyce awangardowej. (Nie wspominam już o aspekcie estetycznym tak strojonej muzyki).
 
-By zrozumieć i móc sprawnie posługiwać się FJS, potrzebna jest podstawowa znajomość strojów naturalnych (oprócz niezaawansowanych zasad muzyki). **Im większe doświadczenie** ze strojami naturalnymi i muzyką tworzoną w tych strojach posiądziesz, **tym sprawniej i płynniej** będziesz operował FJS-em.
+By zrozumieć i móc sprawnie posługiwać się FJS, potrzebna jest podstawowa znajomość strojów naturalnych (oprócz niezaawansowanych zasad muzyki). **Im większe doświadczenie** ze strojami naturalnymi i muzyką tworzoną w tych strojach posiądziesz, **tym sprawniej i płynniej** będziesz operował FJS-em.
 
 Jeżeli życzysz sobie zapoznać się z podstawową teorią strojenia naturalnego, polecam [„Just Intonation Explained”](https://www.kylegann.com/tuning.html) autorstwa Kyle'a Ganna, twórcy wielu utworów w JI.
 
@@ -65,7 +65,7 @@ Dlaczego więc podjąłem się takiego zadania pomimo tych trudności? To dlateg
 
 **Tak – pozwoliłoby.**
 
-FJS to coś więcej niż metoda zapisu dla strojów naturalnych. Nie tylko ułatwiła mi ona zrozumienie na głębszym poziomie tego bezkształtnego rozgardiaszu, którym wydawało mi się na początku JI, ale również uświadomiła mi, że notacja pięcioliniowa jest o wiele bardziej uporządkowana i powiązana z FJS-em, niż mogłem sobie wyobrazić. Zachęcam i Ciebie do odkrycia drzemiącego w FJS-ie piękna i prostoty oraz pojęcia płynnego współdziałania dzięki niemu dwóch inaczej niemożliwych do pogodzenia idei.
+FJS to coś więcej niż metoda zapisu dla strojów naturalnych. Nie tylko ułatwiła mi ona zrozumienie na głębszym poziomie tego bezkształtnego rozgardiaszu, którym wydawało mi się na początku JI, ale również uświadomiła mi, że notacja pięcioliniowa jest o wiele bardziej uporządkowana i powiązana z FJS-em, niż mogłem sobie wyobrazić. Zachęcam i Ciebie do odkrycia drzemiącego w FJS-ie piękna i prostoty oraz pojęcia płynnego współdziałania dzięki niemu dwóch inaczej niemożliwych do pogodzenia idei.
 
 Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, by sprawdzić, jak posługiwanie się logicznym i spójnym językiem wpłynęłoby na procesy myślowe. Uważam, że FJS jest jak Lożban mikrotonalnej muzyki. Tak samo, jak dzięki Lożbanowi zacząłem myśleć przejrzyście i logicznie, FJS może pomóc Tobie myśleć *w* JI, a Twoim kompozycjom, analizom i wykonaniom muzyki naturalnie strojonej zazębiać się gładko z już nabytą wiedzą teoretyczną, gdyż FJS przeplata elementy teorii klasycznej i JI-owej.
 
