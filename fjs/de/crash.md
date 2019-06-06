@@ -65,9 +65,9 @@ $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
 Oder, ein bisschen leichter beim Kopfrechnen:
 
-$$\text{reb}(d)=\text{red}(d) \text{ , } d < \sqrt{2}$$
+$$\text{reb}(d)=\text{red}(d) \text{ , } \text{red}(d) < \sqrt{2}$$
 
-$$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } d \geq \sqrt{2}$$
+$$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}$$
 
 Das ist alles, was du brauchst. Fangen wir also an!
 
