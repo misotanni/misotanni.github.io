@@ -80,7 +80,7 @@ i ma prali lo zgipre lo ka pilno fy
 i pilno mu'i ma
 i mo filri'a lo ka finti lo cuvyto'aci'e zgike kei e lo ka lanli ri
 i ma jai mu'i troci lo nu lo fadni zgisnici'e cu krati cy ty
-i li'a lo zgisnici'e cu se finti fi tu'a lo zgike poi se jicmu lo mu zei togyku'e cukla jo'u lo cistrxiioniiano
+i li'a lo zgisnici'e cu se finti fi tu'a lo zgike poi se jicmu lo vontogyku'e cukpoi jo'u lo cistrxiioniiano
 i je bo cy ty se pagbu loi parbi poi simxu lo ka ckini fi lo melbi je zgike bo fange ku'i
 i lo cy ty zgike cu frica lo zgike poi ma'a ta'e finti vau lo ka javni
 i se ni'i ba'a dai bo juxre fa lo jalge be lo nu snigau fi cy ty su'o tamsmi
