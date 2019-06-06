@@ -26,7 +26,7 @@ $$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \fra
 
 ## 2. Satz
 
-**Jede positive rationale Zahl kann auf nur eine Weise in Primfaktoren zerlegt werden, wobei die Exponenten ganze Zahlen sind.** („Fundamentalsatz der Harmonie“)
+**Jede positive rationale Zahl kann auf nur eine Weise in Primfaktoren zerlegt werden, wobei die Exponenten ganze Zahlen sind.** ("Fundamentalsatz der Harmonie")
 
 Für den Beweis beginnen wir mit dem Fundamentalsatz der Arithmetik, der Fähigkeit, jede positive ganze Zahl auf nur eine Weise in Primfaktoren zu zerlegen, wobei die Exponenten natürliche Zahlen sind. Die Notation p⁡(*n*) bedeutet hier wie üblich die *n*-te Primzahl, also $$\text{p}(1)=2$$.
 
@@ -54,7 +54,7 @@ Die Zahlen *p* und *q* sind bereits Primzahlen, das ist also auch schon die Prim
 
 Dies ist ein Widerspruch, denn der Fundamentalsatz der Arithmetik gibt an, dass es nur eine Weise gibt, jede positive ganze Zahl in Primfaktoren zu zerlegen. Hier haben wir angeblich zwei verschiedene Primfaktorzerlegungen derselben Zahl. Den Widerspruch kann man vermeiden, indem *n*, *m* beide gleich null sind (dann sind es zwei verschiedene Darstellungen der Zahl 1). Das aber ist wiederum ein Widerspruch mit der Annahme, dass *n*, *m* beide ungleich null sind.&nbsp;∎
 
-**Folge.** Mit *p* = 2, *q* = 3 erhalten wir eine Aussage über Oktaven und reine Duodezimen, also Quinten. Das heißt, ein „Quintenzirkel“ aus 3/2-Quinten schließt sich niemals.
+**Folge.** Mit *p* = 2, *q* = 3 erhalten wir eine Aussage über Oktaven und reine Duodezimen, also Quinten. Das heißt, ein "Quintenzirkel" aus 3/2-Quinten schließt sich niemals.
 
 ## 4. Satz
 
@@ -68,7 +68,7 @@ Das ist ein Fragment einer Kette von Quinten mit D als Ursprung:
 
 −3, −2, −1, 0, +1, +2, +3
 
-Diese ganzen Zahlen stellen die Anzahl der Quintenschritte in dieser „Quintenspirale“ dar; positive Zahlen bedeuten die Addition von Quinten und negative die Subtraktion.
+Diese ganzen Zahlen stellen die Anzahl der Quintenschritte in dieser "Quintenspirale" dar; positive Zahlen bedeuten die Addition von Quinten und negative die Subtraktion.
 
 Beachte aber, dass wir schon wissen, wie man diese Kette erweitern kann. Das Kreuz und das Be sind genau so definiert, dass B zu F eine reine Quinte ist, ebenso H zu Fis. Wir addieren also eine Kopie der Tonleiter mit Kreuzen und eine mit Be, und erhalten deswegen die Kette bis zu −10 und +10:
 

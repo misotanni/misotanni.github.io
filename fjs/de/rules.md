@@ -17,7 +17,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 > 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
 > 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
 > 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
-> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
+> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, ...) und wiederhole ab dem 3. Schritt.
 >
 > Beim 4. Schritt ist die gemeinte Differenz der **Betrag** der Cent-Größe von $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
@@ -60,13 +60,13 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 1. Für übliche Notenschrift benutzt das FJS die pythagoreische Stimmung. D.h. C–E ist 81/64, C–Des ist 256/243, Des–Cis ist 531441/524288, usw.
 
-2. Ein einziges Komma der Primzahl *p* (größer als 3) wird die Zahl „p“ selbst (am besten hochgestellt) benutzen, um eine Abweichung um dieses Komma **in der Originalrichtung** darzustellen. Z.B. E<sup>5</sup> ist um 81/80 **niedriger** als E (da das Komma von 5 80/81 beträgt); F<sup>11</sup> ist um 33/32 **höher** als F (da das Komma von 11 33/32 beträgt). Diese Notennamen spricht man aus, indem die Zahl dazugeklebt wird: „E-fünf“, „F-elf“. Dazu kann optional das Präfix „super“ hinzugefügt werden, um die Trennung zu betonen. Gedenke, dass die Originalrichtung erhalten bleibt.
+2. Ein einziges Komma der Primzahl *p* (größer als 3) wird die Zahl "p" selbst (am besten hochgestellt) benutzen, um eine Abweichung um dieses Komma **in der Originalrichtung** darzustellen. Z.B. E<sup>5</sup> ist um 81/80 **niedriger** als E (da das Komma von 5 80/81 beträgt); F<sup>11</sup> ist um 33/32 **höher** als F (da das Komma von 11 33/32 beträgt). Diese Notennamen spricht man aus, indem die Zahl dazugeklebt wird: "E-fünf", "F-elf". Dazu kann optional das Präfix "super" hinzugefügt werden, um die Trennung zu betonen. Gedenke, dass die Originalrichtung erhalten bleibt.
 
-3. Ein einziges Komma der Primzahl *p* wird die Zahl „p“ tiefgestellt benutzen, um eine Abweichung um diese Komma **in der Gegenrichtung der Originalrichtung** darzustellen. Z.B. Es<sub>5</sub> ist um 81/80 höher als Es; A<sub>19</sub> ist um 513/512 niedriger als A. Diese Notennamen spricht man mithilfe des Präfix „sub“ aus: „Es-sub-fünf“, „A-sub-neunzehn“.
+3. Ein einziges Komma der Primzahl *p* wird die Zahl "p" tiefgestellt benutzen, um eine Abweichung um diese Komma **in der Gegenrichtung der Originalrichtung** darzustellen. Z.B. Es<sub>5</sub> ist um 81/80 höher als Es; A<sub>19</sub> ist um 513/512 niedriger als A. Diese Notennamen spricht man mithilfe des Präfix "sub" aus: "Es-sub-fünf", "A-sub-neunzehn".
 
 4. Um verbundene Komma-Abweichungen **in derselben Orientation** (also alle otonal oder alle utonal) darzustellen, **multipliziere** die Zahlen der Kommas (nicht: addiere oder verkette). Diese Zahlen sind alle Primzahlen. Eine Summe oder Verkettung von Primzahlen kann nicht zurück in ihre Bestandteile zerlegt werden, aber wegen des Fundamentalsatzes der Arithmetik, ein Produkt schon. Wir können also eindeutig sagen, welche Primzahlen multipliziert waren, und die Reihenfolge macht keinen Unterschied. Z.B. Gis<sup>25</sup> ist um zweimal 81/80 niedriger als Gis und es gibt keine andere Interpretation, da 25 = 5 × 5 und es gibt keine andere Primfaktorzerlegung.
 
-5. Das Produkt ermöglicht meistens eine Primfaktorzerlegung im Kopf. Die allermeisten häufigen Produkte sind alle bekannt: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121. Ist es aber gar nicht klar, was für Primfaktoren eine Zahl hat, z.B. 119 = 7 × 17, kann man eine alternative Notation benutzen, wobei alle Faktoren nacheinander geschrieben werden, dazwischen Kommas (im Sinne: Satzzeichen). Das obere Beispiel kann man z.B. als Gis<sup>5,5</sup>, und beide Schreibweisen sind korrekt. Falls Kommas nacheinander geschrieben werden, ist es üblich, sie in nicht-absteigender Reihenfolge zu schreiben. D.h. D<sup>119</sup> ist eher D<sup>7,17</sup> als D<sup>17,7</sup>. Diese zwei Extremen kann man auch beliebig kombinieren, wobei manche der Faktoren multipliziert werden, d.h. G<sup>11,125</sup> ist eine korrekte Darstellung von G<sup>1375</sup>. Die Aussprache ist wie üblich: „G-elf-einhundertfünfundzwanzig“
+5. Das Produkt ermöglicht meistens eine Primfaktorzerlegung im Kopf. Die allermeisten häufigen Produkte sind alle bekannt: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121. Ist es aber gar nicht klar, was für Primfaktoren eine Zahl hat, z.B. 119 = 7 × 17, kann man eine alternative Notation benutzen, wobei alle Faktoren nacheinander geschrieben werden, dazwischen Kommas (im Sinne: Satzzeichen). Das obere Beispiel kann man z.B. als Gis<sup>5,5</sup>, und beide Schreibweisen sind korrekt. Falls Kommas nacheinander geschrieben werden, ist es üblich, sie in nicht-absteigender Reihenfolge zu schreiben. D.h. D<sup>119</sup> ist eher D<sup>7,17</sup> als D<sup>17,7</sup>. Diese zwei Extremen kann man auch beliebig kombinieren, wobei manche der Faktoren multipliziert werden, d.h. G<sup>11,125</sup> ist eine korrekte Darstellung von G<sup>1375</sup>. Die Aussprache ist wie üblich: "G-elf-einhundertfünfundzwanzig"
 
 6. Produkte positiver und negativer Kommas sind voneinander unabhängig. Sie werden gleichzeitig hoch- und tiefgestellt geschrieben, z.B. F<sup>7</sup><sub>5</sub> bedeutet F erniedrigt um 64/63 und dann erhöht um 81/80 (oder anders herum: zuerst erhöht um 81/80 und dann erniedrigt um 64/63, das Ergebnis bleibt gleich). Die Produkte für die positiven und negativen Kommas werden immer zueinander teilerfremd sein: falls nicht, dann gibt es Faktoren, die gekürzt werden können; \*C<sup>35</sup><sub>5</sub> ist das Gleiche wie C<sup>7</sup>.
 
@@ -78,13 +78,13 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 1. Um positive Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note. Der Konsistenz halber werden sie vor, nicht nach, der Note geschrieben, genauso wie übliche Versetzungszeichen. (Wenn es auch ein übliches Versetzungszeichen gibt, dann auch vor ihm.)
 
-2. Um negative Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note, mit einem Minus-Zeichen (z.B. „−35“).
+2. Um negative Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note, mit einem Minus-Zeichen (z.B. "−35").
 
 3. Falls sowohl positive als auch negative Kommas vorkommen, wird das verbundene positive zuerst geschrieben, dann das Minus-Zeichen, dann das verbundene negative.
 
 4. *Pythagoreische Versetzungszeichen teilen Noten desselben Stammtons (C, D, E, F, G, A, H) in pythagoreische Töne auf. Deshalb gilt ein pythagoreisches Versetzungszeichen für alle Noten desselben Stammtons und derselben Oktave in demselben Takt, bis sie überschrieben oder aufgelöst werden.* Ebenso funktionieren auch mikrotonale Versetzungszeichen: sie teilen Noten desselben pythagoreischen Tons in die absoluten Tonhöhen auf. Deshalbt gelten sie für alle Noten desselben pythagoreischen Tons und derselben Oktave in demselben Takt, bis sie überschrieben oder aufgelöst werden. Wenn das erste E in einem Takt ein +5 erhält, erhalten es auch alle andere E in derselben Oktave in demselben Takt (bis es mit einem +1 aufgelöst wird), ein Es aber nicht, genauso wie ein D oder ein F auch nicht, auch in demselben Takt.
 
-5. Das Versetzungszeichen „1“ bedeutet das Auflösen aller mikrotonalen Versetzungszeichen für den pythagoreischen Ton, wo er angewendet wird.
+5. Das Versetzungszeichen "1" bedeutet das Auflösen aller mikrotonalen Versetzungszeichen für den pythagoreischen Ton, wo er angewendet wird.
 
 ## Regeln für die Anwendung von FJS-Vorzeichen (\*)
 
@@ -94,7 +94,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 3. FJS-Vorzeichen können nicht-diatonische Töne auch modifizieren, indem sie auf dem korrekten Stammton geschrieben werden, und ihnen ein in Klammern geschriebenes pythagoreisches Versetzungszeichen folgt. Die Klammern sind notwendig, um zu wissen, dass das pythagoreische Versetzungszeichen selbst nicht gilt. Stattdessen ist die Bedeutung: wenn das pythagoreische Versetzungszeichen folgt, dann wird auch das mikrotonale Versetzungszeichen dazu angewendet. Die FJS-Vorzeichen für C-Dur harmonisch könnten so aussehen: H<sup>5</sup> E<sup>5</sup> A<sup>5</sup> As<sub>5</sub>. D.h. alle H, E, und A erhalten ein +5, und alle As erhalten ein −5. A wird nicht zu As; *wenn* es As ist, *dann* erhält es auch ein −5.
 
-4. Wie bei üblichen Vorzeichen werden FJS-Vorzeichen mit FJS-Versetzungszeichen nicht „gemischt“. Versetzungszeichen überschreiben die, die aus Vorzeichen stammen würden. Ein E<sub>7</sub> wegen des Versetzungszeichens −7 bleibt E<sub>7</sub>, auch wenn die Vorzeichen E<sup>5</sup> sagen. (Gemeint wird auf jeden Fall nicht E<sup>5</sup><sub>7</sub>.)
+4. Wie bei üblichen Vorzeichen werden FJS-Vorzeichen mit FJS-Versetzungszeichen nicht "gemischt". Versetzungszeichen überschreiben die, die aus Vorzeichen stammen würden. Ein E<sub>7</sub> wegen des Versetzungszeichens −7 bleibt E<sub>7</sub>, auch wenn die Vorzeichen E<sup>5</sup> sagen. (Gemeint wird auf jeden Fall nicht E<sup>5</sup><sub>7</sub>.)
 
 5. Eine pythagoreische Vorzeichenänderung bedeutet nicht automatisch, dass die FJS-Vorzeichen sich auch ändern. Ein Stück, das mit den Vorzeichen Fis–Cis–Gis und F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> beginnt, wird seine FJS-Vorzeichen nicht verlieren, wenn das Stück nach As-Dur moduliert (B–Es–As–Des). Da keine FJS-Vorzeichenänderung geschah, bedeutet das immer noch, das in diesem As-Dur jedes Fis ein +5 erhält. Das sieht auf den ersten Blick komisch aus, da ein Fis in As-Dur nie erwartet ist. Aber tatsächlich ist das sinnvoll, denn so kann man das Wiederholen der FJS-Vorzeichen vermeiden, wenn eine einfache Modulation geschieht (z.B. Fis–Cis–Gis zu Fis–Cis). Es wird wahrscheinlich erwartet, dass das Fis und das Cis (und auch das Gis, welches in D-Dur auch vorkommen kann) weiter +5 erhalten.
 
@@ -110,13 +110,13 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 2. Ob eine FJS-Transpositionslinie alta oder bassa ist, macht keinen Unterschied.
 
-3. Eine FJS-Transpositionslinie beginnt mit einem verbundenen FJS-Versetzungszeichen, genauso, wie man es bei einer Note schreiben würde. +5 erscheint also als „5“, +7−5 erscheint als „7−5“, usw. „loco“ danach zu schreiben, ist nicht notwendig.
+3. Eine FJS-Transpositionslinie beginnt mit einem verbundenen FJS-Versetzungszeichen, genauso, wie man es bei einer Note schreiben würde. +5 erscheint also als "5", +7−5 erscheint als "7−5", usw. "loco" danach zu schreiben, ist nicht notwendig.
 
 4. Alle Noten unter einer FJS-Transpositionslinie **addieren** das Versetzungszeichen dieser Linie zu den üblichen Werten, die Versetzungszeichen und Vorzeichen bewirken.
 
 ## Mehr experimentelle Elemente (\*)
 
-Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze „Dialekte“ des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, oder mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen.
+Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze "Dialekte" des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, oder mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen.
 
 Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
 

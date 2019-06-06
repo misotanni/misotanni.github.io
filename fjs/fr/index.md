@@ -12,7 +12,7 @@ title: Le Système fonctionnel de l'intonation juste
 
 # Bienvenue
 
-Bienvenue sur le site Internet du Système fonctionnel de l'intonation juste (FJS)!
+Bienvenue à la site Internet du Système fonctionnel de l'intonation juste (FJS)!
 
 ## Qu'est-ce que le FJS?
 
@@ -23,25 +23,25 @@ Le **Système fonctionnel de l'intonation juste** (en anglais: Functional Just S
 Le Système fonctionnel de l'intonation juste:
 
 - permet de **traduire** les proportions pures de l'intonation juste dans la langue universelle de tous les musiciens: la notation de portée, et inversement;
-- est **extrêmement facile** à apprendre à lire et à écrire; sa simplicité dépasse de beaucoup celle des autres notations de l'intonation juste;
-- fournit une **bijection** entre la notation et le son, chaque ton n'a qu'une seule représentation, et peut donc être écrit et lu sans équivoque;
-- peut représenter **toute l'infinité** de l'intonation juste, pas seulement jusqu'à une limite fixe, et ainsi exprime des tons que les autres notations de l'intonation juste **ne peuvent pas exprimer**;
-- a une **précision infinie**, cela signifie que la hauteur absolue est préservée;
-- est géré par un **algorithme** et généré de **manière procédurale**, et de cette façon est adapté à l'utilisation dans la musique assistée par ordinateur, et peut être complètement automatisé, sans apprendre de nombres par cœur ou devoir les chercher. (Il y a plusieurs calculatrices sur ce site à cet usage.)
+- est **extrêmement facile** à apprendre à lire et à écrire; sa simplicité dépasse beaucoup celle des autres notations de l'intonation juste;
+- prévoit une **bijection** entre la notation et le son, chaque ton n'a qu'une seule représentation, et peut donc être écrit et lu sans équivoque;
+- peut représenter **toute l'infinité** de l'intonation juste, pas seulement jusqu'à un limite fixe, et exprime donc des tons que les autres notations de l'intonation juste **ne peuvent pas exprimer**;
+- a une **précision infinie**, cela signifie que l'hauteur absolue est préservée;
+- est gérée par un **algorithme** et générée de **manière procédurale**, alors adapté pour l'utilisation dans la musique assistée par ordinateur, et peut être complètement automatisé, sans apprendre des nombres par cœur ou les chercher. (Il y a plusieurs calculatrices sur ce site pour ces buts.)
 
 ## Qu'est-ce que l'intonation juste?
 
-Si vous vous posez cette question, vous n'êtes probablement pas au bon endroit!
+Si vous vous posez cette question, vous n'appartenez probablement pas ici!
 
-La majorité de la musique contemporaine utilise le **tempérament égal de douze notes** (aussi appelé tout simplement « tempérament égal ») qui divise l'octave en douze parties égales. **L'intonation juste** (**JI**) est une méthode d'intonation qui est très différente de ce courant dominant. Les principes de l'intonation juste proviennent des tons harmoniques et des qualités naturelles du son. Bien que JI ne soit plus utilisée dans la musique conventionnelle, elle reste importante pour la théorie de la musique, puisqu'elle était habituelle dans les cultures anciennes et au Moyen Âge, et elle est encore utilisée dans les cultures non européennes ainsi que dans la musique d'avant-garde. (Sans parler de ses valeurs esthétiques!)
+La majorité de la musique contemporaine utilise le **tempérament égal de douze notes** (aussi appelée tout simplement «tempérament égal») qui divise l'octave en douze parties égales. **L'intonation juste** (**JI**) est une méthode d'intonation qui est très différent de ce courant dominant. Les principes de l'intonation juste proviennent des tons harmoniques et les qualités naturelles du son. Bien que JI ne soit plus utilisée dans la musique conventionnelle, elle reste importante pour la théorie de la musique, puisqu'elle était normale chez les cultures anciennes et le Moyen Âge et elle est encore utilisée chez les cultures non européennes ainsi que la musique d'avant-garde. (Sans parler de ses valeurs esthétiques!)
 
-Il est essentiel que vous ayez déjà une connaissance basique de l'intonation juste (et bien sûr un peu de théorie de la musique) pour pouvoir comprendre et effectivement utiliser le FJS. En général, **plus d'expérience** avec JI signifie **plus d'aisance** avec le FJS.
+Il est prévu que vous ayez déjà une connaissance basique de l'intonation juste (et bien sûr un peu de théorie de la musique) pour pouvoir comprendre et effectivement utiliser le FJS. En général, **plus d'expérience** avec JI signifie **plus d'aisance** avec les FJS.
 
 Pour une connaissance élémentaire de JI, je recommande [Just Intonation Explained](https://www.kylegann.com/tuning.html) écrit par Kyle Gann.
 
-## Le FJS est-il simple?
+## Le FJS est-il assez simple?
 
-Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'intonation juste dans le FJS. C'est vrai, seulement sept.
+Il n'y a que sept règles pour tout dont on a besoin pour écrire toute l'intonation juste dans le FJS. C'est vrai, seulement sept.
 
 1. Toutes les notes avec des altérations conventionnelles représentent l'accord pythagoricien. Toutes les octaves signifient 2/1 et toutes les quintes justes signifient 3/2.
 
@@ -59,15 +59,15 @@ Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'int
 
 ## Pourquoi le FJS?
 
-Pourquoi en avons-nous besoin? Qu'est-ce qui m'a motivé à créer le FJS? Quels avantages peuvent en retirer les musiciens? Pourquoi l'utiliser, et comment aide-t-il à composer et à analyser la musique en intonation juste? Pourquoi même essayer de représenter l'intonation juste sur la portée? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon harmonieuse mais étrange. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Tenter de la représenter comme ça serait, certes, anormal et maladroit.
+Pourquoi en avons-nous besoin? Qu'est-ce qui m'a motivé à créer le FJS? Quels avantages y en a-t-il pour les musiciens? Pourquoi l'utiliser, et comment aide-t-il à composer et analyser la musique en intonation juste? Pourquoi même essayer de représenter l'intonation juste sur la portée? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon belle mais étrangère. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Un essai de la représenter comme ça serait certes anormal et maladroit.
 
-Pourquoi ai-je toutefois décidé de réaliser cette idée? Pour la raison que la notation de portée est une langue de communication entre musiciens. Bien qu'elle ne soit pas parfaite, elle est universelle pour tous les musiciens. En outre, nous sommes habitués à penser en notes. Ne serait-il pas utile de pouvoir traduire la langue de l'intonation juste qui est harmonieuse et régulière, mais peu intuitive, dans la langue de la portée qui est familière? Ne permettrait-il pas que les musiciens comprennent l'intonation juste avec plus d'intuition et étendent ses aspects à tous les processus liés à la musique conventionnelle: la composition, l'analyse et la performance?
+Pourquoi est-ce que j'ai pourtant décidé de réaliser cette idée? Pour la raison que la notation de portée est une langue de communication entre musiciens. Bien qu'elle ne soit pas parfaite, elle est universelle pour tous les musiciens. En outre, nous sommes habitués à penser en notes. Ne serait-il pas utile de pouvoir traduire la langue de l'intonation juste qui est belle et régulière, mais peu intuitive, dans la langue de la portée qui est familière? Ne permettrait-il pas que les musiciens comprennent l'intonation juste avec plus d'intuition et étendent ses aspects à tous les processus liés à la musique conventionnelle: la composition, l'analyse et la performance?
 
 **Bien sûr que oui.**
 
-Le FJS, c'est beaucoup plus qu'un système de notation. Lorsque j'ai créé le système, il m'a permis de trouver un sens dans un chaos apparent de l'intonation juste. Il m'a démontré que la notation de portée est beaucoup plus logique et plus liée à l'intonation juste que ce que je pensais. Pour toutes ces raisons, je vous invite aussi à connaître la facilité et la beauté du FJS et à comprendre comment ses roues dentées musicales connectent deux aspects qui semblent très éloignés.
+Le FJS, c'est beaucoup plus qu'un système de notation. Lorsque j'ai créé le système, il m'a permis de trouver un sens dans un chaos apparent de l'intonation juste. Il m'a démontré que la notation de portée est beaucoup plus logique et plus liée à l'intonation juste que j'avais pensé. Pour toutes ces raisons, je vous invite aussi à connaître la facilité et la beauté du FJS et à comprendre comment ses roues dentées musicales connectent deux aspects qui semblent très éloignés.
 
-Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour découvrir comment la pensée des gens changerait si leur langue était complètement logique et avait du sens. Je crois que le FJS serait un « Lojban de la musique microtonale ». Comme Lojban motive des gens à penser de manière logique, le FJS motive des musiciens à penser en intonation juste. C'est pourquoi il permet de lier la composition, l'analyse et la performance de cette musique à leur connaissance de la théorie de la musique, qui est elle-même liée à celle de JI.
+Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour découvrir comment la pensée des gens changerait si leur langue était complètement logique et avait du sens. Je crois que le FJS serait un «Lojban de la musique microtonale». Comme Lojban motive des gens à penser de manière logique, le FJS motive des musiciens à penser en intonation juste. C'est pourquoi il permet de lier la composition, l'analyse et la performance de cette musique à leur connaissance de la théorie de la musique, qui est elle-même liée à celle de JI.
 
 ## FAQ: Y a-t-il un FAQ?
 
@@ -76,10 +76,10 @@ Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour
 ## Quoi maintenant?
 
 - Vous trouvez ici un [cours intensif](crash.html) du FJS. Avec une connaissance médiocre de JI, il ne faut que quelques minutes pour apprendre le FJS.
-- Lisez la [description formelle complète](rules.html) si vous avez un doute en ce qui concerne les règles exactes.
+- Lisez la [description formale complète](rules.html) si vous avez un doute en ce qui concerne les règles exactes.
 - Voyez les [mathématiques](math.html) grâce à lesquelles le FJS a en fait une bijection ainsi que toutes les autres belles qualités dont j'ai parlé.
 - Ici, je [compare](compare.html) le FJS à deux autres systèmes de notation en compétition: celui de Helmholtz-Ellis et celui de Ben Johnston, et j'explique pourquoi le FJS dépasse les deux.
-- Utilisez les [calculatrices](calc.html) sur ce site pour faire des calculs FJS automatiquement. **Conseil:** Sauvegardez-les tout de suite.
+- Utilisez les [calculatrices](calc.html) sur ce site pour faire des calculs FJS automatiquement. **Conseil:** Créez un signet sur elles tout de suite.
 - Trouvez beaucoup plus d'[exemples](examples.html) du FJS en usage.
 
 **Le FJS, que signifiera-t-il pour toi?**

@@ -18,7 +18,7 @@ Willkommen auf der Webseite des Naturtonfunktionssystems (FJS)!
 
 [Siehe dir das Einführungsvideo an!](https://youtu.be/38I3cylJlW4)
 
-Das **Naturtonfunktionssystem** (englisch: Functional Just System, **FJS**) ist ein neues, wegweisendes Notationssystem für Musik in sog. **Naturtonstimmung** (auch „reiner Stimmung“, eng. Just Intonation, **JI**). Es benutzt eine Erweiterung der traditionellen Notenschrift, um alle möglichen Formen der Naturtonstimmung beschreiben zu können. Es übertrifft bestehende Notationssysteme in diesem Zweck (darunter sowohl die Helmholtz-Ellis-Notation, als auch die Notation von Ben Johnston), indem es viel einfacher, einfallsreicher und schöner ist. Im Bereich der mikrotonalen Musik ist es bisher die Erfindung, auf die ich am stolzesten bin.
+Das **Naturtonfunktionssystem** (englisch: Functional Just System, **FJS**) ist ein neues, wegweisendes Notationssystem für Musik in sog. **Naturtonstimmung** (auch "reiner Stimmung", eng. Just Intonation, **JI**). Es benutzt eine Erweiterung der traditionellen Notenschrift, um alle möglichen Formen der Naturtonstimmung beschreiben zu können. Es übertrifft bestehende Notationssysteme in diesem Zweck (darunter sowohl die Helmholtz-Ellis-Notation, als auch die Notation von Ben Johnston), indem es viel einfacher, einfallsreicher und schöner ist. Im Bereich der mikrotonalen Musik ist es bisher die Erfindung, auf die ich am stolzesten bin.
 
 Das Naturtonfunktionssystem:
 
@@ -67,7 +67,7 @@ Warum also habe ich mich trotzdem entschieden, diese Idee zu verwirklichen? Es l
 
 Das FJS ist viel mehr als nur ein Notationssystem. Als ich das System entwurf, hat es mir ermöglicht, Sinn im scheinbaren Chaos der Naturtonstimmung zu sehen. Es hat mir auch gezeigt, dass die Notenschrift viel logischer und viel mehr mit JI verbunden ist, als ich zuerst dachte. Deshalb lade ich auch dich dazu ein. Lerne die Einfachheit und die Schönheit des FJS kennen, und verstehe, wie seine musikalischen Zahnräder zwei Ideen verbinden, die auf den ersten Blick sich komplett fremd ansehen.
 
-Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, die entworfen wurde, um zu sehen, wie das Denken sich verändert, wenn die Sprache komplett logisch ist und Sinn macht. Ich glaube, dass das FJS einem „Lojban der mikrotonalen Musik“ entspricht. Genauso wie Lojban Leute zum logischen Denken bringt, bringt das FJS Musiker meiner Meinung nach zum JI-Denken. Dadurch werden ihre Komposition, Analyse, und Aufführung näher mit ihrer eigenen Kenntnis der Musiktheorie verbunden, da das FJS üblicher Musiktheorie die JI-Musiktheorie näher bringt.
+Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, die entworfen wurde, um zu sehen, wie das Denken sich verändert, wenn die Sprache komplett logisch ist und Sinn macht. Ich glaube, dass das FJS einem "Lojban der mikrotonalen Musik" entspricht. Genauso wie Lojban Leute zum logischen Denken bringt, bringt das FJS Musiker meiner Meinung nach zum JI-Denken. Dadurch werden ihre Komposition, Analyse, und Aufführung näher mit ihrer eigenen Kenntnis der Musiktheorie verbunden, da das FJS üblicher Musiktheorie die JI-Musiktheorie näher bringt.
 
 ## FAQ: Gibt es ein FAQ?
 

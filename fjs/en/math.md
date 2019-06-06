@@ -26,7 +26,7 @@ $$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \fra
 
 ## Theorem 2
 
-**Any positive rational number can be uniquely factorized into prime numbers raised to integer exponents.** (“Fundamental Theorem of Harmony”)
+**Any positive rational number can be uniquely factorized into prime numbers raised to integer exponents.** ("Fundamental Theorem of Harmony")
 
 For the proof, we begin with the Fundamental Theorem of Arithmetic, the ability to factorize any positive integer uniquely into primes with natural exponents. Here the notation p⁡(*n*) refers, as usual, to the *n*<sup>th</sup> prime number, so $$\text{p}(1)=2$$.
 
@@ -54,7 +54,7 @@ The numbers *p* and *q* are already prime, so this also already is their prime f
 
 This is an immediate contradiction, since by the Fundamental Theorem of Arithmetic, the decomposition of any positive integer into primes is unique, and here we have two different prime factorizations of the same positive integer. The only case where this is not a contradiction is if *n*, *m* are both zero. Then the positive integer in question is 1. But this is a contradiction with the assumption that *n*, *m* are both nonzero.&nbsp;∎
 
-**Corollary.** Taking *p* = 2, *q* = 3, we obtain the statement for octaves and perfect twelfths, equivalent to the statement for octaves and perfect fifths. This implies that a “circle” of just 3/2 fifths never closes.
+**Corollary.** Taking *p* = 2, *q* = 3, we obtain the statement for octaves and perfect twelfths, equivalent to the statement for octaves and perfect fifths. This implies that a "circle" of just 3/2 fifths never closes.
 
 ## Theorem 4
 
@@ -68,7 +68,7 @@ This is a fragment of a chain of fifths originating on D, as follows:
 
 −3, −2, −1, 0, +1, +2, +3
 
-Here, these integers represent the number of motions around this infinite “spiral of fifths”; positive integers corresponding to the addition of fifths, and negative integers corresponding to the subtraction of fifths.
+Here, these integers represent the number of motions around this infinite "spiral of fifths"; positive integers corresponding to the addition of fifths, and negative integers corresponding to the subtraction of fifths.
 
 However, note that we already know how to extend this chain. The sharp and the flat are specifically defined as accidentals such that B♭ to F = B to F♯ = a perfect fifth. Adding a flat and sharp copy of the diatonic scale extends the chain to −10 on the left and +10 on the right, as follows:
 

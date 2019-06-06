@@ -1,6 +1,6 @@
 ﻿# Intensywny kurs FJS-u
 
-Zastanawiasz się, co FJS ma Tobie do zaoferowania, i chciałbyś nauczyć się go używać.
+Zastanawiasz się, co FJS ma Tobie do zaoferowania, i chciałbyś nauczyć się go używać.
 
 Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię się na pewnych udogodnieniach i skrótach, ponieważ nie są one konieczne ani niezbędne. Jeżeli już miałeś kontakt ze strojami naturalnymi, FJS będzie dla Ciebie igraszką – nauczysz się go naraz, w kilka minut, a jego piękno i prostota będą Tobie w zasięgu ręki.
 
@@ -29,7 +29,7 @@ Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
 Oczywiście zamiana *ais* na *b* w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
 
-Tę własność – przyrównanie sekundy zmniejszonej do prymy czystej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. Inne albo nie mają żadnej enharmonii, albo interwał inny niż sekunda zmniejszona jest zredukowany do zera. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc *eis* i *fes* tymi samymi wysokościami).
+Tę własność – przyrównanie sekundy zmniejszonej do prymy czystej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. Inne albo nie mają żadnej enharmonii, albo interwał inny niż sekunda zmniejszona jest zredukowany do zera. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc *eis* i *fes* tymi samymi wysokościami).
 
 Mimo tego nie zapominajmy, że historia zapisu nutowego sięga dalej niż sam pomysł 12-EDO – o jednomyślnym przyjęciu nie wspominając – poprzedzając go o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, którą tworzono przez serię kwint (*f*–*c*–*g*–*d*–*a*–*e*–*h*). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że jego pochodzenie opiera się na czymś zupełnie odmiennym od 12-EDO.
 
@@ -72,7 +72,7 @@ To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
 ## <a name="lesson_1">Lekcja 1: Strój pitagorejski</a>
 
-Pewnie myślisz, że gdy pozbyliśmy się z pięciolinii równoważności enharmonicznej, możemy teraz zanotować o wiele szerszą paletę wysokości – i myślisz słusznie. Jednak zabieg lobotomii enharmonicznej sam w sobie nie spowoduje, że będzie można przedstawić każdy strój naturalny w logiczny sposób. Jedną z zalet strojów naturalnych jest możliwość zakodowania drobnych różnic w wysokościach dźwięków, by nadać poszczególnym interwałom unikatowe brzmienie.
+Pewnie myślisz, że gdy pozbyliśmy się z pięciolinii równoważności enharmonicznej, możemy teraz zanotować o wiele szerszą paletę wysokości – i myślisz słusznie. Jednak zabieg lobotomii enharmonicznej sam w sobie nie spowoduje, że będzie można przedstawić każdy strój naturalny w logiczny sposób. Jedną z zalet strojów naturalnych jest możliwość zakodowania drobnych różnic w wysokościach dźwięków, by nadać poszczególnym interwałom unikatowe brzmienie.
 
 Rozważmy następujące naturalne interwały: 11/10, 10/9, 9/8 i 8/7. Posłuchaj, jak brzmią:
 
@@ -88,7 +88,7 @@ To właśnie taką metodą *definiujemy* diatoniczne wysokości: *f*, *c*, *g*, 
 
 Nie omieszkam wspomnieć, że taki system wymaga czegoś, czego niektórzy muzycy mogą nie być świadomi: konieczności występowania w niektórych miejscach więcej niż dwóch naraz znaków chromatycznych. Choć rzadko stosuje się potrójnych alteracji w muzyce klasycznej, potrzebujemy ich, by pozwolić szeregowi kwint ciągnąć się w nieskończoność w obie strony. FJS zezwala na dowolną ilość krzyżyków i bemoli. Nie chcę przez to powiedzieć, że jest to częsta konieczność – po prostu nie spanikuj, kiedy spotkasz się z sytuacją, w której będziesz musiał wielokrotnych alteracji użyć.
 
-Czas najwyższy, by nauczyć się pierwszych dwóch technik FJS-owych:
+Czas najwyższy, by nauczyć się pierwszych dwóch technik FJS-owych:
 
 > ### Technika FJS-owa nr 1: Zamiana ułamka pitagorejskiego na FJS.
 > 
@@ -106,7 +106,7 @@ Czas najwyższy, by nauczyć się pierwszych dwóch technik FJS-owych:
 > 3. Podnieś 3 do takiej potęgi i zredukuj.
 > 4. Jeżeli trzeba, dostosuj oktawy.
 >
-> **Przykład.** By zamienić tercję małą z FJS-u na 3-limit, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3: *c*–*f*–*b*–*es*. Podnosimy 3 do −3 i uzyskujemy 1/27. Ponieważ chcemy zredukować ten interwał – czyli wsunąć go do przedziału \[1, 2) – mnożymy go przez 2<sup>5</sup>, uzyskując ostateczny wynik: 32/27.
+> **Przykład.** By zamienić tercję małą z FJS-u na 3-limit, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3: *c*–*f*–*b*–*es*. Podnosimy 3 do −3 i uzyskujemy 1/27. Ponieważ chcemy zredukować ten interwał – czyli wsunąć go do przedziału \[1, 2) – mnożymy go przez 2<sup>5</sup>, uzyskując ostateczny wynik: 32/27.
 
 Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 
@@ -123,7 +123,7 @@ Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 | 3        | +4    | **81**/64   |
 | 7<       | +5    | **243**/128 |
 
-Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do Ciebie sama.
+Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do Ciebie sama.
 
 ### Ćwiczenia – zestaw 1
 
@@ -142,11 +142,11 @@ A więc umiesz zapisać wszystko, co pitagorejskie. To na razie całkiem nudna u
 
 Następnym krokiem przybliżającym nas do naturalnego oświecenia jest omówienie tzw. interwałów pierwszych. Są to interwały występujące w szeregach alikwotowych oparte na liczbach pierwszych. By je wynaleźć, wypisz kilka liczb pierwszych:
 
-> 2, 3, 5, 7, 11, 13, 17, 19, …
+> 2, 3, 5, 7, 11, 13, 17, 19, ...
 
 Następnie zredukuj je:
 
-> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
+> 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, ...
 
 Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Co więcej, jeżeli w dalszej części tego kursu odniosę się do „interwałów pierwszych”, to będę miał na myśli tylko te, które odpowiadają liczbom pierwszym większym od 3.
 
@@ -214,18 +214,18 @@ Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-Można by też pójść od drugiej strony: wyznaczyć funkcję generującą dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie funkcją generującą. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, funkcją generującą dla 7 musi być też −2.
+Można by też pójść od drugiej strony: wyznaczyć funkcję generującą dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie funkcją generującą. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, funkcją generującą dla 7 musi być też −2.
 
 Tak, jak krzyżyk i bemol, alteracja o taki komat formalny może być dodania lub ujemna. Znak dla tej alteracji to sama liczba pierwsza, dla której komat formalny zbudowano; dokładne nazewnictwo zależy od tego, czy nuty nazywamy czy zapisujemy na pięciolinii:
 
 - Nuty nazywamy, zapisując dodatnie alteracje w indeksie górnym, a ujemne – w dolnym.
 - Nuty zapisujemy, dodając same liczby pierwsze dla dodatnich alteracji, a dla ujemnych – te liczby pierwsze, ale poprzedzone minusem.
 
-Może zauważyłeś, że użyłem tu słów „dodatni” i „ujemny” zamiast „w górę” i „w dół” – to dlatego, że FJS-owe alteracje dodatnie wcale nie zawsze przenoszą w górę, ani ujemne zawsze w dół; zamiast tego **dodatniość zawsze odpowiada otonalności, a ujemność utonalności**. To oznacza – co jest bardzo ważne – że *FJS-owa alteracja, gdy dodatnia, jest zawsze w kierunku, w którym przybliżenie pitagorejskie staje się interwałem docelowym*. Na przykład by zapisać dźwięk o 5/4 od *c*, najpierw zapisujemy pitagorejskie przybliżenie *e* (81/64), a potem przenosimy je do 5/4 poprzez dodanie <sup>5</sup>. Ta zmiana *obniża* o 81/80 – z *e* do *e*<sup>5</sup>.
+Może zauważyłeś, że użyłem tu słów „dodatni” i „ujemny” zamiast „w górę” i „w dół” – to dlatego, że FJS-owe alteracje dodatnie wcale nie zawsze przenoszą w górę, ani ujemne zawsze w dół; zamiast tego **dodatniość zawsze odpowiada otonalności, a ujemność utonalności**. To oznacza – co jest bardzo ważne – że *FJS-owa alteracja, gdy dodatnia, jest zawsze w kierunku, w którym przybliżenie pitagorejskie staje się interwałem docelowym*. Na przykład by zapisać dźwięk o 5/4 od *c*, najpierw zapisujemy pitagorejskie przybliżenie *e* (81/64), a potem przenosimy je do 5/4 poprzez dodanie <sup>5</sup>. Ta zmiana *obniża* o 81/80 – z *e* do *e*<sup>5</sup>.
 
 Ci, którzy znają zapis naturalny Bena Johnstona, zauważą podobieństwa. Dla całej reszty:
 
-Na pierwszy rzut oka taka decyzja może się wydawać niepotrzebnie myląca, ale ona tak naprawdę upraszcza system. Dodatnia alteracja – na przykład +17 – zawsze oznacza dodanie czynnika pierwszego (tu 17) do licznika ułamka, a więc jeżeli wiesz, jaki pitagorejski interwał jest bliski 17/16 (podpowiedź: to 2>), będziesz wiedzieć i to, że 17/16 to po prostu 2> z doczepioną +17. Nie musisz wiedzieć, czy przybliżenie jest wyżej czy niżej od docelowego interwału. Ta reguła, przenosząca ciężar naszej uwagi na utonalność i otonalność zamiast na kierunek alteracji, upraszcza zapisy różnych skal i strojów i czyni je bardziej intuicyjnymi. Tak naprawdę +5 przedstawia skok o 80/81, nie 81/80. Jeżeli przyjrzysz się liście komatów formalnych dla kolejnych liczb pierwszych, zauważysz, że każdy komat formalny będzie zawierał odpowiedni czynnik pierwszy w liczniku. To stąd pochodzi również nazwa systemu: **Funkcyjny** System Naturalny, czyli taki, który przywiązuje wagę do *funkcji* (zastosowania) bardziej niż do pozycji wysokości.
+Na pierwszy rzut oka taka decyzja może się wydawać niepotrzebnie myląca, ale ona tak naprawdę upraszcza system. Dodatnia alteracja – na przykład +17 – zawsze oznacza dodanie czynnika pierwszego (tu 17) do licznika ułamka, a więc jeżeli wiesz, jaki pitagorejski interwał jest bliski 17/16 (podpowiedź: to 2>), będziesz wiedzieć i to, że 17/16 to po prostu 2> z doczepioną +17. Nie musisz wiedzieć, czy przybliżenie jest wyżej czy niżej od docelowego interwału. Ta reguła, przenosząca ciężar naszej uwagi na utonalność i otonalność zamiast na kierunek alteracji, upraszcza zapisy różnych skal i strojów i czyni je bardziej intuicyjnymi. Tak naprawdę +5 przedstawia skok o 80/81, nie 81/80. Jeżeli przyjrzysz się liście komatów formalnych dla kolejnych liczb pierwszych, zauważysz, że każdy komat formalny będzie zawierał odpowiedni czynnik pierwszy w liczniku. To stąd pochodzi również nazwa systemu: **Funkcyjny** System Naturalny, czyli taki, który przywiązuje wagę do *funkcji* (zastosowania) bardziej niż do pozycji wysokości.
 
 Posłużę się teraz anegdotą. Gdy badałem prototyp Funkcyjnego Systemu Naturalnego – wtedy, gdy jeszcze nie miał przydzielonej nazwy – na początku wymuszałem, by wszystkie komaty były skierowane w górę – tak, by dodatnio zawsze było do góry, a ujemnie w dół. Pewnego razu rozważałem 5- i 7-limitowe stroje, aż nagle spostrzegłem, że używanie takich zawsze skierowanych w górę komatów tylko komplikuje sprawy, i z miejsca zmieniłem je na zawsze utonalne. Gdy to zrobiłem, w FJS-ie zacząłem myśleć płynniej i prościej, więc tak to zostawiłem. (FJS miał też wiele innych niedogodności, które od tego czasu zdołałem uprościć, odsłaniając niepokomplikowany system, który znamy dzisiaj…).
 
@@ -288,14 +288,14 @@ Rozwiązania znajdziesz [tutaj](solutions.html).
 
 ## <a name="lesson_3">Lekcja 3: Składanie alteracji</a>
 
-Teraz wiesz, jak przedstawić dużą część JI w FJS-ie. Potrafisz zapisać każdą wysokość stroju pitagorejskiego oraz każdy interwał pierwszy. Ale to wciąż nie wszystko – co na przykład z interwałami złożonymi z więcej niż jednej liczby pierwszej (włączając 3), takimi jak 15/8 czy 25/16? A co z tymi, które nie występują jako alikwoty, takimi jak 5/3, 6/5 czy 9/7?
+Teraz wiesz, jak przedstawić dużą część JI w FJS-ie. Potrafisz zapisać każdą wysokość stroju pitagorejskiego oraz każdy interwał pierwszy. Ale to wciąż nie wszystko – co na przykład z interwałami złożonymi z więcej niż jednej liczby pierwszej (włączając 3), takimi jak 15/8 czy 25/16? A co z tymi, które nie występują jako alikwoty, takimi jak 5/3, 6/5 czy 9/7?
 
 Na potrzeby tego intensywnego kursu podzieliłem te interwały, których jeszcze nie omówiliśmy, na dwie grupy:
 
 - te, które składają się z interwału pitagorejskiego oraz jedno otonalnego lub utonalnego interwału pierwszego; oraz
 - te, do skonstruowania których potrzeba więcej niż jednego interwału pierwszego.
 
-Te z pierwszej grupy już potrafisz zapisać, tylko tego jeszcze nie wiesz. To dlatego, że FJS-em rządzi kilka przydatnych własności, które często pozwolą ci pominąć już poznane przez ciebie mozolne obliczenia i techniki i przejść od razu do wyniku. (Pamiętaj, że interwały składa się, wymnażając je przez siebie).
+Te z pierwszej grupy już potrafisz zapisać, tylko tego jeszcze nie wiesz. To dlatego, że FJS-em rządzi kilka przydatnych własności, które często pozwolą ci pominąć już poznane przez ciebie mozolne obliczenia i techniki i przejść od razu do wyniku. (Pamiętaj, że interwały składa się, wymnażając je przez siebie).
 
 > ### Skrótowe własności FJS-u
 >
@@ -360,7 +360,7 @@ Przy łączeniu alteracji identyczne czynniki po dwóch stronach kasują się. N
 
 Z pomocą arytmetyki interwałowej możesz teraz tak naprawdę przedstawić *każdy* ułamek JI w FJS-ie oraz odszyfrować FJS-owe interwały z powrotem na ułamki. Możesz użyć jedną z metod poniżej, jeżeli ułamki nie zawierają wielu liczb pierwszych.
 
-Aby zamienić prosty ułamek JI na FJS: rozłóż licznik na interwał pitagorejski i liczby pierwsze; zbuduj interwał pitagorejski, następnie do tego kolejne interwały pierwsze; powtórz dla mianownika; ostatecznie znajdź różnicę pomiędzy ułamkiem zbudowanym z licznika a tym z mianownika. Na przykład dla 36/25: najpierw budujemy licznik – 36 – czyli 9/8, czyli sekunda wielka; rozkładamy mianownik na 5 ⋅ 5, a więc dwa razy 3<sup>5</sup>, a więc 5&lt;<sup>25</sup>; teraz odejmujemy 2 − 5&lt; = 5\>, 0 − +25 = −25; zatem ostateczny wynik to 5><sub>25</sub>.
+Aby zamienić prosty ułamek JI na FJS: rozłóż licznik na interwał pitagorejski i liczby pierwsze; zbuduj interwał pitagorejski, następnie do tego kolejne interwały pierwsze; powtórz dla mianownika; ostatecznie znajdź różnicę pomiędzy ułamkiem zbudowanym z licznika a tym z mianownika. Na przykład dla 36/25: najpierw budujemy licznik – 36 – czyli 9/8, czyli sekunda wielka; rozkładamy mianownik na 5 ⋅ 5, a więc dwa razy 3<sup>5</sup>, a więc 5&lt;<sup>25</sup>; teraz odejmujemy 2 − 5&lt; = 5\>, 0 − +25 = −25; zatem ostateczny wynik to 5><sub>25</sub>.
 
 Podobnie możesz łatwo zamienić prosty interwał FJS z powrotem na JI: spróbuj $$\frac{\text{alteracje otonalne}}{\text{alteracje utonalne}}$$. (Nie ma potrzeby, byś rozkładał alteracje na czynniki – to zaleta używania wymnażania). Jeżeli wynik jest błędny, to jedynie o interwał pitagorejski – dostosuj więc wynik odpowiednio. Na przykład mamy dane 1&lt;<sup>5</sup><sub>7</sub>; próbujemy 5/7, czyli po redukcji 10/7; po sprawdzeniu metodą powyżej otrzymujemy 4&lt;<sup>5</sup><sub>7</sub>, co nie jest wcale aż tak daleko; poprawiamy zatem o jedną pitagorejską kwintę w górę – wynik w takim razie brzmi 3/2 ⋅ 5/7 = 15/14.
 
@@ -395,7 +395,7 @@ Ostatnią sprawą wartą wspomnienia jest wymowa i ASCII. Jeżeli chcesz przekaz
 
 > ### Wymowa FJS
 >
-> 1. Wymów pitagorejską (zwykłą) nazwę wysokości czy interwału.
+> 1. Wymów pitagorejską (zwykłą) nazwę wysokości czy interwału.
 > 2. Następnie wypowiedz alteracje otonalne (jeżeli występują), ewentualnie poprzedzając je słowem „nad”.
 > 3. Następnie wypowiedz alteracje utonalne (jeżeli występują), poprzedzając je słowem „pod”.
 
@@ -407,9 +407,9 @@ W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, 
 
 **To wszystko!**
 
-To wszystko, co musisz wiedzieć, by wykorzystywać FJS w *całości* oraz być w stanie przedstawić *dowolny* strój JI! Bez żadnego wyuczania się na pamięć, drukowania tabelek, nic z tych rzeczy! Jedną z największych korzyści płynących z tego systemu jest to, że jest on całkowicie mobilny – jedyne, czego potrzebujesz, by się rozłożyć, to odpowiednie kalkulacje i wybrany przez ciebie promień tolerancji. Wszystkie techniki, które poznałeś, mogą być zautomatyzowane, wyręczając cię od żmudnych kalkulacji.
+To wszystko, co musisz wiedzieć, by wykorzystywać FJS w *całości* oraz być w stanie przedstawić *dowolny* strój JI! Bez żadnego wyuczania się na pamięć, drukowania tabelek, nic z tych rzeczy! Jedną z największych korzyści płynących z tego systemu jest to, że jest on całkowicie mobilny – jedyne, czego potrzebujesz, by się rozłożyć, to odpowiednie kalkulacje i wybrany przez ciebie promień tolerancji. Wszystkie techniki, które poznałeś, mogą być zautomatyzowane, wyręczając cię od żmudnych kalkulacji.
 
-FJS posiada wiele pięknych własności, które powodują, że jest on niewiarygodnie spójny. Najważniejszą cechą jest to, że FJS jest *bijekcją* do JI – każdy dodatni ułamek ma dokładnie jedno FJS-owe przedstawienie, a każde FJS-owy interwał ma jednego reprezentanta wśród liczb wymiernych. Inną własnością jest *izomorfia* – nie ma znaczenia, czy najpierw przemnożymy ułamki, a następnie zamienimy je do FJS, czy najpierw przeniesiemy je do FJS, a potem dodamy – wynik jest ten sam. Te własności zezwalają na prostą transpozycję w FJS-ie: żeby przenieść o np. 2<sup>5</sup>, najpierw przeniósłbyś wszystko o 2 (bez zmiany FJS-owych znaków chromatycznych), a potem dodałbyś +5 to każdej nuty, łącząc po drodze (tak więc +5 zmieniłoby się na +25, +7 na +35, a −5 na 1).
+FJS posiada wiele pięknych własności, które powodują, że jest on niewiarygodnie spójny. Najważniejszą cechą jest to, że FJS jest *bijekcją* do JI – każdy dodatni ułamek ma dokładnie jedno FJS-owe przedstawienie, a każde FJS-owy interwał ma jednego reprezentanta wśród liczb wymiernych. Inną własnością jest *izomorfia* – nie ma znaczenia, czy najpierw przemnożymy ułamki, a następnie zamienimy je do FJS, czy najpierw przeniesiemy je do FJS, a potem dodamy – wynik jest ten sam. Te własności zezwalają na prostą transpozycję w FJS-ie: żeby przenieść o np. 2<sup>5</sup>, najpierw przeniósłbyś wszystko o 2 (bez zmiany FJS-owych znaków chromatycznych), a potem dodałbyś +5 to każdej nuty, łącząc po drodze (tak więc +5 zmieniłoby się na +25, +7 na +35, a −5 na 1).
 
 Jeszcze jedna rzecz, zanim wypróbujesz swoich nagromadzonych sił przy następnym ćwiczeniu. To tylko dla odniesienia – mógłbyś sam wyliczyć sobie tę tabelę, jeżeli byś sobie życzył (czego byś i tak nie zrobił, dlatego ja zrobiłem dla ciebie).
 
