@@ -31,7 +31,7 @@ Pour nous, bien sûr, il n'y a pas de différence entre La dièse et Si bémol. 
 
 Cette qualité, d'avoir une seconde diminuée de la même hauteur que l'unisson, a un nom: l'enharmonie. Des musiciens qui ne connaissent (ou sont conscients de) aucune intonation alternative ne savent peut-être pas que cette qualité n'est pas du tout universelle. Il n'y a que quelques intonations, y compris 12-EDO, qui en disposent. Dans d'autres, soit il n'y a aucune enharmonie, soit un autre intervalle que la seconde diminuée est équivalent à l'unisson. (Par exemple, en 19-EDO, c'est la seconde sous-diminuée, donc Mi dièse et Fa bémol sont équivalents.)
 
-Mais n'oublions pas que la notation de portée fut inventée beaucoup avant l'idée (sans parler d'une domination) de 12-EDO. Cette notation a été basée sur la gamme diatonique qui a beaucoup de qualités simultanées dont une est importante pour nous: le fait qu'elle est construit d'une séquence de quintes justes (Fa–Do–Sol–Ré–La–Mi–Si). D'ailleurs, le *fait* que nous avons plusieurs moyens de décrire la même hauteur dans notre notation signifie que son origine était différent.
+Mais n'oublions pas que la notation de portée fut inventée beaucoup avant l'idée (sans parler d'une domination) de 12-EDO. Cette notation a été basée sur la gamme diatonique qui a beaucoup de qualités simultanées dont une est importante pour nous: le fait qu'elle est construite d'une séquence de quintes justes (Fa–Do–Sol–Ré–La–Mi–Si). D'ailleurs, le *fait* que nous avons plusieurs moyens de décrire la même hauteur dans notre notation signifie que son origine était différent.
 
 L'enharmonie est donc le seul aspect de 12-EDO dans la notation de portée. Le reste fonctionne aussi sans 12-EDO.
 
