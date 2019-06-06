@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+﻿# Frequently Asked Questions
 
 <style>h2 { font-weight: normal; font-size: 100%; }</style>
 
@@ -28,6 +28,9 @@ Sure, you can do that, but there are a few things you'll be missing out on:
 
 - the ability to modulate to any foreign ‘key’ of your choice as you go, without the need for convoluted reassignments or cumbersome or verbose annotations;
 - the ‘one size fits all’ property of the FJS which, with very little notational overhead, allows you to use the same system for *all* JI, making way for an intuitive and firm understanding of the FJS's – and JI's – inner workings and mental shortcuts;
+- preservation of interval arithmetic – intervals still add up just as you would expect them to, which they wouldn't if you just accommodated all your pitches in the available note space haphazardly;
+- instant recognizability – knowing that a M3<sup>5</sup> is 5/4 will allow you to instantly recognize a M6<sup>5</sup>, M2<sup>5</sup>, M7<sup>5</sup> and A4<sup>5</sup> as ‘derivatives’, the same is true for m7<sup>7</sup> allowing you to recognize a P4<sup>7</sup>, m3<sup>7</sup> and m6<sup>7</sup>;
+- thinking within the system – in other notation systems, the ratio-to-note transform is only used to accommodate the music on a staff, and all the thinking must be done by transforming note-to-ratio and back, whereas in the FJS, you can think in the notes, which is way easier and faster – like adding two binary numbers in binary instead of converting to decimal, adding, and converting the result back into binary;
 - quick sightreading – even across scores.
 
 If you care about none of these, the FJS might not be the right choice for you. I recommend you give it a chance anyway.

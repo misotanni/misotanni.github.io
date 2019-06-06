@@ -1,4 +1,4 @@
-# Często zadawane pytania
+﻿# Często zadawane pytania
 
 <style>h2 { font-weight: normal; font-size: 100%; }</style>
 
@@ -28,6 +28,9 @@ Owszem, możesz, ale przez to parę rzeczy stracisz:
 
 - możliwość modulacji do dowolnej „tonacji” kiedy tylko zechcesz, bez potrzeby zawiłych i długaśnych adnotacji albo całkowitej zamiany znaczenia każdej nuty;
 - właściwość uniwersalnego podejścia, dzięki któremu mała liczba dodatkowych symboli daje ci możliwość wykorzystywania tego samego systemu do *całości* JI, a co z tego wynika – możliwość pogłębienia intuicji FJS-owej i JI-owej, łącznie ze skrótami myślowymi;
+- arytmetyka interwałów jest zachowana – wszystko się dalej zgadza, tak jak powinno, co niekoniecznie by się sprawdzało przy jakimś dowolnym przyporządkowaniu ułamków do nut;
+- rozpoznawanie od razu – jeśli rozpoznajesz 3<sup>5</sup> jako 5/4, to rozponasz także 6<sup>5</sup>, 2<sup>5</sup>, 7&lt;<sup>5</sup> oraz 4&lt;<sup>5</sup> jako interwały *pochodne*, a jeśli znana ci jest 7<sup>7</sup>, to i również 4<sup>7</sup>, 3><sup>7</sup> oraz 6><sup>7</sup>;
+- myślenie w FJS-ie – u innych ułamki zamienia się na nuty tylko po to, żeby w ogóle je przedstawić, natomiast całe myślenie wymaga ponownego przetłumaczenia na ułamki, kiedy w FJS-ie myślenie można wykonywać w samym systemie, co dużo ułatwia i przyspiesza – tak jakbyś dodawał dwie liczby w systemie dwójkowym, zamiast najpierw je przeliczyć na dziesiętny, wtedy dodać, a potem wynik znowu na dwójkowy;
 - szybkie czytanie a vista, od jednej partytury do drugiej.
 
 Jeśli nie przejmujesz się żadnym z tych atutów, być może FJS nie pasuje do ciebie. Radzę ci jednak dać mu szansę.
