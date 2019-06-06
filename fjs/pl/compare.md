@@ -2,7 +2,7 @@
 
 FJS to nie jedyny istniejący system zapisu JI. Wielu kompozytorów pisze muzykę mikrotonalną na własną rękę, co spowodowało stworzenie wielu szczególnych dla nich systemów dla wielu skal mikrotonalnych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonalności, na przykład konkretnego mikrotonalnego podziału oktawy, zatem jest niezdatna do użycia przy JI.
 
-FJS stworzyłem specjalnie dla JI, więc jest on dobrze dostosowany do jego zapisu. Niestety nie potrafi zapisać prawie czegokolwiek innego. **Istnieją dwa inne szeroko używane systemy o podobnych zamierzeniach:** Helmholtza-Ellisa i Bena Johnstona. (Jest także jeszcze inny system – Sagittal – przeznaczony do notowania wszelkiej muzyki mikrotonalnej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przedstawianiu wysokości, a więc niezależnie od dokładności wartości reprezentowanych przez znaki zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI są nieskończenie dokładne, jak ułamki naturalne).
+FJS stworzyłem specjalnie dla JI, więc jest on dobrze dostosowany do jego zapisu. Niestety nie potrafi zapisać prawie czegokolwiek innego. **Istnieją dwa inne szeroko używane systemy o podobnych zamierzeniach:** Helmholtza-Ellisa i Bena Johnstona. (Jest także jeszcze inny system – Sagittal – przeznaczony do notowania wszelkiej muzyki mikrotonalnej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przedstawianiu wysokości, a więc niezależnie od dokładności wartości reprezentowanych przez znaki zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI są nieskończenie dokładne, jak ułamki naturalne).
 
 System Helmholtza-Ellisa (czasem rozszerzany do „HEWM” – Helmholtza-Ellisa-Wolfa-Monzo) to pierwsza próba rozszerzenia zapisu nutowego do JI. [Najnowszy stworzony dodatek](http://www.marcsabat.com/pdfs/notation.pdf) do HE, który mogłem znaleźć, jest autorstwa Marca Sabata i potrafi przedstawić 61-limit.
 
@@ -12,7 +12,7 @@ Od teraz będę porównywał obydwa te systemy z FJS-em.
 
 ## Wysokości niealterowane
 
-HE, podobnie jak FJS, zakłada, że zwykły zapis pięcioliniowy przedstawia strój pitagorejski. W ten sposób – tak jak w FJS – każdy pitagorejski interwał odpowiada dokładnie jednemu interwałowi – każda kwinta strojona jest na 3/2. Do tego momentu HE i FJS są identyczne. Tak jak w FJS-ie sprzyja to spójności, naturalności i notowaniu opartym na interwałach, a nie z góry ustalonych wysokościach.
+HE, podobnie jak FJS, zakłada, że zwykły zapis pięcioliniowy przedstawia strój pitagorejski. W ten sposób – tak jak w FJS – każdy pitagorejski interwał odpowiada dokładnie jednemu interwałowi – każda kwinta strojona jest na 3/2. Do tego momentu HE i FJS są identyczne. Tak jak w FJS-ie sprzyja to spójności, naturalności i notowaniu opartym na interwałach, a nie z góry ustalonych wysokościach.
 
 BJ, z drugiej strony, opiera się na czymś bardziej… innowacyjnym. Różni się definicjami niealterowanych dźwięków i alteracji. Zwyczajny zapis nutowy u BJ ma następujące znaczenie:
 
@@ -32,7 +32,7 @@ Ale i to się nie zgadza – nawet 5-limitową harmonię diatoniczną trudno w t
 
 W rzeczywistości brak spójności w niealterowanych wysokościach powoduje lawinę problemów w BJ – nie zdziw się więc, jeżeli będę się odnosił do tego głównego problemu z BJ praktycznie przez całą resztę tej strony.
 
-Stroje niezawierające piątki – na przykład ten z „Dobrze nastrojonego fortepianu” La Monte Younga (który wsławił się używaniem jedynie czynników pierwszych 2, 3 i 7) – wymagają ogromnej ilości korekcji komatem syntonicznym w BJ, pomimo że nawet jeden czynnik 5 nie pojawia się w stroju. To po prostu absurdalne. (Na dole tej strony wyliczam różne tego typu porównania).
+Stroje niezawierające piątki – na przykład ten z „Dobrze nastrojonego fortepianu” La Monte Younga (który wsławił się używaniem jedynie czynników pierwszych 2, 3 i 7) – wymagają ogromnej ilości korekcji komatem syntonicznym w BJ, pomimo że nawet jeden czynnik 5 nie pojawia się w stroju. To po prostu absurdalne. (Na dole tej strony wyliczam różne tego typu porównania).
 
 To wręcz niewykonalne zadanie przetransponować utwór w BJ. Utwór zapisany HE lub FJS można z łatwością przetransponować o kwintę 3/2, przesuwając pitagorejskie części nazw wysokości, a zostawiając alteracje mikrotonalne bez zmian. Da się to samo osiągnąć i przy niepitagorejskiej transpozycji, jak np. 5/4 – po prostu najpierw przesuń (pitagorejsko) o 81/64, a potem dodaj +5 do wszystkich nut. W BJ tak nie jest – transpozycja o interwał 3- czy 5-limitowy (o dalszych nie wspominając) jest o wiele bardziej skomplikowana. Jeżeli utwór jest w *G*-dur, przełożenie go na *D*-dur wymagałoby dodania komatu syntonicznego (plusa) przy każdym *a*, ponieważ *g*–*d* (3/2) to nie ten sam interwał, co *d*–*a* (40/27), a także jego odwrotności (minusa) do każdego *f*, ponieważ *g*–*b* (6/5) to nie to samo, co *d*–*f* (32/27). Partie instrumentów transponujących musiałyby zostać przepisane w zupełności z ogromną liczbą dodatkowych plusów i minusów, nawet jeżeli interwał, o który transponują, to coś tak prostego, jak mocny cały ton (9/8). To łatwo zauważyć w poradniku Kyle'a Ganna, który rozpisuje **siedem** różnych wersji szeregu alikwotowego od 16. do 32., zależnie od podstawy!
 
@@ -44,7 +44,7 @@ Punkt dla HE i FJS-u.
 
 ## Dobór znaków chromatycznych
 
-I HE, i BJ tak jak FJS zapisują całą resztę JI za pomocą znaków chromatycznych przedstawiających skoki komatyczne.
+I HE, i BJ tak jak FJS zapisują całą resztę JI za pomocą znaków chromatycznych przedstawiających skoki komatyczne.
 
 Oto lista aż do komatu 61. dla HE:
 
@@ -77,7 +77,7 @@ HE, odrzucając te komaty, wykorzystuje niektóre liczby pierwsze więcej niż r
 
 Jest też duża różnorodność wielkości komatów: komat 13., 27/26, jest ogromny w porównaniu do 41. – 6561/6560.
 
-A co w takim razie z BJ? Oto lista aż do 31.:
+A co w takim razie z BJ? Oto lista aż do 31.:
 
 - 81/80, komat 5., niemający zupełnie takiej samej funkcji, co inne; to bardziej znak do dostrajania (ponieważ utwóry zapisane w BJ są obficie posypane komatami syntonicznymi).
 - 35/36, czyli komat 7. z dodanym czynnikiem pięciu.
@@ -89,7 +89,7 @@ A co w takim razie z BJ? Oto lista aż do 31.:
 - 145/144, czyli komat 29. z dodanym czynnikiem pięciu.
 - 31/30, czyli komat 31. z dodanym czynnikiem pięciu.
 
-Jak widać, wszystkie te alteracje – oprócz 11. – zawierają czynnik 5, a 17. ma nawet podwójną 5. To prawdopodobnie korekcja służąca przeciwdziałaniu wszechobecnych piątek w BJ – zupełnie tak, jakby te czynniki były próbą skorygowania błędu, jakim było przypisanie tonów diatonicznych do sekwencji ptolemejskiej. Także widzimy dużo komatów o postaci $$\frac{n+1}{n}$$, natomiast tutaj są one prawdopodobnie zjawiskiem przypadkowym.
+Jak widać, wszystkie te alteracje – oprócz 11. – zawierają czynnik 5, a 17. ma nawet podwójną 5. To prawdopodobnie korekcja służąca przeciwdziałaniu wszechobecnych piątek w BJ – zupełnie tak, jakby te czynniki były próbą skorygowania błędu, jakim było przypisanie tonów diatonicznych do sekwencji ptolemejskiej. Także widzimy dużo komatów o postaci $$\frac{n+1}{n}$$, natomiast tutaj są one prawdopodobnie zjawiskiem przypadkowym.
 
 Tych czynników nie można skrytykować w ten sam sposób, jak to zrobiłem przy HE – to całkiem logiczny wybór przy takim nielogicznym zestawie wysokości niealterowanych. 65/64 przenosi 8/5 do 13/8, 51/50 przenosi 25/24 do 17/16, 46/45 przenosi 45/32 do 23/16. Są to odzworowania prostych 5-limitowych interwałów na liczby pierwsze.
 
@@ -169,7 +169,7 @@ Z powodu losowych symboli, prawie niemożliwe jest nazywanie nut w HE, chyba że
 
 A co z BJ? Jego alteracje w końcu wyglądają obiecująco. Ale BJ znowu z kolei ma dziwny system podziału swoich alteracji przy nazywaniu nut. Niektóre z nich są pisane między tonem diatonicznym a alterację pitagorejską, ale nikt nie mówi, które. Na przykład nuta o komat niebiański niżej niż *es* to jest *e*7♭+ (sic!) Alteracja 7 znajduje się między *e* a bemolem, ale + już po tym bemolu. Najbardziej boli fakt, że komat niebiański w dół u BJ to jest „najpierw komat niebiański plus syntoniczny w dół, ale potem z powrotem o syntoniczny w górę”.
 
-BJ także ma zaawansowany system wypowiadania tych nazw. Jest on podobny do FJS-a, ale dużo bardziej skomplikowany, skoro komaty dla 5, 7, i 11 mają nieregularne symbole. Kyle Gann podaje możliwą nazwę „G-sharp-up-arrow-double-sub-seven-minus” (czyli mniej więcej „gis-strzałka-w-górę-podwójny-pod-siedem-minus”). To dużo bardziej skomplikowane, niż najdziksza możliwa nazwa w FJS-ie, która zawsze będzie się składać z: (części pitagorejskiej)-(ewentualnego „nad”)-(otonalnych)-(„pod”)-(utonalnych), w tej kolejności. Gann mówi, że składanie alteracji w BJ nie ma standardowej formy.
+BJ także ma zaawansowany system wypowiadania tych nazw. Jest on podobny do FJS-u, ale dużo bardziej skomplikowany, skoro komaty dla 5, 7, i 11 mają nieregularne symbole. Kyle Gann podaje możliwą nazwę „G-sharp-up-arrow-double-sub-seven-minus” (czyli mniej więcej „gis-strzałka-w-górę-podwójny-pod-siedem-minus”). To dużo bardziej skomplikowane, niż najdziksza możliwa nazwa w FJS-ie, która zawsze będzie się składać z: (części pitagorejskiej)-(ewentualnego „nad”)-(otonalnych)-(„pod”)-(utonalnych), w tej kolejności. Gann mówi, że składanie alteracji w BJ nie ma standardowej formy.
 
 Ten system jest nadal lepszy niż nic.
 
@@ -201,21 +201,21 @@ HE też to potrafi. Jedynym drobnym problemem jest to, że czasami potrzeba wię
 
 A BJ? Ta sama strona ma również [konwerter z BJ do HE](https://www.plainsound.org/HEJI/johnston.html), który – no cóż – dla komputera działa. Ale czy naprawdę przy każdej nucie będziesz się uciekał do kalkulatora?
 
-Jednym z atutów FJS-a jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona...
+Jednym z atutów FJS-u jest fakt, że jego algorytmy można łatwo wykonać w głowie i szybko bez pomocy kalkulatorów, przez co jego użycie staje się dużo szybsze. Ale to samo u Johnstona…
 
-> *Dla każdej piątki w liczniku: Dodaj tercję wielką. (I plus, jeśli zaczynasz na *d*.)*
+> Dla każdego czynnika 5 w liczniku: pójdź o tercję wielką w górę. (Dodaj plus, jeżeli zacząłeś od *d*).
 >
-> *Dla każdej siódemki w liczniku: Dodaj septymę małą i siódemkę. (I plus, jeśli zaczynasz na *g*, *h* albo *d*.)*
+> Dla każdego czynnika 7 w liczniku: pójdź o septymę małą w górę i dodaj 7. (Jeżeli zacząłeś od *g*, *h* lub *d*, dodaj plus).
 >
-> *Dla każdej dziewiątki w liczniku: Dodaj sekundę wielką. (I plus, jeśli zaczynasz na *e*, *g*, *h* albo *d*.)*
+> Dla każdego czynnika 9 w liczniku: pójdź o sekundę wielką w górę. (Dla *e*, *g*, *h* i *d* dodaj plus).
 >
-> *Dla każdej jedenastki w liczniku: Dodaj kwartę czystą i ↑. (I minus, jeśli zaczynasz na *a* albo *f*.)*
+> Dla każdego czynnika 11 w liczniku: pójdź o kwartę czystą w górę i dodaj ↑. (Dodaj minus, jeżeli zacząłeś od *a* lub *f*).
 >
-> *Dla każdej trzynastki w liczniku: Dodaj sekstę małą i 13. (I minus, jeśli zaczynasz na *f*.)*
+> Dla każdego czynnika 13 w liczniku: pójdź o sekstę czystą w górę i dodaj 13. (Dla *f*, dodaj również minus).
 >
-> *Dla każdej siedemnastki w liczniku: Dodaj krzyżyk i 17.*
+> Dla każdego czynnika 17 w liczniku: dodaj krzyżyk i 17.
 >
-> *Dla każdej dziewiętnastki w liczniku: Dodaj tercję małą i 19. (I plus, jeśli zaczynasz na *d*.)*
+> Dla każdego czynnika 19 w liczniku: pójdź o tercję małą i dodaj 19. (Dodaj plus, jeżeli zacząłeś od *d*).
 
 Jest to tylko fragment długiej listy reguł, za pomocą których ułamki JI zamienia się na notację BJ, jak mówi poradnik Kyle'a Ganna.
 
@@ -223,117 +223,117 @@ Najbardziej irytujące jest to, że mamy dodatkowe reguły dodające plusy i min
 
 I owszem, to jest tylko *część* tego, co u BJ jest odpowiednikiem krótkiego i zwięzłego algorytmu w FJS-ie.
 
-Punkt dla HE i FJS-a.
+Punkt dla HE i FJS-u.
 
 > **FJS: 8, HE: 3, BJ: 3.**
 
 ## Przykłady
 
-No dobra, myślisz sobie: ale to ładna analiza niemająca żadnego związku z rzeczywistością, a gdzie faktyczne przykłady? Jak wyglądają te trzy systemy *w praktyce*?
+No dobrze – mówisz – tu mam tę całą abstrakcyjną analizę, ale co z rzeczywistymi przykładami? Jak sprawdzają się te trzy systemy *w praktyce*?
 
-Tutaj pokazuję przykłady prawdziwych kontekstów JI-owych, żebyś zobaczył, jak wszystkie trzy systemy różnią się efektywnością w tych kontekstach. (Nazwałem nuty w HE, po prostu pisząc +5, +7, itd. na oznaczenie alteracji do góry, i −5, −7, itd. do dołu, czyli tak samo, jak HE je przedstawia.)
+Poniżej podaję kilka przykładów częstych użyć JI, żebyś mógł porównać na własną rękę wydajność trzech systemów w tych kontekstach. (Wysokości w HE nazywam, zapisując +5, +7 itp. dla alteracji przenoszących w górę, a −5, −7 itp. – w dół, by odzwierciedlić HE-owy zapis nutowy).
 
-### Seria alikwotów 1-32
+### Seria alikwotowa (1.–32.)
 
-**FJS.** Ta tabela zajęła mi minutę.
+**FJS.** Ta tabela zajęła mi około minutę.
 
-| C               | C               | G               | C              | E<sup>5</sup>   | G              | B♭<sup>7</sup>  | C |
-| D               | E<sup>5</sup>   | F<sup>11</sup>  | G              | A♭<sup>13</sup> | B♭<sup>7</sup> | B<sup>5</sup>   | C |
-| D♭<sup>17</sup> | D               | E♭<sup>19</sup> | E<sup>5</sup>  | F<sup>7</sup>   | F<sup>11</sup> | F♯<sup>23</sup> | G |
-| G♯<sup>25</sup> | A♭<sup>13</sup> | A               | B♭<sup>7</sup> | B♭<sup>29</sup> | B<sup>5</sup>  | B<sup>31</sup>  | C |
+| c                | c               | g               | c             | e<sup>5</sup>   | g              | b<sup>7</sup>    | c |
+| d                | e<sup>5</sup>   | f<sup>11</sup>  | g             | as<sup>13</sup> | b<sup>7</sup>  | h<sup>5</sup>    | c |
+| des<sup>17</sup> | d               | es<sup>19</sup> | e<sup>5</sup> | f<sup>7</sup>   | f<sup>11</sup> | fis<sup>23</sup> | g |
+| gis<sup>25</sup> | as<sup>13</sup> | a               | b<sup>7</sup> | b<sup>29</sup>  | b<sup>5</sup>  | b<sup>31</sup>   | c |
 
-**HE.** Ta tabela zajęła mi około dwie minuty. Początkowo nie byłem pewny swoich wyników, więc sprawdziłem je kalkulatorem.
+**HE.** Samą tabelę skonstruowałem w dwie minuty, ale nie byłem pewien swoich obliczeń. Potwierdziłem je kalkulatorem.
 
-| C       | C    | G     | C    | E−5     | G    | B♭−7    | C |
-| D       | E−5  | F+11  | G    | A−13    | B♭−7 | B−5     | C |
-| D♭+5−17 | D    | E♭+19 | E−5  | F−7     | F+11 | F♯+23   | G |
-| G♯−5−5  | A−13 | A     | B♭−7 | B♭+5+29 | B−5  | C−11−31 | C |
+| c        | c    | g     | c   | e−5    | g    | b−7     | c |
+| d        | e−5  | f+11  | g   | a−13   | b−7  | h−5     | c |
+| des+5−17 | d    | es+19 | e−5 | f−7    | f+11 | fis+23  | g |
+| gis−5−5  | a−13 | a     | b−7 | b+5+29 | h−5  | c−11−31 | c |
 
-**BJ.** Ta tabela zajęła mniej więcej trzy minuty, przy czym już kiedyś widziałem tę serię alikwotów zapisaną w BJ.
+**BJ.** Pomimo że widziałem już gdzieś tę rozpiskę, odtworzenie jej zajęło mi aż trzy minuty.
 
-| C    | C    | G    | C   | E    | G   | B7♭   | C |
-| D    | E    | F↑   | G   | A♭13 | B7♭ | B     | C |
-| C♯17 | D    | E♭19 | E   | F7+  | F↑  | F♯23+ | G |
-| G♯   | A♭13 | A+   | B7♭ | B♭29 | B   | B31   | C |
+| c    | c    | g    | c   | e    | g   | h7♭   | c |
+| d    | e    | f↑   | g   | a♭13 | h7♭ | h     | c |
+| c♯17 | d    | e♭19 | e   | f7+  | f↑  | f♯23+ | g |
+| g♯   | a♭13 | a+   | h7♭ | h♭29 | h   | h31   | c |
 
-### La Monte Young's "Well-Tuned Piano"
+### „Dobrze nastrojony fortepian” La Monte'a Younga.
 
-**Young's notation.** (I write the scale as ascending, not as a sequence of keys on the keyboard, so G♯ comes before G as it is a lower pitch.)
+**Notacja Younga.** (Tu dźwięki wypisane są w kolejności rosnącej, a nie jako szereg klawiszy na klawiaturze; z tego powodu *gis* postawione jest przed *g*, ponieważ jest niższe).
 
-E♭, E, F, F♯, G♯, G, A, B♭, B, C♯, C, D, E♭.
+> es, e, f, fis, gis, g, a, b, h, cis, c, d, es.
 
-**FJS.** Exactly as concise as Young, without relying on an arbitrary keyboard mapping. Also notates the tonic as its true pitch with reference to A = 440 Hz, the tuning of Young's piano.
+**FJS.** Tak samo zwięźle, jak u Younga, ale nie polegając na arbitralnym przypisaniu do klawiszy fortepianu. Z *a* = 440 Hz, ta notacja zarazem zapisuje rzeczywiste wysokości zgodnie ze strojem Younga.
 
-D<sub>7</sub>, E, E<sub>7</sub>, F<sup>7</sup>, G<sup>7</sup>, G, A, A<sub>7</sub>, B♭<sup>7</sup>, C<sup>7</sup>, C, D, D<sub>7</sub>.
+> d<sub>7</sub>, e, e<sub>7</sub>, f<sup>7</sup>, g<sup>7</sup>, g, a, a<sub>7</sub>, b<sup>7</sup>, c<sup>7</sup>, c, d, d<sub>7</sub>.
 
-Here is what it would be if it used E♭ to notate the tonic; a little less concise.
+Tak wyglądałoby to, gdybyśmy ustalili za tonikę *es*, zgodnie z zapisem Younga. Rezultat jest trochę mniej zwięzły.
 
-E♭, F<sup>7</sup>, F, G♭<sup>49</sup>, A♭<sup>49</sup>, A♭<sup>7</sup>, B♭<sup>7</sup>, B♭, C♭<sup>49</sup>, D♭<sup>49</sup>, D♭<sup>7</sup>, E♭<sup>7</sup>, E♭.
+> es, f<sup>7</sup>, f, ges<sup>49</sup>, as<sup>49</sup>, as<sup>7</sup>, b<sup>7</sup>, b, c♭<sup>49</sup>, des<sup>49</sup>, des<sup>7</sup>, es<sup>7</sup>, es.
 
-**Helmholtz-Ellis.** Just as concise as the FJS on E♭.
+**Helmholtz-Ellis.** Zwięzłe w tym samym stopniu, co w przypadku FJS na *es*.
 
-E♭, F−7, F, G♭−7−7, A♭−7−7, A♭−7, B♭−7, B♭, C♭−7−7, D♭−7−7, D♭−7, E♭−7, E♭.
+> es, f−7, f, ges−7−7, as−7−7, as−7, b−7, b, c−7−7, des−7−7, des−7, es−7, es.
 
-**Ben Johnston.** Very inconcise. Also note the abundance of syntonic comma accidentals, in a tuning with no factor of five.
+**Ben Johnston.** Okrężne. Zauważ wielość znaków dla komatu syntonicznego, mimo że strój nie wykorzystuje czynnika 5.
 
-E♭, F7++, F+, G77♭+, A77♭++, A7♭+, B7♭+, B♭, C77♭+, D77♭+, D7♭, E7♭+, E♭.
+> e♭, f7++, f+, g77♭+, a77♭++, a7♭+, h7♭+, h♭, c77♭+, d77♭+, d7♭, e7♭+, e♭.
 
-### Terry Riley's "Harp of New Albion"
+### „Harfa Nowego Albionu” Terry'ego Riley'ego.
 
-**Riley's notation.**
+**Zapis Riley'ego.**
 
-C♯, D, D♯, E, E♯, F♯, G, G♯, A, A♯, B, B♯, C♯.
+> cis, d, dis, e, eis, fis, g, gis, a, ais, b, h, cis.
 
-**FJS.** The Pythagorean pitch classes match Riley's.
+**FJS.** Zgadza się z Rileym pod względem nazw pitagorejskich.
 
-C♯<sup>5</sup>, D, D♯<sup>5</sup>, E, E♯<sup>25</sup>, F♯<sup>5</sup>, G, G♯<sup>5</sup>, A, A♯<sup>25</sup>, B<sup>5</sup>, B♯<sup>25</sup>, C♯<sup>5</sup>.
+> cis<sup>5</sup>, d, dis<sup>5</sup>, e, eis<sup>25</sup>, fis<sup>5</sup>, g, gis<sup>5</sup>, a, ais<sup>25</sup>, b<sup>5</sup>, h<sup>25</sup>, cis<sup>5</sup>.
 
-**Helmholtz-Ellis.** On par with the FJS. Virtually identical.
+**Helmholtz-Ellis.** Na równi z FJS-em. Niemal identyczne.
 
-C♯−5, D, D♯−5, E, E♯−5−5, F♯−5, G, G♯−5, A, A♯−5−5, B−5, B♯−5−5, C♯−5.
+> cis−5, d, dis−5, e, eis−5−5, fis−5, g, gis−5, a, ais−5−5, b−5, h−5−5, cis−5.
 
-**Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
+**Ben Johnston.** Podobno sprawny dla 5-limitów… a jednak zajęło mi trzy minuty, zanim poprawnie wyprowadziłem ten szereg:
 
-C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+> c♯−, d−−, d♯−, e−, e♯−, f♯−, g−−, g♯−, a−, a♯−, h−−, h♯−, c♯−.
 
-### Notation Comparison
+### Porównanie notacji obok siebie
 
-This [comparison](../assets/comparison.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage... well, see for yourself.
+To [przyrównanie](../assets/comparison.pdf) trzech notacji opiera się na 12-taktowej harmonizacji średniowiecznej zgadywanki w skali doryckiej na *d* w 5-limicie. Że użyłem 5-limitu, powinno dać niesprawiedliwą przewagę BJ… sam zobacz.
 
-Listen to it:
+Możesz posłuchać:
 
 <audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
 
-## Verdict
+## Werdykt
 
-Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis notation, unsurprisingly, is quite bad, being the first attempt at such a task. Johnston notation, given its absurd choice of the natural notes, is considerably worse than even Helmholtz-Ellis; its equal score is a result of figurative transfer error. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
+Nie jest żadną niespodzianką, że FJS jest najlepszym systemem zapisu JI spośród tych trzech. HE niestety wypada całkiem źle jako pierwsza próba. Wyobrażam sobie, że BJ, biorąc pod uwagę dziwny wybór wysokości niealterowanych, jest jeszcze gorszy niż sam HE – równy wynik pochodzi stąd, że zignorowałem propagację błędów. FJS znacząco prześciga i HE, i BJ w zadaniu notowania JI.
 
-## A Note to Kyle Gann
+## Wiadomość dla Kyle'a Ganna
 
-As mentioned, Kyle Gann's guide for Ben Johnston's system contains an addendum where he explains why he prefers Johnston over Helmholtz-Ellis despite its very inconvenient choice of natural notes.
+Jak wspomniałem, poradnik Kyle'a Ganna reklamujący system Johnstona zawiera uzupełnienie, w którym wyjaśnia, dlaczego woli BJ niż HE, chociaż ten pierwszy bardzo niezręcznie wybrał swoje dźwięki niealterowane.
 
-You explain that finding the value of B♭ in the key of C is easier in Johnston than in Helmholtz-Ellis. In Johnston, C to B is 15/8, and adding a flat lowers it by 25/24, resulting in 9/5. In Helmholtz-Ellis, however, C to B is 243/128, and adding a flat lowers it by 2187/2048, and only a calculator can tell you that this results in 16/9. Considering consistency as one of the less important virtues, you dismiss Helmholtz-Ellis because apparently it will force you to constantly multiply and divide by four-digit numbers.
+Tłumaczysz pan, że wyliczenie wartości *b* w tonacji *C* jest dużo łatwiejsze w BJ niż w HE. W BJ, *c*-*h* to 15/8, a bemol obniża o 25/24, co daje 9/5. Natomiast w HE, *c*-*h* to 243/128, a bemol obniża o 2187/2048, i potrzeba kalkulatora, żeby stwierdzić, że wychodzi 16/9. Skoro uważasz pan regularność za mało ważny atut, odrzucasz pan HE, ponieważ podobno zmusza do ciągłego mnożenia i dzielenia przez liczby czterocyfrowe.
 
-I respond to this argument because it relies on the fact that Helmholtz-Ellis notation, like the FJS, is based on the Pythagorean scale. So if this argument works against Helmholtz-Ellis, it should also work against the FJS.
+Odpowiadam na ten argument z dwóch powodów: po pierwsze dlatego, że wynika z faktu, że zarówno HE, jak i FJS, bazuje na skali pitagorejskiej. Jeśli ten argument skutecznie obala HE, to obala również FJS-a.
 
-I also respond because this argument is a non-sequitur.
+Drugi powód jest taki, że – nie, nie obala. Wręcz przeciwnie. Jest błędny.
 
-Ben Johnston notation does force the user to constantly multiply and divide, because even the simplest notes are made of many factors of five juggled back and forth and adjusted for with pluses and minuses. Because the 5-limit scale is not consistent, it also forces the user to always think in terms of the seven diatonic pitches, rather than intervals.
+BJ faktycznie zmusza do ciągłego mnożenia i dzielenia, ponieważ nawet najprostsze nuty składają się z wielu piątek przerzucanych w tę i we w tę, z plusami i minusami. Dlatego, że skala 5-limitowa przeczy sama sobie, trzeba także zawsze myśleć o siedmiu tonach diatonicznych, nie samych interwałach.
 
-When you attempt to use Helmholtz-Ellis notation, you automatically assume the same restrictions that you were bound to with Ben Johnston notation: trying to figure out the value of a minor seventh using a major seventh minus a chromatic semitone. You criticize Helmholtz-Ellis for the fact that one of these intervals now requires four-digit numbers to represent, while Johnston usually works with up to two-digit numbers.
+Gdy próbujesz pan używać HE, pan zakładasz od razu wszystkie ograniczenia notacji BJ: pan próbujesz wyliczyć septymę małą z septymy wielkiej obniżonej o półton chromatyczny. Pan krytykujesz HE za to, że jeden z tych interwałów teraz ma cztery cyfry, podczas gdy BJ ładnie sobie radzi z dwucyfrowymi.
 
-The minor seventh is right next to you on the circle of fifths; it's just two perfect fourths, both 4/3 (again, unlike in Johnston, where C-F is 4/3 but F-B♭ is 27/20). Why would you go up five fifths (major seventh) to then immediately return seven fifths back (chromatic semitone)? Would you travel from North Carolina to South Carolina stopping by in Maine? Just because C writes its minor seventh with a flat doesn't mean that you have to think of it in those terms; you do this because Johnston forces you to. Take a modulation to D. There, the minor seventh is a natural note, but unlike in Johnston notation, it still has the same size nonetheless.
+Panie Gannie, septyma mała jest tuż, tuż na kole kwintowym; są to dwie kwarty czyste, obie równe 4/3 (chociaż nie ma tak łatwo w BJ, gdzie *c*-*f*, 4/3, nie równa się *f*-*b*, 27/20). Po co wchodziłbyś pan o pięć kwint do góry (septyma wielka), aby potem od razu zejść o siedem (półton chromatyczny)? Czy podróż z Karoliny Północnej do Południowej przez Maine brzmi tak samo zachęcająco? Tylko dlatego, że w *c* septymę małą pisze się z bemolem, nie oznacza, że musisz pan tak o niej myśleć. Pan jesteś do tego zmuszony przez BJ. A przenieś się pan do tonacji *d*, gdzie septyma mała nie ma alteracji, ale w przeciwieństwie do BJ ma ten sam rozmiar.
 
-Your guide to figuring out the ratios from notation does indeed start at looking at the natural notes and figuring out the interval between them. This is because this interval *depends* on the natural notes in Johnston notation, so there indeed is no other way to figure it out. For example, D to E is 10/9, which is different from C to D, 9/8. Helmholtz-Ellis and the FJS do not have this absurd restriction. Every major second is 9/8. This allows a composer to be freed from the restriction of the diatonic scale when thinking in JI, and it allows one to translate interval names directly to ratios.
+Pana poradnik do wyliczania ułamków z notacji faktycznie zaczyna od nut niealterowanych i wyliczenia interwału między nimi: dlatego, że ten interwał *zależy* od nich w BJ, czyli nie ma innego sposobu. Na przykład *d*-*e* to 10/9, czyli interwał różny od *c*-*d*, 9/8. Ani HE, ani FJS tego absurdalnego ograniczenia. Każda sekunda wielka to 9/8. Pozwala to kompozytorom uwolnić się od skali diatonicznej, gdy myślimy w JI, i pozwala na tłumaczenie od razu z ułamków na nazwy interwałów, bez kroku pośredniego, czyli konkretnych nut.
 
-You could have arrived at the fact that C to B♭ is 16/9 in so many different (and easier) ways than 243/128 times 2048/2187; in fact, you probably chose the most inconvenient possible way to arrive at 16/9 (the equivalent of the only possible way to arrive at 9/5 in Johnston).
+Pan mogłeś wyliczyć 16/9 z *c*-*b* na tyle różnych (dużo łatwiejszych) sposobów niż 243/128 razy 2187/2048. Właściwie wybrałeś pan prawdopodobnie najtrudniejszy z możliwych sposobów wyliczenia 16/9 (ale pamiętajmy, jest to ekwiwalent jedynego możliwego sposobu w BJ, żeby wyliczyć 9/5).
 
-For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
+Mogłeś pan na przykład zauważyć, że *c* i *b* oba nie mają żadnych mikrotonalnych alteracji, czyli z definicji niealterowanych dźwięków, septyma mała między nimi musi być pitagorejska, czyli 16/9. Albo, że składa się z dwóch kwart czystych 4/3, czyli 16/9. Albo, że jest to odwrócenie całego tonu 9/8, czyli 16/9. FJS daje ogromną wolność szybkiego i wydajnego czytania i pisania, w przeciwieństwie do powolnego i mozolnego procesu, który wymaga BJ.
 
-The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
+Ja widzę to tak, że pan jesteś przyzwyczajony do kajdanek Johnstona, a uwolnienie przez HE (albo FJS) powoduje u pana paraliż, ponieważ przez te lata spędzone w kajdankach pan nie wyobrażasz sobie ich braku.
 
-Switch to the FJS. It will make the math and notation part of your compositional pursuit **so much easier**.
+Przenieś się pan na FJS. To **ogromnie ułatwi** matematykę i notację pańskiej działalności kompozytorskiej.
 
-Or don't, and continue juggling syntonic commas.
+Albo nie – żongluj pan dalej komatami syntonicznymi.
 
-Others may have different criteria.
+Inni mogą mieć inne kryteria.
