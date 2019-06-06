@@ -22,6 +22,10 @@ You don't need one! Let the [calculators](calc.html) handle that.
 
 I've outlined some of my reasoning on the [comparison](compare.html) page.
 
+## What about (Rational Comma Notation / Sagittal / the H-system / Kite's color notation / \[insert some other alternative notation system\])?
+
+Again, consult the [comparison](compare.html).
+
 ## Why the fuss if I can define my pitches at the top of a score?
 
 Sure, you can do that, but there are a few things you'll be missing out on:

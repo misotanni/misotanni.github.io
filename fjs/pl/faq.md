@@ -22,6 +22,10 @@ A na co? Od tego masz [kalkulatory](calc.html).
 
 Na ten temat wypowiedziałem się na stronie [porównania](compare.html).
 
+## A czemu nie (Rational Comma Notation / Sagittal / H-system / Kite'owa notacja kolorów / \[wstaw tutaj inny alternatywny system notacji\])?
+
+Powtarzam: zobacz sobie [porównanie](compare.html).
+
 ## Po kiego grzyba, jeśli mogę wszystkie wysokości po prostu zdefiniować na początku partytury?
 
 Owszem, możesz, ale przez to parę rzeczy stracisz:

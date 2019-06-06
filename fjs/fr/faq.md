@@ -22,6 +22,10 @@ Vous n'en avez pas besoin! Les [calculatrices](calc.html) servent à cela.
 
 J'ai examiné ce sujet à la page de la [comparaison](compare.html).
 
+## Pourquoi pas (la Rational Comma Notation / Sagittal / le H-System / la notation de couleurs de Kite / \[encore un autre système de notation alternatif\])?
+
+Je répète: voyez la page de la [comparaison](compare.html).
+
 ## Pourquoi s'en préoccuper si je peux définir tous les tons au-dessus d'une partition?
 
 Bien sûr que vous le pouvez, mais certaines choses vous manqueront:

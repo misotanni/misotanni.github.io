@@ -22,6 +22,10 @@ So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
 
 Dazu erfahrst du vieles auf [dieser](compare.html) Seite.
 
+## Was mit (der Rational Comma Notation / Sagittal / dem H-System / Kites Farbennotation / \[noch ein alternatives Notationssystem\])?
+
+Sehe dir dazu wieder den [Vergleich](compare.html) an.
+
 ## Warum überhaupt, wenn ich die Tonhöhen am Anfang der Partitur definieren kann?
 
 Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
