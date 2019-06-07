@@ -36,7 +36,7 @@ Cette page contient plus d'exemples du FJS en pratique.
 | Do              | Sol            | Ré             | La              | Mi |      |
 | Ré<sub>7</sub>  | La<sub>7</sub> | Mi<sub>7</sub> |                 |    | +3:2 |
 
-### Le *tonality diamond* du 11-limite par Harry Partch
+### Le *tonality diamond* de la 11-limite par Harry Partch
 
 | (unisson)                                  | (tierce mineure)<sup>7</sup>    | (quarte juste)<sup>7</sup><sub>11</sub>     | (quinte diminuée)<sup>7</sup><sub>5</sub>  | (sixte mineure)<sup>7</sup>   | (septième mineure)<sup>7</sup> |
 | (sixte majeure)<sub>7</sub>                | (unisson)                       | (seconde majeure)<sub>11</sub>              | (tierce mineure)<sub>5</sub>               | (quarte juste)                | (quinte juste)                 |
@@ -95,9 +95,9 @@ Une armure FJS est démontrée aussi.
 
 Vous trouvez ici la [vidéo d'introduction](https://youtu.be/38I3cylJlW4) du FJS. Ici, il y a la [musique](https://youtu.be/JH2_Fwuc5E4) du vidéo, écrit bien sûr dans le FJS.
 
-Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint* de Steve Reich en intonation juste du 5-limite utilise un *Tonnetz* écrit dans le FJS pour visualiser l'accord.
+Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint* de Steve Reich en intonation juste de la 5-limite utilise un *Tonnetz* écrit dans le FJS pour visualiser l'accord.
 
-Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste du 7-limite démontré ses accords aussi dans le FJS.
+Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontré ses accords aussi dans le FJS.
 
 Ici, il y a une [visualisation](https://youtu.be/jG7lj98Yy-0) de l'algorithme principal du FJS.
 

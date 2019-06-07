@@ -92,7 +92,7 @@ Nous utilisons la récurrence, avec *p* = 5 pour l'initialisation.
 
 Soit $$C_p=2^{a_p}\cdot 3^{b_p}\cdot p$$ le nombre pont choisi pour le nombre premier *p* avec des entiers relatifs particuliers *a*<sub>*p*</sub>, *b*<sub>*p*</sub>. C'est un intervalle arbitraire mais connu.
 
-Pour l'initialisation, considérez un nombre pont connu pour 5: $$C_5=2^{a_5}\cdot 3^{b_5}\cdot 5$$, et un intervalle JI du 5-limite avec une factorisation unique connue: $$d=2^{\alpha _2} \cdot 3^{\alpha _3} \cdot 5^{\alpha _5}$$.
+Pour l'initialisation, considérez un nombre pont connu pour 5: $$C_5=2^{a_5}\cdot 3^{b_5}\cdot 5$$, et un intervalle JI de la 5-limite avec une factorisation unique connue: $$d=2^{\alpha _2} \cdot 3^{\alpha _3} \cdot 5^{\alpha _5}$$.
 
 $$d=2^{\alpha _2} \cdot 3^{\alpha _3} \cdot 5^{\alpha _5}$$
 
@@ -104,7 +104,7 @@ $$d=(2^{a_5} \cdot 3^{b_5} \cdot 5)^{\alpha _5} \cdot 2^{\alpha _2 - \alpha_5 a_
 
 $$d=(C_5)^{\alpha _5} \cdot 2^{\alpha _2 - \alpha_5 a_5} \cdot 3^{\alpha _3 - \alpha_5 b_5}$$
 
-Cela est une représentation unique comme un rapport pythagoricien, donc un rapport dans le 3-limite dont les exposants sont des entiers relatifs, multiplié par le nombre pont pour 5 dont l'exposant, lui, est aussi un entier relatif. L'initialisation est complète.
+Cela est une représentation unique comme un rapport pythagoricien, donc un rapport dans la 3-limite dont les exposants sont des entiers relatifs, multiplié par le nombre pont pour 5 dont l'exposant, lui, est aussi un entier relatif. L'initialisation est complète.
 
 Pour l'hérédité, on suppose la vérité pour $$\text{p}(n)$$ et prouve que cela garantit la vérité pour $$\text{p}(n+1)$$.
 
