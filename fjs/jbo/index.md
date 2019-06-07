@@ -91,8 +91,6 @@ i za'u mai ma'a noi zgipre cu sutra lo ka ci'e pensi
 i xu pau nai xamgu fa lo nu fanva fo lo cy ty melbi noi mulno co te javni gi'e ku'i jai nandu fai lo ka jijnu fi ce'u ku'o fi zo'e pe lo zgisnici'e noi slabu
 i xu pau nai rinka lo nu lo zgipre cu creze'a lo ka zmiku tu'a cy ty kei gi'e kuspygau cy ty lo ro pruce pe lo fadni zgike ge'u ne mu'u lo nunfi'i e lo nunlanli e lo nunti'i
 
-**i go'i je'u**
-
 ni'o lo ka snici'e na sai jai se steci tu'a fy jy sy
 i lo nu mi zbasu fy jy sy cu nibli lo po'o nai nu mi jimpe fi lo simlu kalsa pe cy ty
 i ji'a fakri'a mi lo du'u lo zgisnici'e cu terjavni gi'e dunli cy ty so'i ue da
