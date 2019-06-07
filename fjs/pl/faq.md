@@ -2,14 +2,6 @@
 
 <style>h2 { font-weight: normal; font-size: 100%; }</style>
 
-## Co to są te „stroje naturalne”, na których ci tak zależy? Czy to nie jest jakaś nowa ezoteryka New Age?
-
-Nie.
-
-Stroje naturalne są matematyką, a także teorią dźwięku bazującą na dających się udowodnić właściwościach tegoż dźwięku. Jest to także gatunek muzyki wykorzystujący tę teorię jako paletę chromatyczną kompozycji muzycznej, w przeciwieństwie do np. równomiernego podziału oktawy. FJS jest formalnym systemem ułatwiającym intuicyjne zrozumienie tejże teorii JI.
-
-New Age za to nie jest ani nauką, ani teorią. Zainteresowani powinni zaczytać się w takie „nauki” i „teorie” jak [ten oto](https://attunedvibrations.com/432hz/) alternatywny strój, który jest „matematycznie” „zgodny” z „wibracją wszechświata”… Albo może lepiej i nie.
-
 ## Czy FJS się nadaje do notacji temperacji równomiernych?
 
 Krótko i zwięźle: nie.
@@ -47,23 +39,10 @@ Owszem, możesz, ale przez to parę rzeczy stracisz:
 
 Jeśli nie przejmujesz się żadnym z tych atutów, być może FJS nie pasuje do ciebie. Radzę ci jednak dać mu szansę.
 
----
+## Co to są te „stroje naturalne”, na których ci tak zależy? Czy to nie jest jakaś nowa ezoteryka New Age?
 
-## Chwileczkę, ten cały FJS jest bardzo podobny do Rational Comma Notation, o co tu chodzi?
+Nie.
 
-Jest to niefortunny przypadek wynalazków niezależnych.
+Stroje naturalne są matematyką, a także teorią dźwięku bazującą na dających się udowodnić właściwościach tegoż dźwięku. Jest to także gatunek muzyki wykorzystujący tę teorię jako paletę chromatyczną kompozycji muzycznej, w przeciwieństwie do np. równomiernego podziału oktawy. FJS jest formalnym systemem ułatwiającym intuicyjne zrozumienie tejże teorii JI.
 
-[Rational Comma Notation](https://en.xen.wiki/w/Rational_Comma_Notation_(RCN)) jest wynalazkiem Davida Ryana, który przypadkowo jest bardzo podobny do FJS-u.
-
-Dowiedziałem się o RCN dopiero w późnej fazie rozwoju FJS, czyli po ustaleniu wszystkich najważniejszych jego aspektów. Nie miałem już wtedy czego czerpać z zaprojektowania RCN, ponieważ uznałem, że ten robi niektóre rzeczy gorzej od FJS-u:
-
-- alteracje przedstawia bardzo niezgrabnie: *es*<sub>5</sub> bądź `es_5` to u niego *es*\[1/5\];
-- nie pokazuje nigdzie nazewnictwa interwałów, które jest dosłownym tłumaczeniem ułamków JI bez toniki;
-- nie pokazuje nigdzie przykładów nut na pięciolinii, tylko same nazwy nut;
-- algorytm wybierania komatów polega na równowadze nie między przybliżeniem a prostotą pitagorejską, tylko między przybliżeniem a wielkością licznika i mianownika, co nie jest dobrym wyborem, bo sprawia wrażenie, jakby faktycznie trzeba było przez te ułamki mnożyć (a na temat tej kwestii przeczytaj sobie list do Kyle'a Ganna na dole [porównania](compare.html)) i czasami daje przez to interwały całkiem niezgrabne, np. *cis*\[17\] zamiast *des*\[17\] jako 17/16 od *c*, albo *c*\[31\] zamiast *h*\[31\] jako 31/16;
-- algorytm jest bardzo skomplikowany, przez co niemożliwe jest wykonanie go w głowie, czyli lista komatów jest *de facto* znów tabelą albo dialogiem z komputerem;
-- system występuje w wielu różnych wersjach, każda o całkowicie innym algorytmie, nie ma żadnego standardu tak dobrze określonego jak FJS-owy.
-
-Pamiętaj, że choć FJS, na datę patrząc, został stworzony później niż RCN (2015-2017; FJS: 2017-2019), nie czerpał z niego żadnej inspiracji – nigdy nie było na to potrzeby. Nietrudno wpaść na pomysł używania skali pitagorejskiej dla nut niealterowanych (zrobił to już chociażby Helmholtz-Ellis)albo na pomysł mnożenia komatów (w końcu jak inaczej połączyć liczby pierwsze w sposób dający się jednoznacznie odwrócić?)
-
-Skoro RCN nie zostało użyte w żadnym przykładzie muzycznym na serio, nie ma przez to potencjału zapisowego, a jego istnienie nie jest wryte w jakieś nuty, to niech FJS to zrobi(ł).
+New Age za to nie jest ani nauką, ani teorią. Zainteresowani powinni zaczytać się w takie „nauki” i „teorie” jak [ten oto](https://attunedvibrations.com/432hz/) alternatywny strój, który jest „matematycznie” „zgodny” z „wibracją wszechświata”… Albo może lepiej i nie.

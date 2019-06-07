@@ -39,18 +39,6 @@ Bien sûr que vous le pouvez, mais certaines choses vous manqueront:
 
 Si tout cela vous n'intéresse pas, il est possible que le FJS ne soit pas le bon choix pour vous. Néanmoins, je conseille que vous lui donniez une chance.
 
----
-
-## Attendez, ce FJS est semblable à la Rational Comma Notation, qu'est-ce que ça veut dire?
-
-Ce sont deux inventions malheureusement indépendantes.
-
-La [Rational Comma Notation](https://en.xen.wiki/w/Rational_Comma_Notation_(RCN)) est l'invention de David Ryan qui ressemble le FJS.
-
-Elle fut aussi inventé complètement indépendante du FJS, et inversement. Je n'étais pas de son existence jusqu'à ce que le FJS a été déjà complété.
-
-Elle diffère aussi du FJS dans quelques aspects importants où le FJS la dépasse.
-
 ## Qu'est-ce que cette intonation juste ou accord naturel dont vous êtes tellement préoccupé? Est-ce que c'est une chose du New Age?
 
 Non.
