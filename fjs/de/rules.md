@@ -116,7 +116,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 ## Mehr experimentelle Elemente (\*)
 
-Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze „Dialekte“ des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, oder mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen.
+Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze „Dialekte“ des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen, oder sogar mit einem veränderten Master-Algorithmus (z.B. anstatt die einfachste Annäherung innerhalb eines Toleranzradius kannst du die nächste Annäherung innerhalb einer Toleranz-Einfachheit).
 
 Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
 
