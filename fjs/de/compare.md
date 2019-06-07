@@ -4,7 +4,7 @@ Das FJS ist nicht das einzige Notationssystem für JI. Viele Komponisten interes
 
 Das FJS ist genau für JI entworfen worden, und während es optimal für JI ist, kann es fast nichts anderes notieren. **Es gibt zwei andere solche Systeme mit ähnlichen Zielen:** das Helmholtz-Ellis-System und das Notationssystem von Ben Johnston.
 
-Es gibt auch zwei besondere Notationssysteme, die ich hier nicht berücksichtigen werde. Eines namens Sagittal, das für alle mikrotonale Musik geeignet ist. Ich werde es aber hier nicht berücksichtigen, denn bei Sagittal geht es nur um die Darstellung von Tonhöhe, deshalb wird es immer mehrdeutig bei JI sein, egal wie präzis seine Versetzungszeichen sind. Das zweite ist die *Rational Comma Notation* von David Ryan, das dem FJS ähnelt (obwohl die zwei unabhängig voneinander erfunden waren!) und kann die ganze Naturtonstimmung notieren, genauso wie das FJS, ist aber nicht so praktisch wegen einer langatmigen Notation, keinem Intervallnamensystem, und einem komplexen Algorithmus. Deshalb sie werde ich auch nicht berücksichtigen.
+Es gibt auch ein besonderes Notationssystem, die ich hier nicht berücksichtigen werde. Es heißt Sagittal, und es ist für alle mikrotonale Musik geeignet. Ich werde es aber hier nicht berücksichtigen, denn bei Sagittal geht es nur um die Darstellung von Tonhöhe, deshalb wird es immer mehrdeutig bei JI sein, egal wie präzis seine Versetzungszeichen sind.
 
 Die Helmholtz-Ellis-Notation (manchmal auch HEWM, Helmholtz-Ellis-Wolf-Monzo) war der erste Versuch, die Notenschrift zu erweitern, um JI zu notieren. Marc Sabat hat dazu [die neueste Erweiterung](http://www.marcsabat.com/pdfs/notation.pdf) entworfen, die JI bis zum 61-Limit notieren kann.
 
