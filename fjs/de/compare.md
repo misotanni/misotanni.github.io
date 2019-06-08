@@ -137,7 +137,7 @@ Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst fü
 
 …und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl „11“, die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
 
-Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 1097 sowie 109 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
+Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, man kehrt sie mit einem Minus-Zeichen um, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 1097 sowie 109 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
 
 Ein Punkt für das FJS und ein halber für Johnston.
 
@@ -149,7 +149,7 @@ Sehen wir also, wie die Versetzungszeichen funktionieren. Wie verändern sie die
 
 In Helmholtz-Ellis wird eine Note durch positive Versetzungszeichen immer erhöht und durch negative immer erniedrigt. Das ist eine Verallgemeinerung der Idee, dass ein Kreuz eine Note erhöht, und ein Be sie erniedrigt.
 
-Bei Ben Johnston dagegen sind alle positiven Versetzungszeichen otonal und alle negativen utonal. Das ist eine Verallgemeinerung der Idee, dass ein Kreuz Quinten addiert und ein Be Quinten subtrahiert.
+Bei Ben Johnston dagegen sind alle positiven Versetzungszeichen otonal und alle negativen utonal (81/80 ausgenommen). Das ist eine Verallgemeinerung der Idee, dass ein Kreuz Quinten addiert und ein Be Quinten subtrahiert.
 
 Im FJS sind positive Versetzungszeichen immer otonal und negative immer utonal.
 

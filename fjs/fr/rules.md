@@ -66,7 +66,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 4. Pour représenter des déviations composées **dans la même orientation** (toutes otonales ou toutes utonales), **multipliez** les nombres des commas (ne les additionnez ou enchaînez pas), parce que ces nombres sont tous premiers, et seulement la multiplication de nombres premiers peut être décomposée d'une seule façon, ce qui est dû au théorème fondamental de l'arithmétique. Nous pouvons alors toujours savoir les nombres premiers qui étaient multipliés (l'ordre ne fait aucune différence). Exemple: Sol♯<sup>25</sup> est plus bas que Sol♯ de deux 81/80 et il n'y a que cette interprétation parce que 25 = 5 × 5 et il n'y a que cette factorisation.
 
-5. Le produit peut généralement être factorisé mentalement. Les produits les plus fréquents sont tous bien connus: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121. Dans le cas où il n'est pas du tout claire (par exemple 119 = 7 × 17), on peut utiliser une notation alternative où tous les facteurs sont écrits en séquence, avec des virgules entre eux. L'exemple ci-dessus peut alors être écrit comme Sol♯<sup>5,5</sup>, les deux notations sont correctes. Si on écrit des commas en séquence, il est d'habitude de les écrire dans un ordre non décroissant. Donc Ré<sup>119</sup> serait Ré<sup>7,17</sup> plutôt que Ré<sup>17,7</sup>. Les deux extrêmes peuvent aussi être combinées comme vous voulez, en multipliant certains facteurs, mais pas tous; donc Sol<sup>11,125</sup> est identique à Sol<sup>1375</sup>. La prononciation n'est pas changée: « Sol-onze-cent-vingt-cinq ».
+5. Le produit peut généralement être factorisé mentalement. Les produits les plus fréquents sont tous bien connus: 25, 35, 49, 125, 625, 343, 55, 77, 121. Dans le cas où il n'est pas du tout claire (par exemple 119 = 7 × 17), on peut utiliser une notation alternative où tous les facteurs sont écrits en séquence, avec des virgules entre eux. L'exemple ci-dessus peut alors être écrit comme Sol♯<sup>5,5</sup>, les deux notations sont correctes. Si on écrit des commas en séquence, il est d'habitude de les écrire dans un ordre non décroissant. Donc Ré<sup>119</sup> serait Ré<sup>7,17</sup> plutôt que Ré<sup>17,7</sup>. Les deux extrêmes peuvent aussi être combinées comme vous voulez, en multipliant certains facteurs, mais pas tous; donc Sol<sup>11,125</sup> est identique à Sol<sup>1375</sup>. La prononciation n'est pas changée: « Sol-onze-cent-vingt-cinq ».
 
 6. Des produits de commas positifs et négatifs sont indépendants. Dans le cas où il y a les deux, on écrit en même temps un indice supérieur et inférieur. Exemple: Fa<sup>7</sup><sub>5</sub> signifie un Fa baissé de 64/63 et élevé de 81/80 (ou à l'inverse: élevé de 81/80 et puis baissé de 64/63, sans différence). Les produits des commas positifs et négatifs sont toujours premiers entre eux: sinon, il y a des facteurs qui peuvent être annulés; \*Do<sup>35</sup><sub>5</sub> est identique à Do<sup>7</sup>.
 
@@ -76,7 +76,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 ## Règles pour utiliser les noms de notes dans la notation
 
-1. Pour ajouter des commas positifs à une note, écrivez le nombre de l'altération composée devant la note. Pour la cohérence: On les écrit devant la note, pas derrière elle, comme des altérations conventionnelles. S'il y a une altération conventionnelle aussi, on écrit la microtonale encore devant la conventionnelle.
+1. Pour ajouter des commas positifs à une note, écrivez le nombre de l'altération composée devant la note. Pour la cohérence: On les écrit devant la note, pas derrière elle, comme avec des altérations conventionnelles. S'il y a une altération conventionnelle aussi, on écrit la microtonale encore devant la conventionnelle.
 
 2. Pour ajouter des commas négatifs à une note, écrivez le nombre de l'altération composée devant la note, avec un signe moins (exemple: −35).
 
@@ -85,6 +85,8 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 4. *Les altérations pythagoriciennes divisent les notes du même ton diatonique (Do, Ré, Mi, Fa, Sol, La, Si) en leurs tons pythagoriciens. C'est pourquoi une altération pythagoricienne compte pour toutes les notes du même ton diatonique dans la même octave dans la même mesure (sauf si annulées ou écrasées).* Par analogie, les altérations microtonales fonctionnent de la même façon: elles divisent les notes du même ton pythagoricien en leurs hauteurs absolues. C'est pourquoi elles, elles comptent pour toutes les notes du même ton pythagoricien dans la même octave dans la même mesure (sauf si annulées ou écrasées). Donc si le premier Mi dans une mesure reçoit un +5, tous les Mi suivants dans la même octave le reçoivent aussi (avant qu'un +1 ne l'annule), mais ni un Ré, ni un Fa, ni un Mi♭ ne le reçoit pas, même dans la même mesure.
 
 5. L'altération 1 signifie l'annulation de toutes les altérations microtonales pour le ton pythagoricien où elle est utilisée.
+
+---
 
 ## Règles pour utiliser des armures FJS (\*)
 
@@ -116,9 +118,9 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 ## Le FJS et la notation au-delà de JI (\*)
 
-L'algorithme principal du FJS accepte chaque entrée, pas seulement des nombres premiers. Bien que le FJS ne soit pas construit pour ce but, on peut réaliser toute l'algorithmerie pour des nombres irrationnels aussi bien que des rationnels. Cela fonctionne pour tous nombres réels, mais certains (en particulier, des racines entières des nombres rationnels) détruisent la bijection virginale et délicate du FJS et ne la transforment qu'en surjection. (Vous pouvez alors lire, mais ne plus écrire, sans équivoque.)
+L'algorithme principal du FJS accepte chaque entrée, pas seulement des nombres premiers. Bien que le FJS ne soit pas construit à cet usage, on peut réaliser toute l'algorithmerie pour des nombres irrationnels aussi bien que des rationnels. Cela fonctionne pour tous nombres réels, mais certains (en particulier, des racines entières des nombres rationnels) détruisent la bijection virginale et délicate du FJS et ne la transforment qu'en surjection. (Vous pouvez alors lire, mais ne plus écrire, sans équivoque.)
 
-Cela signifie que vous pouvez écrire par exemple l'échelle 833 cents dans le FJS. C'est une échelle composée des facteurs de 2, 3, et φ (le nombre d'or). Dans le FJS, φ/1 est une (sixte mineure)<sup>φ</sup>.
+Cela signifie que vous pouvez écrire par exemple l'échelle de 833 cents dans le FJS. C'est une échelle composée des facteurs de 2, 3, et φ (le nombre d'or). Dans le FJS, φ/1 est une (sixte mineure)<sup>φ</sup>.
 
 En outre, cette expansion du FJS préserve toutes ses qualités stupéfiantes.
 
@@ -127,7 +129,6 @@ Parmi d'autres, on peut aussi utiliser les constantes irrationelles suivantes:
 - π; (sixte mineure)<sup>π</sup> (τ, la [vraie constante du cercle](https://tauday.com/tau-manifesto), a la même représentation puisqu'elle égale 2π, donc une octave de π)
 - *e*; (quarte juste)<sup>*e*</sup>
 - γ; (seconde majeure)<sup>γ</sup> (constante d'Euler-Mascheroni)
-- Ω; (seconde majeure)<sup>Ω</sup> (constante Oméga)
 
 Vous pouvez également utiliser tous les nombres transcendants.
 
@@ -135,7 +136,7 @@ On n'a pas encore essayé de représenter des nombres négatifs ou complexes dan
 
 ## Plus d'éléments expérimentaux (\*)
 
-À partir d'ici, le FJS est open-source! Créez vos propres éléments d'abréviation si vous croyez qu'ils sont utiles. Vous pouvez même créer des dialectes FJS avec des rayons de tolérance alternatifs (la calculatrice a cette option), des commas pour chaque limite des nombres impairs, pas seulement des nombres premiers, avec des altérations toujours positif-hausse, négatif-baisse, ou même avec un algorithme principal différent (par exemple, un qui ne cherche pas l'approximation la plus simple dans les limites du rayon de tolérance, mais qui cherche l'approximation la plus proche dans les limites d'une simplicité de tolérance).
+À partir d'ici, le FJS est open-source! Créez vos propres éléments d'abréviation si vous croyez qu'ils sont utiles. Vous pouvez même créer des dialectes FJS avec des rayons de tolérance alternatifs (la calculatrice a cette option), avec des commas pour chaque limite des nombres impairs, pas seulement des nombres premiers, avec des altérations toujours positif-hausse, négatif-baisse, ou même avec un algorithme principal différent (par exemple, un qui ne cherche pas l'approximation la plus simple dans les limites du rayon de tolérance, mais qui cherche l'approximation la plus proche dans les limites d'une simplicité de tolérance).
 
 Je ne suis pas un créateur têtu qui ne permettra pas que quelqu'un modifie son œuvre si les modifications sont bonnes. Dans le passé, le FJS avait beaucoup d'éléments très mauvais, dont certains ont été modifiés ou éliminés au dernier moment. Si vous croyez que vous avez inventé un nouveau élément utile, partagez-le avec moi par e-mail et je l'ajouterai ici avec plaisir.
 

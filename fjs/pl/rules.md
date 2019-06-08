@@ -64,7 +64,7 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 4. Aby zapisać połączenia ruchów więcej niż jednego komatu **w tej samej orientacji** (tj. albo wszystkie otonalne, albo wszystkie utonalne), **przemnóż** ze sobą ich czynniki (zamiast dodawać je czy zapisać je jeden obok drugiego). To dlatego, że komaty odpowiadają liczbom pierwszym. Kiedy suma dwóch liczb pierwszych nie rozłoży się jednoznacznie na  składniki (np. 14 = 11 + 3 = 7 + 7), iloczyn dwóch pierwszych tak, ze względu na zasadnicze twierdzenie arytmetyki. Wynika z tego, że zawsze możemy wywnioskować, jakie liczby pierwsze wchodzą w skład zapisanej alteracji. (Kolejność nie ma znaczenia). Na przykład *gis*<sup>25</sup> to dwa razy po 81/80 poniżej *gis*, gdyż 25 = 5 ⋅ 5, a nie istnieje żaden inny rozkład pierwszy.
 
-5. Zwykle z iloczynu można wyczytać od razu jego czynniki. Niektóre częstsze iloczyny są nam znane: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121… W przeciwnym wypadku – jeżeli iloczyn nie daje się łatwo rozłożyć, np. 119 = 7 ⋅ 17 – można wypisać czynniki, przedzielając je przecinkiem. Przykład z poprzedniego podpunktu można by zapisać również tak: *gis*<sup>5,5</sup> – obydwa zapisy są poprawne. Czynniki najlepiej zapisać wtedy niemalejąco, tzn. *d*<sup>119</sup> raczej jako *d*<sup>7,17</sup> niż *d*<sup>17,7</sup>. Zezwala też się na dowolne częściowe łączenie czynników pierwszych – np. *g*<sup>11,125</sup> jest poprawnym zapisem *g*<sup>1375</sup>, który czytamy tak, jak zawsze: „g jedenaście sto dwadzieścia pięć”.
+5. Zwykle z iloczynu można wyczytać od razu jego czynniki. Niektóre częstsze iloczyny są nam znane: 25, 35, 49, 125, 625, 343, 55, 77, 121… W przeciwnym wypadku – jeżeli iloczyn nie daje się łatwo rozłożyć, np. 119 = 7 ⋅ 17 – można wypisać czynniki, przedzielając je przecinkiem. Przykład z poprzedniego podpunktu można by zapisać również tak: *gis*<sup>5,5</sup> – obydwa zapisy są poprawne. Czynniki najlepiej zapisać wtedy niemalejąco, tzn. *d*<sup>119</sup> raczej jako *d*<sup>7,17</sup> niż *d*<sup>17,7</sup>. Zezwala też się na dowolne częściowe łączenie czynników pierwszych – np. *g*<sup>11,125</sup> jest poprawnym zapisem *g*<sup>1375</sup>, który czytamy tak, jak zawsze: „g jedenaście sto dwadzieścia pięć”.
 
 6. Dodatnie i ujemne komaty przemnaża się osobno. Zapisuje się wtedy naraz indeks górny i dolny, np. *f*<sup>7</sup><sub>5</sub> przedstawia *f* obniżone o 64/63, następnie podniesione o 81/80 (lub w odwrotnej kolejności – najpierw podniesione o 81/80, potem obniżone o 64/63 – wynik jest taki sam). Zauważ, że te dwa iloczyny powinny zawsze być względnie pierwsze; w przeciwnym razie wystąpi niepotrzebne przesunięcie w jedną stronę, od razu niwelowane przez to samo przesunięcie w drugą: \**c*<sup>35</sup><sub>5</sub> to to samo, co *c*<sup>7</sup>.
 
@@ -83,6 +83,8 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 4. *Zwykłe (pitagorejskie) znaki przygodne przydzielają pola i linie na pięciolinii (*cdefgah*) odpowiednim pitagorejskim wysokościom, a więc działają na wysokości tego pola czy linii (w tej samej oktawie) aż do końca taktu, dopóki nie zostaną skasowane lub nadpisane.* Podobnie, FJS-owe alteracje przydzielają wysokościom pitagorejskim (*c*, *des*, *cis*, *d*, itp.) dokładne naturalne wysokości, a więc działają na tej pitagorejskiej wysokości w tej oktawie aż do końca taktu, dopóki nie zostaną skasowane lub nadpisane. To oznacza, że jeżeli zapisać by na początku taktu *e* z alteracją +5, wszystkie następujące nuty o wysokości *e* w tym takcie przyjmą tę +5 domyślnie (chyba że zostanie skasowana 1 lub inną alteracją); jednak *e♭*, tak jak *d* czy *f*, nie przyjmie +5, niezależnie od tego, czy jest w tym samym takcie.
 
 5. Alteracja „1” kasuje wszelkie alteracje dla danej wysokości pitagorejskiej.
+
+---
 
 ## Zasady zapisywania kluczy w FJS (\*)
 
@@ -125,7 +127,6 @@ Między innymi działają również poniższe znane stałe niewymierne:
 - π; 6><sup>π</sup> (τ, czyli [prawdziwa ludolfina](https://tauday.com/tau-manifesto), ma dokładnie taki sam interwał FJS, bo równa się po prostu 2π, czyli oktawie π)
 - *e*; 4<sup>*e*</sup>
 - γ; 2<sup>γ</sup> (stała Eulera-Mascheroniego)
-- Ω; 2<sup>Ω</sup> (stała Omega)
 
 Działają wszystkie liczby przestępne.
 

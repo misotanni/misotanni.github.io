@@ -22,14 +22,14 @@ Cette page contient plus d'exemples du FJS en pratique.
 | Mi♭<sup>7</sup> | Si♭<sup>7</sup> | Fa<sup>7</sup> | Do<sup>7</sup> | Sol<sup>7</sup> |    |    |      |
 | Fa              | Do              | Sol            | Ré             | La              | Mi | Si | +3:2 |
 
-### L'accord de *Harp of New Albion* par Terry Riley
+### L'accord de la *Harp of New Albion* par Terry Riley
 
 | +5:4           |                  |                  |                  |                 |      |
 |                | La♯<sup>25</sup> | Mi♯<sup>25</sup> | Si♯<sup>25</sup> |                 |      |
 | Si<sup>5</sup> | Fa♯<sup>5</sup>  | Do♯<sup>5</sup>  | Sol♯<sup>5</sup> | Ré♯<sup>5</sup> |      |
 | Sol            | Ré               | La               | Mi               |                 | +3:2 |
 
-### L'accord de *Well-Tuned Piano* par La Monte Young
+### L'accord du *Well-Tuned Piano* par La Monte Young
 
 | +7:4            |                |                |                 |    |      |
 | Si♭<sup>7</sup> | Fa<sup>7</sup> | Do<sup>7</sup> | Sol<sup>7</sup> |    |      |
@@ -49,19 +49,19 @@ Cette page contient plus d'exemples du FJS en pratique.
 
 **L'échelle majeure pythagoricienne** (7 notes)
 
-Do, Ré, Mi, Fa, Sol, La, Si, Do
+> Do, Ré, Mi, Fa, Sol, La, Si, Do
 
 **L'échelle majeure ptolémaïque** (7 notes)
 
-Do, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5</sup>, Si<sup>5</sup>, Do
+> Do, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5</sup>, Si<sup>5</sup>, Do
 
 **L'échelle majeure ptolémaïque avec trois triades mineures** (8 notes)
 
-Do, Ré<sup>5</sup>, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5</sup>, Si<sup>5</sup>, Do
+> Do, Ré<sup>5</sup>, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5</sup>, Si<sup>5</sup>, Do
 
 **L'échelle majeure complète** (12 notes)
 
-Do, Ré<sup>5</sup>, Ré, Mi<sup>5</sup>, Mi, Fa<sup>7</sup>, Fa, Sol, La<sup>5</sup>, La, Si<sup>5</sup>, Do<sup>7</sup>, Do
+> Do, Ré<sup>5</sup>, Ré, Mi<sup>5</sup>, Mi, Fa<sup>7</sup>, Fa, Sol, La<sup>5</sup>, La, Si<sup>5</sup>, Do<sup>7</sup>, Do
 
 ### L'échelle harmonique 1–64
 

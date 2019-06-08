@@ -22,7 +22,7 @@ A na co? Od tego masz [kalkulatory](calc.html).
 
 Na ten temat wypowiedziałem się na stronie [porównania](compare.html).
 
-## A czemu nie (Sagittal / H-system / Kite'owa notacja kolorów / \[wstaw tutaj inny alternatywny system notacji\])?
+## A czemu nie (Sagittal / H-system / Kite'owa notacja kolorów / zapis polichromatyczny Catherino / \[wstaw tutaj inny alternatywny system notacji\])?
 
 Powtarzam: zobacz sobie [porównanie](compare.html).
 

@@ -22,7 +22,7 @@ You don't need one! Let the [calculators](calc.html) handle that.
 
 I've outlined some of my reasoning on the [comparison](compare.html) page.
 
-## What about (Sagittal / the H-system / Kite's color notation / \[insert some other alternative notation system\])?
+## What about (Sagittal / the H-system / Kite's color notation / Catherino's polychromatic notation / \[insert some other alternative notation system\])?
 
 Again, consult the [comparison](compare.html).
 

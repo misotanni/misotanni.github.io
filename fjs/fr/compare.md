@@ -69,7 +69,7 @@ Voici la liste jusqu'à la 61-limite pour Helmholtz-Ellis:
 
 Quelques altérations sont identiques dans le FJS: 5, 7, 11, 19, 23, et 43.
 
-On voit le plus clairement que les altérations pour 17, 29, 31, 37, 41, 47, 53, 57, et 61 nécessitent des facteurs différents que 2, 3, et la prime du comma. Chez Helmholtz-Ellis, seulement les commas pour 5, 7, 11, 13, 19, 23, et 43 ont la forme d'un nombre pont. (Dans la seconde partie, entre 32 et 64, seulement 43 a un nombre pont comme comma.)
+On voit le plus clairement que les altérations pour 17, 29, 31, 37, 41, 47, 53, 57, et 61 nécessitent des facteurs différents que 2, 3, et le nombre premier du comma. Chez Helmholtz-Ellis, seulement les commas pour 5, 7, 11, 13, 19, 23, et 43 ont la forme d'un nombre pont. (Dans la seconde partie, entre 32 et 64, seulement 43 a un nombre pont comme comma.)
 
 (L'idée d'un *nombre pont* vient de la [page mathématique](math.html).)
 
@@ -77,7 +77,7 @@ Pourquoi est-ce que c'est un problème? Bien qu'on puisse les noter sans problè
 
 En ignorant ces commas alternatifs, Helmholtz-Ellis utilise des nombres premiers recyclés, et à cause de cela, les intervalles plus hauts deviennent beaucoup plus compliqués. La représentation de 17/16, par exemple, nécessite 16/15 baissé de 256/255, où 16/15 lui-même est 256/243 élevé de 81/80. Deux altérations pour un seul intervalle premier assez simple? Soyons content qu'aucun intervalle jusqu'à la 61-limite n'en nécessite pas *plus* que deux.
 
-Il y a aussi des grandes différences entre les dimensions des commas; 27/26 est énorme comparé à 6561/6560.
+Il y a aussi de grandes différences entre les dimensions des commas; 27/26 est énorme comparé à 6561/6560.
 
 Comment se comporte Ben Johnston? Voici sa liste jusqu'à la 31-limite:
 
@@ -109,9 +109,9 @@ La réponse facile: ni Helmholtz-Ellis ni Johnston n'ont aucune raison.
 
 Il est vrai que Helmholtz-Ellis a 81/80 (le **comma syntonique**) et 64/63 (le **comma céleste**, du nom anglais *celestial comma* créé par Michael Harrison) qui sont probablement dûs à leur importance historique. 33/32 et 27/26 sont similaires à des quarts de ton associés avec la 11- et la 13-limite. Les commas de 17 et 19 sont basés sur des coïncidences avec des exposants de 2: 256/255 et 513/512. Les commas de 23 et 43 sont identiques dans le FJS. Et le reste? Il semble commis au hasard, comme si ces commas étaient trouvés pendant une chasse aveugle dans l'échelle harmonique.
 
-Bien sûr que Johnston a 81/80 aussi, pour corriger ses contradictions; mais le rest des commas n'est pas reconnu, parce que ce sont des transformations de la 5-limite aux intervalles premiers, dont quelques sont vraiment bizarres. On dirait que 256/255 arriverait plutôt chez Johnston que chez Helmholtz-Ellis; mais ce n'est pas vrai, Johnston utilise 51/50 qui transforme le demi-ton *chromatique*, pas le diatonique, en 17/16.
+Bien sûr que Johnston a 81/80 aussi, pour corriger ses contradictions; mais le reste des commas n'est pas reconnu, parce que ce sont des transformations de la 5-limite aux intervalles premiers, dont quelques sont vraiment bizarres. On dirait que 256/255 arriverait plutôt chez Johnston que chez Helmholtz-Ellis; mais ce n'est pas vrai, Johnston utilise 51/50 qui transforme le demi-ton *chromatique*, pas le diatonique, en 17/16.
 
-Pourquoi est-ce que cette question est importante? Dans le FJS, tous les commas sont générés par un algorithme; ni Helmholtz-Ellis ni Johnston n'ont cet avantage. Cela signifie qu'on devrait soit mémoriser, soit toujours chercher dans la liste; sans ces listes on ne pourrait pas même commencer.
+Pourquoi est-ce que cette question est importante? Dans le FJS, tous les commas sont générés par un algorithme; ni Helmholtz-Ellis ni Johnston n'ont cet avantage. Cela signifie qu'on devrait soit mémoriser, soit toujours chercher dans la liste; sans ces listes, on ne pourrait pas même commencer.
 
 Ceci est l'un des avantages les plus importants pour le FJS qui utilise un algorithme: un équivalent d'être neutre culturellement.
 
@@ -125,19 +125,19 @@ Voyons alors comment on écrit ces altérations.
 
 Marc Sabat et Wolfgang von Schweinitz ont développé une liste pour le système Helmholtz-Ellis: [voici](http://www.marcsabat.com/pdfs/fulllegendE.pdf).
 
-Mais qu'est-ce que cela? Un symbole unique pour chaque limite qui n'est presque pas du tout associé avec la limite lui-même? Dommage, encore une liste de formes choisies par hasard qu'on doit soit mémoriser, soit chercher…
+Mais qu'est-ce que cela? Un symbole unique pour chaque limite qui n'est presque pas du tout associé avec la limite elle-même? Dommage, encore une liste de formes choisies par hasard qu'on doit soit mémoriser, soit chercher…
 
-Les seuls cohérences que j'ai pu trouver sont grâce à ma propre analyse. Helmholtz-Ellis trie ses altérations en quatre groupes selon la hauteur: des tiers de ton, des quarts de ton, des commas, et des schismes. Il n'y a qu'un seul tiers de ton (27/26) et un seul quart de ton (33/32), ils utilisent des altérations de quart de ton un peu modifiées. Les schismes jusqu'à la 31-limite utilisent soit des barres obliques, soit des signes plus et moins, pendant que les commas utilisent des flèches. De 32 à 64, on utilise des parenthèses avec des altérations déjà utilisées avant, choisi de retour par hasard.
+Les seules cohérences que j'ai pu trouver sont grâce à ma propre analyse. Helmholtz-Ellis trie ses altérations en quatre groupes selon la hauteur: des tiers de ton, des quarts de ton, des commas, et des schismes. Il n'y a qu'un seul tiers de ton (27/26) et un seul quart de ton (33/32), ils utilisent des altérations de quart de ton un peu modifiées. Les schismes jusqu'à la 31-limite utilisent soit des barres obliques, soit des signes plus et moins, pendant que les commas utilisent des flèches. De 32 à 64, on utilise des parenthèses avec des altérations déjà utilisées avant, choisi de retour par hasard.
 
 De plus, les altérations de la 5-limite fonctionnent d'une manière complètement différente. Au lieu d'être indépendantes, elles sont toujours apposées à des altérations pythagoriciennes. Il est donc impossible d'écrire seulement une altération de la 5-limite, ce qui est un peu bizarre. En Do majeur, il est étrange de devoir écrire un signe bécarre devant un Mi seulement pour pouvoir y apposer une flèche descendante, mais ce n'est pas un trop grand problème.
 
-Ben Johnston se comporte beaucoup mieux. Bien que ses commas sont toujours une liste de constantes choisies sans aucune règle, les symboles pour ces commas sont complètement réguliers à partir de la 13-limite. Les seuls irréguliers: la 5-limite avec un signe plus et moins pour le comma syntonique, la 7-limite avec une flèche basée sur le chiffre 7 (le même que chez Helmholtz-Ellis) pour 35/36, et la 11-limite avec une flèche conventionnelle pour 33/32. (On peut apposer les altérations pour la 7-limite aux altérations pythagoriciennes, mais ici ce n'est pas obligatoire, donc aucun problème.)
+Ben Johnston se comporte beaucoup mieux. Bien que ses commas soient toujours une liste de constantes choisies sans aucune règle, les symboles pour ces commas sont complètement réguliers à partir de la 13-limite. Les seuls irréguliers: la 5-limite avec un signe plus et moins pour le comma syntonique, la 7-limite avec une flèche basée sur le chiffre 7 (la même que chez Helmholtz-Ellis) pour 35/36, et la 11-limite avec une flèche conventionnelle pour 33/32. (On peut apposer les altérations pour la 7-limite aux altérations pythagoriciennes, mais ici ce n'est pas obligatoire, donc aucun problème.)
 
 À partir de la 13-limite, chaque altération utilise tout simplement le nombre premier lui-même pour l'altération positive… (oui, continuez comme ça!)
 
-…et le nombre premier *renversé* pour l'altération négative. Quoi? La seule raison pour laquelle ce n'est pas un problème **énorme**, c'est que la 11-limite est lui-même représenté par un symbole irrégulier, pas le nombre 11, qui ne change pas d'apparence lorsqu'il est renversé si on écrit le chiffre 1 avec une ligne verticale. Sinon, 686989 est le plus petit nombre avec ce problème.
+…et le nombre premier *renversé* pour l'altération négative. Quoi? La seule raison pour laquelle ce n'est pas un problème **énorme**, c'est que la 11-limite est elle-même représentée par un symbole irrégulier, pas le nombre 11, qui ne change pas d'apparence lorsqu'il est renversé si on écrit le chiffre 1 avec une ligne verticale. Sinon, 686989 est le plus petit nombre avec ce problème.
 
-Le FJS utilise le nombre lui-même pour toutes les altérations et les compose en les multipliant. Je suppose que celles de Johnston seraient composées tout simplement en les enchaînant (ce qui est parfois équivoque; 1097, 109, et 7 sont tous des nombres premiers), mais je ne l'ai jamais vu chez Johnston.
+Le FJS utilise le nombre lui-même pour toutes les altérations, les renverse en ajoutant un signe moins, et les compose en les multipliant. Je suppose que celles de Johnston seraient composées tout simplement en les enchaînant (ce qui est parfois équivoque; 1097, 109, et 7 sont tous des nombres premiers), mais je n'ai jamais vu cela chez Johnston.
 
 Un point pour le FJS et un demi-point pour Johnston.
 
@@ -149,7 +149,7 @@ Voyons alors comment ces altérations fonctionnent. Comment transforment-elles l
 
 Chez Helmholtz-Ellis, une note sera toujours élevée par une altération positive et baissée par une négative. C'est une généralisation de l'idée qu'un dièse élève et un bémol baisse.
 
-Chez Johnston, toutes les altérations positives sont otonales et toutes les négatives sont utonales. C'est une généralisation de l'idée qu'un dièse ajoute des quintes et un bémol en soustrait. 
+Chez Johnston, toutes les altérations positives sont otonales et toutes les négatives sont utonales, sauf 81/80. C'est une généralisation de l'idée qu'un dièse ajoute des quintes et un bémol en soustrait. 
 
 Dans le FJS, les altérations positives sont toujours otonales et les négatives toujours utonales.
 
@@ -169,7 +169,7 @@ Voyons alors quelque chose de différent: des noms de notes (donc aussi des noms
 
 Il est presque impossible de nommer des notes chez Helmholtz-Ellis à cause de ses symboles chaotiques, sauf si on utilisait un système complètement différent ou écrivait avec la police de caractères reservée. Je n'ai pas encore vu quelque chose comme ça.
 
-Chez Johnston, il semble que ses altérations pourraient permettre cela. Mais la notation de Johnston a aussi un système bizarre où quelques altérations sont écrites entre le ton diatonique et l'altération pythagoricienne, et il n'y a aucune règle pour cela. Si on voudrait écrire Mi♭<sup>7</sup> dans le FJS, ce serait Mi7♭+ chez Johnston (oui!). Le signe 7 est écrit entre le Mi est le ♭, mais le signe plus est écrit après le ♭. Il saute le plus aux yeux que le *comma céleste* chez Johnston est représenté avec deux altérations: premièrement *baisse d'un comma syntonique et céleste*, puis *rehausse d'un syntonique*.
+Chez Johnston, il semble que ses altérations puissent permettre cela. Mais la notation de Johnston a aussi un système bizarre où quelques altérations sont écrites entre le ton diatonique et l'altération pythagoricienne, et il n'y a aucune règle pour cela. Si on voudrait écrire Mi♭<sup>7</sup> dans le FJS, ce serait Mi7♭+ chez Johnston (oui!). Le signe 7 est écrit entre le Mi est le ♭, mais le signe plus est écrit après le ♭. Il saute le plus aux yeux que le *comma céleste* chez Johnston est représenté avec deux altérations: premièrement *baisse d'un comma syntonique et céleste*, puis *rehausse d'un syntonique*.
 
 Johnston a aussi un système profond pour la prononciation de ces noms. Il est similaire à celui du FJS, mais beaucoup plus compliqué, parce que les commas pour 5, 7, et 11 utilisent des symboles irréguliers. Kyle Gann démontre un exemple en anglais: « G-sharp-up-arrow-double-sub-seven-minus » (environ « Sol-dièse-flèche-en-haut-double-sub-sept-moins »). Cela est beaucoup plus compliqué que le nom le plus compliqué chez le FJS, qui suit toujours le schéma suivant: (partie pythagoricienne)-(préfixe « super » optionnel)-(otonal)-(« sub »)-(utonal) dans cet ordre. Gann écrit que les combinaisons des altérations ne sont pas uniformisées chez Johnston.
 
@@ -185,7 +185,7 @@ Un point pour le FJS et un demi-point pour Johnston.
 
 Tous les trois systèmes peuvent écrire JI sans aucun doute à propos de la hauteur exacte, il n'y a pas de précision maximale. (C'est pourquoi je n'ai pas mentionné Sagittal. Chez Sagittal il y aura toujours une précision maximale. D'ailleurs Sagittal est basé à des principes très différents puisqu'il peut écrire toute la musique microtonale.)
 
-À propos de l'étendue: Je pourrais dire que le FJS atteint la première place, puis Helmholtz-Ellis, puis Johnston. Mais cette comparaison manque du sens; nous comparons tout simplement les nombres d'aujourd'hui. Il ne fait aucune différence que Helmholtz-Ellis peut décrire la 61-limite mais Johnston ne peut que la 31-limite, parce que Johnston pourrait tout simplement inventer plus de commas et étendre sa notation jusqu'à la 127-limite s'il voulait. Ce qui compte vraiment, c'est que le FJS peut écrire **toute** l'intonation juste et qu'il peut le faire **maintenant**. Selon ses propres principes, ni Helmholtz-Ellis ni Johnston ne peuvent jamais décrire autant de l'intonation juste que le FJS; pour étendre ces deux systèmes, il faut vraiment que quelqu'un cherche dans l'échelle harmonique. Le FJS le fait automatiquement, donc il est toujours en avance.
+À propos de l'étendue: Je pourrais dire que le FJS atteint la première place, puis Helmholtz-Ellis, puis Johnston. Mais cette comparaison manque du sens; nous comparons tout simplement les nombres d'aujourd'hui. Il ne fait aucune différence que Helmholtz-Ellis peut décrire la 61-limite mais Johnston ne peut écrire que la 31-limite, parce que Johnston pourrait tout simplement inventer plus de commas et étendre sa notation jusqu'à la 127-limite s'il voulait. Ce qui compte vraiment, c'est que le FJS peut écrire **toute** l'intonation juste et qu'il peut le faire **maintenant**. Selon ses propres principes, ni Helmholtz-Ellis ni Johnston ne peuvent jamais décrire autant de l'intonation juste que le FJS; pour étendre ces deux systèmes, il faut vraiment que quelqu'un cherche dans l'échelle harmonique. Le FJS le fait automatiquement, donc il est toujours en avance.
 
 C'est le deuxième avantage important d'avoir un algorithme dans le FJS: il n'a littéralement aucune limite.
 
@@ -199,9 +199,9 @@ Un point pour le FJS et un demi-point pour Helmholtz-Ellis.
 
 Le troisième et dernier avantage de l'algorithme dans le FJS est qu'il peut être automatisé. On peut calculer la représentation FJS de chaque rapport JI en utilisant seulement le rayon de tolérance. C'est pourquoi, à l'avenir, on pourra intégrer le FJS dans des logiciels de musique.
 
-Chez Helmholtz-Ellis ça marche aussi. Il y a seulement une différence: Helmholtz-Ellis a parfois besoin de deux altérations pour un nombre premier. Pourtant il est possible d'automatiser ce processus sans aucun problème. Il y a une [calculatrice en ligne](https://www.plainsound.org/HEJI/) pour ce but.
+Chez Helmholtz-Ellis ça marche aussi. Il y a seulement une différence: Helmholtz-Ellis a parfois besoin de deux altérations pour un nombre premier. Pourtant il est possible d'automatiser ce processus sans aucun problème. Il y a une [calculatrice en ligne](https://www.plainsound.org/HEJI/) à cet usage.
 
-Et Johnston? Le même site a aussi une [calculatrice de Johnston à HE](https://www.plainsound.org/HEJI/johnston.html). Cela fonctionne si vous voulez toujours être dépendant de votre ordinateur. Néanmoins, souvent quand on compose, on ne veut pas toujours travailler sur l'ordinateur.
+Et Johnston? Le même site a aussi une [calculatrice de Johnston à HE](https://www.plainsound.org/HEJI/johnston.html). Cela fonctionne si vous voulez toujours être dépendant de votre ordinateur. Néanmoins, souvent quand on compose, on ne veut pas toujours travailler supportés par l'ordinateur.
 
 Le FJS a l'avantage énorme que ses algorithmes sont très faciles à réaliser mentalement. C'est pourquoi on peut l'utiliser très vite. Mais si vous vouliez essayer le même chez Johnston…
 
@@ -251,7 +251,7 @@ Vous voyez ici donc des exemples de contextes JI très fréquents pour qu'on voi
 | Ré♭+5−17 | Ré    | Mi♭+19 | Mi−5  | Fa−7     | Fa+11 | Fa♯+23   | Sol |
 | Sol♯−5−5 | La−13 | La     | Si♭−7 | Si♭+5+29 | Si−5  | Do−11−31 | Do  |
 
-**Ben Johnston.** Trois minutes, mais j'ai déjà vu ce fragment de l'échelle harmonique chez Johnston.
+**Ben Johnston.** Trois minutes, étant donné que j'ai déjà vu ce fragment de l'échelle harmonique chez Johnston.
 
 | Do    | Do    | Sol   | Do   | Mi    | Sol  | Si7♭   | Do  |
 | Ré    | Mi    | Fa↑   | Sol  | La♭13 | Si7♭ | Si     | Do  |
@@ -260,7 +260,7 @@ Vous voyez ici donc des exemples de contextes JI très fréquents pour qu'on voi
 
 ### Le *Well-Tuned Piano* par La Monte Young
 
-**Notation de Young.** (Les notes sont arrangés selon leur hauteur absolue, donc Sol♯ devant Sol puisqu'il est plus bas.)
+**Notation de Young.** (Les notes sont arrangées selon leur hauteur absolue, donc Sol♯ devant Sol puisqu'il est plus bas.)
 
 > Mi♭, Mi, Fa, Fa♯, Sol♯, Sol, La, Si♭, Si, Do♯, Do, Ré, Mi♭.
 
@@ -300,7 +300,7 @@ L'échelle sur Mi♭ est un peu plus longue.
 
 ### Comparaison de notation
 
-Dans cette [comparaison](../assets/comparison.pdf) de la pratique des trois systèmes, on voit une harmonisation d'une mélodie médiévale dans le mode dorien sur Ré, 12 mesures. Le fait que c'est la 5-limite donnerait certes un avantage injuste à Johnston… voyez vous-même.
+Dans cette [comparaison](../assets/comparison.pdf) de la pratique des trois systèmes, on voit une harmonisation d'une mélodie médiévale dans le mode dorien sur Ré, 12 mesures. Le fait que c'est la 5-limite donnerait, certes, un avantage injuste à Johnston… voyez vous-même.
 
 Vous pouvez aussi écouter:
 
@@ -330,7 +330,7 @@ Votre algorithme pour calculer des rapports JI de la notation commence en fait a
 
 Vous auriez pu déterminer que Do–Si♭ s'élève à 16/9 avec beaucoup, beaucoup de méthodes, beaucoup plus simples que 243/128 × 2048/2187; vous avez trouvé la méthode la plus difficile (qui correspond à la seule méthode chez Johnston pour obtenir 9/5).
 
-Vous auriez pu remarquer que Do et Si♭ n'ont aucune altération microtonale, donc par définition des notes diatoniques, la septième mineure entre eux est pythagoricienne, alors 16/9. Ou vous auriez pu remarquer qu'elle est composée de deux quartes 4/3, alors 16/9. Ou vous auriez pu remarquer qu'elle est le renversement de la seconde majeure 9/8, donc 16/9. Le FJS vous donne une telle liberté de méthodes très rapides et efficaces pour lire et écrire, qui n'est pas du tout comme le processus lent et ennuyeux chez Johnston.
+Vous auriez pu remarquer que Do et Si♭ n'ont aucune altération microtonale, donc par définition des notes diatoniques, la septième mineure entre eux est pythagoricienne, alors 16/9. Ou vous auriez pu remarquer qu'elle est composée de deux quartes 4/3, alors 16/9. Ou vous auriez pu remarquer qu'elle est le renversement de la seconde majeure 9/8, donc 16/9. Le FJS vous donne une telle liberté de méthodes très rapides et efficaces pour lire et pour écrire, qui n'est pas du tout comme le processus lent et ennuyeux chez Johnston.
 
 Je vois que vous êtes habitué aux menottes de Johnston et vous êtes paralysé lorsque Helmholtz-Ellis ou le FJS vous libèrent parce que vous aviez été menotté pour tellement longtemps.
 

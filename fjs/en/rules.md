@@ -64,7 +64,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 4. To represent combinations of movements by commas **in the same orientation** (either all otonal or all utonal), **multiply** the numbers that the original commas would contain (rather than add or concatenate them). This is because these numbers are primes. A sum of primes cannot be uniquely resolved into its summands, and neither can a contenation of primes, but due to the Fundamental Theorem of Arithmetic, a product of primes can. Therefore, from the final product, we can always uniquely deduce which primes were multiplied. Order does not matter. E.g. G♯<sup>25</sup> is two 81/80 intervals below G♯ and there is no other interpretation, since 25 = 5 × 5 and no other prime decomposition exists.
 
-5. Usually the product allows the deduction of the prime factorization immediately at first sight. Some of the most frequent products are all recognizable: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121 are all familiar. If it is completely unclear at first sight what a number factorizes to, e.g. 119 = 7 × 17, an alternative notation can be used where all factors are listed, separated with commas (punctuation marks). The example from above could alternatively be written as G♯<sup>5,5</sup> and both notations are equally correct. If commas are listed out individually, it is preferred to list them in non-descending order, so D<sup>119</sup> is D<sup>7,17</sup> rather than D<sup>17,7</sup>. These extremes can also be combined in any way, and individual factors may be multiplied in any combination, e.g. G<sup>11,125</sup> is a perfectly valid representation of G<sup>1375</sup>. These are pronounced as normal: “G-eleven-one-hundred-twenty-five”
+5. Usually the product allows the deduction of the prime factorization immediately at first sight. Some of the most frequent products are all recognizable: 25, 35, 49, 125, 625, 343, 55, 77, 121 are all familiar. If it is completely unclear at first sight what a number factorizes to, e.g. 119 = 7 × 17, an alternative notation can be used where all factors are listed, separated with commas (punctuation marks). The example from above could alternatively be written as G♯<sup>5,5</sup> and both notations are equally correct. If commas are listed out individually, it is preferred to list them in non-descending order, so D<sup>119</sup> is D<sup>7,17</sup> rather than D<sup>17,7</sup>. These extremes can also be combined in any way, and individual factors may be multiplied in any combination, e.g. G<sup>11,125</sup> is a perfectly valid representation of G<sup>1375</sup>. These are pronounced as normal: “G-eleven-one-hundred-twenty-five”
 
 6. Products of positive and negative commas are independent. They are written as a combined subscript and superscript, e.g. F<sup>7</sup><sub>5</sub> represents F lowered by 64/63 and then raised by 81/80 (or in the opposite order; first raised by 81/80 and then lowered by 64/63; the result is the same). Note that the products used to represent positive and negative commas will always be coprime, otherwise there is an unnecessary shift in one direction that is canceled out in the other one; \*C<sup>35</sup><sub>5</sub> is the same note as C<sup>7</sup>.
 
@@ -83,6 +83,8 @@ Everything concerning experimental elements is marked with the symbol (\*).
 4. *Pythagorean accidentals divide notes with the same diatonic pitch class (C, D, E, F, G, A, or B) into their Pythagorean pitch classes. Hence, a Pythagorean accidental applies to all notes with the same diatonic pitch class and octave in the same bar, until overwritten or canceled.* Analogically, microtonal accidentals divide notes with the same Pythagorean pitch class into their absolute JI pitches. Hence, a microtonal accidental applies to all notes with the same Pythagorean pitch class and octave in the same bar, until overwritten or canceled. This means that, if the first E in a bar is written with a +5 accidental, then all other E in that bar in the same octave will also have the +5 accidental implied (until it is canceled with a 1), however, an E♭, just as much as a D or an F, will not have that accidental implied, even if it is in the same bar.
 
 5. A “1” accidental cancels any microtonal accidentals for the Pythagorean pitch class it is applied to.
+
+---
 
 ## Rules for Using FJS Key Signatures (\*)
 
@@ -125,7 +127,6 @@ Among others, the following famous irrational constants work, too:
 - π; m6<sup>π</sup> (τ, the [true circle constant](https://tauday.com/tau-manifesto), has the same representation, since it's just 2π, so an octave of π)
 - *e*; P4<sup>*e*</sup>
 - γ; M2<sup>γ</sup> (Euler-Mascheroni constant)
-- Ω; M2<sup>Ω</sup> (Omega constant)
 
 All transcendental numbers work.
 

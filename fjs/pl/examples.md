@@ -49,19 +49,19 @@ Tutaj znajdziesz jeszcze więcej przykładów zastosowania FJS.
 
 **Pitagorejska skala durowa** (7 stopni)
 
-*c*, *d*, *e*, *f*, *g*, *a*, *h*, *c*
+> *c*, *d*, *e*, *f*, *g*, *a*, *h*, *c*
 
 **Skala durowa Ptolemeusza** (7 stopni)
 
-*c*, *d*, *e*<sup>5</sup>, *f*, *g*, *a*<sup>5</sup>, *h*<sup>5</sup>, *c*
+> *c*, *d*, *e*<sup>5</sup>, *f*, *g*, *a*<sup>5</sup>, *h*<sup>5</sup>, *c*
 
 **Skala durowa Ptolemeusza z nadającym się do użytku trójdźwiękiem S<sub>II</sub>** (8 stopni)
 
-*c*, *d*<sup>5</sup>, *d*, *e*<sup>5</sup>, *f*, *g*, *a*<sup>5</sup>, *h*<sup>5</sup>, *c*
+> *c*, *d*<sup>5</sup>, *d*, *e*<sup>5</sup>, *f*, *g*, *a*<sup>5</sup>, *h*<sup>5</sup>, *c*
 
 **Całkowita skala durowa JI** (12 stopni)
 
-*c*, *d*<sup>5</sup>, *d*, *e*<sup>5</sup>, *e*, *f*<sup>7</sup>, *f*, *g*, *a*<sup>5</sup>, *a*, *h*<sup>5</sup>, *c*<sup>7</sup>, *c*
+> *c*, *d*<sup>5</sup>, *d*, *e*<sup>5</sup>, *e*, *f*<sup>7</sup>, *f*, *g*, *a*<sup>5</sup>, *a*, *h*<sup>5</sup>, *c*<sup>7</sup>, *c*
 
 ### Skala alikwotowa do 64. alikwotu
 

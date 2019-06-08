@@ -66,7 +66,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 4. Um verbundene Komma-Abweichungen **in derselben Orientation** (also alle otonal oder alle utonal) darzustellen, **multipliziere** die Zahlen der Kommas (nicht: addiere oder verkette). Diese Zahlen sind alle Primzahlen. Eine Summe oder Verkettung von Primzahlen kann nicht zurück in ihre Bestandteile zerlegt werden, aber wegen des Fundamentalsatzes der Arithmetik, ein Produkt schon. Wir können also eindeutig sagen, welche Primzahlen multipliziert waren, und die Reihenfolge macht keinen Unterschied. Z.B. Gis<sup>25</sup> ist um zweimal 81/80 niedriger als Gis und es gibt keine andere Interpretation, da 25 = 5 × 5 und es gibt keine andere Primfaktorzerlegung.
 
-5. Das Produkt ermöglicht meistens eine Primfaktorzerlegung im Kopf. Die allermeisten häufigen Produkte sind alle bekannt: 25, 35, 49, 125, 625, 343, 55, 77, 65, 121. Ist es aber gar nicht klar, was für Primfaktoren eine Zahl hat, z.B. 119 = 7 × 17, kann man eine alternative Notation benutzen, wobei alle Faktoren nacheinander geschrieben werden, dazwischen Kommas (im Sinne: Satzzeichen). Das obere Beispiel kann man z.B. als Gis<sup>5,5</sup>, und beide Schreibweisen sind korrekt. Falls Kommas nacheinander geschrieben werden, ist es üblich, sie in nicht-absteigender Reihenfolge zu schreiben. D.h. D<sup>119</sup> ist eher D<sup>7,17</sup> als D<sup>17,7</sup>. Diese zwei Extremen kann man auch beliebig kombinieren, wobei manche der Faktoren multipliziert werden, d.h. G<sup>11,125</sup> ist eine korrekte Darstellung von G<sup>1375</sup>. Die Aussprache ist wie üblich: „G-elf-einhundertfünfundzwanzig“
+5. Das Produkt ermöglicht meistens eine Primfaktorzerlegung im Kopf. Die allermeisten häufigen Produkte sind alle bekannt: 25, 35, 49, 125, 625, 343, 55, 77, 121. Ist es aber gar nicht klar, was für Primfaktoren eine Zahl hat, z.B. 119 = 7 × 17, kann man eine alternative Notation benutzen, wobei alle Faktoren nacheinander geschrieben werden, dazwischen Kommas (im Sinne: Satzzeichen). Das obere Beispiel kann man z.B. als Gis<sup>5,5</sup>, und beide Schreibweisen sind korrekt. Falls Kommas nacheinander geschrieben werden, ist es üblich, sie in nicht-absteigender Reihenfolge zu schreiben. D.h. D<sup>119</sup> ist eher D<sup>7,17</sup> als D<sup>17,7</sup>. Diese zwei Extremen kann man auch beliebig kombinieren, wobei manche der Faktoren multipliziert werden, d.h. G<sup>11,125</sup> ist eine korrekte Darstellung von G<sup>1375</sup>. Die Aussprache ist wie üblich: „G-elf-einhundertfünfundzwanzig“
 
 6. Produkte positiver und negativer Kommas sind voneinander unabhängig. Sie werden gleichzeitig hoch- und tiefgestellt geschrieben, z.B. F<sup>7</sup><sub>5</sub> bedeutet F erniedrigt um 64/63 und dann erhöht um 81/80 (oder anders herum: zuerst erhöht um 81/80 und dann erniedrigt um 64/63, das Ergebnis bleibt gleich). Die Produkte für die positiven und negativen Kommas werden immer zueinander teilerfremd sein: falls nicht, dann gibt es Faktoren, die gekürzt werden können; \*C<sup>35</sup><sub>5</sub> ist das Gleiche wie C<sup>7</sup>.
 
@@ -85,6 +85,8 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 4. *Pythagoreische Versetzungszeichen teilen Noten desselben Stammtons (C, D, E, F, G, A, H) in pythagoreische Töne auf. Deshalb gilt ein pythagoreisches Versetzungszeichen für alle Noten desselben Stammtons und derselben Oktave in demselben Takt, bis sie überschrieben oder aufgelöst werden.* Ebenso funktionieren auch mikrotonale Versetzungszeichen: sie teilen Noten desselben pythagoreischen Tons in die absoluten Tonhöhen auf. Deshalbt gelten sie für alle Noten desselben pythagoreischen Tons und derselben Oktave in demselben Takt, bis sie überschrieben oder aufgelöst werden. Wenn das erste E in einem Takt ein +5 erhält, erhalten es auch alle andere E in derselben Oktave in demselben Takt (bis es mit einem +1 aufgelöst wird), ein Es aber nicht, genauso wie ein D oder ein F auch nicht, auch in demselben Takt.
 
 5. Das Versetzungszeichen „1“ bedeutet das Auflösen aller mikrotonalen Versetzungszeichen für den pythagoreischen Ton, wo er angewendet wird.
+
+---
 
 ## Regeln für die Anwendung von FJS-Vorzeichen (\*)
 
@@ -133,7 +135,6 @@ Das geht u.A. auch mit den folgenden irrationalen Konstanten:
 - π; (kleine Sexte)<sup>π</sup> (τ, die [echte Kreiskonstante](https://tauday.com/tau-manifesto), wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
 - *e*; (reine Quarte)<sup>*e*</sup>
 - γ; (große Sekunde)<sup>γ</sup> (Euler-Mascheroni-Konstante)
-- Ω; (große Sekunde)<sup>Ω</sup> (Omega-Konstante)
 
 Es funktioniert bei jeder transzendenter Zahl.
 

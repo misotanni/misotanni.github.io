@@ -14,7 +14,7 @@ En raison de cela, je ne crois pas qu'un tempérament égal ait besoin d'un FJS.
 
 Avec n'importe quelle méthode, vous verriez que le FJS vous n'aiderait pas du tout… sauf si vous voulez trouver une approximation de l'armure pour votre nouvelle composition EDO.
 
-## Le tableau des génératrices et commas formels, il est où?
+## Le tableau des génératrices et des commas formels, il est où?
 
 Vous n'en avez pas besoin! Les [calculatrices](calc.html) servent à cela.
 
@@ -22,7 +22,7 @@ Vous n'en avez pas besoin! Les [calculatrices](calc.html) servent à cela.
 
 J'ai examiné ce sujet à la page de la [comparaison](compare.html).
 
-## Pourquoi pas (Sagittal / le H-System / la notation de couleurs de Kite / \[encore un autre système de notation alternatif\])?
+## Pourquoi pas (Sagittal / le H-System / la notation de couleurs de Kite / la notation polychromatique de Catherino / \[encore un autre système de notation alternatif\])?
 
 Je répète: voyez la page de la [comparaison](compare.html).
 

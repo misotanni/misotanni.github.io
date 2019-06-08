@@ -22,7 +22,7 @@ So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
 
 Dazu erfahrst du vieles auf [dieser](compare.html) Seite.
 
-## Was mit (Sagittal / dem H-System / Kites Farbennotation / \[noch ein alternatives Notationssystem\])?
+## Was mit (Sagittal / dem H-System / Kites Farbennotation / Catherinos polychromatische Notation / \[noch ein alternatives Notationssystem\])?
 
 Sehe dir dazu wieder den [Vergleich](compare.html) an.
 

@@ -49,19 +49,19 @@ Auf dieser Seite sind mehr Beispiele des FJS im Einsatz zu sehen.
 
 **Pythagoreische Dur-Tonleiter** (7 Noten)
 
-C, D, E, F, G, A, H, C
+> C, D, E, F, G, A, H, C
 
 **Ptolemäische Dur-Tonleiter** (7 Noten)
 
-C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, H<sup>5</sup>, C
+> C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, H<sup>5</sup>, C
 
 **Ptolemäische Dur-Tonleiter mit nutzbarem 2. Dreiklang** (8 Noten)
 
-C, D<sup>5</sup>, D, E<sup>5</sup>, F, G, A<sup>5</sup>, H<sup>5</sup>, C
+> C, D<sup>5</sup>, D, E<sup>5</sup>, F, G, A<sup>5</sup>, H<sup>5</sup>, C
 
 **Volle JI-Dur-Tonleiter** (12 Noten)
 
-C, D<sup>5</sup>, D, E<sup>5</sup>, E, F<sup>7</sup>, F, G, A<sup>5</sup>, A, H<sup>5</sup>, C<sup>7</sup>, C
+> C, D<sup>5</sup>, D, E<sup>5</sup>, E, F<sup>7</sup>, F, G, A<sup>5</sup>, A, H<sup>5</sup>, C<sup>7</sup>, C
 
 ### Die Obertonreihe 1–64
 

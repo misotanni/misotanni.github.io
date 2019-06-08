@@ -86,7 +86,7 @@ L'utilisation des double-dièses et double-bémols étendra la chaîne jusqu'à 
 
 **Définition:** Un *nombre pont* pour un nombre premier *p* est un nombre de la forme $$2^a\cdot 3^b\cdot p$$ où *p* est un nombre premier au-delà de 3 et *a*, *b* sont des entiers relatifs.
 
-**Théorème: Pour chaque liste infinie de nombres ponts connus, exactement un nombre pont pour chaque nombre premier, on peut représenter chaque interval JI d'une seule façon comme le produit d'un intervalle pythagoricien et des nombres ponts dont les exposants sont des entiers relatifs.** (Théorème fondamental du FJS)
+**Théorème: Pour chaque liste infinie de nombres ponts connus (exactement un nombre pont pour chaque nombre premier), on peut représenter chaque intervalle JI d'une seule façon comme le produit d'un intervalle pythagoricien et des nombres ponts dont les exposants sont des entiers relatifs.** (Théorème fondamental du FJS)
 
 Nous utilisons la récurrence, avec *p* = 5 pour l'initialisation.
 
@@ -124,7 +124,7 @@ $$\displaystyle g=(2^x \cdot 3^y \cdot \prod_{i=3}^n (C_{\text{p}(i)})^{\alpha _
 
 $$g=2^x \cdot 3^y \cdot \gamma \cdot q^{\alpha _q}$$
 
-Considérez maintenant un nombre pont connu pour *q*: $$C_q=2^{a_q}\cdot 3^{b_q}\cdot q$$. Nous récrivons donc *g* en fonction de ce nombre pont.
+Considérez maintenant un nombre pont connu pour *q*: $$C_q=2^{a_q}\cdot 3^{b_q}\cdot q$$. Nous récrivons donc *g* en termes de ce nombre pont.
 
 $$g=\gamma \cdot 2^x \cdot 3^y \cdot q^{\alpha _q}$$
 
@@ -142,8 +142,8 @@ $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^n (C_{\t
 
 $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^{n+1} (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}}$$
 
-Cela est une représentation unique de l'intervalle JI avec des facteurs jusqu'à $$\text{p}(n+1)$$ en fonction des facteurs jusqu'à $$\text{p}(n)$$. L'hérédité est complète.
+Cela est une représentation unique de l'intervalle JI avec des facteurs jusqu'à $$\text{p}(n+1)$$ en termes des facteurs jusqu'à $$\text{p}(n)$$. L'hérédité est complète.
 
 Puisque la proposition est aussi vraie pour l'initialisation $$\text{p}(n)=5$$, elle est alors vraie pour tous les nombres premiers au-delà de 3 grâce au principe de la récurrence.&nbsp;∎
 
-**Corollaire.** Puisqu'un comma formel est toujours un nombre pont, pour chaque liste de commas formels – un comma pour chaque nombre premier – on peut représenter chaque rapport JI d'une seule façon comme rapport pythagoricien multiplé par des commas formels dont les exposants sont des entiers relatifs. Le FJS fait exactement cela.
+**Corollaire.** Puisqu'un comma formel est toujours un nombre pont, pour chaque liste de commas formels – un comma pour chaque nombre premier – on peut représenter chaque rapport JI d'une seule façon comme rapport pythagoricien multiplié par des commas formels dont les exposants sont des entiers relatifs. Le FJS fait exactement cela.

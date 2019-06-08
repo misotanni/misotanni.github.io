@@ -49,19 +49,19 @@ This page contains more examples of the FJS in usage.
 
 **Pythagorean Major Scale** (7 notes)
 
-C, D, E, F, G, A, B, C
+> C, D, E, F, G, A, B, C
 
 **Ptolemy's Intense Diatonic** (7 notes)
 
-C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, B<sup>5</sup>, C
+> C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, B<sup>5</sup>, C
 
 **Ptolemy's Intense Diatonic, with usable ii chord** (8 notes)
 
-C, D<sup>5</sup>, D, E<sup>5</sup>, F, G, A<sup>5</sup>, B<sup>5</sup>, C
+> C, D<sup>5</sup>, D, E<sup>5</sup>, F, G, A<sup>5</sup>, B<sup>5</sup>, C
 
 **Complete JI Major Scale** (12 notes)
 
-C, D<sup>5</sup>, D, E<sup>5</sup>, E, F<sup>7</sup>, F, G, A<sup>5</sup>, A, B<sup>5</sup>, C<sup>7</sup>, C
+> C, D<sup>5</sup>, D, E<sup>5</sup>, E, F<sup>7</sup>, F, G, A<sup>5</sup>, A, B<sup>5</sup>, C<sup>7</sup>, C
 
 ### The Harmonic Series 1-64
 

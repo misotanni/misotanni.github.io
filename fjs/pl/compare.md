@@ -137,7 +137,7 @@ Każda alteracja od 13. w górę wykorzystuje samą liczbę pierwszą do zapisu 
 
 …a do ujemnego – tę samą liczbę *do góry nogami*. Serio? Jedynym powodem, dla którego nie uznaję tego za problem **największej wagi**, jest to, że 11. zapisuje się specjalnym znakiem, a nie liczbą „11”, która wygląda tak samo po obróceniu, jeżeli zapisuje się cyfrę jeden pionową kreską. Oprócz tego najmniejszą liczbą, która ma taki problem, jest 686989.
 
-FJS wykorzystuje samą liczbę pierwszą dla zapisu wszystkich mikrotonalnych alteracji, a łączy je się, przemnażając. Zakładam, że w BJ łączy się, pisząc jedno po drugim (konkatenacją), której nie można jednoznacznie odszyfrować – 1097 to liczba pierwsza, która naraz jest złożeniem dwóch innych liczb pierwszych, czyli 109 i 7. Jednak nigdy nie spotkałem się z nutą zapisaną w BJ, ozdobioną więcej niż jednym liczbowym znakiem alteracji.
+FJS wykorzystuje samą liczbę pierwszą dla zapisu wszystkich mikrotonalnych alteracji, neguje się je, dodając znak minus, a łączy je się, przemnażając. Zakładam, że w BJ łączy się, pisząc jedno po drugim (konkatenacją), której nie można jednoznacznie odszyfrować – 1097 to liczba pierwsza, która naraz jest złożeniem dwóch innych liczb pierwszych, czyli 109 i 7. Jednak nigdy nie spotkałem się z nutą zapisaną w BJ, ozdobioną więcej niż jednym liczbowym znakiem alteracji.
 
 Punkt dla FJS-u, pół dla BJ.
 
