@@ -12,7 +12,7 @@ Equal Temperament, on the other hand, is based on equal divisions of the octave 
 
 This being said, I think that ET doesn't need an FJS to be usable. *n*-EDOs for lower values of *n* can be notated in their entire beauty – without give-and-take – on a regular staff, provided that the pitches, together with accidentals, are well-defined. If *n* is a bit larger, define a couple new accidentals; if *n* goes into the hundreds – or if you want absolute flexibility – you can [borrow](http://musictheory.zentral.zone/huntsystem1.html) from [others](http://sagittal.org/). Or you could make up a new kind of staff and continue from there…
 
-No matter which way you choose, you'll eventually find out that the FJS would have been of zero help to you… Unless you want to approximate the key signature for your upcoming ET piece.
+No matter which way you choose, you'll eventually find out that the FJS would have been of zero help to you… Unless you want to build a frankentone tuning.
 
 ## Where is the table of generators and formal commas?
 

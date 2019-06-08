@@ -12,7 +12,7 @@ De l'autre côté, le tempérament égal est basée sur une division égale de l
 
 En raison de cela, je ne crois pas qu'un tempérament égal ait besoin d'un FJS. Pour un choix de *n* assez petit, un *n*-EDO peut être noté complètement sans aucun trou si les tons et les altérations sont bien définis. Pour un *n* un peu plus grand, définissez plus d'altérations; pour un *n* d'environ 100, ou lorsque vous voulez une liberté absolue, vous pouvez [adapter](http://musictheory.zentral.zone/huntsystem1.html) des [autres](http://sagittal.org/) systèmes (ou inventer une nouvelle portée et une notation complètement différente…)
 
-Avec n'importe quelle méthode, vous verriez que le FJS vous n'aiderait pas du tout… sauf si vous voulez trouver une approximation de l'armure pour votre nouvelle composition EDO.
+Avec n'importe quelle méthode, vous verriez que le FJS vous n'aiderait pas du tout… sauf si vous voulez construire une intonation de Frankenstein.
 
 ## Le tableau des génératrices et des commas formels, il est où?
 

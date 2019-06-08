@@ -12,7 +12,7 @@ Całkiem inną sprawą jest temperacja równomierna, oparta na równym podziale 
 
 Dlatego nie uważam, żeby EDO potrzebowało FJS-a. *n*-EDO dla małego *n* można zapisać w całości bez żadnych problemów ani kompromisów na najzwyklejszej pięciolinii, pod warunkiem, że i wysokości, i alteracje, są dobrze zdefiniowane. Dla trochę większego *n* zdefiniuj parę nowych alteracji; przy *n* w okolicy setek – albo jeśli chcesz całkowitą dowolność – niech [inni](http://musictheory.zentral.zone/huntsystem1.html) będą ci [przykładem](http://sagittal.org/). Albo po prostu wymyśl całkowicie nową pięcio- bądź *n*-olinię…
 
-Tak czy inaczej, w końcu się przekonasz, że FJS wcale by ci nie pomógł… *Chyba*, że chciałbyś przybliżyć znaki przykluczowe dla twojej następnej kompozycji EDO.
+Tak czy inaczej, w końcu się przekonasz, że FJS wcale by ci nie pomógł… *Chyba*, że chciałbyś stworzyć muzyczny ekwiwalent dzieła Frankensteina.
 
 ## A gdzie tabela funkcji generujących i komatów formalnych?
 

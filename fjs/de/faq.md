@@ -12,7 +12,7 @@ Gleichstufig temperierte Stimmungen dagegen sind (meistens) gleichstufige Auftei
 
 Deswegen meine ich, dass eine gleichstufige Stimmung kein FJS braucht. Ein *n*-EDO, wo *n* ausreichend klein ist, kann man ohne Probleme in ihrem vollen Potenzial in üblicher Notenschrift aufschreiben, solange die Tonhöhen und Akzidenzien gut definiert sind. Steigt *n* ein bisschen, so definiere ein paar neue Akzidenzien; bei einem *n* von über hundert, oder bei dem Bedarf für absolute Flexibilität, [kannst](http://musictheory.zentral.zone/huntsystem1.html) du von anderen [übernehmen](http://sagittal.org/). Oder du kannst eine ganz neue Notenschrift entwickeln…
 
-Egal welche Methode du benutzt, wirst du erfahren, dass das FJS dir gar nicht helfen würde… Es sei denn, du willst eine Annäherung der Vorzeichen für dein nächstes EDO-Stück finden.
+Egal welche Methode du benutzt, wirst du erfahren, dass das FJS dir gar nicht helfen würde… Es sei denn, du willst eine Frankenstein-Stimmung konstruieren.
 
 ## Wo befindet sich die Tabelle der Generatorfunktion und formaler Kommas?
 
