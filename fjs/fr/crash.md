@@ -175,7 +175,7 @@ J'expliquerai ce choix plus tard.
 
 Comment le FJS utilise-t-il ce nombre ? L'étape suivante est l'élément le plus important de tout le FJS. C'est l'élément qui fait la différence entre le FJS et toutes les autres notations de JI. C'est l'**algorithme principal du FJS**. Ici, vous trouvez une forme lisible pour des humains, mais l'algorithme existe aussi dans des langages de programmation, y compris une calculatrice sur ce site.
 
-L'**algorithme principal du FJS** trouve le **déplacement de quintes** pour chaque nombre premier en utilisant le rayon de tolérance. J'explique le but de l'algorithme, sa tâche, et le but de le déplacement de quintes.
+L'**algorithme principal du FJS** trouve le **déplacement de quintes** pour chaque nombre premier en utilisant le rayon de tolérance. J'explique le but de l'algorithme, sa tâche, et la fonction du déplacement de quintes.
 
 > ### L'algorithme principal du FJS
 > 
@@ -211,7 +211,7 @@ L'algorithme trouve alors pour chaque intervalle premier l'approximation pythago
 
 > ### Le comma formel
 >
-> Le comma formel d'un nombre premier *p* dont la déplacement est *g* égale :
+> Le comma formel d'un nombre premier *p* dont le déplacement est *g* égale :
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
