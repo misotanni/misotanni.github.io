@@ -78,7 +78,6 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 - Read the [complete formal description](rules.html) for a reference of the exact rules when in doubt.
 - See the [mathematics](math.html) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
 - See a [comparison](compare.html) of the FJS with two competing notation systems: Helmholtz-Ellis and Ben Johnston notation, and understand why the FJS exceeds both of them.
-- Prefer ethos over logos? Then read this [testimonial](dream.html).
 - Use the website's [calculators](calc.html) to automatically perform FJS-related calculations. **Advice:** bookmark these immediately.
 - See many more [examples](examples.html) of the FJS in usage.
 
