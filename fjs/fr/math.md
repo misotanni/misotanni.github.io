@@ -6,19 +6,19 @@ Cette page contient des théorèmes mathématiques dont la vérité est nécessa
 
 **Pour additionner deux intervalles on multiplie ses rapports.**
 
-Considérez trois fréquences :
+Considérez trois fréquences :
 
 $$f_1, f_2, f_3$$
 
-Considérez qu'elles forment deux intervalles adjacents :
+Considérez qu'elles forment deux intervalles adjacents :
 
 $$d_{1,2}=\frac{f_2}{f_1}, d_{2,3}=\frac{f_3}{f_2}$$
 
-La somme de ces intervalles est définie comme :
+La somme de ces intervalles est définie comme :
 
 $$d_{1,3}=\frac{f_3}{f_1}$$
 
-Ce qui égale aussi :
+Ce qui égale aussi :
 
 $$\frac{f_3}{f_1}=\frac{f_2 \cdot f_3}{f_1 \cdot f_2}=\frac{f_2}{f_3} \cdot \frac{f_1}{f_2}=d_{1,2} \cdot d_{2,3} \quad \blacksquare$$
 
@@ -46,7 +46,7 @@ Grâce au théorème fondamental de l'arithmétique, les exposants sont maintena
 
 **Soient *p*, *q* deux nombres premiers différents. Dans ce cas $$p^n\neq q^m$$ pour tous entiers relatifs *n*, *m* qui ne sont pas zéro.**
 
-Nous utilisons la démonstration par l'absurde. Supposons que oui, il y a deux nombres premiers différents *p*, *q* et deux entiers relatifs *n*, *m* pour lesquels :
+Nous utilisons la démonstration par l'absurde. Supposons que oui, il y a deux nombres premiers différents *p*, *q* et deux entiers relatifs *n*, *m* pour lesquels :
 
 $$p^n=q^m$$
 
@@ -60,17 +60,17 @@ C'est une contradiction tout de suite, parce que le théorème fondamental de l'
 
 **Il y a une bijection entre l'accord pythagoricien et la notation de portée.**
 
-Considérez l'échelle diatonique sur Do, arrangée par quintes :
+Considérez l'échelle diatonique sur Do, arrangée par quintes :
 
 Fa, Do, Sol, Ré, La, Mi, Si
 
-Cela est un fragment d'une ligne de quintes centrée sur Ré :
+Cela est un fragment d'une ligne de quintes centrée sur Ré :
 
 −3, −2, −1, 0, +1, +2, +3
 
-Ces entiers relatifs signifient le nombre de quintes autour de cette spirale infinie de quintes ; les nombres positifs signifient l'addition de quintes, et les nombres négatifs en signifient la soustraction.
+Ces entiers relatifs signifient le nombre de quintes autour de cette spirale infinie de quintes ; les nombres positifs signifient l'addition de quintes, et les nombres négatifs en signifient la soustraction.
 
-Mais remarquez que nous savons déjà comment étendre cette chaîne. Le dièse et le bémol sont définis comme altérations qui causent les identités : Si♭–Fa = Si–Fa♯ = quinte juste. Lorsqu'on ajoute une copie diésée et bémolisée de l'échelle diatonique, on obtient une chaîne jusqu'à −10 à gauche et +10 à droite :
+Mais remarquez que nous savons déjà comment étendre cette chaîne. Le dièse et le bémol sont définis comme altérations qui causent les identités : Si♭–Fa = Si–Fa♯ = quinte juste. Lorsqu'on ajoute une copie diésée et bémolisée de l'échelle diatonique, on obtient une chaîne jusqu'à −10 à gauche et +10 à droite :
 
 Fa♭, Do♭, Sol♭, Ré♭, La♭, Mi♭, Si♭, Fa, Do, Sol, Ré, La, Mi, Si, Fa♯, Do♯, Sol♯, Ré♯, La♯, Mi♯, Si♯
 
@@ -84,15 +84,15 @@ L'utilisation des double-dièses et double-bémols étendra la chaîne jusqu'à 
 
 ## Théorème 5
 
-**Définition :** Un *nombre pont* pour un nombre premier *p* est un nombre de la forme $$2^a\cdot 3^b\cdot p$$ où *p* est un nombre premier au-delà de 3 et *a*, *b* sont des entiers relatifs.
+**Définition :** Un *nombre pont* pour un nombre premier *p* est un nombre de la forme $$2^a\cdot 3^b\cdot p$$ où *p* est un nombre premier au-delà de 3 et *a*, *b* sont des entiers relatifs.
 
-**Théorème : Pour chaque liste infinie de nombres ponts connus (exactement un nombre pont pour chaque nombre premier), on peut représenter chaque intervalle JI d'une seule façon comme le produit d'un intervalle pythagoricien et des nombres ponts dont les exposants sont des entiers relatifs.** (Théorème fondamental du FJS)
+**Théorème : Pour chaque liste infinie de nombres ponts connus (exactement un nombre pont pour chaque nombre premier), on peut représenter chaque intervalle JI d'une seule façon comme le produit d'un intervalle pythagoricien et des nombres ponts dont les exposants sont des entiers relatifs.** (Théorème fondamental du FJS)
 
 Nous utilisons la récurrence, avec *p* = 5 pour l'initialisation.
 
 Soit $$C_p=2^{a_p}\cdot 3^{b_p}\cdot p$$ le nombre pont choisi pour le nombre premier *p* avec des entiers relatifs particuliers *a*<sub>*p*</sub>, *b*<sub>*p*</sub>. C'est un intervalle arbitraire mais connu.
 
-Pour l'initialisation, considérez un nombre pont connu pour 5 : $$C_5=2^{a_5}\cdot 3^{b_5}\cdot 5$$, et un intervalle JI de la 5-limite avec une factorisation unique connue : $$d=2^{\alpha _2} \cdot 3^{\alpha _3} \cdot 5^{\alpha _5}$$.
+Pour l'initialisation, considérez un nombre pont connu pour 5 : $$C_5=2^{a_5}\cdot 3^{b_5}\cdot 5$$, et un intervalle JI de la 5-limite avec une factorisation unique connue : $$d=2^{\alpha _2} \cdot 3^{\alpha _3} \cdot 5^{\alpha _5}$$.
 
 $$d=2^{\alpha _2} \cdot 3^{\alpha _3} \cdot 5^{\alpha _5}$$
 
@@ -108,11 +108,11 @@ Cela est une représentation unique comme un rapport pythagoricien, donc un rapp
 
 Pour l'hérédité, on suppose la vérité pour $$\text{p}(n)$$ et prouve que cela garantit la vérité pour $$\text{p}(n+1)$$.
 
-Soit *g* un intervalle JI avec des facteurs jusqu'à $$\text{p}(n+1)$$ (inclu). Cela signifie qu'il peut être factorisé en nombres premiers jusqu'à ce nombre premier :
+Soit *g* un intervalle JI avec des facteurs jusqu'à $$\text{p}(n+1)$$ (inclu). Cela signifie qu'il peut être factorisé en nombres premiers jusqu'à ce nombre premier :
 
 $$\displaystyle g=\prod_{i=1}^{n+1} \text{p}(i)^{\alpha _{\text{p}(i)}}$$
 
-Triez le produit et nommez $$\text{p}(n+1)$$ tout simplement *q* :
+Triez le produit et nommez $$\text{p}(n+1)$$ tout simplement *q* :
 
 $$\displaystyle g=\prod_{i=1}^n \text{p}(i)^{\alpha _{\text{p}(i)}} \cdot q^{\alpha _q}$$
 
@@ -120,11 +120,11 @@ Grâce à l'hérédité, on peut maintenant tout de suite représenter le produi
 
 $$\displaystyle g=(2^x \cdot 3^y \cdot \prod_{i=3}^n (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}}) \cdot q^{\alpha _q}$$
 
-Écrivons γ pour le produit des nombres ponts, on obtient alors :
+Écrivons γ pour le produit des nombres ponts, on obtient alors :
 
 $$g=2^x \cdot 3^y \cdot \gamma \cdot q^{\alpha _q}$$
 
-Considérez maintenant un nombre pont connu pour *q* : $$C_q=2^{a_q}\cdot 3^{b_q}\cdot q$$. Nous récrivons donc *g* en termes de ce nombre pont.
+Considérez maintenant un nombre pont connu pour *q* : $$C_q=2^{a_q}\cdot 3^{b_q}\cdot q$$. Nous récrivons donc *g* en termes de ce nombre pont.
 
 $$g=\gamma \cdot 2^x \cdot 3^y \cdot q^{\alpha _q}$$
 
@@ -136,7 +136,7 @@ $$g=\gamma \cdot (2^{a_q} \cdot 3^{b_q} \cdot q)^{\alpha _q} \cdot 2^{x - \alpha
 
 $$g=\gamma \cdot (C_q)^{\alpha _q} \cdot 2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q}$$
 
-Nous remplaçons γ et *q* :
+Nous remplaçons γ et *q* :
 
 $$g=2^{x - \alpha _q a_q} \cdot 3^{y - \alpha _q b_q} \cdot \prod_{i=3}^n (C_{\text{p}(i)})^{\alpha _{\text{p}(i)}}) \cdot (C_{\text{p}(n+1)})^{\alpha _{\text{p}(n+1)}}$$
 
