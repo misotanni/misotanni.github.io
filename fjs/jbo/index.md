@@ -16,6 +16,8 @@ ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
 
 ## fy jy sy mo
 
+[ni'o ko zgana le cfari skina](https://youtu.be/38I3cylJlW4)
+
 ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy e lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike
 i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste ku'o lo ka sepli skicu ro cuvyto'aci'e
 i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
