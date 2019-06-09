@@ -20,7 +20,7 @@ i lo te pruce: <br />
   var loc = {
                     // translate me
          centValue: "cents",
-         generator: "generator",
+             shift: "generator",
        outputComma: "formal comma",
     outputInterval: "interval name",
              ratio: "value",
