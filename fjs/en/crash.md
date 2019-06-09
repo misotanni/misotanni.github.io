@@ -188,16 +188,16 @@ The **FJS master algorithm** outputs the so-called **fifth shift** for each prim
 >
 > **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = sqrt(33/31).) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
 >
-> | Generator | Pythagorean |   Comma   |                 Conclusions |
-> |----------:|:-----------:|:---------:|----------------------------:|
-> |       0   |     1/1     |    5/4    |  386.31¢   ≥ λ; continuing. |
-> |      +1   |     3/2     |    5/6    |  315.64¢   ≥ λ; continuing. |
-> |      −1   |     4/3     |   15/16   |  111.73¢   ≥ λ; continuing. |
-> |      +2   |     9/8     |   10/9    |  182.40¢   ≥ λ; continuing. |
-> |      −2   |    16/9     |   45/32   |  590.22¢   ≥ λ; continuing. |
-> |      +3   |    27/16    |   20/27   |  519.55¢   ≥ λ; continuing. |
-> |      −3   |    32/27    |  135/128  |   92.18¢   ≥ λ; continuing. |
-> |    **+4** |  **81/64**  | **80/81** | **21.51¢** < λ; halting.    |
+> | Fifth shift | Pythagorean |   Comma   |                 Conclusions |
+> |------------:|:-----------:|:---------:|----------------------------:|
+> |         0   |     1/1     |    5/4    |  386.31¢   ≥ λ; continuing. |
+> |        +1   |     3/2     |    5/6    |  315.64¢   ≥ λ; continuing. |
+> |        −1   |     4/3     |   15/16   |  111.73¢   ≥ λ; continuing. |
+> |        +2   |     9/8     |   10/9    |  182.40¢   ≥ λ; continuing. |
+> |        −2   |    16/9     |   45/32   |  590.22¢   ≥ λ; continuing. |
+> |        +3   |    27/16    |   20/27   |  519.55¢   ≥ λ; continuing. |
+> |        −3   |    32/27    |  135/128  |   92.18¢   ≥ λ; continuing. |
+> |      **+4** |  **81/64**  | **80/81** | **21.51¢** < λ; halting.    |
 
 Here you'll find a [visualization](https://youtu.be/jG7lj98Yy-0).
 
@@ -279,8 +279,8 @@ OK, that's all you need to know to notate the prime intervals. Below is one more
 (From this point onwards, the radius of tolerance is always assumed to be λ.)
 
 1. Determine the fifth shift for the primes 11 and 13.
-2. Given that the generator for the prime 19 is −3, find the formal comma for 19.
-3. Given that the formal comma for the prime 47 is 47/48, find its generator.
+2. Given that the fifth shift for the prime 19 is −3, find the formal comma for 19.
+3. Given that the formal comma for the prime 47 is 47/48, find its fifth shift.
 4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Notate the harmonic series on A up to the fourteenth harmonic.
 6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
@@ -414,17 +414,17 @@ The FJS has a lot of beautiful properties that make it incredibly logical. The m
 
 There's one last thing that you might want before trying your accumulated skills at the last exercise. Again, this is just for reference; you could have calculated this table yourself if you wanted (which you wouldn't, so that's why I did it for you).
 
-| Prime | Generator | Formal Comma |
-|------:|:---------:|:------------:|
-| 5     | +4        | 80/81        |
-| 7     | −2        | 63/64        |
-| 11    | −1        | 33/32        |
-| 13    | −4        | 1053/1024    |
-| 17    | −5        | 4131/4096    |
-| 19    | −3        | 513/512      |
-| 23    | +6        | 736/729      |
-| 29    | −2        | 261/256      |
-| 31    | +5        | 248/243      |
+| Prime | Fifth shift | Formal Comma |
+|------:|:-----------:|:------------:|
+| 5     | +4          | 80/81        |
+| 7     | −2          | 63/64        |
+| 11    | −1          | 33/32        |
+| 13    | −4          | 1053/1024    |
+| 17    | −5          | 4131/4096    |
+| 19    | −3          | 513/512      |
+| 23    | +6          | 736/729      |
+| 29    | −2          | 261/256      |
+| 31    | +5          | 248/243      |
 
 Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be an absurd d5). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8. Clever, huh?
 

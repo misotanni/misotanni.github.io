@@ -187,16 +187,16 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 >
 > **Przykład.** Poniżej: demonstracja działania algorytmu dla 5, przy promieniu tolerancji λ = sqrt(33/31). „Komaty” to testowe wartości komatu, obliczane poprzez podzielenie 5/4 przez testowe przybliżenia „pitagorejskie”.
 >
-> | Generator | Pitagorejskie |   Komat   |                     Wnioski   |
-> |----------:|:-------------:|:---------:|------------------------------:|
-> |       0   |      1/1      |    5/4    |  386.31¢   ≥ λ; kontynuujemy. |
-> |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; kontynuujemy. |
-> |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; kontynuujemy. |
-> |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; kontynuujemy. |
-> |      −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; kontynuujemy. |
-> |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; kontynuujemy. |
-> |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; kontynuujemy. |
-> |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; kończymy.     |
+> | Przeniesienie | Pitagorejskie |   Komat   |                     Wnioski   |
+> |--------------:|:-------------:|:---------:|------------------------------:|
+> |           0   |      1/1      |    5/4    |  386.31¢   ≥ λ; kontynuujemy. |
+> |          +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; kontynuujemy. |
+> |          −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; kontynuujemy. |
+> |          +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; kontynuujemy. |
+> |          −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; kontynuujemy. |
+> |          +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; kontynuujemy. |
+> |          −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; kontynuujemy. |
+> |        **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; kończymy.     |
 
 Tutaj znajdziesz [wizualizację](https://youtu.be/jG7lj98Yy-0).
 
@@ -413,17 +413,17 @@ FJS posiada wiele pięknych własności, które powodują, że jest on niewiaryg
 
 Jeszcze jedna rzecz, zanim wypróbujesz swoich nagromadzonych sił przy następnym ćwiczeniu. To tylko dla odniesienia – mógłbyś sam wyliczyć sobie tę tabelę, jeżeli byś sobie życzył (czego byś i tak nie zrobił, dlatego ja zrobiłem dla ciebie).
 
-| Pierwsza | Generator | Komat formalny |
-|---------:|:---------:|:--------------:|
-| 5        | +4        | 80/81          |
-| 7        | −2        | 63/64          |
-| 11       | −1        | 33/32          |
-| 13       | −4        | 1053/1024      |
-| 17       | −5        | 4131/4096      |
-| 19       | −3        | 513/512        |
-| 23       | +6        | 736/729        |
-| 29       | −2        | 261/256        |
-| 31       | +5        | 248/243        |
+| Pierwsza | Przeniesienie | Komat formalny |
+|---------:|:-------------:|:--------------:|
+| 5        | +4            | 80/81          |
+| 7        | −2            | 63/64          |
+| 11       | −1            | 33/32          |
+| 13       | −4            | 1053/1024      |
+| 17       | −5            | 4131/4096      |
+| 19       | −3            | 513/512        |
+| 23       | +6            | 736/729        |
+| 29       | −2            | 261/256        |
+| 31       | +5            | 248/243        |
 
 Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadratowy z 33/31 wybrałem na λ. To średnia geometryczna 33/32 i 32/31, a więc większa od pierwszego, a mniejsza od drugiego. 33/32 jest więc dozwolonym komatem, dając przybliżenie kwarty czystej dla 11/8 (inaczej musielibyśmy posługiwać się absurdalnym 5>). Ale naraz 32/31 nie jest dozwolone, przez co uniemożliwiając przybliżenie oktawy czystej dla 31/16. Sprytne, nie?
 

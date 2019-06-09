@@ -14,7 +14,7 @@ This being said, I think that ET doesn't need an FJS to be usable. *n*-EDOs for 
 
 No matter which way you choose, you'll eventually find out that the FJS would have been of zero help to you… Unless you want to build a frankentone tuning.
 
-## Where is the table of generators and formal commas?
+## Where is the table of fifth shifts and formal commas?
 
 You don't need one! Let the [calculators](calc.html) handle that.
 

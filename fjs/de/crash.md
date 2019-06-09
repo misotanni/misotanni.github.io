@@ -188,16 +188,16 @@ Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede
 >
 > **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
 >
-> | Generator | Pythagoreisch |   Komma   |          Schlussfolgerungen |
-> |----------:|:-------------:|:---------:|----------------------------:|
-> |       0   |      1/1      |    5/4    |  386.31¢   ≥ λ; fortfahren. |
-> |      +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
-> |      −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
-> |      +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
-> |      −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; fortfahren. |
-> |      +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
-> |      −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
-> |    **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
+> | Verschiebung | Pythagoreisch |   Komma   |          Schlussfolgerungen |
+> |-------------:|:-------------:|:---------:|----------------------------:|
+> |          0   |      1/1      |    5/4    |  386.31¢   ≥ λ; fortfahren. |
+> |         +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
+> |         −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
+> |         +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
+> |         −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; fortfahren. |
+> |         +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
+> |         −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
+> |       **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
 
 Hier findest du eine [Visualisierung](https://youtu.be/jG7lj98Yy-0).
 
@@ -414,17 +414,17 @@ Das FJS hat auch viele schöne Eigenschaften, die es wahnsinnig logisch machen. 
 
 Es gibt noch eine Sache, die du vielleicht möchtest, bevor du deine neu erlernten Können bei der letzten Aufgabe ausprobierst. Das sind wieder nur Hinweise; du hättest diese Tabelle selbst ausrechnen können (aber das würde dir nicht gefallen, deshalb habe ich es für dich getan).
 
-| Primzahl | Generator | Formales Komma |
-|---------:|:---------:|:--------------:|
-| 5        | +4        | 80/81          |
-| 7        | −2        | 63/64          |
-| 11       | −1        | 33/32          |
-| 13       | −4        | 1053/1024      |
-| 17       | −5        | 4131/4096      |
-| 19       | −3        | 513/512        |
-| 23       | +6        | 736/729        |
-| 29       | −2        | 261/256        |
-| 31       | +5        | 248/243        |
+| Primzahl | Verschiebung | Formales Komma |
+|---------:|:------------:|:--------------:|
+| 5        | +4           | 80/81          |
+| 7        | −2           | 63/64          |
+| 11       | −1           | 33/32          |
+| 13       | −4           | 1053/1024      |
+| 17       | −5           | 4131/4096      |
+| 19       | −3           | 513/512        |
+| 23       | +6           | 736/729        |
+| 29       | −2           | 261/256        |
+| 31       | +5           | 248/243        |
 
 Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den Toleranzradius gewählt habe. Sie ist das geometrische Mittel von 33/32 und 32/31, dabei ist sie größer als 33/32 und kleiner als 32/31. Daher wird 33/32 als mögliches formales Komma akzeptiert, deshalb kann 11/8 als reine Quarte dargestellt werden (falls nicht, dann wäre es die verminderte Quinte; Unsinn). Aber gleichzeitig wird die genauso unsinnige Darstellung von 31/16 als reine Oktave verworfen, weil 32/31 nicht als formales Komma akzeptiert wird. Schlau, oder?
 
