@@ -175,7 +175,7 @@ Wieso, erkläre ich später.
 
 Wie benutzt das FJS diese Zahl? Der nächste Schritt ist das wichtigste Element des ganzen FJS. Es ist dasjenige Element, das das FJS von allen anderen JI-Notationssystemen unterscheidet. Es ist der **FJS-Master-Algorithmus**. Hier steht er lesbar für Menschen. Andere Formen in Programmiersprachen, darunter auch ein Rechner auf dieser Webseite, gibt es auch.
 
-Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus so tut, wie er benutzt wird, und wozu die Generatorfunktion dient.
+Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus so tut, wie er benutzt wird, und wozu die Quintenverschiebung dient.
 
 > ### Der FJS-Master-Algorithmus
 > 
@@ -183,7 +183,7 @@ Der **FJS-Master-Algorithmus** findet die sog. **Generatorfunktion** für jede P
 > 2. Fange an mit *k* = 0.
 > 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
 > 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
-> 5. Falls ja, dann ist *k* die Generatorfunktion. Ende.
+> 5. Falls ja, dann ist *k* die Verschiebung. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
 >
 > **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
@@ -211,11 +211,11 @@ Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung 
 
 > ### Das formale Komma
 >
-> Das formale Komma einer Primzahl *p* mit Generatorfunktion *g* ist:
+> Das formale Komma einer Primzahl *p* mit Verschiebung *g* ist:
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-Es geht auch anders herum: du kannst aus dem formalen Komma die Generatorfunktion einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Generatorfunktion. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Generatorfunktion für 7.
+Es geht auch anders herum: du kannst aus dem formalen Komma die Verschiebung einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Verschiebung. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Verschiebung für 7.
 
 Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes Komma: positiv oder negativ. Das Symbol für das Versetzungszeichen basiert stets auf der Primzahl selbst. Die Form variiert, je nachdem du Notennamen oder Notenschrift schreibst:
 
@@ -262,15 +262,15 @@ Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veransch
 
 Noch eine Anmerkung: das FJS ermöglicht auch, Intervallnamen diese hoch- und tiefgestellten Versetzungszeichen anzuhängen. Auf diese Weise werden JI-Frequenzverhältnisse formal im FJS benannt. Zum Beispiel „heißt“ 5/4 die (große Terz)<sup>5</sup>. Das wäre also E<sup>5</sup> von C, oder A<sup>5</sup> von F, oder H<sup>5</sup> von G, usw.
 
-OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben zu können. Unten findest du eine neue Technik. Den Toleranzradius brauchst du nicht mehr. Man benutzt ihn nur im Master-Algorithmus, wo die Generatorfunktion einer Primzahl bestimmt wird.
+OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben zu können. Unten findest du eine neue Technik. Den Toleranzradius brauchst du nicht mehr. Man benutzt ihn nur im Master-Algorithmus, wo die Verschiebung einer Primzahl bestimmt wird.
 
 > ### FJS-Technik \#3: Ein otonales Primzahlintervall ins FJS umrechnen.
 > 
-> 1. Finde die Generatorfunktion der Primzahl.
+> 1. Finde die Verschiebung der Primzahl.
 > 2. Schreibe das Intervall auf, das dieser Anzahl von Quintenschritten entspricht.
 > 3. Addiere ein positives Versetzungszeichen der Primzahl selbst. Beispielsweise erhält 23/16 ein +23.
 >
-> **Beispiel:** Um 7/4 im FJS zu notieren, wir finden zuerst die Generatorfunktion von 7: −2. Wir schreiben das Intervall aus −2 Quinten auf: C–F–B, also eine kleine Septime. Als Letztes fügen wir ein +7 dazu, damit erhalten wir eine (kleine Septime)<sup>7</sup>. (Ja, es sieht auf den ersten Blick komisch aus.)
+> **Beispiel:** Um 7/4 im FJS zu notieren, wir finden zuerst die Verschiebung von 7: −2. Wir schreiben das Intervall aus −2 Quinten auf: C–F–B, also eine kleine Septime. Als Letztes fügen wir ein +7 dazu, damit erhalten wir eine (kleine Septime)<sup>7</sup>. (Ja, es sieht auf den ersten Blick komisch aus.)
 
 (Die Rückumrechnung ist trivial: um das Verhältnis eines Intervalls im FJS zu bestimmen, wenn gegeben ist, dass es ein otonales Primzahlintervall ist, nimmt man einfach die Primzahl, die auf dem Versetzungszeichen steht!)
 
@@ -278,9 +278,9 @@ OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben z
 
 (Ab jetzt nimm immer an, dass der Toleranzradius λ beträgt.)
 
-1. Finde die Generatorfunktion für die Primzahlen 11 und 13.
-2. Gegeben ist, dass die Generatorfunktion von 19 −3 beträgt. Finde daher das formale Komma für 19.
-3. Gegeben ist, dass das formale Komma von 47 47/48 beträgt. Finde daher die Generatorfunktion für 47.
+1. Finde die Verschiebung für die Primzahlen 11 und 13.
+2. Gegeben ist, dass die Verschiebung von 19 −3 beträgt. Finde daher das formale Komma für 19.
+3. Gegeben ist, dass das formale Komma von 47 47/48 beträgt. Finde daher die Verschiebung für 47.
 4. Notiere die folgende Tonleiter mit E als Grundton: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Notiere die Obertonreihe von A bis zum vierzehnten Oberton.
 6. (SCHWIERIG!) Notiere die *Unter*tonreihe von A bis zum achten Unterton.

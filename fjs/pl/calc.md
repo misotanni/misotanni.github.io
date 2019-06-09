@@ -20,7 +20,7 @@ Wynik: <br />
 <script>
   var loc = {
          centValue: "centów",
-         generator: "generator",
+             shift: "przeniesienie",
        outputComma: "komat formalny",
     outputInterval: "nazwa interwału",
              ratio: "wartość",
@@ -38,7 +38,7 @@ Wynik: <br />
            notReal: "„%1” to nie liczba rzeczywista podana w postaci rozwinięcia dziesiętnego.",
          radiusSet: "Promień tolerancji wynosi teraz %1.",
 
-             comma: "Ta kalkulacja znajduje funkcję generującą i komat formalny (z rozmiarem w centach) dla podanej liczby pierwszej, większej niż 3.",
+             comma: "Ta kalkulacja znajduje przeniesienie kwintowe i komat formalny (z rozmiarem w centach) dla podanej liczby pierwszej, większej niż 3.",
              tofjs: "Ta kalkulacja wyznacza (jednoznacznie) interwał FJS-owy odpowiadający podanemu ułamkowi. <br>Alteracje FJS-owe nie są przedstawione w postaci wymnożonej. Interwały mniejsze niż pryma czysta są zapisane liczbą ujemną (interwał w dół) – na przykład 5/4 to <code>M3^5</code>, a 4/5 – <code>M-3_5</code>. <br><strong>Uwaga.</strong> Kalkulator używa angielskich nazw interwałów, czyli „m3” to nasze 3&gt;.",
            fromfjs: "Ta kalkulacja wyznacza (jednoznacznie) ułamek odpowiadający dowolnemu interwałowi FJS-owemu. <br>Początek alteracji otonalnych musisz zasygnalizować znakiem karetki (^), a utonalnych – podkreślnikiem (\_). Poszczególne alteracje możesz zostawić nieprzemnożone ze sobą; możesz też użyć liczby ujemnej na oznaczenie interwału w dół. <br><strong>Uwaga.</strong> Kalkulator używa angielskich nazw interwałów, czyli „m3” to nasze 3&gt;.",
          setlambda: "Zmień promień tolerancji na dowolną wartość, podaną w postaci rozwinięcia dziesiętnego, pomiędzy 1 a sqrt(2). <br>Wprowadzeni słowa „default” (ang. „domyślny”) przywróci promień do wartości domyślnej λ = pierwiastek z 33/31."

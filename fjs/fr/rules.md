@@ -16,14 +16,14 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 > 2. Soit *k* = 0.
 > 3. Considérez l'intervalle construit de *k* quintes pythagoriciennes. Nommez-le *P*.
 > 4. Est-ce que la différence entre *p* et *P* s'élève à moins que le rayon de tolérance?
-> 5. Si oui, *k* égale la fonction génératrice. Fin.
+> 5. Si oui, *k* égale le déplacement de quintes. Fin.
 > 6. Si non, avancez au *k* suivant dans la séquence: (0, 1, −1, 2, −2, 3, −3, …), et retournez à l'étape 3.
 >
 > Dans l'étape 4, la différence dont on parle, c'est la **valeur absolue** du nombre de cents de $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ## Le comma formel
 
-> Le comma formel d'un nombre premier *p* dont la fonction génératrice est *g* égale:
+> Le comma formel d'un nombre premier *p* dont le déplacement est *g* égale:
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 

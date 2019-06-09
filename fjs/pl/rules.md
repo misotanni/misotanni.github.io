@@ -16,14 +16,14 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 > 2. Niech *k* = 0.
 > 3. Rozważ interwał złożony z *k* skoków o pitagorejską kwintę, *P*.
 > 4. Czy różnica między *p* a *P* jest mniejsza niż promień tolerancji?
-> 5. Jeżeli tak: *k* to funkcja generująca. Zwróć *k*. Koniec.
+> 5. Jeżeli tak: *k* to przeniesienie kwintowe. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 >
 > W kroku 4 przez „różnicę” rozumiemy **wartość bezwzględną** rozmiaru centowego interwału: $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ### Komat formalny
 
-> Komat formalny dla liczby pierwszej *p* i funkcji generującej *g* wynosi:
+> Komat formalny dla liczby pierwszej *p* i przeniesienia *g* wynosi:
 > 
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 

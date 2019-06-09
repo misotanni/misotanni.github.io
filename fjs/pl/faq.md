@@ -14,7 +14,7 @@ Dlatego nie uważam, żeby EDO potrzebowało FJS-a. *n*-EDO dla małego *n* moż
 
 Tak czy inaczej, w końcu się przekonasz, że FJS wcale by ci nie pomógł… *Chyba*, że chciałbyś stworzyć muzyczny ekwiwalent dzieła Frankensteina.
 
-## A gdzie tabela funkcji generujących i komatów formalnych?
+## A gdzie tabela przeniesień i komatów formalnych?
 
 A na co? Od tego masz [kalkulatory](calc.html).
 

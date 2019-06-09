@@ -14,7 +14,7 @@ Deswegen meine ich, dass eine gleichstufige Stimmung kein FJS braucht. Ein *n*-E
 
 Egal welche Methode du benutzt, wirst du erfahren, dass das FJS dir gar nicht helfen würde… Es sei denn, du willst eine Frankenstein-Stimmung konstruieren.
 
-## Wo befindet sich die Tabelle der Generatorfunktion und formaler Kommas?
+## Wo befindet sich die Tabelle der Verschiebungen und formaler Kommas?
 
 So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
 

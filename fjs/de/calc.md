@@ -20,7 +20,7 @@ Ergebnis: <br />
 <script>
   var loc = {
          centValue: "Cent",
-         generator: "Generator",
+             shift: "Verschiebung",
        outputComma: "Formales Komma",
     outputInterval: "Intervallname",
              ratio: "Wert",
@@ -38,7 +38,7 @@ Ergebnis: <br />
            notReal: "„%1“ ist keine reelle Zahl.",
          radiusSet: "Toleranzradius umgestellt auf %1.",
 
-             comma: "Finde sowohl die Generatorfunktion, als auch das formale Komma (sowie die Cent-Größe davon) für jede Eingabe einer Primzahl größer als 3.",
+             comma: "Finde sowohl die Quintenverschiebung, als auch das formale Komma (sowie die Cent-Größe davon) für jede Eingabe einer Primzahl größer als 3.",
              tofjs: "Finde die einzige FJS-Darstellung jeder Eingabe einer positiven Bruchzahl. <br>Alle FJS-Modifikatoren werden dabei getrennt geschrieben, nie miteinander multipliziert. Für Intervalle kleiner als eine reine Prime wird eine negative Zahl benutzt, um ein Intervall nach unten darzustellen. 5/4 ist also <code>M3^5</code>, aber 4/5 ist <code>M-3_5</code>. <br><strong>Pass auf:</strong> der Rechner benutzt englischsprachige Intervallnamen: M3 ist z.B. eine große Terz.",
            fromfjs: "Find den einzigen Bruch, der jeder Eingabe eines FJS-Intervalls entspricht. \nDas Einschaltungszeichen für den Anfang der otonalen Modifikatoren, ebenso wie der Unterstrich für die utonalen, sind immer notwendig. Du kannst die Modifikatoren multiplizieren, wie du willst, und eine negative Zahl für ein Intervall nach unten benutzen. \n<strong>Pass auf:</strong> der Rechner benutzt englischsprachige Intervallnamen: M3 ist z.B. eine große Terz.",
          setlambda: "Stelle den Wert des Toleranzradius auf einen beliebigen Dezimalbruch (Gleitkommazahl) zwischen 1 und sqrt(2) um. <br>Schreibe „default“, um den Wert wieder auf die Voreinstellung umzustellen: sqrt(33/31)."

@@ -14,7 +14,7 @@ En raison de cela, je ne crois pas qu'un tempérament égal ait besoin d'un FJS.
 
 Avec n'importe quelle méthode, vous verriez que le FJS vous n'aiderait pas du tout… sauf si vous voulez construire une intonation de Frankenstein.
 
-## Le tableau des génératrices et des commas formels, il est où?
+## Le tableau des déplacements et des commas formels, il est où?
 
 Vous n'en avez pas besoin! Les [calculatrices](calc.html) servent à cela.
 

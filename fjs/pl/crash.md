@@ -174,7 +174,7 @@ Dlaczego taka wartość, wyjaśnię później.
 
 Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych szczegółów FJS-u – to szczegół, który wyróżnia FJS spośród wachlarza systemów JI. Chodzi o **główny algorytm FJS**. Oto i on, w postaci zrozumiałej dla człowieka. Na tej stronie znajdują się implementacje programistyczne, a także zdatny do użycia kalkulator. 
 
-**Główny algorytm FJS** wylicza tzw. **funkcję generującą** dla każdej podanej liczby pierwszej i pewnego promienia tolerancji. Poniżej wyjaśniam, co algorytm robi, po co, i do czego potrzebna jest nam funkcja generująca.
+**Główny algorytm FJS** wylicza tzw. **przeniesienie kwintowe** dla każdej podanej liczby pierwszej i pewnego promienia tolerancji. Poniżej wyjaśniam, co algorytm robi, po co, i do czego potrzebne jest nam wartość przeniesienia.
 
 > ### Główny algorytm FJS
 > 
@@ -182,7 +182,7 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 > 2. Niech *k* = 0.
 > 3. Rozważ interwał złożony z *k* skoków o pitagorejską kwintę, *P*.
 > 4. Czy różnica między *p* a *P* jest mniejsza niż promień tolerancji?
-> 5. Jeżeli tak: *k* to funkcja generująca. Zwróć *k*. Koniec.
+> 5. Jeżeli tak: *k* to przeniesienie. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 >
 > **Przykład.** Poniżej: demonstracja działania algorytmu dla 5, przy promieniu tolerancji λ = sqrt(33/31). „Komaty” to testowe wartości komatu, obliczane poprzez podzielenie 5/4 przez testowe przybliżenia „pitagorejskie”.
@@ -210,11 +210,11 @@ Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie
 
 > ### Komat formalny
 > 
-> Komat formalny dla liczby pierwszej *p* i funkcji generującej *g* wynosi:
+> Komat formalny dla liczby pierwszej *p* i przeniesienia *g* wynosi:
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-Można by też pójść od drugiej strony: wyznaczyć funkcję generującą dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie funkcją generującą. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, funkcją generującą dla 7 musi być też −2.
+Można by też pójść od drugiej strony: wyznaczyć przeniesienie dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie przeniesieniem. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, przeniesieniem dla 7 musi być też −2.
 
 Tak, jak krzyżyk i bemol, alteracja o taki komat formalny może być dodania lub ujemna. Znak dla tej alteracji to sama liczba pierwsza, dla której komat formalny zbudowano; dokładne nazewnictwo zależy od tego, czy nuty nazywamy czy zapisujemy na pięciolinii:
 
@@ -261,15 +261,15 @@ Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej sp�
 
 Jeszcze jedna rzecz: FJS także pozwala na dostawianie indeksów górnych i dolnych do interwałów. Tak naprawdę to w ten sposób FJS zapisuje JI-owe interwały. Na przykład 5/4 formalnie nazywa się 3<sup>5</sup> (tercja wielka +5) – to oznacza, że ten interwał znajdziemy pomiędzy *c* a *e*<sup>5</sup>, *f* a *a*<sup>5</sup>, *g* a *h*<sup>5</sup>, itd.
 
-To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jeszcze jedną technikę. Nie potrzebujesz znać promienia tolerancji (jedyne miejsce, w którym jest on używany, to główny algorytm – do obliczania funkcji generujących).
+To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jeszcze jedną technikę. Nie potrzebujesz znać promienia tolerancji (jedyne miejsce, w którym jest on używany, to główny algorytm – do obliczania przeniesień).
 
 > ### Technika FJS-owa nr 3: Zapisanie dowolnego otonalnego interwału pierwszego w FJS-ie.
 > 
-> 1. Wylicz funkcję generującą dla tej liczby pierwszej.
+> 1. Wylicz przeniesienie kwintowe dla tej liczby pierwszej.
 > 2. Zapisz interwał generowany przez tę ilość kwint.
 > 3. Dopisz dodatnią alterację tej liczby pierwszej – na przykład jeżeli zapisujesz 23/16, dopisz +23.
 >
-> **Przykład.** Aby zapisać 7/4 w FJS-ie, wyliczamy funkcję generującą dla 7: −2. Zapisujemy interwał generowany przez −2 kwinty: *c*–*f*–*b*, a zatem 7 (septyma mała). Ostatecznie dopisujemy +7, uzyskując 7<sup>7</sup>. (Tak, wiem, wygląda to całkiem dziwnie, ale właśnie takie jest).
+> **Przykład.** Aby zapisać 7/4 w FJS-ie, wyliczamy przeniesienie dla 7: −2. Zapisujemy interwał generowany przez −2 kwinty: *c*–*f*–*b*, a zatem 7 (septyma mała). Ostatecznie dopisujemy +7, uzyskując 7<sup>7</sup>. (Tak, wiem, wygląda to całkiem dziwnie, ale właśnie takie jest).
 
 (Wynajdywanie odwrotnej informacji – tożsamości interwału z jego FJS-owego przedstawienia, wiedząc, że jest to otonalny interwał pierwszy – jest trywialne: to po prostu liczba pierwsza z indeksu górnego (tylko zredukowana)!).
 
@@ -277,9 +277,9 @@ To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jesz
 
 (Od tego momentu zakładamy, że promieniem tolerancji zawsze jest λ).
 
-1. Znajdź funkcje generujące dla 11 i 13.
-2. Jeżeli funkcją generującą dla 19 jest −3, jaki jest komat formalny dla 19?
-3. Znajdź funkcję generującą dla 47, wiedząc, że jej komatem formalnym jest 47/48.
+1. Znajdź przeniesienia dla 11 i 13.
+2. Jeżeli przeniesieniem dla 19 jest −3, jaki jest komat formalny dla 19?
+3. Znajdź przeniesienie dla 47, wiedząc, że jej komatem formalnym jest 47/48.
 4. Zapisz następującą skalę, przyjmując *e* za tonikę: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Zapisz szereg alikwotowy od *a* aż do czternastego alikwotu.
 6. (Trudne!). Zapisz *utonalny* szereg alikwotowy (czyli szereg alikwotów dolnych) od *a* aż do ósmego alikwotu dolnego.

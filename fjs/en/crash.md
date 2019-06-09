@@ -175,7 +175,7 @@ The reason will be explained later.
 
 What does the FJS do with this number? The next step is the most important element in the entirety of the FJS; it's the element that makes it so unique among other notation systems for JI. It is the **FJS master algorithm.** Here it is, in a human-readable form. Implementations in programming languages, including a calculator on this website, are available as well.
 
-The **FJS master algorithm** outputs the so-called **generator function** for each prime number input with a radius of tolerance. I will explain below what the algorithm does, how it is used, and what the generator function is used for.
+The **FJS master algorithm** outputs the so-called **fifth shift** for each prime number input with a radius of tolerance. I will explain below what the algorithm does, how it is used, and what fifth shifts are used for.
 
 > ### The FJS Master Algorithm
 > 
@@ -183,7 +183,7 @@ The **FJS master algorithm** outputs the so-called **generator function** for ea
 > 2. Let *k* = 0.
 > 3. Consider the interval of *k* Pythagorean fifths and call it *P*.
 > 4. Is the difference between *p* and *P* less than the radius of tolerance?
-> 5. If so: *k* is the generator function. Output. End.
+> 5. If so: *k* is the fifth shift. Output. End.
 > 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
 > **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = sqrt(33/31).) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
@@ -211,11 +211,11 @@ The FJS master algorithm finds the simplest possible Pythagorean approximation o
 
 > ### The Formal Comma
 >
-> The formal comma of a prime *p* with a generator function *g* is given by:
+> The formal comma of a prime *p* with a fifth shift *g* is given by:
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-You can also go the other way: determine the generator function of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the generator function. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
+You can also go the other way: determine the fifth shift of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the fifth shift. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the fifth shift for 7 is −2.
 
 Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
 
@@ -262,15 +262,15 @@ Why so? Because when this rule is considered in this way, it is much more logica
 
 One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or B<sup>5</sup> above G, etc.
 
-OK, that's all you need to know to notate the prime intervals. Below is one more technique. The radius of tolerance is not needed anymore; the only place where the FJS uses the radius of tolerance is in the master algorithm, in computing the generator function of a prime.
+OK, that's all you need to know to notate the prime intervals. Below is one more technique. The radius of tolerance is not needed anymore; the only place where the FJS uses the radius of tolerance is in the master algorithm, in computing the fifth shift of a prime.
 
 > ### FJS Technique \#3: To convert any arbitrary otonal prime interval into its FJS representation.
 > 
-> 1. Compute the generator function of the prime.
+> 1. Compute the fifth shift of the prime.
 > 2. Write the interval generated by that number of fifths.
 > 3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
 >
-> **Example:** To write 7/4 in the FJS, we compute the generator function of 7 as −2. We write the interval generated by −2 fifths: C–F–B♭, so m7. The final step is to add the positive +7 accidental to obtain m7<sup>7</sup>. (Yes, it might look strange at first sight, but that's what it is.)
+> **Example:** To write 7/4 in the FJS, we compute the fifth shift of 7 as −2. We write the interval generated by −2 fifths: C–F–B♭, so m7. The final step is to add the positive +7 accidental to obtain m7<sup>7</sup>. (Yes, it might look strange at first sight, but that's what it is.)
 
 (Deducing the inverse – the identity of an interval from its FJS representation given that it is an otonal prime interval – is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
 
@@ -278,7 +278,7 @@ OK, that's all you need to know to notate the prime intervals. Below is one more
 
 (From this point onwards, the radius of tolerance is always assumed to be λ.)
 
-1. Determine the generator function for the primes 11 and 13.
+1. Determine the fifth shift for the primes 11 and 13.
 2. Given that the generator for the prime 19 is −3, find the formal comma for 19.
 3. Given that the formal comma for the prime 47 is 47/48, find its generator.
 4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
