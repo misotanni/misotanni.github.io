@@ -28,7 +28,7 @@ Ich nehme an, dass diese Wahl dem Zweck dient, dass C–E–G, F–A–C and G�
 
 Ich nehme deshalb also an, dass diese Wahl die Absicht hatte, diatonische 5-Limit-Musik einfacher zu repräsentieren, gegen alles andere.
 
-Das stimmt aber nicht; selbst diatonische 5-Limit-Musik wird dadurch schwieriger. D–A ist keine reine Quinte, sondern 40/27. Das heißt, dass Johnstons Versetzungszeichen für das syntonische Komma (ein Plus nach oben, oder ein Minus nach unten) gibt es überall. Bei [Tonalsoft](http://www.tonalsoft.com/enc/j/johnston.aspx), der Enzyklopädie für mikrotonale Musik, schreibt Joe Monzo Folgendes über die Johnston-Notation:
+Das stimmt aber nicht; selbst diatonische 5-Limit-Musik wird dadurch schwieriger. D–A ist keine reine Quinte, sondern 40/27. Dasselbe gilt auch für die Übergangsquinte H–Fis (oder auch B–F). Das heißt, dass Johnstons Versetzungszeichen für das syntonische Komma (ein Plus nach oben, oder ein Minus nach unten) gibt es überall. Bei [Tonalsoft](http://www.tonalsoft.com/enc/j/johnston.aspx), der Enzyklopädie für mikrotonale Musik, schreibt Joe Monzo Folgendes über die Johnston-Notation:
 
 > *Viele Theoretiker sind der Meinung, dass Johnstons Notationsidee gut ist, aber dass sie verbessert werden könnte, indem eine pythagoreische anstatt einer 5-Limit-Skala als Basis benutzt wäre.*
 

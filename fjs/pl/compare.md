@@ -28,7 +28,7 @@ Zakładam, że tak zrobiono, by *c*–*e*–*g*, *f*–*a*–*c* i *g*–*h*–*
 
 Mniemam, że celem tego zabiegu było ułatwienie notacji 5-limitowej opartej na harmonii diatonicznej, kosztem dosłownie całej reszty systemu.
 
-Ale i to się nie zgadza – nawet 5-limitową harmonię diatoniczną trudno w ten sposób zapisać. *d*–*a* to nie kwinta czysta – to 40/27. To oznacza, że BJ-owskie znaki dla komatu syntonicznego (plus i minus odpowiednio w górę i w dół) są rozsiane po całej pięciolinii. Joe Monzo pisze w [definicji](http://www.tonalsoft/enc/j/johnston.aspx) BJ w encyklopedii muzyki mikrotonalnej Tonalsoftu następująco:
+Ale i to się nie zgadza – nawet 5-limitową harmonię diatoniczną trudno w ten sposób zapisać. *d*–*a* to nie kwinta czysta – to 40/27. Również kwinta przejściowa (czyli *h*–*fis* bądź *b*–*f*) jest tak samo rozstrojona. To oznacza, że BJ-owskie znaki dla komatu syntonicznego (plus i minus odpowiednio w górę i w dół) są rozsiane po całej pięciolinii. Joe Monzo pisze w [definicji](http://www.tonalsoft/enc/j/johnston.aspx) BJ w encyklopedii muzyki mikrotonalnej Tonalsoftu następująco:
 
 > *Niektórzy teoretycy strojów uważają, że pomysł notacyjny Johnstona jest dobry, ale że mógłby być lepszy, gdyby tylko użyć do konstrukcji systemu skali pitagorejskiej zamiast 5-limitowej.*
 

@@ -28,7 +28,7 @@ This is done, I presume, so that C–E–G, F–A–C and G–B–D are all 4:5:
 
 I assume therefore that the alleged goal is to make the notation of 5-limit music based on diatonic harmony easier, at the cost of literally everything else.
 
-But this is not the case; even 5-limit diatonic harmony becomes harder to write this way. D–A is not a perfect fifth; it is 40/27. This means that Johnston's accidentals for the syntonic comma (pluses and minuses for upward and downward motion respectively) are found literally everywhere. On the Tonalsoft microtonal music [encyclopedia entry](http://www.tonalsoft.com/enc/j/johnston.aspx) for Johnston notation, Joe Monzo writes:
+But this is not the case; even 5-limit diatonic harmony becomes harder to write this way. D–A is not a perfect fifth; it is 40/27. The same is true for the transition fifth B–F♯ or B♭–F. This means that Johnston's accidentals for the syntonic comma (pluses and minuses for upward and downward motion respectively) are found absolutely everywhere. On the Tonalsoft microtonal music [encyclopedia entry](http://www.tonalsoft.com/enc/j/johnston.aspx) for Johnston notation, Joe Monzo writes:
 
 > *It is the opinion of several tuning-theorists that Johnston's notational idea is a good one, but that it could be improved by using a Pythagorean scale instead of a 5-limit one as a basis.*
 

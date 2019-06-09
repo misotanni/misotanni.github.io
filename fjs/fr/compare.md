@@ -28,7 +28,7 @@ Je suppose que ce choix est dû au fait que Do–Mi–Sol, Fa–La–Do et Sol�
 
 Je suppose donc aussi que ce choix avait le but de simplifier la notation de la musique diatonique à la 5-limite, au prix de tout le reste.
 
-Mais ce n'est pas vrai. Même la musique diatonique à la 5-limite devient plus difficile à noter à cause de cela. Ré–La n'est pas une quinte juste, mais 40/27. Cela signifie qu'on trouve partout les altérations d'un comma syntonique (un signe plus: ascendant, un signe moins: descendant). Joe Monzo, l'auteur d'une encyclopédie de la musique microtonale en ligne, y écrit sur la notation de Johnston:
+Mais ce n'est pas vrai. Même la musique diatonique à la 5-limite devient plus difficile à noter à cause de cela. Ré–La n'est pas une quinte juste, mais 40/27, ce qui est aussi le cas pour la quinte de transition, Si–Fa♯ ou bien Si♭–Fa. Cela signifie qu'on trouve partout les altérations d'un comma syntonique (un signe plus: ascendant, un signe moins: descendant). Joe Monzo, l'auteur d'une encyclopédie de la musique microtonale en ligne, y écrit sur la notation de Johnston:
 
 > *Beaucoup de théoreticiens croient que l'idée de Johnston est bonne, mais qu'elle pourrait être améliorée en utilisant une échelle pythagoricienne au lieu d'une de la 5-limite pour sa base.*
 
