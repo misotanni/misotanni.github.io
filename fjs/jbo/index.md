@@ -62,7 +62,7 @@ i tu'e
 
 2. i lo ro togyku'e poi frinu fe ja fi su'o dilcysle poi zmadu li ci ku'o ne mu'u li mu ce li ze cu se ke steci fancu fi lo jibni poi se cistrpitagora kei lo fy jy sy ralju algoritma i a bu kanji tu'a lo sampu je simsa be lo dilcysle banzu i lo ve vimcu be ri bei lo dilcysle cu ckini lo pa togystika pe dy i lu'e dy sinxa lo togystika
 
-3. i lo fy jy sy togystika cu jmina i jo galfi lo jibni poi se cistrpitagora ku'o lo togyku'e pe lo dilcysle i i lo nu jmina fa'u vimcu na srana lo nu zenba fa'u jdika lo ni gapru i ja'a go'i lo nu galto'a fa'u dzito'a
+3. i lo fy jy sy togystika cu jmina i jo galfi lo jibni poi se cistrpitagora ku'o lo togyku'e pe lo dilcysle i i lo nu jmina fa'u vimcu na srana lo nu zenba fa'u jdika lo jei gapru i ja'a go'i lo nu galto'a fa'u dzito'a
 
 4. i lo togystika poi pluja cu se sinxa lo pilji be lo galto'a be'o jo'u lo pilji be lo dzito'a i mu'a li ma'u mu cu se kurtenfa li ma'u re mu i lo galto'a jo'u lo dzito'a ka'e nai mixre i cumki fa lo nu cusku lu'e lo dilcysle jo'u lo lerkoma fau lo nu lo pilji cu barda dukse
 
@@ -117,6 +117,7 @@ ni'o tu'e
 - i tcidu [lo se javni](rules.html) fau lo nu fa'idji fi lo se senpi
 - i zgana [lo cmaci](math.html) pe fy jy sy i lo ctaipe be lo du'u fy jy sy cu pavysmu gi'e ckaji so'i da vau cu zvati ti
 - i mencti [lo xe karbi](compare.html) be fy jy sy bei lo re jivna snici'e no'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston i ba'o la'e di'u jimpe lo du'u fy jy sy zmadu re zo'e ma kau
+- i tcidu [lo u'enmo daurki'u](dream.html) fau lo nu banzu na ku fa lo logji co kunti pe'a
 - i pilno [lo kajytci seljmaji](calc.html) i **e'e** ca zi kibytci tcitygau fi ri
 - i lanli [lo so'i mupli](examples.html) be lo ka fy jy sy se pilno fi ce'u
 
