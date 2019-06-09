@@ -8,7 +8,7 @@ We met each other on a Discord server initially, but it wasn't until I shared Ea
 
 My initial idea was, of course, to tell him about the FJS. I showed him links to videos where I'd used it and told him about some of its properties.
 
-He immediately picked up the system. He grokked the 5-limit lattice with increasing superscripts and subscripts of five as analogical to rows of buttons on an accordion, and the idea of multiplying these modifiers to combine them. When I sent him an FJS score, after his initial positive reaction to a key signature at the beginning, he just replied: “very comprehensible notation”.
+He immediately picked up the system. He intuitively understood the 5-limit lattice with increasing superscripts and subscripts of five as analogical to rows of buttons on an accordion, and the idea of multiplying these modifiers to combine them. When I sent him an FJS score, after his initial positive reaction to a key signature at the beginning, he just replied: “very comprehensible notation”.
 
 After about two days of a casual conversation, and only one serious question (why the <sup>5</sup> accidental *lowers* a note by 81/80 instead of raising), he was already able to use the FJS.
 
