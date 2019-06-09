@@ -188,8 +188,8 @@ L'**algorithme principal du FJS** trouve le **déplacement de quintes** pour cha
 >
 > **Exemple :** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
 >
-> | Génératrice | Pythagoricienne |   Comma   |                Conclusions |
-> |------------:|:---------------:|:---------:|---------------------------:|
+> | Déplacement | Pythagoricienne |   Comma   |                 Conclusions |
+> |------------:|:---------------:|:---------:|----------------------------:|
 > |        0    |       1/1       |    5/4    |  386.31¢   ≥ λ ; continuer. |
 > |       +1    |       3/2       |    5/6    |  315.64¢   ≥ λ ; continuer. |
 > |       −1    |       4/3       |   15/16   |  111.73¢   ≥ λ ; continuer. |
