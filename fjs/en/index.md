@@ -70,7 +70,7 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 
 ## FAQ: Is there a FAQ?
 
-[Why indeed there is one!](faq.html)
+[Why indeed, there is one!](faq.html)
 
 ## What Now?
 
