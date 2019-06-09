@@ -24,7 +24,7 @@ BJ, z drugiej strony, opiera się na czymś bardziej… innowacyjnym. Różni si
 
 (Komat syntoniczny to 81/80).
 
-Zakładam, że tak zrobiono, by *c*–*e*–*g*, *f*–*a*–*c* i *g*–*h*–*d* wszystkie były durowymi 4:5:6, a *c*–*es*–*g*, *f*–*as*–*c* i *g*–*b*–*d* – molowymi 10:12:15. Uzyskano więc w *c*–*d*–*e*–*f*–*g*–*a*–*h*–*c* intensywną skalę diatoniczną Ptolemeusza, czyli naturalną skalę durową, a w *c*–*d*–*es*–*f*–*g*–*as*–*b*–*c* naturalną molową.
+Zakładam, że tak zrobiono, by *c*–*e*–*g*, *f*–*a*–*c* i *g*–*h*–*d* wszystkie były durowymi 4:5:6, a *c*–*es*–*g*, *f*–*as*–*c* i *g*–*b*–*d* – molowymi 10:12:15. Uzyskano więc w *c*–*d*–*e*–*f*–*g*–*a*–*h*–*c* skalę diatoniczną Ptolemeusza, czyli naturalną skalę durową, a w *c*–*d*–*es*–*f*–*g*–*as*–*b*–*c* naturalną molową.
 
 Mniemam, że celem tego zabiegu było ułatwienie notacji 5-limitowej opartej na harmonii diatonicznej, kosztem dosłownie całej reszty systemu.
 
