@@ -78,16 +78,16 @@ Cette page contient plus d'exemples du FJS en pratique.
 
 J'ai utilisé le FJS pour énumérer les tons que j'ai utilisés dans une pièce en JI. Par exemple, voici les [listes d'accords](../assets/tuning.pdf) pour deux pièces, *Overture of Opulence* et *Meditations on a Medieval Theme Remix*, dans *Justin Tonation*.
 
-L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une (tierce mineure)<sub>25</sub>, je la reconnais tout de suite: c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements*: 729/640 est déroutant, mais une (seconde majeure)<sub>5</sub> ne l'est pas; un 9/8 élevé d'un comma syntonique.
+L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une (tierce mineure)<sub>25</sub>, je la reconnais tout de suite : c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements* : 729/640 est déroutant, mais une (seconde majeure)<sub>5</sub> ne l'est pas ; un 9/8 élevé d'un comma syntonique.
 
 ## Notation
 
-Ceci est une [interprétation](../assets/cmaj.pdf) du Prélude en Do majeur de Johann Sebastian Bach, BWV 846, du Clavier bien tempéré (1<sup>er</sup> livre). Elle utilise l'accord suivant:
+Ceci est une [interprétation](../assets/cmaj.pdf) du Prélude en Do majeur de Johann Sebastian Bach, BWV 846, du Clavier bien tempéré (1<sup>er</sup> livre). Elle utilise l'accord suivant :
 
-- 4:5:6(:15) pour des triades (accords de septième) majeur(e)s;
-- 10:12:15(:18) pour des triades (accords de septième) mineur(e)s;
-- 4:5:6:7 pour des accords de septième de dominante;
-- 10:12:14:17 pour des accords de septième diminuée;
+- 4:5:6(:15) pour des triades (accords de septième) majeur(e)s ;
+- 10:12:15(:18) pour des triades (accords de septième) mineur(e)s ;
+- 4:5:6:7 pour des accords de septième de dominante ;
+- 10:12:14:17 pour des accords de septième diminuée ;
 
 Une armure FJS est démontrée aussi.
 
@@ -101,6 +101,6 @@ Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecra
 
 Ici, il y a une [visualisation](https://youtu.be/jG7lj98Yy-0) de l'algorithme principal du FJS.
 
-## Plus?
+## Plus ?
 
-Avez-vous créé quelque chose en utilisant le FJS et voudriez-vous le présenter ici? Partager-le avec moi par e-mail, et je l'ajouterai ici avec plaisir!
+Avez-vous créé quelque chose en utilisant le FJS et voudriez-vous le présenter ici ? Partager-le avec moi par e-mail, et je l'ajouterai ici avec plaisir !

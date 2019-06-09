@@ -6,7 +6,7 @@
 2. 32768/19683, 6561/4096, 65536/59049.
 3. 9/8, 32/27, 9/8, 32/27, 9/8.
 4. <img src="../assets/solution_1_4.png" alt="Ré–Fa♯–Sol–La–Do♯–Ré">
-5. 531441/524288. (Ou bien l'inverse, c'est un peu bizarre. 531441/524288, c'est l'intervalle de Do au Si dièse **en bas**, ce qui ne peut pas être représenté par un intervalle: zérote augmentée?! C'est la même taille qu'une seconde diminuée.)
+5. 531441/524288. (Ou bien l'inverse, c'est un peu bizarre. 531441/524288, c'est l'intervalle de Do au Si dièse **en bas**, ce qui ne peut pas être représenté par un intervalle : zérote augmentée ?! C'est la même taille qu'une seconde diminuée.)
 6. Une tierce augmentée sept fois (moins une octave). Oui. Sur Do, ce serait une tierce majeure avec sept dièses. Beurk.
 
 ## Exercice 2
@@ -30,7 +30,7 @@
 1. (Seconde mineure)<sup>7</sup>, (seconde augmentée)<sup>5</sup><sub>13</sub>, (quarte diminuée)<sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solution_4_3.png" alt="Do5–Ré5–Mi♭–Sol5–Si♭, Fa–Do1–Mi♭7–Fa–La5, Si♭–Do–Ré5–Fa–La5">
-4. Les cinq accords suivants:
+4. Les cinq accords suivants :
 	- 1/1, 3/2, 5/4, 1/1
 	- 5/3, 5/3, 5/4, 1/1
 	- 4/3, 5/3, 4/3, 10/9
