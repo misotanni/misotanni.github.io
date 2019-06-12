@@ -19,11 +19,11 @@
 <script src="../assets/calc.js"></script>
 <script>
   var loc = {
-         centValue: "toglai",
-             shift: "togyfancylei",
-       outputComma: "togyfancyku'e",
-    outputInterval: "togyku'e cmene",
-             ratio: "frinu",
+         centValue: "toglai:",
+             shift: "togyfancylei:",
+       outputComma: "togyfancyku'e:",
+    outputInterval: "togyku'e cmene:",
+             ratio: "frinu:",
            noInput: ".i claxu lo se pruce",
      cantFactorize: ".i na ka'e kanji lo'i dilcymu'o be la'oi %1",
         notANumber: ".i la'oi %1 na'e namcu",
