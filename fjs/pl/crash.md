@@ -227,7 +227,7 @@ Ci, którzy znają zapis naturalny Bena Johnstona, zauważą podobieństwo. Dla 
 
 Taka decyzja może się wydawać myląca. Jednak przekonam cię, że służy prostocie systemu. Dodatnia alteracja – na przykład +17 – zawsze oznacza dodanie czynnika pierwszego (tu 17) do licznika ułamka, a więc jeżeli wiesz, jaki pitagorejski interwał jest bliski 17/16 (podpowiedź: to 2>), wywnioskujesz, że 17/16 zapiszesz jako po prostu 2> z +17. Nie musisz wiedzieć, czy przybliżenie jest wyżej czy niżej od interwału pierwszego. Ta reguła, operująca na utonalności i otonalności zamiast na kierunkach, upraszcza zapisy różnych skal i strojów i powoduje, że są bardziej intuicyjne. +5 w rzeczywistości przedstawia skok o 80/81, nie 81/80. Jeżeli przyjrzysz się liście komatów formalnych dla kolejnych liczb pierwszych, zauważysz, że każdy komat formalny będzie zawierał odpowiedni czynnik pierwszy w liczniku. To stąd pochodzi również nazwa systemu: **Funkcyjny** System Naturalny, czyli taki, który przywiązuje wagę do *funkcji* (zastosowania) bardziej niż do samych działań na wysokościach.
 
-Posłużę się teraz anegdotą. Gdy badałem prototyp Funkcyjnego Systemu Naturalnego – wtedy, gdy jeszcze nie miał przydzielonej nazwy – na początku wymuszałem, by wszystkie komaty były skierowane w górę – tak, by dodatnio zawsze było do góry, a ujemnie w dół. Pewnego razu rozważałem 5- i 7-limitowe stroje, aż nagle spostrzegłem, że używanie takich zawsze skierowanych w górę komatów tylko komplikuje sprawy, i z miejsca zmieniłem je na zawsze utonalne. Gdy to zrobiłem, w FJS-ie zacząłem myśleć płynniej i prościej, więc tak to zostawiłem. (FJS miał też wiele innych niedogodności, które od tego czasu zdołałem uprościć, odsłaniając niepokomplikowany system, który znamy dzisiaj…).
+Czas na anegdotę: Gdy rozwijałem pierwszy prototyp Funkcyjnego Systemu Naturalnego – wtedy, gdy jeszcze nie miał nawet tej nazwy – wszystkie komaty były skierowane w górę – tak, by dodatnio zawsze było do góry, a ujemnie w dół. Pewnego razu, rozpisując 5- i 7-limitowe stroje, spostrzegłem, że tak zdefiniowane komaty tylko komplikują, i z miejsca zmieniłem je na zawsze utonalne. Od wtedy w FJS-ie myślałem płynniej i prościej, więc tak zostało. (FJS miał też wiele innych niedogodności, które od tego czasu zdołałem rozwiązać, doprowadzając go do tego prostego systemu, który znamy dzisiaj…).
 
 Oto seria alikwotów zbudowana na *a*, aż do ósmego alikwotu, zapisana za pomocą FJS-u:
 
@@ -241,9 +241,9 @@ To samo, w wersji audio:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-Czego pewnie się domyśliłeś, wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (otonalne). Nie wygląda to zgrabnie – bardziej, niż gdybyśmy przejmowali się kierunkami? Rozumiem, że ten wybór może cię z początku mylić, ale z czasem zauważysz, jak logiczniejszy i łatwiejszy w użyciu staje się dzięki niemu cały FJS. (Możesz jeszcze posłużyć się inną analogią: zamiast pojmować krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o dodawaniu i obniżaniu kwint).
+Nietrudno się domyślić, że wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (otonalne). Nie jest to wygodniejsze, niż gdybyśmy przejmowali się kierunkami? Z czasem pojmiesz, jak logiczny i łatwy w użyciu jest cały FJS dzięki temu. (Możesz posłużyć się inną analogią: zamiast krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o znakach dodających i odejmujących kwinty).
 
-Teraz chciałbym wyjaśnić, jak te alteracje oddziałują na siebie nawzajem na pięciolinii.
+Teraz chciałbym wyjaśnić, jak alteracje oddziałują na siebie nawzajem na pięciolinii.
 
 > ### Przenoszenie FJS-owych alteracji
 >
