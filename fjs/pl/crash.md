@@ -88,25 +88,25 @@ To właśnie tak *definiujemy* diatoniczne wysokości: *f*, *c*, *g*, *d*, *a*, 
 
 Warto wspomnieć, że taki system wymaga czegoś, z czym niektórzy z nas mogli byli się nie spotkać: potrzeby na więcej niż dwa znaki chromatyczne naraz przy jednej nucie. Choć rzadko stosuje się potrójne alteracje w muzyce klasycznej, potrzebujemy ich, by szereg kwint ciągnął się w nieskończoność w obie strony. FJS zezwala na dowolną ilość krzyżyków i bemoli. Nie chcę przez to powiedzieć, że jest to często występująca sytuacja – po prostu nie spanikuj, kiedy się z nią spotkasz.
 
-Czas najwyższy, by dowiedzieć się o pierwszych dwóch FJS-owych technik:
+Czas najwyższy, by dowiedzieć się o pierwszych dwóch FJS-owych technikach:
 
 > ### Technika FJS-owa nr 1: Zamiana ułamka pitagorejskiego na FJS.
 > 
 > 1. Rozłóż ułamek na czynniki pierwsze.
 > 2. Na chwilę porzuć potęgi dwójki.
-> 3. Jeżeli trójka podniesiona jest do potęgi dodatniej, zrób tyle kwintowych kroków w górę, ile wykładnik; jeżeli jest on ujemny, idź w dół. Zamień wynik na interwał.
+> 3. Jeżeli trójka podniesiona jest do potęgi dodatniej, zrób tak wiele kwintowych kroków w górę, jak wielki wykładnik; jeżeli ujemny, idź w dół. Zamień wynik na interwał.
 > 4. Jeżeli trzeba, dostosuj oktawy.
 >
-> **Przykład.** By zamienić 9/8 na FJS, rozkładamy: 2<sup>−3</sup> 3<sup>2</sup>. Ignorujemy czynnik z 2. Trójkę podniesiono do +2, więc robimy dwa kroki w górę: *c*–*g*–*d*, uzyskując sekundę wielką. Nie musimy poprawiać oktaw, więc otrzymujemy wynik: sekunda wielka.
+> **Przykład.** By zamienić 9/8 na FJS, rozkładamy: 2<sup>−3</sup> 3<sup>2</sup>. Ignorujemy czynnik z 2. Przy trójce stoi wykładnik 2, więc robimy dwa kroki w górę (dodatnie): *c*–*g*–*d*, czyli o sekundę wielką. Jesteśmy w odpowiedniej oktawie, więc to jest nasz wynik: sekunda wielka.
 
-> ### Technika FJS-owa nr 2: Zamiana FJS-owego przedstawienia interwału pitagorejskiego na odpowiedni ułamek.
+> ### Technika FJS-owa nr 2: Zamiana FJS interwału pitagorejskiego na ułamek.
 > 
-> 1. Na chwilę pomiń oktawy.
+> 1. Na chwilę odrzuć oktawy.
 > 2. Zamień interwał na ilość kroków kwintowych.
-> 3. Podnieś 3 do takiej potęgi i zredukuj.
+> 3. Podnieś 3 do tak wielkiej potęgi i zredukuj.
 > 4. Jeżeli trzeba, dostosuj oktawy.
 >
-> **Przykład.** By zamienić tercję małą z FJS-u na 3-limit, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3: *c*–*f*–*b*–*es*. Podnosimy 3 do −3 i uzyskujemy 1/27. Ponieważ chcemy zredukować ten interwał – czyli wsunąć go do przedziału \[1, 2) – mnożymy go przez 2<sup>5</sup>, uzyskując ostateczny wynik: 32/27.
+> **Przykład.** By zamienić tercję małą z FJS-u na 3-limitowy ułamek, wyszukujemy najpierw ilość kroków kwintowych odpowiadającą temu interwałowi. Jest to −3 (*c*–*f*–*b*–*es*). Podnosimy 3 do potęgi −3 i uzyskujemy 1/27. By zredukować interwał – czyli zmieścić go w przedziale \[1, 2) – mnożymy go przez 2<sup>5</sup>, uzyskując ostateczny wynik: 32/27.
 
 Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 
@@ -123,24 +123,24 @@ Poniższa tabela wylicza kilka pierwszych interwałów i ułamków:
 | 3        | +4    | **81**/64   |
 | 7<       | +5    | **243**/128 |
 
-Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u nie potrzeba żadnego zapamiętywania. Zamiast tego warto poćwiczyć płynną zamianę, tak jakbyś liczył w głowie. W ostateczności powinieneś być w stanie samemu uzyskać te ułamki, mając podany interwał (i vice versa), w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się on, dopóki nie masz przyswojonych częstych wartości, których znajomość z czasem przyjdzie do Ciebie sama.
+Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u tego nie potrzeba. Zamiast tego warto poćwiczyć płynną zamianę na ilość kwint. W ostateczności powinieneś umieć samemu uzyskiwać te ułamki przy podanym interwale (i vice versa) w oparciu o te dwie techniki. Nie krępuj się używać w tym celu kalkulatora – przyda ci się, dopóki nie przyswoisz sobie częstych wartości, co z czasem przyjdzie do Ciebie samo.
 
 ### Ćwiczenia – zestaw 1
 
-1. Znajdź FJS-owe interwały odpowiadające wymienionych ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
-2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3\>\>. (Zauważ, że pierwszy interwał to septyma zmniejszona, nie mała).
-3. Oblicz interwały pitagorejskie pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e">
+1. Znajdź FJS-owe interwały odpowiadające wymienionym ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
+2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3\>\>. (Pierwszy interwał to septyma zmniejszona, nie mała).
+3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e">
 4. Zapisz tę skalę w FJS-ie, przyjmując za tonikę *d*: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2\>\>.
-6. (Trudne!). Pewien wyjątkowo mały interwał w stroju pitagorejskim, o wielkości tylko ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
+6. (Trudne!). Pewien wyjątkowo wąski interwał w stroju pitagorejskim, mierzący ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
 ## <a name="lesson_2">Lekcja 2: Interwały pierwsze</a>
 
-A więc umiesz zapisać wszystko, co pitagorejskie. To na razie całkiem nudna umiejętność, ponieważ strój pitagorejski wcale nie odbiega tak daleko od 12-EDO (oprócz tego, że jego sekunda zmniejszona nie równa się prymie czystej). Przede wszystkim nie daje nam to jeszcze możliwości zapisania każdego JI-owego stroju.
+A więc umiesz zapisać wszystko, co pitagorejskie. To całkiem nudna zdolność, ponieważ strój pitagorejski wcale nie odbiega tak daleko od 12-EDO (oprócz tego, że jego sekunda zmniejszona nie równa się prymie czystej). Przede wszystkim nie daje nam to jeszcze możliwości zapisania każdego JI-owego stroju.
 
-Następnym krokiem przybliżającym nas do naturalnego oświecenia jest omówienie tzw. interwałów pierwszych. Są to interwały występujące w szeregach alikwotowych oparte na liczbach pierwszych. By je wynaleźć, wypisz kilka liczb pierwszych:
+Następnym krokiem przybliżającym nas do naturalnego oświecenia jest omówienie tzw. interwałów pierwszych. Są to interwały występujące w szeregach alikwotowych oparte na liczbach pierwszych. By znaleźć ich wartości, wypisz kilka liczb pierwszych:
 
 > 2, 3, 5, 7, 11, 13, 17, 19, …
 
@@ -148,13 +148,13 @@ Następnie zredukuj je:
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
-Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Co więcej, jeżeli w dalszej części tego kursu odniosę się do „interwałów pierwszych”, to będę miał na myśli tylko te, które odpowiadają liczbom pierwszym większym od 3.
+Już wiemy, jak zapisać te dwa pierwsze ułamki – to odpowiednio oktawa i kwinta. Te już porządnie omówiliśmy. Jeżeli więc w dalszej części tego kursu wspomnę o „interwałach pierwszych”, nie będę miał na myśli tych dwóch.
 
-Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj septymy małej). Prawdopodobnie te określenia nie wydały Ci się na początku obce. Przecież brzmią one jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie interwały, które są bliskie tych nam znanych.
+Jeżeli zetknąłeś się kiedyś z JI, poznasz w 5/4 „naturalną tercję wielką”, a w 7/4 „harmoniczną septymę” (rodzaj płaskiej septymy małej). Prawdopodobnie te określenia nie wydały Ci się obce. Przecież brzmią jak rozszerzenia pojęć „tercji wielkiej” i „septymy małej”, zamykające w sobie grupę wystarczająco bliskich sobie interwałów.
 
-Ale jeżeli popatrzymy na to z technicznego punktu widzenia, zaczyna robić się dziwnie.
+Ale jeżeli rozważymy to z technicznego punktu widzenia, zaczyna robić się dziwnie.
 
-Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale dlaczego taki wybór może nie pasować? Otóż interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż tercja wielka. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
+Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją jako tercję wielką, ale *z towarzyszącym symbolem sygnalizującym tę różnicę*. Od pitagorejskiej tercji wielkiej – 81/64 – 5/4 różni się tylko o 81/80, czyli ok. 22¢. Dobrze, ale przecież jest lepsze przybliżenie: interwał pitagorejskiej kwarty zmniejszonej – 8192/6561 – jest *jeszcze* bliżej 5/4 niż tercja wielka. Różnicą między 8192/6561 a 5/4 jest tylko 32805/32768, czyli jedynie 2¢!
 
 Posłuchaj, jak różnią się 81/64 i 5/4:
 
@@ -164,28 +164,28 @@ A teraz 8192/6561 i 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej dla 5/4? Prostota, mówisz. Tercja wielka to tylko +4 kwinty, a kwarta zmniejszona to przerażające −8 kwint. Ale w takim razie dlaczego nie posłużylibyśmy się tercją *małą* dla 5/4? Przecież jest ona jeszcze prostsza – −3 kwinty, w porównaniu do +4. Ach, to teraz jest znowu za daleko? Za kogo *ty* się uważasz, by decydować, kiedy stawiać na prostotę, a kiedy na wierność przybliżenia?
+Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej dla 5/4? Twierdzisz pewnie, że prostota jest ważniejsza. Tercja wielka to tylko +4 kwinty, a kwarta zmniejszona to przerażające −8 kwint. Ale w takim razie dlaczego nie posłużylibyśmy się tercją *małą* dla 5/4? Przecież jest jeszcze prostsza – −3 kwinty, w porównaniu do +4. A, to teraz za daleko? Skąd myślisz, że wiesz dokładnie, kiedy stawiać na prostotę, a kiedy na wierność przybliżenia?
 
-Spokojnie, to był paszkwil. Parodiowałem konkurencyjne systemy JI, które wybierają sobie te przybliżenia wedle własnego uznania. FJS na pytanie „Jakie przybliżenia powinienem wybrać dla każdego interwału pierwszego?” odpowiada: w ogóle. Zamiast tego używamy uzgodnionej wcześniej stałej, nazywanej **promieniem tolerancji**, do tego celu. Po dłuższym eksperymentowaniu z różnymi promieniami tolerancji i rozważaniu ich zalet i wad, doszedłem do wniosku, że w standardowym FJS-ie będziemy używać *λ*, zdefiniowanej następująco:
+Nie musisz się usprawiedliwiać – to była parodia konkurencyjnych systemów JI, które wybierają sobie te przybliżenia wedle własnego kaprysu. FJS na pytanie „Jakie przybliżenia powinienem wybierać dla interwałów pierwszych?” odpowiada: w ogóle. Zamiast tego używamy uzgodnionej wcześniej stałej, nazywanej **promieniem tolerancji**, do tego celu. Po dłuższym eksperymentowaniu z różnymi promieniami tolerancji i rozpatrywaniu ich zalet i wad, doszedłem do wniosku, że w standardowym FJS-ie będziemy używać *λ*, o następującej wartości:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
-Dlaczego taka wartość, wyjaśnię później.
+Jeszcze wyjaśnię, dlaczego.
 
-Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych szczegółów FJS-u – to szczegół, który wyróżnia FJS spośród wachlarza systemów JI. Chodzi o **główny algorytm FJS**. Oto i on, w postaci zrozumiałej dla człowieka. Na tej stronie znajdują się implementacje programistyczne, a także zdatny do użycia kalkulator. 
+Do czego będziemy wykorzystywać *λ*? Co następuje, jest jednym z najważniejszych szczegółów FJS-u, który wyróżnia FJS spośród szerokiego wyboru systemów JI. Chodzi o **główny algorytm FJS**. Tu przedstawiam go w postaci zrozumiałej dla człowieka. (Na tej stronie znajdują się implementacje programistyczne, a także zdatny do użycia kalkulator). 
 
-**Główny algorytm FJS** wylicza tzw. **przeniesienie kwintowe** dla każdej podanej liczby pierwszej i pewnego promienia tolerancji. Poniżej wyjaśniam, co algorytm robi, po co, i do czego potrzebne jest nam wartość przeniesienia.
+**Główny algorytm FJS** wylicza tzw. **przeniesienie kwintowe** dla podanej liczby pierwszej i pewnego promienia tolerancji. Poniżej wyjaśniam, co algorytm robi, po co, i do czego potrzebna jest nam wartość przeniesienia.
 
 > ### Główny algorytm FJS
 > 
-> 1. Dany jest interwał pierwszy, *p*.
+> 1. Dany jest interwał pierwszy *p*.
 > 2. Niech *k* = 0.
-> 3. Rozważ interwał złożony z *k* skoków o pitagorejską kwintę, *P*.
+> 3. Wylicz *P*, czyli interwał złożony z *k* skoków o pitagorejską kwintę.
 > 4. Czy różnica między *p* a *P* jest mniejsza niż promień tolerancji?
 > 5. Jeżeli tak: *k* to przeniesienie. Zwróć *k*. Koniec.
-> 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
+> 6. Jeżeli nie: przejdź do następnego *k* w kolejności z szeregu (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 >
-> **Przykład.** Poniżej: demonstracja działania algorytmu dla 5, przy promieniu tolerancji λ = sqrt(33/31). „Komaty” to testowe wartości komatu, obliczane poprzez podzielenie 5/4 przez testowe przybliżenia „pitagorejskie”.
+> **Przykład.** Poniżej: demonstracja działania algorytmu dla 5, przy promieniu tolerancji *λ* = 54.12…¢. „Komaty” to wartości różnic pomiędzy 5/4 a przybliżeniami „pitagorejskimi”.
 >
 > | Przeniesienie | Pitagorejskie |   Komat   |                     Wnioski   |
 > |--------------:|:-------------:|:---------:|------------------------------:|
@@ -198,15 +198,15 @@ Co robimy z tą liczbą? To, co teraz nastąpi, jest jednym z najważniejszych s
 > |          −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; kontynuujemy. |
 > |        **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; kończymy.     |
 
-Tutaj znajdziesz [wizualizację](https://youtu.be/jG7lj98Yy-0).
+Dostępna jest również [wizualizacja](https://youtu.be/jG7lj98Yy-0).
 
-Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić w myślach, oprócz kroku 4, który opierając się na całkiem trudnych do wykonania w głowie obliczeniach, wymagałby zdolności szybkiego przybliżania wielkości wielu interwałów w pamięci – centami lub wyobraźnią.
+Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić bez użycia ołówka i kartki – oprócz kroku 4, który wymaga zdolności szybkiego przybliżania wielkości interwałów w pamięci – centami lub wyobraźnią.
 
 W kroku 4 dobierasz tak oktawy *p* i *P*, żeby zminimalizować „różnicę”, czyli rozmiar testowej wartości komatu (**wartość bezwzględna** jego rozmiaru w centach). Tylko w tym kroku np. 16/15 i 15/16 się nie różnią. Jak mowa o różnicy, formalnie chodzi o $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
 Chociaż algorytm może wyglądać na mozolny, liczy się go bardzo szybko, także w głowie. 5/4 na pewno jest za daleko od oktawy, kwinty, kwarty, sekundy wielkiej, septymy małej, i seksty wielkiej. Wątpliwość jest tylko przy tercji małej. Jeśli odpada ona, to będzie to tercja wielka.
 
-Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie podanego interwału pierwszego, które jest mniej daleko od tego pożądanego interwału niż o promień tolerancji. Różnicą pomiędzy nimi dwoma nazywamy **komatem formalnym** i zapisujemy go nową FJS-ową alteracją. W ten sposób liczy się komat formalny:
+Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie danego interwału pierwszego, bliższe niż o promień tolerancji. Różnicę nazywamy **komatem formalnym** i zapisujemy go nową FJS-ową alteracją. W ten sposób liczy się komat formalny:
 
 > ### Komat formalny
 > 
@@ -214,18 +214,18 @@ Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-Można by też pójść od drugiej strony: wyznaczyć przeniesienie dla danej liczby pierwszej, znając przydzielony jej komat formalny, nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (To się może kiedyś przydać, ale na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie przeniesieniem. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, przeniesieniem dla 7 musi być też −2.
+Można by też podejść od drugiej strony: wyznaczyć przeniesienie dla danej liczby pierwszej, znając przydzielony jej komat formalny. To nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (Na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie przeniesieniem. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, przeniesieniem dla 7 jest właśnie −2.
 
 Tak, jak krzyżyk i bemol, alteracja o taki komat formalny może być dodania lub ujemna. Znak dla tej alteracji to sama liczba pierwsza, dla której komat formalny zbudowano; dokładne nazewnictwo zależy od tego, czy nuty nazywamy czy zapisujemy na pięciolinii:
 
 - Nuty nazywamy, zapisując dodatnie alteracje w indeksie górnym, a ujemne – w dolnym.
-- Nuty zapisujemy, dodając same liczby pierwsze dla dodatnich alteracji, a dla ujemnych – te liczby pierwsze, ale poprzedzone minusem.
+- Nuty zapisujemy, dopisując liczby pierwsze – dla ujemnych alteracji poprzedzone minusem.
 
-Może zauważyłeś, że użyłem tu słów „dodatni” i „ujemny” zamiast „w górę” i „w dół” – to dlatego, że FJS-owe alteracje dodatnie wcale nie zawsze przenoszą w górę, ani ujemne zawsze w dół; zamiast tego **dodatniość zawsze odpowiada otonalności, a ujemność utonalności**. To oznacza – co jest bardzo ważne – że *FJS-owa alteracja, gdy dodatnia, jest zawsze w kierunku, w którym przybliżenie pitagorejskie staje się interwałem docelowym*. Na przykład by zapisać dźwięk o 5/4 od *c*, najpierw zapisujemy pitagorejskie przybliżenie *e* (81/64), a potem przenosimy je do 5/4 poprzez dodanie <sup>5</sup>. Ta zmiana *obniża* o 81/80 – z *e* do *e*<sup>5</sup>.
+Może zauważyłeś, że użyłem tu wyrażeń „dodatni” i „ujemny” zamiast „w górę” i „w dół” – to dlatego, że FJS-owe alteracje dodatnie wcale nie zawsze przenoszą w górę, ani ujemne zawsze w dół; zamiast tego **dodatniość zawsze odpowiada otonalności, a ujemność utonalności**. Co ważne, *dodatnie FJS-owe alteracje zawsze przenoszą w tym kierunku, w którym przenosi się z przybliżenia pitagorejskiego do interwału pierwszego*. Na przykład by zapisać dźwięk o 5/4 od *c*, najpierw zapisujemy pitagorejskie przybliżenie *e* (81/64), a potem przenosimy je do 5/4 poprzez dodanie „<sup>5</sup>”. Ta zmiana *obniża* o 81/80 – z *e* do *e*<sup>5</sup>.
 
-Ci, którzy znają zapis naturalny Bena Johnstona, zauważą podobieństwa. Dla całej reszty:
+Ci, którzy znają zapis naturalny Bena Johnstona, zauważą podobieństwo. Dla całej reszty:
 
-Na pierwszy rzut oka taka decyzja może się wydawać niepotrzebnie myląca, ale ona tak naprawdę upraszcza system. Dodatnia alteracja – na przykład +17 – zawsze oznacza dodanie czynnika pierwszego (tu 17) do licznika ułamka, a więc jeżeli wiesz, jaki pitagorejski interwał jest bliski 17/16 (podpowiedź: to 2>), będziesz wiedzieć i to, że 17/16 to po prostu 2> z doczepioną +17. Nie musisz wiedzieć, czy przybliżenie jest wyżej czy niżej od docelowego interwału. Ta reguła, przenosząca ciężar naszej uwagi na utonalność i otonalność zamiast na kierunek alteracji, upraszcza zapisy różnych skal i strojów i czyni je bardziej intuicyjnymi. Tak naprawdę +5 przedstawia skok o 80/81, nie 81/80. Jeżeli przyjrzysz się liście komatów formalnych dla kolejnych liczb pierwszych, zauważysz, że każdy komat formalny będzie zawierał odpowiedni czynnik pierwszy w liczniku. To stąd pochodzi również nazwa systemu: **Funkcyjny** System Naturalny, czyli taki, który przywiązuje wagę do *funkcji* (zastosowania) bardziej niż do pozycji wysokości.
+Taka decyzja może się wydawać myląca. Jednak przekonam cię, że służy prostocie systemu. Dodatnia alteracja – na przykład +17 – zawsze oznacza dodanie czynnika pierwszego (tu 17) do licznika ułamka, a więc jeżeli wiesz, jaki pitagorejski interwał jest bliski 17/16 (podpowiedź: to 2>), wywnioskujesz, że 17/16 zapiszesz jako po prostu 2> z +17. Nie musisz wiedzieć, czy przybliżenie jest wyżej czy niżej od interwału pierwszego. Ta reguła, operująca na utonalności i otonalności zamiast na kierunkach, upraszcza zapisy różnych skal i strojów i powoduje, że są bardziej intuicyjne. +5 w rzeczywistości przedstawia skok o 80/81, nie 81/80. Jeżeli przyjrzysz się liście komatów formalnych dla kolejnych liczb pierwszych, zauważysz, że każdy komat formalny będzie zawierał odpowiedni czynnik pierwszy w liczniku. To stąd pochodzi również nazwa systemu: **Funkcyjny** System Naturalny, czyli taki, który przywiązuje wagę do *funkcji* (zastosowania) bardziej niż do samych działań na wysokościach.
 
 Posłużę się teraz anegdotą. Gdy badałem prototyp Funkcyjnego Systemu Naturalnego – wtedy, gdy jeszcze nie miał przydzielonej nazwy – na początku wymuszałem, by wszystkie komaty były skierowane w górę – tak, by dodatnio zawsze było do góry, a ujemnie w dół. Pewnego razu rozważałem 5- i 7-limitowe stroje, aż nagle spostrzegłem, że używanie takich zawsze skierowanych w górę komatów tylko komplikuje sprawy, i z miejsca zmieniłem je na zawsze utonalne. Gdy to zrobiłem, w FJS-ie zacząłem myśleć płynniej i prościej, więc tak to zostawiłem. (FJS miał też wiele innych niedogodności, które od tego czasu zdołałem uprościć, odsłaniając niepokomplikowany system, który znamy dzisiaj…).
 
