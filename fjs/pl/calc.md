@@ -30,7 +30,7 @@ Wynik: <br />
        wrongFormat: "Nie rozumiem formatu.",
    wrongIntVariant: "Interwał „%1” i wariant „%2” nie pasują do siebie.",
        wrongFactor: "Alteracje FJS-owe nie mogą zawierać czynników 2 ani 3.",
-     noComputation: "Nie wybrałeś obliczenia – wybierz jedno z listy.",
+     noComputation: "Nie wybrałeś kalkulacji – wybierz jedną z listy.",
           notPrime: "„%1” to nie liczba pierwsza.",
     butPythagorean: "2 i 3 to odpowiednio oktawy i kwinty pitagorejskie – nie przypisuje się im alteracji FJS-owych.",
            notFrac: "Na wejściu nie ma ułamka (tak, jak 5/3 lub 928/777).",
@@ -40,7 +40,7 @@ Wynik: <br />
 
              comma: "Ta kalkulacja znajduje przeniesienie kwintowe i komat formalny (z rozmiarem w centach) dla podanej liczby pierwszej, większej niż 3.",
              tofjs: "Ta kalkulacja wyznacza (jednoznacznie) interwał FJS-owy odpowiadający podanemu ułamkowi. <br>Alteracje FJS-owe nie są przedstawione w postaci wymnożonej. Interwały mniejsze niż pryma czysta są zapisane liczbą ujemną (interwał w dół) – na przykład 5/4 to <code>M3^5</code>, a 4/5 – <code>M-3_5</code>. <br><strong>Uwaga.</strong> Kalkulator używa angielskich nazw interwałów, czyli „m3” to nasze 3&gt;.",
-           fromfjs: "Ta kalkulacja wyznacza (jednoznacznie) ułamek odpowiadający dowolnemu interwałowi FJS-owemu. <br>Początek alteracji otonalnych musisz zasygnalizować znakiem karetki (^), a utonalnych – podkreślnikiem (\_). Poszczególne alteracje możesz zostawić nieprzemnożone ze sobą; możesz też użyć liczby ujemnej na oznaczenie interwału w dół. <br><strong>Uwaga.</strong> Kalkulator używa angielskich nazw interwałów, czyli „m3” to nasze 3&gt;.",
-         setlambda: "Zmień promień tolerancji na dowolną wartość, podaną w postaci rozwinięcia dziesiętnego, pomiędzy 1 a sqrt(2). <br>Wprowadzeni słowa „default” (ang. „domyślny”) przywróci promień do wartości domyślnej λ = pierwiastek z 33/31."
+           fromfjs: "Ta kalkulacja wyznacza (jednoznacznie) ułamek odpowiadający dowolnemu interwałowi FJS-owemu. <br>Początek alteracji otonalnych musisz zasygnalizować znakiem karety (^), a utonalnych – podkreślnikiem (\_). Poszczególne alteracje możesz zostawić nieprzemnożone ze sobą; możesz też użyć liczby ujemnej na oznaczenie interwału w dół. <br><strong>Uwaga.</strong> Kalkulator używa angielskich nazw interwałów, czyli „m3” to nasze 3&gt;.",
+         setlambda: "Zmień promień tolerancji na dowolną wartość, podaną w postaci rozwinięcia dziesiętnego, pomiędzy 1 a sqrt(2). <br>Wprowadzenie słowa „default” (ang. „domyślny”) przywróci promień do wartości domyślnej λ = pierwiastek z 33/31."
   };
 </script>
