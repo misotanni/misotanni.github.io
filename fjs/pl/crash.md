@@ -2,7 +2,7 @@
 
 Zastanawiasz się, co FJS ma Tobie do zaoferowania, i chciałbyś nauczyć się go używać.
 
-Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię się na pewnych udogodnieniach i skrótach, ponieważ nie są one konieczne ani niezbędne. Jeżeli już miałeś kontakt ze strojami naturalnymi, FJS będzie dla Ciebie igraszką – nauczysz się go naraz, w kilka minut, a jego piękno i prostota będą Tobie w zasięgu ręki.
+Ten kurs stworzyłem z myślą o przyswajalności. Nie skupię się na pewnych udogodnieniach i skrótach, ponieważ nie są one konieczne ani niezbędne. Jeżeli już miałeś kontakt ze strojami naturalnymi, FJS będzie dla Ciebie igraszką – nauczysz się go od zaraz, w kilka minut, a jego piękno i prostota będą Tobie w zasięgu ręki.
 
 ## Spis treści
 
@@ -17,7 +17,7 @@ Ten kurs stworzyłem z myślą o przyswajalności istoty systemu. Nie skupię si
 
 ## <a name="introduction">Wprowadzenie: Koniec z enharmonią</a>
 
-Wszyscy jesteśmy zaznajomieni z zapisem nutowym i występującymi w nim znakami chromatycznymi. Możesz jednak nie być świadomy, że notacji tej uczymy się w wersji przystosowanej do wszechobecnej dwunastostopniowej temperacji równomiernej, w której na co dzień myślimy. (Od teraz będziemy nazywać ją skrótem 12-EDO, z angielskiego „12 equal divisions of the octave”, czyli „równomierny podział oktawy na dwanaście”).
+Wszyscy jesteśmy zaznajomieni z zapisem nutowym i występującymi w nim znakami chromatycznymi. Możesz jednak nie być świadomy, że notacji tej uczymy się w wersji przystosowanej do wszechobecnej dwunastostopniowej temperacji równomiernej, w której na co dzień myślimy. (Od teraz będziemy nazywać ją skrótem 12-EDO, z angielskiego „12 Equal Divisions of the Octave”, czyli „równomierny podział oktawy na dwanaście”).
 
 Oto na przykład skala dodekafoniczna w 12-EDO:
 
@@ -27,42 +27,42 @@ Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
 <img src="../assets/example_2.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–b–h–c">
 
-Oczywiście zamiana *ais* na *b* w tym miejscu nie robi nam różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one sobie mimo wszystko synonimami.
+Oczywiście zamiana *ais* na *b* w tym miejscu nie robi naszym uszom różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one mimo wszystko swoimi synonimami.
 
-Tę własność – przyrównanie sekundy zmniejszonej do prymy czystej – nadano nazwę równoważności enharmonicznej. Co więcej muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologią – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. Inne albo nie mają żadnej enharmonii, albo interwał inny niż sekunda zmniejszona jest zredukowany do zera. (Dla kontrastu, 19-EDO-owa pryma czysta jest równa sekundzie *podwójnie* zmniejszonej, czyniąc *eis* i *fes* tymi samymi wysokościami).
+Tej własności – przyrównanie sekundy zmniejszonej do prymy czystej – nadano nazwę wymiany enharmonicznej. Co więcej, muzycy, którzy nie zetknęli się z niekonwencyjnymi strojami albo nie są ich świadomi, mogą nie pojmować, że własność ta nie jest tautologiczna – wręcz przeciwnie, 12-EDO to jeden z *niewielu* strojów, które ją posiadają. Inne albo nie mają żadnej enharmonii, albo interwałem pustym jest coś innego, niż sekunda zmniejszona. (Dla kontrastu, pryma czysta w 19-EDO jest równoważna sekundzie *podwójnie* zmniejszonej, czyniąc *eis* i *fes* tymi samymi wysokościami).
 
-Mimo tego nie zapominajmy, że historia zapisu nutowego sięga dalej niż sam pomysł 12-EDO – o jednomyślnym przyjęciu nie wspominając – poprzedzając go o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, którą tworzono przez serię kwint (*f*–*c*–*g*–*d*–*a*–*e*–*h*). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że jego pochodzenie opiera się na czymś zupełnie odmiennym od 12-EDO.
+Mimo tego nie zapominajmy, że historia zapisu nutowego wyprzedza sam pomysł 12-EDO – o ogólnoświatowym dopuszczeniu nie wspominając – o kilka wieków. Notacja neumatyczna opierała się na skali diatonicznej, tworzonej serią kwint (*f*–*c*–*g*–*d*–*a*–*e*–*h*). Właściwie sam fakt, że w zapisie nutowym istnieje więcej niż jeden sposób nazwania tej samej wysokości 12-EDO, sugeruje, że pochodzi od czegoś zupełnie odmiennego od 12-EDO.
 
-Innymi słowy równoważność enharmoniczna to jedyna 12-EDO-owa własność, która daje o sobie znać w zapisie nutowym – cała reszta jest niezależna.
+Innymi słowy równoważność enharmoniczna to jedyna 12-EDO-owa własność, która daje o sobie znać w zapisie nutowym – cała reszta jest niezwiązana.
 
 ## <a name="lesson_0">Lekcja 0: Wiadomości wstępne</a>
 
-Oto krótka lista wiadomości, które musisz rozumieć, żebyś mógł zrozumieć i FJS:
+Oto krótka lista wiadomości, które musisz mieć dobrze przyswojone, żebyś mógł zrozumieć FJS:
 
 - Wiesz, że stroje naturalne to takie, w których każdy interwał jest wymierny.
-- Rozpoznajesz pewne proste JI-owe ułamki, takie jak 2/1, 3/2, 5/4, czy 7/4.
-- Dodajesz interwały przez mnożenie ich wartości, odejmujesz przez dzielenie, a odwracasz, biorąc odwrotność multyplikatywną (*x* → 1/*x*).
-- Potrafisz wyliczyć wielkość danego interwału w centach; wiesz, że 100¢ to półton 12-EDO, a 1200¢ to oktawa czysta; umiesz, by to zrobić, posłużyć się jednym z tych wzorów:
+- Rozpoznajesz pewne proste JI-owe ułamki, takie jak 2/1, 3/2, 5/4 czy 7/4.
+- Interwały potrafisz dodawać poprzez mnożenie ich wartości, odejmować poprzez dzielenie i odwracać poprzez znajdowanie odwrotności multyplikatywną (*x* → 1/*x*).
+- Potrafisz wyliczyć wielkość danego interwału w centach; wiesz, że 100¢ to półton 12-EDO, a 1200¢ to oktawa czysta; umiesz posłużyć się w tym celu choć jednym z tych wzorów:
 	
 	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , dla dowolnej wspólnej podstawy log}$$
 	
 	$$\text{C}(d)=\log_c d \text{ , }c=\sqrt[1200]{2}$$
 	
-Do tego będziesz potrzebował jeszcze trzech matematycznych umiejętności konkretnych dla FJS-u.
+Do tego będziesz potrzebował jeszcze trzech matematycznych umiejętności specjalnie do FJS-u.
 
-Pierwszą z nich jest zdolność szybkiej zamiany między **interwałami na pięciolinii** (bez podmian enharmonicznych) a **liczbą kwint** potrzebną do zbudowania tego interwału – i vice versa. Na przykład **sekunda wielka** to **+2** kwinty, ponieważ by dosięgnąć tego interwału, potrzebujemy zrobić dwa skoki kwintowe w górę: *c*–*g*–*d*. Podobnie, **tercja mała** to **−3** kwinty, gdyż można ją skonstruować trzema kwartami – czyli odwrotnościami kwint: *c*–*f*–*b*–*es*. Każdemu interwałowi pięcioliniowemu odpowiada dokładnie jedna taka liczba. Powinieneś umieć dokonywać tej konwersji i w tę, i we w tę – najlepiej szybko.
+Pierwszą z nich jest zdolność szybkiej zamiany między **interwałami na pięciolinii** (bez wymian enharmonicznych) a **liczbą kwint** potrzebną do zbudowania tego interwału – i vice versa. Na przykład **sekunda wielka** to **+2** kwinty, ponieważ by dosięgnąć tego interwału, potrzebujemy zrobić dwa skoki kwintowe w górę: *c*–*g*–*d*. Podobnie, **tercja mała** to **−3** kwinty, gdyż można ją skonstruować trzema kwartami (kwarta to odwrotność kwinty): *c*–*f*–*b*–*es*. Każdemu interwałowi pięcioliniowemu odpowiada dokładnie jedna taka liczba. Powinieneś wyćwiczyć konwersję i w tę, i we w tę – najlepiej szybko.
 
-Drugą z nich jest rozkładanie liczb wymiernych na czynniki pierwsze. Tak, jak każda **dodatnia liczba naturalna** daje się przedstawić jako iloczyn liczb pierwszych podniesionych do **naturalnych** wykładników (jak głosi zasadnicze twierdzenie arytmetyki), każdą **dodatnią liczbę wymierną** można jednoznacznie rozłożyć na iloczyn liczb pierwszych podniesionych do **całkowitych** potęg. (Zwykłem żartobliwie nazywać ten fakt „zasadniczym twierdzeniem harmonii”). Na przykład 6/5 przedstawilibyśmy jako 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup>. Nie istnieje żadna inna taka reprezentacja. (W tym intensywnym kursie pominiemy szczegóły matematyczne, ale zainteresowani mogą posłużyć się [tą stroną](math.html). Jeżeli w tym kursie założona jest prawdziwość jakiejś matematycznej własności, prawdopodobnie właśnie tam znajdziesz jej dowód).
+Drugą z nich jest rozkładanie liczb wymiernych na czynniki pierwsze. Tak, jak każda **dodatnia liczba naturalna** daje się przedstawić jako iloczyn liczb pierwszych podniesionych do **naturalnych** wykładników na dokładnie jeden sposób (jak głosi zasadnicze twierdzenie arytmetyki), każdą **dodatnią liczbę wymierną** można jednoznacznie rozłożyć na iloczyn liczb pierwszych podniesionych do **całkowitych** potęg. (Zwykłem żartobliwie nazywać ten fakt „zasadniczym twierdzeniem harmonii” – dlaczego tak, jeszcze zrozumiesz). Na przykład 6/5 przedstawilibyśmy jako 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup>. Nie istnieje żadna inna możliwość. (W tym intensywnym kursie pominiemy szczegóły matematyczne, ale zainteresowani mogą posłużyć się [tą stroną](math.html). Jeżeli w tym kursie założona jest prawdziwość jakiejś matematycznej własności, prawdopodobnie właśnie tam znajdziesz jej dowód).
 
-Trzecią z nich jest redukowanie interwałów. Opiera się ono na mnożeniu czy dzieleniu liczby przez 2, dopóki nie uzyskamy czegoś nie mniejszego od 1, a mniejszego od 2 (czyli interwału mieszczącego się w oktawie). (To odzwierciedla nasze postrzeganie interwałów różniących się o oktawę (2/1) jako równe). Na przykład 7/1 staje się 7/4, a 1/6 – 4/3. Zredukowaną postać interwału można uzyskać za pomocą następującego wzoru:
+Trzecią z nich jest redukowanie interwałów. Opiera się ono na mnożeniu czy dzieleniu liczby przez 2 aż do otrzymania czegoś niemniejszego od 1, a mniejszego od 2 (innymi słowy, interwału mieszczącego się w oktawie). To odzwierciedla nasze postrzeganie interwałów różniących się o oktawę (2/1) jako równe. Na przykład 7/1 staje się 7/4, a 1/6 – 4/3. Zredukowaną postać interwału można uzyskać za pomocą następującego wzoru:
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
-Stosuje się także zrównoważoną redukcję, w tym przypadku wynik jest nie mniejszy od $$\frac{1}{\sqrt{2}}$$, a mniejszy od $$\sqrt{2}$$. Definiuje się ją za pomocą zwykłej redukcji:
+Będziemy też korzystać ze „zrównoważonej redukcji”, która ogranicza swój argument do przedziału $$\[\frac{1}{\sqrt{2}}, \sqrt{2})$$. Definiuje się ją za pomocą zwykłej redukcji:
 
 $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
-Albo – łatwiej w głowie:
+Albo – łatwiej dla głowy:
 
 $$\text{reb}(d)=\text{red}(d) \text{ , } \text{red}(d) < \sqrt{2}$$
 
@@ -72,23 +72,23 @@ To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
 ## <a name="lesson_1">Lekcja 1: Strój pitagorejski</a>
 
-Pewnie myślisz, że gdy pozbyliśmy się z pięciolinii równoważności enharmonicznej, możemy teraz zanotować o wiele szerszą paletę wysokości – i myślisz słusznie. Jednak zabieg lobotomii enharmonicznej sam w sobie nie spowoduje, że będzie można przedstawić każdy strój naturalny w logiczny sposób. Jedną z zalet strojów naturalnych jest możliwość zakodowania drobnych różnic w wysokościach dźwięków, by nadać poszczególnym interwałom unikatowe brzmienie.
+Pewnie myślisz, że gdy pozbyliśmy się równoważności enharmonicznej z pięciolinii, możemy teraz zanotować o wiele szerszą paletę wysokości – i myślisz słusznie. Jednak sama lobotomia enharmoniczna nie spowoduje, że będzie można przedstawić każdy strój naturalny w logiczny sposób. Jedną z zalet strojów naturalnych jest możliwość zakodowania drobnych różnic w wysokościach dźwięków, nadając poszczególnym interwałom unikatowe niuanse brzmieniowe.
 
-Rozważmy następujące naturalne interwały: 11/10, 10/9, 9/8 i 8/7. Posłuchaj, jak brzmią:
+Oto kilka naturalnych interwałów: 11/10, 10/9, 9/8 i 8/7. Posłuchaj, jak brzmią:
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-Wszystkie cztery dają się usłyszeć jako „jakieś” sekundy wielkie, ale błędem byłoby zapisać każdy z nich tą samą sekundą wielką. To daleko różniące się od siebie interwały, a zduszanie różnorodności tam, gdzie ona stanowi wyróżniającą cechę, zaprzecza założeniom JI.
+Wszystkie cztery słyszymy jako „jakieś” sekundy wielkie, ale błędem byłoby zapisać każdy z nich tym samym interwałem sekundy wielkiej. To szeroko różniące się od siebie interwały, a przyduszanie różnorodności tam, gdzie wyróżnia, zaprzecza ideom przewodnim JI.
 
-W takim razie może ci się zdawać, że istnieje jakiś rodzaj kompromisu – podzbiór JI dający się przedstawić na pięciolinii pozbawionej wymian enharmonicznych bez przekręceń. I i tym razem miałbyś rację. Tym kompromisem jest nic innego niż tzw. 3-limit (strój oparty na liczbach rozkładających się na liczby pierwsze nie większe niż 3), czyli strój pitagorejski.
+W takim razie może istnieje jakiś kompromis – podzbiór JI dający się przedstawić na pięciolinii, pozbawionej wymian enharmonicznych, bez niedokładności? Właśnie tak: tym kompromisem jest nic innego niż tzw. 3-limit (strój o ułamkach o czynnikach pierwszych nie większych niż 3), czyli strój pitagorejski.
 
-To oznacza, że oktawie pięcioliniowej przypisujemy interwał 2/1 – dokładnie taki sam, jak w 12-EDO – a kwincie przypisujemy 3/2. W ten sposób każdemu interwałowi przypisaliśmy dokładnie jeden 3-limitowy interwał – jest to bijekcja (odwzorowanie wzajemnie jednoznaczne).
+To oznacza, że oktawie pięcioliniowej przypisujemy interwał 2/1 – oktawa, tak, jak w 12-EDO – a kwincie przypisujemy 3/2. W ten sposób każdemu interwałowi przypisaliśmy dokładnie jeden 3-limitowy interwał – to bijekcja (odwzorowanie wzajemnie jednoznaczne).
 
-To właśnie taką metodą *definiujemy* diatoniczne wysokości: *f*, *c*, *g*, *d*, *a*, *e* i *h* zostały tak dostrojone, by *f*–*c* = 3/2, *c*–*g* = 3/2 itd. Zauważ, że w ten sposób *h*–*f* będzie wynosić 1024/729 – interwał bliski 3/2, ale mniejszy. Dorzucamy więc krzyżyk lub bemol, którego wartość kalibruje tę różnicę: *h*–*fis* = *b*–*f* = 3/2. W dalszej części kursu spostrzeżesz, że FJS poszerza zakres działania tego schematu – kalibrowania różnic alteracjami.
+To właśnie tak *definiujemy* diatoniczne wysokości: *f*, *c*, *g*, *d*, *a*, *e* i *h* ustalamy tak, by *f*–*c* = 3/2, *c*–*g* = 3/2 itd. Zauważ, że w ten sposób *h*–*f* będzie wynosić 1024/729 – trochę mniej od 3/2. Dopisujemy więc krzyżyk lub bemol, którego wartość kalibruje tę różnicę: *h*–*fis* = *b*–*f* = 3/2. W dalszej części kursu spostrzeżesz, że FJS kalibruje nie tylko takie różnice znakami chromatycznymi.
 
-Nie omieszkam wspomnieć, że taki system wymaga czegoś, czego niektórzy muzycy mogą nie być świadomi: konieczności występowania w niektórych miejscach więcej niż dwóch naraz znaków chromatycznych. Choć rzadko stosuje się potrójnych alteracji w muzyce klasycznej, potrzebujemy ich, by pozwolić szeregowi kwint ciągnąć się w nieskończoność w obie strony. FJS zezwala na dowolną ilość krzyżyków i bemoli. Nie chcę przez to powiedzieć, że jest to częsta konieczność – po prostu nie spanikuj, kiedy spotkasz się z sytuacją, w której będziesz musiał wielokrotnych alteracji użyć.
+Warto wspomnieć, że taki system wymaga czegoś, z czym niektórzy z nas mogli byli się nie spotkać: potrzeby na więcej niż dwa znaki chromatyczne naraz przy jednej nucie. Choć rzadko stosuje się potrójne alteracje w muzyce klasycznej, potrzebujemy ich, by szereg kwint ciągnął się w nieskończoność w obie strony. FJS zezwala na dowolną ilość krzyżyków i bemoli. Nie chcę przez to powiedzieć, że jest to często występująca sytuacja – po prostu nie spanikuj, kiedy się z nią spotkasz.
 
-Czas najwyższy, by nauczyć się pierwszych dwóch technik FJS-owych:
+Czas najwyższy, by dowiedzieć się o pierwszych dwóch FJS-owych technik:
 
 > ### Technika FJS-owa nr 1: Zamiana ułamka pitagorejskiego na FJS.
 > 
