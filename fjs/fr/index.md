@@ -37,7 +37,11 @@ La majorité de la musique contemporaine utilise le **tempérament égal de douz
 
 Il est essentiel que vous ayez déjà une connaissance basique de l'intonation juste (et bien sûr un peu de théorie de la musique) pour pouvoir comprendre et effectivement utiliser le FJS. En général, **plus d'expérience** avec JI signifie **plus d'aisance** avec le FJS.
 
-Pour une connaissance élémentaire de JI, je recommande [Just Intonation Explained](https://www.kylegann.com/tuning.html) écrit par Kyle Gann.
+Pour une connaissance élémentaire de JI:
+
+- [L'intonation juste](https://fr.wikipedia.org/wiki/Intonation_juste) sur Wikipédia.
+- [Just Intonation Explained](https://www.kylegann.com/tuning.html) écrit par Kyle Gann.
+- [The Just Intonation Primer](http://www.dbdoty.com/Words/Primer1.html) écrit par David B. Doty.
 
 ## Le FJS est-il simple ?
 
