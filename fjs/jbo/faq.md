@@ -25,27 +25,36 @@ ni'o zu'u nai lo dunto'aci'e cu so'e roi dunto'aci'e fi lo zelto'aku'e
 .i ji'a lo fatne zo'u lo prane je pluka be lo'e kerlo ca'e be'o sance pe lo cuvyto'aci'e vonto'aku'e ne li ci fi'u re ge'u zi'e noi ke'a jicmu ro lo sizgi'esarxe poi cabna ku'o ki'u lo ni ke'a vajni ku'o cu se toglai lo tolfrinyna'u no'u li ze no pa pi so mu mu no no no bi xa ji'i ge'u zi'e noi lo dunto'aci'e cu tolnolmle stika
 .i to di'u smudu'i lo se du'u lo dunto'aci'e cu mabla kei na .e lo se du'u lo nu jmina tu'a dy lo cuvyto'aci'e manri kei cu rinka lo si'o kalsa toi
 
+ni'o se ki'u bo pe'i lo dunto'aci'e cu na jai nitcu zo'e pe fy jy sy
+.i lo dunto'aci'e be li ny no'u li so'u cu pu'i jai se sinxa lo zgisnici'e poi fadni ku'o se ja'i lo nu lo tonga .e lo togystika cu se cuxna co xamgu
+.i li ny po'u li so'i zo'u .ei finti lo togystika poi cnino
+.i ge li ny po'u li za'u pa no no gi fau lo nu do djica lo ka zifrai zo'u .e'e ko [fukpi](http://musictheory.zentral.zone/huntsystem1.html) lo [drata](http://sagittal.org/)
+.i jo nai do finti lo zgisnici'e poi na'e srana lo fadni
+
+ni'o do pilno pa lo bi'u nai tadji
+.i se ju do ba facki lo du'u da'i fy jy sy na jai sidju do
+.i ja bo do djica lo nu finti lo togyci'e pe la franknctain
+
+## ma se zvati lo liste be lo togyfancylei .e lo togyfancyku'e
+
+ni'o na'i go'i
+.i ko pilno lo [kajytci](calc.html).
+
+## ma mukti lo nu li ci fi'u re lo'o .e nai li mi fi'u vo lo'o mu'a cu jai se xusra
+
+ni'o do zvafa'i so'i spuda bu'u lo [karbi](compare.html) kibystu
+
+## mo la sagitl .e la .y'y bu ciste .e la zilska snici'e pe la kait ge'u .e la sorstika snici'e pe la katerinos ge'u .e lo snici'e poi drata
+
+ni'o si'a .e'e ko lanli lo [karbi](compare.html) kibystu
+
+## ma te zukte ji'u lo nu cumki fa lo nu ca'engau bu'u lo zgipapri tu'a lo tonga
+
+ni'o ie ru'e go'i
+.i ku'i go go'i gi do claxu so'o da
+.i tu'e
+
 fa'o
-
-Deswegen meine ich, dass eine gleichstufige Stimmung kein FJS braucht. Ein *n*-EDO, wo *n* ausreichend klein ist, kann man ohne Probleme in ihrem vollen Potenzial in üblicher Notenschrift aufschreiben, solange die Tonhöhen und Akzidenzien gut definiert sind. Steigt *n* ein bisschen, so definiere ein paar neue Akzidenzien; bei einem *n* von über hundert, oder bei dem Bedarf für absolute Flexibilität, [kannst](http://musictheory.zentral.zone/huntsystem1.html) du von anderen [übernehmen](http://sagittal.org/). Oder du kannst eine ganz neue Notenschrift entwickeln…
-
-Egal welche Methode du benutzt, wirst du erfahren, dass das FJS dir gar nicht helfen würde… Es sei denn, du willst eine Frankenstein-Stimmung konstruieren.
-
-## Wo befindet sich die Tabelle der Verschiebungen und formaler Kommas?
-
-So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
-
-## Wieso ist nur 3/2 ein vorausgesetztes Intervall, nicht z.B. 5/4?
-
-Dazu erfahrst du vieles auf [dieser](compare.html) Seite.
-
-## Was mit (Sagittal / dem H-System / Kites Farbennotation / Catherinos polychromatische Notation / \[noch ein alternatives Notationssystem\])?
-
-Sehe dir dazu wieder den [Vergleich](compare.html) an.
-
-## Warum überhaupt, wenn ich die Tonhöhen am Anfang der Partitur definieren kann?
-
-Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
 
 - die Fähigkeit, zu jeder möglichen Tonart zu modulieren, wie du willst, ohne verwickelte Neudefinitionen oder unhandliche Anmerkungen;
 - die Eigenschaft des FJS, dass mit sehr wenigen zusätzlichen Notationselementen die *ganze* Naturtonstimmung mit dem gleichen System funktioniert, was dir eine Intuition und gründliches Verständnis der Fähigkeiten und Abkürzungen ermöglicht;
@@ -54,11 +63,13 @@ Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
 - das Denken innerhalb des Systems selbst – bei anderen Notationssystemen verwandelt man Verhältnisse in Noten nur dazu, um die Musik darzustellen, das ganze Denken aber findet außerhalb dieser Noten statt, im FJS dagegen kannst du in den Noten denken, was viel einfacher und schneller ist – als würdest du zwei Binärzahlen direkt addieren, ohne die Umrechnung in die Basis zehn und dann wieder zurück;
 - schnelles Blattspiel, mit verschiedenen Partituren.
 
+tu'u
+
 Wenn du keinen Wert darauf legst, dann ist das FJS vielleicht nicht die richtige Wahl für dich. Ich empfehle, ihm trotzdem eine Chance zu geben.
 
-## Was ist mit dieser „reinen Stimmung“ oder Naturtonstimmung, mit der du dich beschäftigst? Hat es etwas mit dem New-Age-Glauben zu tun?
+## la bi'u nai cuvyto'aci'e noi za'e curve tonga ciste zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
 
-Nein.
+ni'o ie nai cai na go'i
 
 Die reine Stimmung ist eine Mathematik, und eine Theorie von Frequenzen, die auf wissenschaftlich bekannten Eigenschaften des Klangs basiert. Sie ist auch eine Musikform, die diese Mathematik als Basis ihres tonalen Wortschatzes benutzt, anstatt die Oktave zu zerteilen oder was sonst. Das FJS ist dabei ein formales System des einfachen Verständnisses dieser Mathematik, die JI bietet.
 
