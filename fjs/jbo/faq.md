@@ -38,7 +38,7 @@ ni'o do pilno pa lo bi'u nai tadji
 ## ma se zvati lo liste be lo togyfancylei .e lo togyfancyku'e
 
 ni'o na'i go'i
-.i ko pilno lo [kajytci](calc.html).
+.i ko pilno lo [kajytci](calc.html)
 
 ## ma mukti lo nu li ci fi'u re lo'o .e nai li mi fi'u vo lo'o mu'a cu jai se xusra
 
