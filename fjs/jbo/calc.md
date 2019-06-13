@@ -36,7 +36,7 @@
            notFrac: ".i lo se pruce cu na'e frinu .i mu'a li mu fi'u ci",
               div0: ".i mabla .i'o nai fa lo nu dilcu fi li no",
            notReal: ".i zo'oi %1 na'e saclu lo mrena'u",
-         radiusSet: ".i li %1 ca crulai",
+         radiusSet: ".i ca crulai fa li %1",
 
              comma: ".i kanji fi lo dilcysle poi zmadu li ci ku'o fe ge lo togyfancylei gi lo togyfancyku'e to .e lo toglai be ri toi",
              tofjs: ".i kanji fi lo frinu fe lo pa fy jy sy togyku'e noi srana ri <br>.i la'e di'u zo'u lo fy jy sy togystika cu tolxre .i lo togyku'e poi mleca lo nontogyku'e zo'u pilno lo mecna'u noi sinxa lo togyku'e poi cnita .i mu'a li mu fi'u vo cu se sinxa zoi zoi <code>M3^5</code> zoi .i ku'i li vo fi'u mi zo'u zoi zoi <code>M-3_5</code> zoi <br>.i <strong>.o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a me'o tau my ci cmene lo zmrelto'aku'e",
