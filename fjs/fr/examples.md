@@ -99,8 +99,6 @@ Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint*
 
 Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontré ses accords aussi dans le FJS.
 
-Ici, il y a une [visualisation](https://youtu.be/jG7lj98Yy-0) de l'algorithme principal du FJS.
-
 ## Plus ?
 
 Avez-vous créé quelque chose en utilisant le FJS et voudriez-vous le présenter ici ? Partager-le avec moi par e-mail, et je l'ajouterai ici avec plaisir !

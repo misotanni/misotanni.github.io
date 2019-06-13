@@ -198,8 +198,6 @@ Do czego będziemy wykorzystywać *λ*? Co następuje, jest jednym z najważniej
 > |          −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; kontynuujemy. |
 > |        **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; kończymy.     |
 
-Dostępna jest również [wizualizacja](https://youtu.be/jG7lj98Yy-0).
-
 Jak widzisz, sam algorytm jest na tyle prosty, że mógłbyś go przeprowadzić bez użycia ołówka i kartki – oprócz kroku 4, który wymaga zdolności szybkiego przybliżania wielkości interwałów w pamięci – centami lub wyobraźnią.
 
 W kroku 4 dobierasz tak oktawy *p* i *P*, żeby zminimalizować „różnicę”, czyli rozmiar testowej wartości komatu (**wartość bezwzględna** jego rozmiaru w centach). Tylko w tym kroku np. 16/15 i 15/16 się nie różnią. Jak mowa o różnicy, formalnie chodzi o $$\text{reb}\left( \frac{p}{3^k} \right)$$.

@@ -199,8 +199,6 @@ Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede
 > |         −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
 > |       **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
 
-Hier findest du eine [Visualisierung](https://youtu.be/jG7lj98Yy-0).
-
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
 Im 4. Schritt wählen wir die Oktaven von *p* und *P* so, dass die „Differenz“ minimal ist: wir meinen dabei die absolute Größe des Kandidaten für das formale Komma, also den **Betrag** seiner Cent-Größe. Hier, und nur hier, sind z.B. 16/15 und 15/16 gleichwertig. Formal bedeutet „Differenz“ hier Folgendes: $$\text{reb}\left( \frac{p}{3^k} \right)$$.

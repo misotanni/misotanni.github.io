@@ -99,8 +99,6 @@ This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric C
 
 This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 7-limit Just Intonation also visualizes its tuning lattices in the FJS.
 
-Here's a [visualization](https://youtu.be/jG7lj98Yy-0) of the FJS master algorithm.
-
 ## More?
 
 Have you created something using the FJS and would like to showcase it here? Share it with me by e-mail and I'd be more than happy to add it to this page!

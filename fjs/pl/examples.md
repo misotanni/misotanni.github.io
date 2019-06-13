@@ -99,8 +99,6 @@ Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* 
 
 Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Minecrafta w stroju naturalnym 7-limitowym, który także przedstawia strój FJS-em.
 
-Tutaj znajduje się [wizualizacja](https://youtu.be/jG7lj98Yy-0) głównego algorytmu FJS.
-
 ## Więcej?
 
 Czy sam stworzyłeś bądź stworzyłaś coś, używając FJS, i chciał(a)byś to umieścić tutaj? Podziel się ze mną mailowo, a z przyjemnością rozszerzę tę stronę!
