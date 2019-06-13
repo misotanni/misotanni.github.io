@@ -39,8 +39,8 @@
          radiusSet: ".i li %1 ca crulai",
 
              comma: ".i kanji fi lo dilcysle poi zmadu li ci ku'o fe ge lo togyfancylei gi lo togyfancyku'e to .e lo toglai be ri toi",
-             tofjs: ".i kanji fi lo frinu fe lo pa fy jy sy togyku'e noi srana ri <br>.i la'e di'u zo'u lo fy jy sy togystika cu tolxre .i lo togyku'e poi mleca lo nontogyku'e zo'u pilno lo mecna'u noi sinxa lo togyku'e poi cnita .i mu'a li mu fi'u vo cu se sinxa zoi zoi <code>M3^5</code> zoi .i ku'i li vo fi'u mi zo'u zoi zoi <code>M-3_5</code> zoi <br>.i <strong>.o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a zoi zoi M3 zoi cmene lo zmrelto'aku'e",
-           fromfjs: ".i kanji fi lo fy jy sy togyku'e fe lo frinu noi srana ri .i bilga lo nu jarco lo du'u ma kau cfari lo galto'a .e lo dzito'a .i .e'a zifre pilji lo togystika gi'e te smuni lo togyku'e poi cnita ku'o lo mecna'u <br>.i <strong>.o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a zoi zoi M3 zoi cmene lo zmarelto'aku'e",
+             tofjs: ".i kanji fi lo frinu fe lo pa fy jy sy togyku'e noi srana ri <br>.i la'e di'u zo'u lo fy jy sy togystika cu tolxre .i lo togyku'e poi mleca lo nontogyku'e zo'u pilno lo mecna'u noi sinxa lo togyku'e poi cnita .i mu'a li mu fi'u vo cu se sinxa zoi zoi <code>M3^5</code> zoi .i ku'i li vo fi'u mi zo'u zoi zoi <code>M-3_5</code> zoi <br>.i <strong>.o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a me'o tau my ci cmene lo zmrelto'aku'e",
+           fromfjs: ".i kanji fi lo fy jy sy togyku'e fe lo frinu noi srana ri .i bilga lo nu jarco lo du'u ma kau cfari lo galto'a .e lo dzito'a .i .e'a zifre pilji lo togystika gi'e te smuni lo togyku'e poi cnita ku'o lo mecna'u <br>.i <strong>.o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a me'o tau my ci cmene lo zmarelto'aku'e",
          setlambda: ".i zifre stika lo crulai lo namcu poi zmadu li pa gi'e mleca li re te'a pi mu sei lo saclu cu se ciska .i ciska zoi gy default gy te zu'e lo nu xruti lo crulai lo fadni no'u li vei ci ci fi'u ci pa ve'o te'a pi mu"
   };
 </script>
