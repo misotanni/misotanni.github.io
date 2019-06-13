@@ -134,7 +134,7 @@ There has been no attempt so far to represent negative or complex numbers in the
 
 ## More Experimental Features (\*)
 
-From this point onwards, the FJS is open source! Make new shorthand features if you feel they are needed. You can make entire FJS dialects with nonstandard radii of tolerance (the calculator has a function for that), using commas for every odd limit rather than just every prime limit, having all positive accidentals be upward and all negatives be downward, or even using a nonstandard master algorithm (e.g. instead of finding the simplest Pythagorean approximation within a radius of tolerance, maybe finding the nearest approximation within a Pythagorean simplicity of tolerance).
+From this point onwards, the FJS is open source! Make new shorthand features if you feel they are needed. You can make entire FJS dialects with nonstandard radii of tolerance (the calculator has a function for that), having all positive accidentals be upward and all negatives be downward, or even using a nonstandard master algorithm (e.g. instead of finding the simplest Pythagorean approximation within a radius of tolerance, maybe finding the nearest approximation within a Pythagorean simplicity of tolerance).
 
 I'm not a stubborn original creator who won't let anyone modify their work if the changes benefit the work. The FJS used to have so many bad features, some of which have gone through last-minute changes or removals. If you think you've made a nice new feature, share it with me by e-mail and I'll be happy to add it here.
 
