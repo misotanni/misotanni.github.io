@@ -52,25 +52,28 @@ ni'o si'a .e'e ko lanli lo [karbi](compare.html) kibystu
 
 ni'o ie ru'e go'i
 .i ku'i go go'i gi do claxu so'o da
-.i tu'e
+.i fy jy sy po'o zo'u tu'e
 
-fa'o
-
-- die Fähigkeit, zu jeder möglichen Tonart zu modulieren, wie du willst, ohne verwickelte Neudefinitionen oder unhandliche Anmerkungen;
-- die Eigenschaft des FJS, dass mit sehr wenigen zusätzlichen Notationselementen die *ganze* Naturtonstimmung mit dem gleichen System funktioniert, was dir eine Intuition und gründliches Verständnis der Fähigkeiten und Abkürzungen ermöglicht;
-- unveränderte Intervallarithmetik – Rechnen mit Intervallen funktioniert immer noch genauso wie üblich, was nicht bei einer zufälligen Zuordnung der Verhältnisse zu Noten der Fall ist;
-- die Fähigkeit, auf einmal zu erkennen, was los ist – falls du weißt, dass eine (große Terz)<sup>5</sup> 5/4 beträgt, weißt du auch, was eine (große Sexte)<sup>5</sup>, (große Sekunde)<sup>5</sup>, (große Septime)<sup>5</sup> und (übermäßige Quarte)<sup>5</sup> sind, nämlich die *Verwandten* von 5/4, und falls du die (kleine Septime)<sup>7</sup> erkennst, erkennst du auch die (reine Quarte)<sup>7</sup>, (kleine Terz)<sup>7</sup> und (kleine Sexte)<sup>7</sup>;
-- das Denken innerhalb des Systems selbst – bei anderen Notationssystemen verwandelt man Verhältnisse in Noten nur dazu, um die Musik darzustellen, das ganze Denken aber findet außerhalb dieser Noten statt, im FJS dagegen kannst du in den Noten denken, was viel einfacher und schneller ist – als würdest du zwei Binärzahlen direkt addieren, ohne die Umrechnung in die Basis zehn und dann wieder zurück;
-- schnelles Blattspiel, mit verschiedenen Partituren.
+- .i ro roi cumki fa lo nu zgipevmuvdu ro ralto'a kei se cau lo nu lo se ca'engau cu cenba kei .e lo nu ciska lo pinka poi clani
+- .i fy jy sy ckaji lo ka ce'u jai tadji lo nu sinxa *ro* lo cuvyto'aci'e se pi'o so'u snika'u poi se jmina .i la'e di'u cu nibli lo du'u jijnu je xamgu bo jimpe tu'a lo selkai .e lo sutpeitadji
+- .i lo su'u togyku'e kancu cu stodi lo ka logji .i ku'i ga nai cunso cuxna lo tonga gi lo javni be lo su'u togyku'e kancu cu spofu
+- .i cumgau lo nu co'i se slabu .i lo nu do djuno lo du'u lo mumgapmaurelto'aku'e cu se nilbra li mu fi'u vo kei kei cu nibli lo nu do ji'a se slabu lo mumgapmumto'aku'e .e lo mumgapypavyto'aku'e .e lo mumgapmaucibyto'aku'e vu'o noi ckini li mu fi'u vo .i ji'a do se slabu lo zelgapxavyto'aku'e na .a zelgapcibyto'aku'e .e bo lo zelgaprelto'aku'e .e bo lo zelgapmecmumto'aku'e
+- .i cumki fa lo nu pensi ci'e fy jy sy .i lo snici'e poi drata zo'u zi'o galfi lo xe boxna lo zgika'usni te zu'e po'o lo nu sinxa lo zgike .i ku'i ro nu pensi cu sarcu lo nu xruti .i fy jy sy zo'u kufra lo ka pensi ci'e lo zgika'usni .i la'e di'u cu zengau lo ka sutra je frili .i la'e de'u panra lo ka kanji lo sumji be lo relna'u se cau lo nu kanji lo dekna'u
+- .i cumgau lo nu tcidu be so'i zgipapri bei pa re'u ku poi sutra
 
 tu'u
 
-Wenn du keinen Wert darauf legst, dann ist das FJS vielleicht nicht die richtige Wahl für dich. Ich empfehle, ihm trotzdem eine Chance zu geben.
+ni'o ga nai do na se vajni la'e di'u gi fy jy sy la'a cu'i na mapti do
+.i ku'i .e'u sai ko troci tu'a ri
 
-## la bi'u nai cuvyto'aci'e noi za'e curve tonga ciste zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
+## la cuvyto'aci'e ku bi'u nai voi za'e curve tonga ciste zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
 
 ni'o ie nai cai na go'i
 
-Die reine Stimmung ist eine Mathematik, und eine Theorie von Frequenzen, die auf wissenschaftlich bekannten Eigenschaften des Klangs basiert. Sie ist auch eine Musikform, die diese Mathematik als Basis ihres tonalen Wortschatzes benutzt, anstatt die Oktave zu zerteilen oder was sonst. Das FJS ist dabei ein formales System des einfachen Verständnisses dieser Mathematik, die JI bietet.
+ni'o lo cuvyto'aci'e cu srana lo cmaci gi'e lo .ente'ori be lo xe boxna be'o poi se jicmu lo selkai be lo sance be'o poi saske te djuno
+.i cy ty cu ji'a klesi lo zgike poi pilno lo bi'u nai cmaci lo jicmu be lo zy tonga gunma bei se ba'i lo nu lo zelto'aku'e cu te dunto'aci'e .a lo drata
+.i fy jy sy cu ma'i la'e di'u ku ciste poi cumgau lo nu frili jimpe fi lo bi'u nai cmaci poi srana cy ty
 
-New Age ist dagegen weder eine Wissenschaft noch eine Theorie. Du solltest eher solche „Wissenschaften“ und „Theorien“ wie [diese](https://attunedvibrations.com/432hz/) alternative Stimmung, „mathematisch in Harmonie mit dem Universum“, recherchieren… Oder vielleicht eher nicht.
+ni'o la cnino cedra ku ku'i jai ke saske na je nai .ente'ori
+.i .e'u ru'e do cilre fi lo za'e saske .e lo za'e .ente'ori vu'o pe mu'u [ti](https://attunedvibrations.com/432hz/) noi nalfadni togyci'e zi'e noi za'e sarxe be lo munje be'o co cmaci
+.i zo'o
