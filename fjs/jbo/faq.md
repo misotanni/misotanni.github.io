@@ -4,19 +4,28 @@
 
 ## xu fy jy sy jai se pi'o sinxa lo dunto'aci'e
 
-.i sa'u na go'i
+ni'o sa'u na go'i
 
-ni'o lo cuvyto'aci'e to .e fy jy sy toi zo'u lacri lo du'u bebna frili fa lo nu frinu kanji
+ni'o zu'u lo cuvyto'aci'e to .e fy jy sy toi zo'u lacri fi lo du'u bebna frili fa lo nu frinu kanji
 .i lo ni djuno fi lo cmaci kei poi sarcu lo nu cilre fi lo cuvyto'aci'e ku'o na zmadu lo me lo mijycu'e moi
 .i claxu lo si'o dugri .e lo si'o fenfa .e lo si'o ba'e salri
 to .i ta'o lo dugri cu se pilno fi lo nu kanji lo toglai be lo togyku'e
 .i la'e di'u se kufra gi'e no'e se pagbu lo ciste toi
+.i so'e da zo'u do kakne lo pu'u menli kanji da
+.i de poi drata zo'u .e'e do lacri lo do kajytci pe lo vo mei ve kanji ge'u lo nu de se kanji
+.i ba'a do tolju'i lo du'u lo bi'u nai kajytci cu ka'e kanji lo se kurtenfa
+
+ni'o zu'u nai lo dunto'aci'e cu so'e roi dunto'aci'e fi lo zelto'aku'e
+.i ku'i .o'i ko na jai te sucta
+.i lo du'u li pa re no no fe'i pa re du li pa no no kei cu simlu lo ka frili dukse
+.i ku'i lo si'o toglai cu minra po'o lo jai fatci noi xe boxna
+.i lo .ente'ori cu simlu lo ka dukse kei so'e lo zgipre
+.i ku'i .a'a dai lo nu do kanji fi lo toglai fe lo xe boxna kei cu rinka lo nu pruce fo lo si'o tenfa
+.i ri zo'u pruce fi lo tolfrinyna'u fe to so'a toi lo frinyna'u
+.i ji'a lo fatne zo'u lo prane je pluka be lo'e kerlo ca'e be'o sance pe lo cuvyto'aci'e vonto'aku'e ne li ci fi'u re ge'u zi'e noi ke'a jicmu ro lo sizgi'esarxe poi cabna ku'o ki'u lo ni ke'a vajni ku'o cu se toglai lo tolfrinyna'u no'u li ze no pa pi so mu mu no no no bi xa ji'i ge'u zi'e noi lo dunto'aci'e cu tolnolmle stika
+.i to di'u smudu'i lo se du'u lo dunto'aci'e cu mabla kei na .e lo se du'u lo nu jmina tu'a dy lo cuvyto'aci'e manri kei cu rinka lo si'o kalsa toi
 
 fa'o
-
-Die Naturtonstimmung – und dadurch auch das FJS – verlassen sich auf der absoluten Einfachheit der Arithmetik von Brüchen. Das Mathematikniveau erforderlich, um Theorie der Naturtonstimmung kennenzulernen, überschreitet das des Gymnasiums nicht – keine Logarithmen oder Wurzeln und auf keinen Fall Integrale sind erforderlich (Logarithmen braucht man nur, um Cent-Größen von Intervallen zu berechnen, was eher eine Bequemlichkeit als Teil des Systems ist). Du kannst den Großteil der Arithmetik im Kopf durchführen, und den Rest deinem treuen Vier-Funktionen-Rechner vertrauen, ohne zu bemerken, dass er eine Taste für Quadratwurzel besitzt.
-
-Gleichstufig temperierte Stimmungen dagegen sind (meistens) gleichstufige Aufteilungen der Oktave. Vorsicht aber, bevor du verallgemeinerst: 1200¢ / 12 = 100¢ sieht zwar auf den ersten Blick einfach aus, aber die Einheit Cent ist nur eine Darstellung der zugrundeliegenden Frequenzverhältnissen. Während manche von uns hier mit der Theorie aufhören, gedenke, dass sobald du diese angeblich reine Cent-Werte in Frequenzwerte, musst du das Ganze in eine Exponentialfunktion reintun, die dir für (fast) alle rationalen Eingaben irrationale Zahlen ergibt. Ohne den Gegenteil zu erwähnen; der reine, dem Ohr (per Definition des „Ohrs“) angenehme Klang einer Naturquinte (3/2) – so wichtig, dass die ganze moderne Harmonielehre auf ihm basiert – hat einen irrationalen Cent-Wert von etwa 701.95500086…¢, welchen die temperierte Stimmung grob ausgleicht. (Das heißt nicht, dass temperierte Stimmungen schlecht sind, sondern, dass die Einführung von ihnen in den JI-Rahmen Chaos verursachen wurde.)
 
 Deswegen meine ich, dass eine gleichstufige Stimmung kein FJS braucht. Ein *n*-EDO, wo *n* ausreichend klein ist, kann man ohne Probleme in ihrem vollen Potenzial in üblicher Notenschrift aufschreiben, solange die Tonhöhen und Akzidenzien gut definiert sind. Steigt *n* ein bisschen, so definiere ein paar neue Akzidenzien; bei einem *n* von über hundert, oder bei dem Bedarf für absolute Flexibilität, [kannst](http://musictheory.zentral.zone/huntsystem1.html) du von anderen [übernehmen](http://sagittal.org/). Oder du kannst eine ganz neue Notenschrift entwickeln…
 
