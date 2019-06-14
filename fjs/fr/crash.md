@@ -130,7 +130,7 @@ Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non ! Pou
 
 1. Calculez les intervalles FJS qui correspondent à ces rapports pythagoriciens : 2187/2048, 1024/729, 8192/6561.
 2. Calculez les rapports pythagoriciens qui correspondent à ces intervalles : septième diminuée, quinte augmentée, tierce diminuée.
-3. Trouvez les rapports entre les degrés de cette gamme : <img src="../assets/exercise_1.png" alt="Mi–Fa♯–La–Si–Ré–Mi">
+3. Trouvez les rapports entre les degrés de cette gamme : <img src="../assets/exercise_1.png" alt="Mi–Fa♯–La–Si–Ré–Mi"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
 4. Écrivez cette gamme dans le FJS avec la tonique Ré : 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Calculez le rapport du comma pythagoricien (dans le FJS, une seconde diminuée).
 6. (DIFFICILE !) Le rapport pythagoricien 3<sup>53</sup>/2<sup>84</sup> est minuscule : il ne compte qu'environ 3.6 cents. Trouvez sa représentation FJS.
@@ -253,6 +253,8 @@ Pourquoi ? Parce que cette règle est plus logique et plus pratique. Voici une 
 
 <img src="../assets/example_4.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
 
+<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+
 - Dans la première mesure, nous avons un Do♯<sup>5</sup> puis un Do. Puisque c'est le même ton diatonique dans la même octave, il absorbe le dièse. Puisque c'est alors un Do♯ dans la même octave, il absorbe aussi le +5. Nous avons donc Do♯<sup>5</sup>, Do♯<sup>5</sup>.
 - Dans la deuxième mesure, il y a un Do♯<sup>5</sup> puis un Do avec une altération +1. **+1 est l'équivalent d'un bécarre dans le FJS, il annule toutes les altérations FJS, mais rien d'autre.** Donc cela signifie Do♯<sup>5</sup>, Do♯.
 - Dans la troisième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre. Puisque ce n'est plus le même ton pythagoricien, il n'absorbe plus le +5, donc cela signifie Do♯<sup>5</sup>, Do.
@@ -317,7 +319,7 @@ Essayez d'utiliser ces méthodes pour résoudre l'exercice suivant.
 1. Trouvez les formes FJS des rapports suivants : 5/3, 6/5, 7/6, 9/5.
 2. Trouvez les rapports correspondants aux formes FJS suivants : (seconde majeure)<sup>5</sup>, (tierce majeure)<sub>7</sub>, (septième mineure)<sup>11</sup>.
 3. Écrivez dans le FJS, sur Do, l'échelle ptolémaïque dont les rapports sont : 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/exercise_2.png" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do">
+4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/exercise_2.png" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
@@ -434,14 +436,8 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
-4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique :
-	
-	<img src="../assets/exercise_3.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭">
-	
-5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici : 11/10, 10/9, 9/8, 8/7. La tonique, c'est La.
-	
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
-	
+4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique : <img src="../assets/exercise_3.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici : 11/10, 10/9, 9/8, 8/7. La tonique, c'est La. <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 6. (DIFFICILE !) Il y a une communité qui supporte la « musique 432 Hz », dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).

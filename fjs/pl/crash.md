@@ -129,7 +129,7 @@ Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u tego nie potr
 
 1. Znajdź FJS-owe interwały odpowiadające wymienionym ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
 2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3\>\>. (Pierwszy interwał to septyma zmniejszona, nie mała).
-3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e">
+3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
 4. Zapisz tę skalę w FJS-ie, przyjmując za tonikę *d*: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2\>\>.
 6. (Trudne!). Pewien wyjątkowo wąski interwał w stroju pitagorejskim, mierzący ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
@@ -252,6 +252,8 @@ Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej sp�
 
 <img src="../assets/example_4.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
 
+<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+
 - W pierwszym takcie mamy *c*♯5, po którym następuje gołe *c*. Ponieważ druga nuta jest na tym samym polu, co pierwsza, dziedziczy ona krzyżyk ♯, a ponieważ jest to teraz *cis* w tej samej oktawie, dziedziczy również +5. W takim razie mamy *cis*<sup>5</sup>, *cis*<sup>5</sup>.
 - W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz tego.** W takim razie mamy *cis*<sup>5</sup>, *cis*.
 - W trzecim takcie mamy *c*♯5, po którym następuje *c*♮. Ponieważ drugie *c* jest różną wysokością od pierwszego *cis*, nie dziedziczy alteracji +5. W takim razie mamy *cis*<sup>5</sup>, *c*.
@@ -316,7 +318,7 @@ Spróbuj użyć tych wszystkich metod, by poradzić sobie z następnym zestawem 
 1. Zapisz w FJS-ie następujące interwały: 5/3, 6/5, 7/6, 9/5.
 2. Znajdź wartości następujących FJS-owych interwałów: 2<sup>5</sup>, 3<sub>7</sub>, 7<sup>11</sup>.
 3. Zapisz skalę diatoniczną Ptolemeusza od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/exercise_2.png" alt="c–d–es_5–f–g–as_5–b_5–c">
+4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/exercise_2.png" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
@@ -433,14 +435,8 @@ Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadr
 	- S<sub>II</sub>: 10/9, 5/4, 4/3,   5/3,   1/1
 	- D:              3/2,  9/8, 21/16, 27/16, 15/8
 	- T:              1/1,  9/8, 5/4,   3/2,   15/8
-4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki:
-	
-	<img src="../assets/exercise_3.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es">
-	
-5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7.
-	
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
-	
+4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki: <img src="../assets/exercise_3.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7. <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 6. (Trudne!). Tak zwany „ruch 432-hercowy” uparcie twierdzi, że przestrajanie *a* z 440 na 432 Hz poprawia fizyczny i duchowy aspekt muzyki. (Nie ma tu znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający temu przestrojeniu.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).

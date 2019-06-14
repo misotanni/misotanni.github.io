@@ -130,7 +130,7 @@ Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst
 
 1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
 2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
-3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/exercise_1.png" alt="E–Fis–A–H–D–E">
+3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/exercise_1.png" alt="E–Fis–A–H–D–E"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
 4. Notiere die folgende Tonleiter im FJS mit D als Grundton: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
 6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
@@ -253,6 +253,8 @@ Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veransch
 
 <img src="../assets/example_4.png" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
 
+<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+
 - Im ersten Takt haben wir ein Cis<sup>5</sup> und danach ein bloßes C. Weil es derselbe Stammton in derselben Oktave ist, absorbiert es das Kreuz. Weil es jetzt ein Cis in derselben Oktave ist, absorbiert es auch das +5. Wir haben also Cis<sup>5</sup>, Cis<sup>5</sup>.
 - Im zweiten Takt gibt es ein Cis<sup>5</sup> und danach ein bloßes C mit einem Versetzungszeichen von +1. **+1 ist das FJS-Äquivalent des Auflösungszeichens. Es löst alle FJS-Versetzungszeichen auf, aber nichts sonst.** Deshalb heißt es Cis<sup>5</sup>, Cis.
 - Im dritten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C. Weil es jetzt nicht mehr derselbe pythagoreische Ton ist, wird das +5 nicht mehr absorbiert, deshalb heißt es Cis<sup>5</sup>, C.
@@ -317,7 +319,7 @@ Versuche diese Methoden, um die nächste Aufgabe zu lösen.
 1. Schreibe die FJS-Darstellungen folgender Frequenzverhältnisse: 5/3, 6/5, 7/6, 9/5.
 2. Finde die Frequenzverhältnisse folgender FJS-Intervalle: (große Sekunde)<sup>5</sup>, (große Terz)<sub>7</sub>, (kleine Septime)<sup>11</sup>.
 3. Notiere die ptolemäische Tonleiter im FJS von C. Die Verhältnisse lauten: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/exercise_2.png" alt="C–D–Es_5–F–G–As_5–B_5–C">
+4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/exercise_2.png" alt="C–D–Es_5–F–G–As_5–B_5–C"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
@@ -434,14 +436,8 @@ Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den To
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
-4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton:
-	
-	<img src="../assets/exercise_3.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es">
-	
-5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist.
-	
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
-	
+4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/exercise_3.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist. <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
