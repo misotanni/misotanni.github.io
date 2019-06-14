@@ -10,6 +10,8 @@ title: Das Naturtonfunktionssystem
 
 <img src="../assets/impression.png" alt="So sieht das FJS aus!">
 
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+
 # Willkommen
 
 Willkommen auf der Webseite des Naturtonfunktionssystems (FJS)!

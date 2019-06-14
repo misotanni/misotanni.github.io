@@ -11,6 +11,8 @@ redirect_from: "/fjs/"
 
 <img src="../assets/impression.png" alt="This is what the FJS looks like!">
 
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+
 # Welcome
 
 Welcome to the website of the Functional Just System (FJS)!

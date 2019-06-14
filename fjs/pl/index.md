@@ -10,6 +10,8 @@ title: FJS (Funkcyjny System Stroju Naturalnego)
 
 <img src="../assets/impression.png" alt="Tak wygląda FJS!">
 
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+
 # Witamy
 
 Witamy na stronie Funkcyjnego Systemu Stroju Naturalnego (FJS)!

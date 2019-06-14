@@ -10,6 +10,8 @@ title: la fancu ke curve ciste
 
 <img src="../assets/impression.png" alt=".i ti jvinu fy jy sy">
 
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+
 # fi'i
 
 ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
