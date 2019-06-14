@@ -69,27 +69,50 @@ ni'o .ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi
 
 tu'u
 
-ni'o ji'a .ei se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
+ni'o ji'a .ei do se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
 
-Erstens musst du schnell **ein übliches Intervall** (ohne enharmonische Verwechslung) in **eine Anzahl von Quintenschritten** und zurück umrechnen können. Eine **große Sekunde** zum Beispiel entspricht **+2** Quinten, denn man braucht zwei Quintenschritte im Uhrzeigersinn, um die große Sekunde zu erreichen: C–G–D. Ebenso entspricht eine **kleine Terz −3** Quinten, denn dazu braucht man drei Quartenschritte, also Quintenschritte gegen den Uhrzeigersinn: C–F–B–Es. Jedes übliche Intervall entspricht genau einer Anzahl von Quintenschritten. Du musst diese Umrechnung sowohl vorwärts als auch rückwärts durchführen können, dazu am besten schnell.
+ni'o pa mai ko kakne lo ka kanji galfi **lo togyku'e poi fadni ku'o** to se cau lo nu togbasti kei toi **lo namcu be lo vonto'aku'e**
+.i mu'a lo **pavyto'aku'e** cu srana lo vonto'aku'e noi **re mei**
+.i ri'a bo re da lo nu zbasu lo pavyto'aku'e vau cu jai se sarcu to co dutso toi
+.i mu'a relto'a ce'o xavyto'a ce'o cibyto'a
+.i si'a lo **relto'aku'e** cu srana lo vonto'aku'e noi **ni'u ci mei**
+.i ri'a bo ci cibyto'aku'e noi vonto'aku'e co zucna ku'o cu jai se sarcu
+.i mu'a relto'a ce'o mumto'a ce'o cmapavyto'a ce'o cmavonto'a
+.i .ei dai ko kakne be lo ka kanji bi'u nai be'o co manri je bo dukti je sutra .e'u
 
-Zweitens musst du wissen, wie man eine rationale Zahl faktorisiert. Genauso wie jede **positive ganze Zahl** auf nur eine Weise in Primfaktoren zerlegt werden kann, wobei die Potenzen **natürliche Zahlen** sind, kann man jede **positive rationale Zahl** auf nur eine Weise in Primfaktoren zerlegen, wobei die Potenzen **ganze Zahlen** sind. Nach dem Fundamentalsatz der Arithmetik werde ich diesen Satz humorvoll den Fundamentalsatz der Harmonie nennen. Beispielsweise lässt sich 6/5 in 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> zerlegen, und es gibt keine andere Zerlegung. (Weil dies ein Crash-Kurs ist, werde ich die mathematischen Genauigkeiten weglassen, natürlich sind sie aber für [neugierige Leser](math.html) vorhanden. Überall, wo in diesem Kurs ein mathematischer Satz vorkommt, findest du einen Beweis auf der Mathematikseite.)
+ni'o re mai ko djuno lo du'u ma kau jai ta'i kanji lo dilcymu'o lo frinyna'u
+.i ro da poi **mulnonmau** fa'u **frinynonmau** si'a zo'u da se pagbu pa lo'i dilcymu'o noi se tenfa fi lo **kacna'u** fa'u **mulna'u** si'a
+.i la'e di'u cu se cmene fi zi'o fa'u mi fe lu ralju cmacybri pe lo nacycmaci li'u fa'u lu ralju cmacybri pe lo zgisarxe li'u .u'i
+.i mu'a li xa fi'u mu cu se pagbu li re te'a pa lo'o ce li ci te'a pa lo'o ce li mu te'a ni'u pa
+.i no cmima be lo dilcymu'o be'o poi drata cu zasti
+to .i lo nu ti xe ctuca kei jai mu'i mi vimcu lo cmaci tcila
+.i ku'i li'a ri zvati va'u lo [tcidu poi kucli](math.html)
+.i ro da poi srana lo cmacybri bu'u ti noi xe ctuca zo'u lo cmaci kibystu cu se zvati lo ctaipe toi
 
-Drittens brauchst du die sog. reduzierte Form eines Intervalls. In der Praxis multipliziert oder dividiert man dazu eine Zahl mit bzw. durch 2, bis das Ergebnis zwischen 1 (einbezogen) und 2 (ausgeschlossen) liegt. Dieses Verfahren ähnelt der sog. *Oktaväquivalenz*, wobei wir Tonhöhen als gleichwertig empfinden, wenn sie sich nur um ein Vielfaches der Oktave (2/1) unterscheiden. Dadurch ändert sich beispielsweise 7/1 in 7/4 und 1/6 in 4/3. Die reduzierte Form findet man mithilfe der Formel:
+ni'o ci mai do nitcu lo **sapka'i** be lo togyku'e
+.i lo su'u tcikai zo'u pilji jo nai dilcu lo togyku'e li re pu'o lo nu lo te pruce cu mleca li re gi'e zmadu ja bo du li pa
+.i la'e di'u panra lo rodrodrodrodrodrodbroda
+.i sy zo'u ma'a jai ga'a lo selto'a cu dunli va'i lo nu frica fi tu'a lo zelto'aku'e ku po'o ne li re fi'u
+.i mu'a li ze fi'u cu binxo li ze fi'u vo
+.i je li fi'u xa cu binxo li vo fi'u ci
+.i lo sapka'i cu te pruce fo ti noi mekso
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
-Es gibt auch die ausgeglichene reduzierte Form; das Ergebnis liegt hier zwischen $$\frac{1}{\sqrt{2}}$$ (einbezogen) und $$\sqrt{2}$$ (ausgeschlossen). Man definiert sie mithilfe der üblichen reduzierten Form:
+ni'o zasti ji'a fa lo **laxykemsapka'i**
+.i ly zo'u lo te pruce cu mleca li re te'a pi mu gi'e zmadu ja bo du li re te'a ni'u pi mu
+.i ly jai se kanji ji'u lo sapka'i noi fadni
 
 $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
-Oder, ein bisschen leichter beim Kopfrechnen:
+ni'o ti jarco lo tadji poi zmadu lo ka frili kei va'i lo nu menli kanji
 
 $$\text{reb}(d)=\text{red}(d) \text{ , } \text{red}(d) < \sqrt{2}$$
 
 $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}$$
 
-Das ist alles, was du brauchst. Fangen wir also an!
+ni'o mulno
+.i .e'e cfari
 
 ## <a name="lesson_1">Lektion 1: Die pythagoreische Stimmung</a>
 
