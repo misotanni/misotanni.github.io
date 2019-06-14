@@ -1,55 +1,75 @@
-﻿# Der FJS-Crash-Kurs
+﻿# la fy jy sy janli xe ctuca
 
-Also, du bist neugierig, was das FJS so bietet. Du möchtest lernen, es zu benutzen.
+ni'o za'a .a'u dai do kucli lo prali be fi tu'a fy jy sy
+.i do djica lo nu cilre fi ri
 
-Dieser „Crash-Kurs“ ist genau in diesem Zweck gedacht: um alle notwendige Elemente des FJS schnell zu beherrschen. Die Kurzschrift des Systems wird nicht behandelt, da das System ohne ihr sowieso komplett ist. Falls du schon Erfahrung mit Naturtonstimmung hast, wird es dir sehr leicht fallen. Du kannst das Ganze auf einmal in ein paar Minuten lernen. Seine Eleganz steht direkt vor dir.
+ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi tu'a ro jicmu selci be le ciste
+.i na ctuca fo lo jai nu sutri noi na jai sarcu lo nu mulno
+.i ga nai do djuno so'o da lo cuvyto'aci'e gi mutce frili do fa lo ka cilre tu'a fy jy sy
+.i ka'e ku do cilre ro da ca lo mentu be li so'u po'o
+.i melbi je frili ri'i ko
 
-## Inhalt
+## liste
 
-* [Einleitung: Gib die Enharmonie auf!](#introduction)
-* [Lektion 0: Vorbereitung](#lesson_0) 
-* [Lektion 1: Die pythagoreische Stimmung](#lesson_1)
-* [Lektion 2: Die Primzahlintervalle](#lesson_2)
-* [Lektion 3: Verbundene Versetzungszeichen](#lesson_3)
-* [Da Capo Al Fine: Was sonst?](#da_capo_al_fine)
+* [lo lidne zo'u: vimcu tu'a lo si'o togbasti](#introduction)
+* [no mo'o: sarcu co cfapru se djuno](#lesson_0)
+* [pa mo'o: cistrpitagora](#lesson_1)
+* [re mo'o: dilcysle togyku'e](#lesson_2)
+* [ci mo'o: pluja togystika](#lesson_3)
+* [la dakapo'alfin zo'u: ca mo](#da_capo_al_fine)
 
 ---
 
-## <a name="introduction">Einleitung: Gib die Enharmonie auf!</a>
+## <a name="introduction">lo lidne zo'u: vimcu tu'a lo si'o togbasti</a>
 
-Wir sind alle an die gewöhnliche Notenschrift gewohnt, und an ihre üblichen Kreuze und Be. Was wir aber nicht immer sehen, ist, dass uns Notenschrift im Zusammenhang mit der allgegenwärtigen gleichstufigen Stimmung beigebracht wird. (Ab jetzt wird dieser Kurs die Abkürzung 12-EDO benutzen, aus dem Englischen „Equal Divisions of the Octave“).
+ni'o ro ma'a se slabu lo fadni zgisnici'e .e lo ri fadni togystika
+.i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e pe ma'i lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
+.i to ba'o lo cabna zo'u .ai cmene ri fa zo dunto'aci'e to'u toi
 
-Hier zum Beispiel steht die chromatische Tonleiter:
+ni'o mu'a ti se cmima ro se dunto'aci'e
 
 <img src="../assets/example_1.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
 
-Ähm, nein. Normalerweise sieht sie so aus:
+ni'o no'e drani
+.i so'e roi jarco ti uo dai
 
 <img src="../assets/example_2.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
 
-Ob dort Ais oder B steht, macht für uns natürlich keinen Unterschied. Wir wissen, dass das zwei unterschiedliche Namen für zwei Noten derselben Tonhöhe sind. Ob wir jetzt Ais oder B verwenden, kommt auf die Lesbarkeit oder Einheitlichkeit oder Einfachheit, je nach Kontext, aber sie bedeuten das Gleiche.
+ni'o ka'u .u'e nai lo branonto'a lo cmapavyto'a cu basti
+.i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
+.i lo du'u cmedu'a ma kau cu se nibli tu'a lo ni tcidu frili .a lo ni stodi .a lo ni sampu kei gi'e jai se krinu tu'a lo vanbi
+.i ku'i dunli
 
-Diese Eigenschaft, dass eine verminderte Sekunde genauso groß ist wie eine reine Prime, hat einen Namen: enharmonische Verwechslung. Musiker, denen alternative Stimmungen nicht bekannt (oder bewusst) sind, wissen vielleicht gar nicht, dass diese Eigenschaft nicht universal ist. 12-EDO ist eine der wenigen Stimmungen, die sie hat. In anderen Stimmungen gibt es keine Enharmonie, oder es gibt ein anderes Intervall der Größe einer reinen Prime. (Zum Beispiel ist es die *doppelt* verminderte Sekunde in 19-EDO. Das heißt, Eis und Fes haben die gleiche Tonhöhe.)
+ni'o lo bi'u nai selkai noi ka lo relmecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka klani ku'o cu se cmene zo togbasti
+.i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
+.i lo drata togyci'e zo'u go nai ri no nu togbasti kei se cumki gi lo togyku'e pe lo nu togbasti cu drata
+i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo ba'e cibmecpavyto'aku'e cu dunli ja'e lo nu no'a fa lo bravonto'a lo cmamumto'a toi
 
-Vergessen wir aber nicht, dass die Notenschrift selbst die Idee von 12-EDO (geschweige denn deren Herrschaft) deutlich vordatiert. Die Notenschrift basierte ursprünglich auf der Stammtonreihe, die viele Eigenschaften gleichzeitig besitzt, aber eine davon ist uns wichtig: dass sie aus einer Reihe reiner Quinten herkommt (F–C–G–D–A–E–H). Die *Tatsache* selbst, dass unsere Notenschrift viele Namen für dieselbe Tonhöhe besitzt, deutet darauf an, dass sie ursprünglich für etwas anderes gedacht war.
+ni'o ku'i .ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
+.i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
+.i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u lo pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu su'o na'e bo dy
 
-Die enharmonische Äquivalenz ist das einzige Merkmal von 12-EDO in der Notenschrift. Alles andere funktioniert auch ohne 12-EDO.
+ni'o va'i lo ka togbasti cu se steci lo ka lo dunto'aci'e cu ckaji kei lo selkai be lo zgisnici'e
+.i ro drata cu na'e srana
 
-## <a name="lesson_0">Lektion 0: Vorbereitung</a>
+## <a name="lesson_0">no mo'o: sarcu co cfapru se djuno</a>
 
-Bevor du beginnst, über das FJS zu lernen, gibt es ein paar zusätzliche Informationen. Ich muss sicher sein, dass sie dir gut bekannt sind.
+ni'o .ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
+.i tu'e
 
-- Du weißt, dass die Naturtonstimmung per Definition eine Stimmung ist, wo jedes Intervall zwischen beliebigen zwei Noten eine rationale Zahl ist.
-- Du erkennst bekannte JI-Frequenzverhältnisse, z.B. 2/1, 3/2, 5/4, 7/4.
-- Du weißt, dass Intervalle addiert oder subtrahiert werden, indem man ihre Verhältnisse multipliziert bzw. dividiert, und dass man die umgekehrte Form des Intervalls durch das Kehrwert des Verhältnisses erhält.
-- Du kannst die Einheit Cent benutzen, um die Größe von Intervallen zu messen, und du weißt, dass ein Halbton 100 Cent und eine Oktave 1200 Cent beträgt.
-- Du kannst die Cent-Größe eines beliebigen Intervalls mithilfe einer dieser Formeln berechnen:
+- .i djuno lo du'u smuxu'a fi lo cuvyto'aci'e fe lu'e su'o da poi ro togyku'e be va'o ke'a cu frinyna'u
+- .i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u .e li ci fi'u re .e li mu fi'u vo .e li ze fi'u vo
+- .i djuno lo du'u kanji lo du'u ma kau togyku'e ke sumji fa'u velvi'u fa'u dukti kei fo lo nu kanji lo du'u ma kau pilji fa'u parbi fa'u pavdilcu fe lo ty parbi fi ri
+- .i kakne lo ka kanji tu'a lo toglai kei gi'e djuno lo du'u lo togytikyka'u pe lo dunto'aci'e ge'u fa'u lo zelto'aku'e cu toglai li pa no no lo'o fa'u li pa re no no
+- .i kakne lo ka kanji lo se toglai be ro togyku'e fo su'o vi mekso
 	
-	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ , log zu einer beliebigen Basis}$$
+	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ sei dugri be fi su'o simxu mintu}$$
 	
 	$$\text{C}(d)=\log_c d \text{ , }c=\sqrt[1200]{2}$$
 
-Dazu gibt es auch noch drei mathematische Konzepte, die dir bekannt sein müssen, aber außerhalb des FJS nicht vorkommen.
+tu'u
+
+ni'o ji'a .ei se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
 
 Erstens musst du schnell **ein übliches Intervall** (ohne enharmonische Verwechslung) in **eine Anzahl von Quintenschritten** und zurück umrechnen können. Eine **große Sekunde** zum Beispiel entspricht **+2** Quinten, denn man braucht zwei Quintenschritte im Uhrzeigersinn, um die große Sekunde zu erreichen: C–G–D. Ebenso entspricht eine **kleine Terz −3** Quinten, denn dazu braucht man drei Quartenschritte, also Quintenschritte gegen den Uhrzeigersinn: C–F–B–Es. Jedes übliche Intervall entspricht genau einer Anzahl von Quintenschritten. Du musst diese Umrechnung sowohl vorwärts als auch rückwärts durchführen können, dazu am besten schnell.
 
