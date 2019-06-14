@@ -437,7 +437,10 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
 4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique : <img src="../assets/exercise_3.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
-5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici : 11/10, 10/9, 9/8, 8/7. La tonique, c'est La. <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici : 11/10, 10/9, 9/8, 8/7. La tonique, c'est La.
+
+	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	
 6. (DIFFICILE !) Il y a une communité qui supporte la « musique 432 Hz », dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).

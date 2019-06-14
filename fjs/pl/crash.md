@@ -436,7 +436,10 @@ Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadr
 	- D:              3/2,  9/8, 21/16, 27/16, 15/8
 	- T:              1/1,  9/8, 5/4,   3/2,   15/8
 4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki: <img src="../assets/exercise_3.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
-5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7. <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7.
+
+	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	
 6. (Trudne!). Tak zwany „ruch 432-hercowy” uparcie twierdzi, że przestrajanie *a* z 440 na 432 Hz poprawia fizyczny i duchowy aspekt muzyki. (Nie ma tu znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający temu przestrojeniu.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).

@@ -500,7 +500,10 @@ Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den To
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
 4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/exercise_3.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
-5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist. <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist.
+
+	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	
 6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
