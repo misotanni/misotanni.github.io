@@ -11,8 +11,6 @@ redirect_from: "/fjs/"
 
 <img src="../assets/impression.png" alt="This is what the FJS looks like!">
 
-<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
-
 # Welcome
 
 Welcome to the website of the Functional Just System (FJS)!
@@ -88,3 +86,5 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 - See many more [examples](examples.html) of the FJS in usage.
 
 **What will the FJS mean for you?**
+
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>

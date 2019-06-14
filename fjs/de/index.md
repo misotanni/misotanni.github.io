@@ -10,8 +10,6 @@ title: Das Naturtonfunktionssystem
 
 <img src="../assets/impression.png" alt="So sieht das FJS aus!">
 
-<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
-
 # Willkommen
 
 Willkommen auf der Webseite des Naturtonfunktionssystems (FJS)!
@@ -87,3 +85,5 @@ Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, 
 - Hier findest du mehr [Beispiele](examples.html) des FJS im Einsatz.
 
 **Was wird das FJS für dich bedeuten?**
+
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
