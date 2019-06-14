@@ -95,7 +95,7 @@ ni'o ci mai do nitcu lo **sapka'i** be lo togyku'e
 .i sy zo'u ma'a jai ga'a lo selto'a cu dunli va'i lo nu frica fi tu'a lo zelto'aku'e ku po'o ne li re fi'u
 .i mu'a li ze fi'u cu binxo li ze fi'u vo
 .i je li fi'u xa cu binxo li vo fi'u ci
-.i lo sapka'i cu te pruce fo ti noi mekso
+.i lo sapka'i cu te pruce fo tu'a ti noi mekso
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
@@ -114,21 +114,41 @@ $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}
 ni'o mulno
 .i .e'e cfari
 
-## <a name="lesson_1">Lektion 1: Die pythagoreische Stimmung</a>
+## <a name="lesson_1">pa mo'o: cistrpitagora</a>
 
-Du denkst vielleicht, dass durch die Entnahme der Enharmonie sich viel mehr mögliche Tonhöhen beschreiben lassen. Da hättest du Recht. Die Entnahme der Enharmonie reicht aber nicht selbst aus, um die ganze Naturtonstimmung logischerweise darzustellen. Ein Vorteil der Naturtonstimmung ist, dass sie sehr kleine Unterschiede in Tonhöhe gut ausdrückt, und dadurch verschiedenen Intervallen verschiedene Farben gibt.
+ni'o do jinvi la'a lo du'u lo nu vimcu lo si'o togbasti cu rinka lo nu zenba co cumki fa lo nu sinxa xo kau tonga
+.i go go'i gi do draji'i
+.i ku'i vy na banzu lo ka cumgau lo nu sinxa ro da pe lo cuvyto'aci'e
+.i lo vrude pe lo cuvyto'aci'e cu ka lo tonga poi jibni simxu cu te bangu ja'e lo nu lo togyku'e poi drata cu skari pe'a lo drata
 
-Stelle dir die folgende Intervallreihe an: 11/10, 10/9, 9/8, 8/7. Hör zu:
+ni'o mu'a ko se xanri lo togyku'e porsi pe li pa pa fi'u pa no lo'o ce'o li pa no fi'u so lo'o ce'o li so fi'u bi lo'o ce'o li bi fi'u ze
+.i ko tirna
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-Die allermeisten hören hier vier „etwa große Sekunden“. Es wäre aber falsch, alle von ihnen als große Sekunden aufzuschreiben. Sie sind unterschiedliche Intervalle. Die Unterdrückung der Vielfalt dort, wo sie am meisten zählt, widerspricht JI selbst.
+ni'o ba'a so'a da jai ga'a vo mei jibni be lo pavyto'aku'e
+.i ku'i toldra fa lo nu da'i lu'e lo pavyto'aku'e cu sinxa ro le vo togyku'e
+.i ri drata simxu
+.i lo du'u mipri la'e di'u cu natfe tu'a lo jicmu be lo cuvyto'aci'e
 
-Du denkst also vielleicht, dass es einen Mittelweg gibt, einen Teil der ganzen Naturtonstimmung, der genau eindeutig dieser Notenschrift ohne Enharmonie zugeordnet werden kann. Da hättest du auch Recht. Dieser Mittelweg ist genau die Naturtonstimmung bis zum 3-Limit, auch pythagoreische Stimmung genannt.
+ni'o ja'e bo do jinvi la'a lo du'u zasti fa lo midju noi ke'a gripau lo pi ro cuvyto'aci'e gi'e ro pagbu be ke'a cu se sinxa pa pagbu be lo zgisnici'e poi claxu lo si'o togbasti
+.i go go'i gi do ji'a draji'i
+.i lo bi'u nai midju no'u lo cistrpitagora cu cuvyto'aci'e li ci
 
-Das heißt, dass wir die Oktave dem Frequenzverhältnis 2/1 zuordnen, genauso wie bei 12-EDO, und dass wir die reine Quinte dem Frequenzverhältnis 3/2 zuordnen. Damit können wir jedes mögliche Intervall der Notenschrift genau ein mögliches Intervall der pythagoreischen Stimmung zuordnen. Es gibt eine bijektive Zuordnung.
+ni'o va'i tu'e lu'e lo zelto'aku'e cu srana li re fi'u
+.i to la'e di'u simsa lo me lo dunto'aci'e be li pa re moi toi
+.i lu'e lo mulvonto'aku'e cu srana li ci fi'u re tu'u
+.i ja'e bo ro da po'u lu'e lo togyku'e pe lo zgisnici'e zo'u da srana pa se cistrpitagora
+.i la'e di'u nibli lo du'u pavysmu 
 
-Damit können wir die Menge der Stammtöne sogar *definieren*: F, C, G, D, A, E, und H sind alle so definiert, dass F–C 3/2 beträgt, ebenso C–G, usw. Wir bemerken dann, dass H–F 1024/729 beträgt. Dieses Intervall ist ein Tick kleiner als 3/2. Deshalb definieren wir dann das Kreuz und das Be, um diesen Unterschied aufzuheben, also betragen H–Fis und B–F per Definition auch 3/2. Das FJS funktioniert, indem es dieses Prinzip erweitert: Unterschiede werden durch Versetzungszeichen annulliert.
+ni'o ta'o cumki fa lo nu ba'e *ca'engau* tu'a lo ralju toglei
+.i ca'engau lo du'u lo mumto'a ce'o relto'a ce'o xavyto'a ce'o cibyto'a ce'o nonto'a ce'o vonto'a ce'o pavyto'a zo'u lo se togyku'e pe my bi'o ry ge'u .e lo se togyku'e pe ry bi'o xy ge'u .e lo drata cu du li ci fi'u re
+.i ja'e bo lo se togyku'e pe py bi'o my cu du li pa no re vo fi'u ze re so noi milxe lo ka mleca li ci fi'u re
+.i ja'e bo ca'engau lo du'u lo togystika kantu cu vimcu tu'a lo bi'u nai ka mleca
+.i ja'e bo lo se togyku'e pe lo pavyto'a fa'u bo cmapavyto'a bi'u bramumto'a fa'u bo mumto'a cu du ji'a li ci fi'u re
+.i fy jy sy se jicmu lo si'o tcena lo bi'u nai javni noi du'u lo togystika cu cikre lo ka lo togyku'e cu drata
+
+fa'o
 
 Bemerken wir, dass diese Bijektion etwas benötigt, das vielleicht nicht allen bewusst ist: mehr als nur doppelte Kreuze und Be. Obwohl sie sehr selten in üblicher Musik vorkommen, sind sie hier erforderlich, damit die Quintenlinie auf beiden Seiten unbegrenzt ist. Im FJS können dreifache, vierfache, usw. Kreuze und Be auch vorkommen. Das heißt gar nicht, dass sie oft vorkommen. Aber keine Panik, falls du sie benutzen musst.
 
