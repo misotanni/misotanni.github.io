@@ -144,26 +144,40 @@ Te dwie wysokości to *ges*<sup>7</sup><sub>5</sub> and *fis*<sup>5</sup><sub>7<
 
 <img src="../assets/example_5.png" alt="ges7_5–fis5_7">
 
+<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+
 Następujące cztery takty czyta się następująco: *cis*<sup>5</sup> *cis*<sup>5</sup>; *cis*<sup>5</sup> *cis*; *cis*<sup>5</sup> *c*; *cis*<sup>5</sup> *c*<sup>5</sup>.
 
 <img src="../assets/example_4.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
+
+<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
 
 Oto *A*-dur naturalne: *a*, *h*, *cis*<sup>5</sup>, *d*, *e*, *fis*<sup>5</sup>, *gis*<sup>5</sup>, *a*.
 
 <img src="../assets/example_6.png" alt="♯fcg f5 c5 g5: a–h–c–d–e–f–g–a">
 
+<audio controls><source src="../assets/audio_17.mp3" type="audio/mpeg"></audio>
+
 Oto część szeregu alikwotowego (8.–16.) od *f*; *f*, *g*, *a*<sup>5</sup>, *b*<sup>11</sup>, *c*, *des*<sup>13</sup>, *es*<sup>7</sup>, *e*<sup>5</sup>, *f*. (To bardzo niepraktyczny klucz, ale nie niedozwolony).
 
 <img src="../assets/example_7.png" alt="♭hd a5 e5 h11 d13 e(♭)7: f–g–a–h–c–d–es–e–f">
+
+<audio controls><source src="../assets/audio_18.mp3" type="audio/mpeg"></audio>
 
 Tu mamy ciąg akordów: dwa zmniejszone 10:12:14:17 i dwa durowe 4:5:6, od *a*, *d*, *g* i *c*.
 
 <img src="../assets/example_8.png" alt="e5 h5 f(♯)5 c(♯)5 h(♭)17 a(♭)17: cis–b–e1–g7. d–a–d–fis, h–as–d–f7, c–g–c–e">
 
+<audio controls><source src="../assets/audio_19.mp3" type="audio/mpeg"></audio>
+
 Poniższa sekwencja akordów ukazuje przydatność reguły o niezmienianiu się FJS-owego klucza przy zmianie pitagorejskiego. Akordy są następujące: *A*, *E*, *A*, *A*<sup>7</sup>, *D*, *G*, *D*<sub>5</sub>, *E* (z nutą pedałową), *A*<sup>7</sup>, *D*; wszystkie trójdźwięki durowe to 4:5:6, a septymowe – 4:5:6:7. Klucz FJS-owy pozostaje ten sam, co przydaje się przy zapisie *gis*<sup>5</sup> w *D*-dur.
 
 <img src="../assets/example_9.png" alt="♯fcg f5 c5 g5: a–e–c–a, e–e–h–g, a–e–c–a, g7–e–c–a, ♯fc: f–a–d–a, g–h–d–g, a–a–d–f, a–h–e–gis,a–cis–e–g7, d–a–d–fis">
 
+<audio controls><source src="../assets/audio_20.mp3" type="audio/mpeg"></audio>
+
 Ten przykład wykorzystuje osiem wysokości – *c*, *d*, *e*<sup>5</sup>, *f*, *g*, *a*<sup>5</sup>, *a* i *h*<sup>5</sup> – bez wykorzystania klucza.
 
 <img src="../assets/example_10.png" alt="c–d–g–c–d–g–c–d–g, 5: e–a–h–e–a–h–e–a–h, loco: f–g–c–f–g–c–f–g–c, d–g–a–d–g–a–d–g–a">
+
+<audio controls><source src="../assets/audio_21.mp3" type="audio/mpeg"></audio>
