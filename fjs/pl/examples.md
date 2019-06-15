@@ -91,6 +91,10 @@ Tutaj znajduje się [adaptacja](../assets/cmaj.pdf) preludium *C*-dur z *Das Woh
 
 Znajduje się tu także FJS-owe oznaczenie tonacji.
 
+Posłuchaj:
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+
 ## Wideo
 
 Tutaj jest [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-a. A tutaj [zapis muzyki](https://youtu.be/JH2_Fwuc5E4) użytej w tym wideo, zapisanej – rzecz jasna – w FJS-ie.

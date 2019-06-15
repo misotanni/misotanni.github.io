@@ -91,6 +91,10 @@ This is a [rendition](../assets/cmaj.pdf) of Johann Sebastian Bach's Prelude in 
 
 An FJS key signature is also exemplified.
 
+Listen to it:
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+
 ## Videos
 
 Here's the FJS [introductory video](https://youtu.be/38I3cylJlW4). Here's a [score follower](https://youtu.be/JH2_Fwuc5E4) of the video's music, written – of course – in the FJS.

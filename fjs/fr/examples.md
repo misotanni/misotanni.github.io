@@ -87,9 +87,13 @@ Ceci est une [interprétation](../assets/cmaj.pdf) du Prélude en Do majeur de J
 - 4:5:6(:15) pour des triades (accords de septième) majeur(e)s ;
 - 10:12:15(:18) pour des triades (accords de septième) mineur(e)s ;
 - 4:5:6:7 pour des accords de septième de dominante ;
-- 10:12:14:17 pour des accords de septième diminuée ;
+- 10:12:14:17 pour des accords de septième diminuée.
 
 Une armure FJS est démontrée aussi.
+
+Écoutez :
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
 
 ## Vidéos
 

@@ -91,6 +91,10 @@ Dies ist eine [Wiedergabe](../assets/cmaj.pdf) von Johann Sebastian Bachs Prälu
 
 Veranschaulicht werden auch FJS-Vorzeichen.
 
+Hör zu:
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+
 ## Videos
 
 Hier gibt's das [Einführungsvideo](https://youtu.be/38I3cylJlW4) des FJS. Die [Musik](https://youtu.be/JH2_Fwuc5E4) dazu gibt es hier, natürlich im FJS geschrieben.
