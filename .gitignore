@@ -1,4 +1,5 @@
 Makefile
 old
+*.db
 *.ly
 *.sh
