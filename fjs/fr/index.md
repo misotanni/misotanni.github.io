@@ -57,7 +57,7 @@ Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'int
 
 5. Pour nommer les notes, on écrit premièrement la partie conventionnelle du nom, puis l'altération positive combinée comme indice supérieur, puis la négative comme indice inférieur.
 
-6. Pour écrire les notes sur la portée, on écrit d'abord l'altération positive combinée (s'il y en a), puis l'altération négative combinée (s'il y en a) avec un signe moins, puis les altérations conventionnelles, puis la note.
+6. Pour écrire les notes sur la portée, on écrit d'abord l'altération positive combinée (s'il y en a), puis l'altération négative combinée (s'il y en a) avec une barre oblique, puis les altérations conventionnelles, puis la note.
 
 7. Tout le reste sont des abréviations.
 

@@ -76,11 +76,11 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 1. Aby przenieść wysokość o dodatnie komaty, zapisz liczbę odpowiadającą połączeniu tych przesunięć przed nutą, jakby znak chromatyczny. By zachować spójność z tradycyjnym zapisem, tak, jak alteracje chromatyczne zapisujemy z lewej nuty, ale na końcu (po prawej) nazwy, tak samo postępujemy z alteracjami mikrotonalnymi. Zapisujemy je po lewej (przed) główką nuty, a jeżeli przed nutą stoi już alteracja chromatyczna, przed tą alteracją.
 
-2. Aby przenieść wysokość o komaty ujemne, zapisz podobnie liczbę odpowiadającą iloczynowi tych komatów przed główką nuty, ale poprzedź to znakiem minusa (np. „−35”).
+2. Aby przenieść wysokość o komaty ujemne, zapisz podobnie liczbę odpowiadającą iloczynowi tych komatów przed główką nuty, ale poprzedź to znakiem minusa (np. „/35”). Uwaga: przykładowe „7/5” nie oznacza oczywiście przesunięcia o 7/5, tylko o 63/64 połączone z 81/80, czyli o 5103/5120.
 
-3. Jeżeli mają zostać zapisane i dodatnie, i ujemne alteracje przy jednej wysokości, należy wtedy zapisać dodatnie przed ujemnymi (np. „11−65”).
+3. Jeżeli mają zostać zapisane i dodatnie, i ujemne alteracje przy jednej wysokości, należy wtedy zapisać dodatnie przed ujemnymi (np. „11/65”).
 
-4. *Zwykłe (pitagorejskie) znaki przygodne przydzielają pola i linie na pięciolinii (*cdefgah*) odpowiednim pitagorejskim wysokościom, a więc działają na wysokości tego pola czy linii (w tej samej oktawie) aż do końca taktu, dopóki nie zostaną skasowane lub nadpisane.* Podobnie, FJS-owe alteracje przydzielają wysokościom pitagorejskim (*c*, *des*, *cis*, *d*, itp.) dokładne naturalne wysokości, a więc działają na tej pitagorejskiej wysokości w tej oktawie aż do końca taktu, dopóki nie zostaną skasowane lub nadpisane. To oznacza, że jeżeli zapisać by na początku taktu *e* z alteracją +5, wszystkie następujące nuty o wysokości *e* w tym takcie przyjmą tę +5 domyślnie (chyba że zostanie skasowana 1 lub inną alteracją); jednak *e♭*, tak jak *d* czy *f*, nie przyjmie +5, niezależnie od tego, czy jest w tym samym takcie.
+4. *Zwykłe (pitagorejskie) znaki przygodne przydzielają pola i linie na pięciolinii (*cdefgah*) odpowiednim pitagorejskim wysokościom, a więc działają na wysokości tego pola czy linii (w tej samej oktawie) aż do końca taktu, dopóki nie zostaną skasowane lub nadpisane.* Podobnie, FJS-owe alteracje przydzielają wysokościom pitagorejskim (*c*, *des*, *cis*, *d*, itp.) dokładne naturalne wysokości, a więc działają na tej pitagorejskiej wysokości w tej oktawie aż do końca taktu, dopóki nie zostaną skasowane lub nadpisane. To oznacza, że jeżeli zapisać by na początku taktu *e* z alteracją +5, wszystkie następujące nuty o wysokości *e* w tym takcie przyjmą tę +5 domyślnie (chyba że zostanie skasowana 1 lub inną alteracją); jednak *es*, tak jak *d* czy *f*, nie przyjmie +5, niezależnie od tego, czy jest w tym samym takcie.
 
 5. Alteracja „1” kasuje wszelkie alteracje dla danej wysokości pitagorejskiej.
 
@@ -110,7 +110,7 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 2. Jest to bez znaczenia, czy przenośnik FJS-owy znajduje się u góry (alta) lub u dołu (bassa) pięciolinii.
 
-3. Przenośnik FJS-owy zaczyna się od złożonej alteracji FJS-owej – zapisanej dokładnie tak, jak byłaby zapisana przy nucie. Na przykład transpozycja o +5 zaczynała by się od oznaczenia „5”, o +67 i −5 – „7−5”, itd. Po przenośniku zapis „loco” nie jest wymagany.
+3. Przenośnik FJS-owy zaczyna się od złożonej alteracji FJS-owej – zapisanej dokładnie tak, jak byłaby zapisana przy nucie. Na przykład transpozycja o +5 zaczynała by się od oznaczenia „5”, o +67 i −5 – „7/5”, itd. Po przenośniku zapis „loco” nie jest wymagany.
 
 4. Wszystkim wysokościom pod przenośnikiem dodaje się podaną alterację złożoną – po ustaleniu wysokości i alteracji ze względu na znaki przygodne i przykluczowe.
 
@@ -181,3 +181,9 @@ Ten przykład wykorzystuje osiem wysokości – *c*, *d*, *e*<sup>5</sup>, *f*, 
 <img src="../assets/rules/ottavation.png" alt="c–d–g–c–d–g–c–d–g, 5: e–a–h–e–a–h–e–a–h, loco: f–g–c–f–g–c–f–g–c, d–g–a–d–g–a–d–g–a">
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
+
+W tym przykładzie są zapisane następujące cztery stałe: φ, π (lub τ), *e*, oraz γ, w tonacji *A*.
+
+<img src="../assets/rules/irrational.png" alt="a–fφ, a–fπ, a–d(e), a–hγ">
+
+<audio controls><source src="../assets/rules/irrational.mp3" type="audio/mpeg"></audio>

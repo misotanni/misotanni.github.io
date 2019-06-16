@@ -76,7 +76,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 1. To add positive comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, as an accidental. For consistency, just like standard accidentals are prepended to a note on a staff but appended to its name, the same happens to microtonal accidentals. They are written in front of the note, and if there is a standard accidental as well, then in front of the accidental.
 
-2. To add negative comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, but prepended with a negative sign (e.g. “−35”).
+2. To add negative comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, but prepended with a slash sign (e.g. “/35”). Note that e.g. “7/5” is not an alteration by a 7/5 interval, but by 63/64 compounded with 81/80, which is 5103/5120.
 
 3. If both positive and negative comma shifts appear, then the total positive shift should be written to the left of the total negative shift.
 
@@ -110,7 +110,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 2. An FJS transposition line can be written either as alta or bassa, with no difference in meaning.
 
-3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with “5”, a transposition line of +7−5 will begin with “7−5”, etc. As with octave lines, “loco” following such a line is optional.
+3. An FJS transposition line begins with a compound FJS accidental, which appears just as it would if it was written on a staff. For example, a transposition line of +5 will begin with “5”, a transposition line of +7−5 will begin with “7/5”, etc. As with octave lines, “loco” following such a line is optional.
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
 
@@ -181,3 +181,9 @@ The following example uses the eight notes C, D, E<sup>5</sup>, F, G, A<sup>5</s
 <img src="../assets/rules/ottavation.png" alt="C–D–G–C–D–G–C–D–G, 5: E–A–B–E–A–B–E–A–B, loco: F–G–C–F–G–C–F–G–C, D–G–A–D–G–A–D–G–A">
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
+
+The following example denotes the constants φ, π (or τ), *e*, and γ, in the key of A.
+
+<img src="../assets/rules/irrational.png" alt="A–Fφ, A–Fπ, A–De, A–Bγ">
+
+<audio controls><source src="../assets/rules/irrational.mp3" type="audio/mpeg"></audio>

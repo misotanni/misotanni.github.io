@@ -218,7 +218,7 @@ You can also go the other way: determine the fifth shift of a prime given the va
 Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
 
 - In note naming, positive accidentals are written as a superscript of the number itself, and negative ones as a subscript of the number.
-- In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
+- In music notation, positive accidentals are written as the number itself, and negative ones as the number with a slash in front.
 
 You may have noticed that I used the words “positive” and “negative” rather than “upward” and “downward”. This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
 
@@ -338,7 +338,7 @@ So to answer the original question, the sum of two M3<sup>5</sup> is A5<sup>25</
 As mentioned, otonal and utonal do not mix. So if a note G♭ happened to have both +7 and −5 accidentals, it would be written as G♭<sup>7</sup><sub>5</sub>. The exact rules are as follows:
 
 - In note naming, use one superscript representing the merged positive accidentals, followed by one subscript representing the merged negative accidentals.
-- In music notation, the merged positive accidental is written first (if any), then the merged negative accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+- In music notation, the merged positive accidental is written first (if any), then the merged negative accidental with a slash in front (if any), then any conventional accidental, then the note.
 
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 

@@ -78,7 +78,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 1. Pour ajouter des commas positifs à une note, écrivez le nombre de l'altération composée devant la note. Pour la cohérence : On les écrit devant la note, pas derrière elle, comme avec des altérations conventionnelles. S'il y a une altération conventionnelle aussi, on écrit la microtonale encore devant la conventionnelle.
 
-2. Pour ajouter des commas négatifs à une note, écrivez le nombre de l'altération composée devant la note, avec un signe moins (exemple : −35).
+2. Pour ajouter des commas négatifs à une note, écrivez le nombre de l'altération composée devant la note, avec un signe moins (exemple : /35). Remarque: « 7/5 » ne représente pas une altération de 7/5, mais de 63/64 composé avec 81/80, donc 5103/5120.
 
 3. S'il y a en même temps des commas positifs et négatifs, on écrit premièrement le positif, puis un signe moins, puis le négatif.
 
@@ -112,7 +112,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 2. Il n'y a aucune différence entre les lignes de transposition *alta* ou *bassa* pour le FJS.
 
-3. Une ligne de transposition FJS commence avec une altération composée FJS, de la même manière que si elle était sur la portée. +5 devient donc « 5 » et +7−5 devient « 7−5 », etc. Il n'est pas obligatoire d'écrire « loco » lorsqu'elle termine.
+3. Une ligne de transposition FJS commence avec une altération composée FJS, de la même manière que si elle était sur la portée. +5 devient donc « 5 » et +7−5 devient « 7/5 », etc. Il n'est pas obligatoire d'écrire « loco » lorsqu'elle termine.
 
 4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs normales dues aux altérations accidentelles et celles d'armure.
 
@@ -183,3 +183,9 @@ Cet exemple-ci utilise les huit notes Do, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5
 <img src="../assets/rules/ottavation.png" alt="Do–Ré–Sol–Do–Ré–Sol–Do–Ré–Sol, 5 : Mi–La–Si–Mi–La–Si–Mi–La–Si, loco : Fa–Sol–Do–Fa–Sol–Do–Fa–Sol–Do, Ré–Sol–La–Ré–Sol–La–Ré–Sol–La">
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
+
+Ici, on voit les quatre constantes : φ, π (ou bien τ), *e*, et γ, en La.
+
+<img src="../assets/rules/irrational.png" alt="La–Faφ, La–Faπ, La–Ré(e), La–Siγ">
+
+<audio controls><source src="../assets/rules/irrational.mp3" type="audio/mpeg"></audio>

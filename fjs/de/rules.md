@@ -78,7 +78,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 1. Um positive Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note. Der Konsistenz halber werden sie vor, nicht nach, der Note geschrieben, genauso wie übliche Versetzungszeichen. (Wenn es auch ein übliches Versetzungszeichen gibt, dann auch vor ihm.)
 
-2. Um negative Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note, mit einem Minus-Zeichen (z.B. „−35“).
+2. Um negative Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note, mit einem Schrägstrich (z.B. „/35“). Bemerke, dass z.B. „7/5“ keine Versetzung von 7/5 bedeutet, sondern von 63/64 und gleichzeitig 81/80, also zusammen 5103/5120.
 
 3. Falls sowohl positive als auch negative Kommas vorkommen, wird das verbundene positive zuerst geschrieben, dann das Minus-Zeichen, dann das verbundene negative.
 
@@ -112,7 +112,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 2. Ob eine FJS-Transpositionslinie alta oder bassa ist, macht keinen Unterschied.
 
-3. Eine FJS-Transpositionslinie beginnt mit einem verbundenen FJS-Versetzungszeichen, genauso, wie man es bei einer Note schreiben würde. +5 erscheint also als „5“, +7−5 erscheint als „7−5“, usw. „loco“ danach zu schreiben, ist nicht notwendig.
+3. Eine FJS-Transpositionslinie beginnt mit einem verbundenen FJS-Versetzungszeichen, genauso, wie man es bei einer Note schreiben würde. +5 erscheint also als „5“, +7−5 erscheint als „7/5“, usw. „loco“ danach zu schreiben, ist nicht notwendig.
 
 4. Alle Noten unter einer FJS-Transpositionslinie **addieren** das Versetzungszeichen dieser Linie zu den üblichen Werten, die Versetzungszeichen und Vorzeichen bewirken.
 
@@ -183,3 +183,9 @@ Hier werden die acht Noten C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, A, und H<su
 <img src="../assets/rules/ottavation.png" alt="C–D–G–C–D–G–C–D–G, 5: E–A–H–E–A–H–E–A–H, loco: F–G–C–F–G–C–F–G–C, D–G–A–D–G–A–D–G–A">
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
+
+Hier stehen die vier Konstanten φ, π (oder auch τ), *e*, und γ, in der Tonart A.
+
+<img src="../assets/rules/irrational.png" alt="A–Fφ, A–Fπ, A–De, A–Hγ">
+
+<audio controls><source src="../assets/rules/irrational.mp3" type="audio/mpeg"></audio>

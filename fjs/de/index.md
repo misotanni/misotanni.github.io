@@ -57,7 +57,7 @@ Es gibt nur sieben Regeln, die alles, was man zur Notation jeglicher JI-Musik mi
 
 5. Für Notennamen gilt: das verbundene positive Versetzungszeichen wird hochgestellt, das negative tiefgestellt, nach dem üblichen Namen dazugeschrieben.
 
-6. Für Notenschrift gilt: zuerst schreibt man das verbundene positive Versetzungszeichen (falls vorhanden), danach mit einem Minus-Zeichen das negative (falls vorhanden), danach übliche Versetzungszeichen, danach die Note selbst.
+6. Für Notenschrift gilt: zuerst schreibt man das verbundene positive Versetzungszeichen (falls vorhanden), danach mit einem Schrägstrich das negative (falls vorhanden), danach übliche Versetzungszeichen, danach die Note selbst.
 
 7. Alles andere ist Kurzschrift.
 

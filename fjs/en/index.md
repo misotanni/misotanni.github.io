@@ -58,7 +58,7 @@ The following seven rules govern everything required to notate an arbitrary piec
 
 5. For note names, the positive compound accidental is added as a superscript and the negative compound accidental is added as a subscript to the right of the conventional name.
 
-6. For staff notation, the positive compound accidental is written first (if any), then the negative compound accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+6. For staff notation, the positive compound accidental is written first (if any), then the negative compound accidental with a slash in front (if any), then any conventional accidental, then the note.
 
 7. All else is shorthand.
 
