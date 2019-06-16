@@ -130,6 +130,8 @@ Among others, the following famous irrational constants work, too:
 
 All transcendental numbers work.
 
+Some of these make quite a lot of sense musically. φ is the interval obtained when looking for intervals whose summation and difference tones are equidistant (which is a direct consequence of the appearance of φ in the Fibonacci sequence). You may also have heard that φ is the *most irrational number*, which makes music involving it the polar opposite of just intonation in a way; this is one way where the golden ratio is not the standard of absolute beauty, but its exact opposite! *e*, due to its most famous limit definition, shows up as the limit in the following sequence: octave, two 3/2 fifths, three 4/3 fourths, four 5/4 major thirds, five 6/5 minor thirds (yes, this term is greater than the previous one, cursed 12-EDO intuition!) et cetera. (Completely unrelated are the uses of these constants as *logarithmic* ratios, e.g. in golden meantone and in Lucy Tuning.)
+
 There has been no attempt so far to represent negative or complex numbers in the FJS. :)
 
 ## More Experimental Features (\*)
