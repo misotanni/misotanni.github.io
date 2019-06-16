@@ -300,11 +300,11 @@ L'échelle sur Mi♭ est un peu plus longue.
 
 ### Comparaison de notation
 
-Dans cette [comparaison](../assets/comparison.pdf) de la pratique des trois systèmes, on voit une harmonisation d'une mélodie médiévale dans le mode dorien sur Ré, 12 mesures. Le fait que c'est la 5-limite donnerait, certes, un avantage injuste à Johnston… voyez vous-même.
+Dans cette [comparaison](../assets/compare/chorale.pdf) de la pratique des trois systèmes, on voit une harmonisation d'une mélodie médiévale dans le mode dorien sur Ré, 12 mesures. Le fait que c'est la 5-limite donnerait, certes, un avantage injuste à Johnston… voyez vous-même.
 
 Vous pouvez aussi écouter :
 
-<audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
 ## Jugement
 

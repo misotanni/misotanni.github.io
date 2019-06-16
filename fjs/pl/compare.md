@@ -298,11 +298,11 @@ Tak wyglądałoby to, gdybyśmy ustalili za tonikę *es*, zgodnie z zapisem Youn
 
 ### Porównanie notacji obok siebie
 
-To [przyrównanie](../assets/comparison.pdf) trzech notacji opiera się na 12-taktowej harmonizacji średniowiecznej melodii w skali doryckiej na *d* w 5-limicie. Że użyłem 5-limitu, powinno dać niesprawiedliwą przewagę BJ… sam zobacz.
+To [przyrównanie](../assets/compare/chorale.pdf) trzech notacji opiera się na 12-taktowej harmonizacji średniowiecznej melodii w skali doryckiej na *d* w 5-limicie. Że użyłem 5-limitu, powinno dać niesprawiedliwą przewagę BJ… sam zobacz.
 
 Możesz posłuchać:
 
-<audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
 ## Werdykt
 

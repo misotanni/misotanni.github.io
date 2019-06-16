@@ -7,11 +7,11 @@ This “crash course” was designed specifically with a focus on fast acquisiti
 ## Contents
 
 * [Introduction: Abandoning Enharmony](#introduction)
-* [Lesson 0: Preliminary](#lesson_0) 
-* [Lesson 1: Pythagorean Tuning](#lesson_1)
-* [Lesson 2: The Prime Intervals](#lesson_2)
-* [Lesson 3: Compound Accidentals](#lesson_3)
-* [Da Capo Al Fine: What Else?](#da_capo_al_fine)
+* [Lesson 0: Preliminary](#lesson-0) 
+* [Lesson 1: Pythagorean Tuning](#lesson-1)
+* [Lesson 2: The Prime Intervals](#lesson-2)
+* [Lesson 3: Compound Accidentals](#lesson-3)
+* [Da Capo Al Fine: What Else?](#da-capo-al-fine)
 
 ---
 
@@ -21,11 +21,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="../assets/example_1.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
+<img src="../assets/crash/chromatic-wrong.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="../assets/example_2.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
+<img src="../assets/crash/chromatic-right.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
@@ -35,7 +35,7 @@ But let's not forget that staff notation predates even the thought of using 12-E
 
 In other words, enharmonic equivalence is the only 12-EDO feature in staff notation. Everything else is independent.
 
-## <a name="lesson_0">Lesson 0: Preliminary</a>
+## <a name="lesson-0">Lesson 0: Preliminary</a>
 
 Before you start learning about the FJS, there are a few pieces of information that I must be sure you are familiar and comfortable with.
 
@@ -71,13 +71,13 @@ $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}
 
 This is just about all you need, so let's get started!
 
-## <a name="lesson_1">Lesson 1: Pythagorean Tuning</a>
+## <a name="lesson-1">Lesson 1: Pythagorean Tuning</a>
 
 You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
 
 Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below:
 
-<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
 All of them are “some type of major second” to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
 
@@ -130,14 +130,14 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 
 1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
+3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/crash/pythagorean-scale.png" alt="E–F♯–A–B–D–E"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Find the ratio of the Pythagorean comma (d2 in the FJS).
 6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
 
 You can check your answers [here](solutions.html).
 
-## <a name="lesson_2">Lesson 2: The Prime Intervals</a>
+## <a name="lesson-2">Lesson 2: The Prime Intervals</a>
 
 All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much – aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
 
@@ -159,11 +159,11 @@ Say we accept this at first: 5/4 is a type of major third. So we'll notate it as
 
 Listen to the difference between 81/64 and 5/4:
 
-<audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/big-comma.mp3" type="audio/mpeg"></audio>
 
 And the difference between 8192/6561 and 5/4:
 
-<audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/small-comma.mp3" type="audio/mpeg"></audio>
 
 Why should we choose the major third over the diminished fourth to notate 5/4? Ah, simplicity, I hear you say. The major third is only +4 fifths, while the diminished fourth is the much more complicated −8 fifths. But then in that case, why don't we use the *minor* third to notate 5/4 – clearly it is simpler, only −3 as opposed to +4 fifths. Oh, it's too far away now? Who are *you* to decide the exactly correct balance between simplicity and proximity?
 
@@ -234,11 +234,11 @@ Here is the harmonic series on A, up to the eighth harmonic, notated using the F
 
 Here is the same using staff notation:
 
-<img src="../assets/example_3.png" alt="A–A–E–A–C♯5–E–G7–A">
+<img src="../assets/crash/overtone-short.png" alt="A–A–E–A–C♯5–E–G7–A">
 
 Listen to this scale:
 
-<audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/overtone-short.mp3" type="audio/mpeg"></audio>
 
 As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use. (You can also think of a different analogy: instead of the sharp raising and the flat lowering, you can think of the sharp adding fifths and the flat removing fifths.)
 
@@ -251,9 +251,9 @@ At this point, I'd like to explain how these accidentals interact with each othe
 
 Why so? Because when this rule is considered in this way, it is much more logical, and because this is much more useful. Below is a demonstration of this rule:
 
-<img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
+<img src="../assets/crash/accidentals.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
 
-<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
 - In the first bar, we have a C♯<sup>5</sup> followed by just a bare C. Because it's the same letter-pitch in the same octave, it absorbs the sharp. Because it's now a C♯ in the same octave, it also absorbs the +5. So it reads C♯<sup>5</sup>, C♯<sup>5</sup>.
 - In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural; it cancels any FJS accidentals, but nothing else.** So this reads C♯<sup>5</sup>, C♯.
@@ -287,7 +287,7 @@ OK, that's all you need to know to notate the prime intervals. Below is one more
 
 You can check your answers [here](solutions.html).
 
-## <a name="lesson_3">Lesson 3: Compound Accidentals</a>
+## <a name="lesson-3">Lesson 3: Compound Accidentals</a>
 
 You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime (including 3), like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
 
@@ -319,7 +319,7 @@ Try using these methods to tackle the next exercise.
 1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
 2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
 3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/exercise_2.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
+4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/crash/just-minor.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 You can check your answers [here](solutions.html).
 
@@ -342,11 +342,11 @@ As mentioned, otonal and utonal do not mix. So if a note G♭ happened to have b
 
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 
-<img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
+<img src="../assets/crash/interval.png" alt="G♭7_5–F♯5_7">
 
 Here is what they sound like, respectively:
 
-<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
 Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. You can also add an interval to a note (e.g. G + M3<sup>5</sup> = B<sup>5</sup>) and you can subtract a note from another note (e.g. F<sup>7</sup> − C = P4<sup>7</sup>). That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
 
@@ -436,16 +436,16 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
 	- V chord: 3/2, 9/8, 21/16, 27/16, 15/8
 	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
-4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic: <img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic: <img src="../assets/crash/cadence.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again: 11/10, 10/9, 9/8, 8/7.
 	
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
 6. (HARD!) There are supporters of the “432 Hz movement”, which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
 
 You can check your answers [here](solutions.html).
 
-## <a name="da_capo_al_fine">Da Capo Al Fine: What Else?</a>
+## <a name="da-capo-al-fine">Da Capo Al Fine: What Else?</a>
 
 This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and transposition lines. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
 

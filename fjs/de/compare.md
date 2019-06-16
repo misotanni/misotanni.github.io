@@ -300,11 +300,11 @@ So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
 ### Notationsvergleich
 
-Bei diesem [Vergleich](../assets/comparison.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen… na ja, sieh dir es mal an.
+Bei diesem [Vergleich](../assets/compare/chorale.pdf) der Praxis der drei Systeme benutze ich eine mittelalterliche Melodie im dorischen Modus in der Tonart D, harmonisiert, 12 Takte lang. Die Tatsache, dass dies der 5-Limit ist, sollte Johnston unfair bevorzugen… na ja, sieh dir es mal an.
 
 Hör zu:
 
-<audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
 ## Entscheidung
 

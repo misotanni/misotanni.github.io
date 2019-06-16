@@ -7,11 +7,11 @@ Ce « cours intensif » a été créé pour juste ce but : pouvoir maîtriser
 ## Contenu
 
 * [Introduction : Abandonnez l'enharmonie](#introduction)
-* [Leçon 0 : Préliminaires](#lesson_0)
-* [Leçon 1 : L'accord pythagoricien](#lesson_1)
-* [Leçon 2 : Les intervalles premiers](#lesson_2)
-* [Leçon 3 : Altérations composées](#lesson_3)
-* [Da Capo Al Fine : Quoi d'autre ?](#da_capo_al_fine)
+* [Leçon 0 : Préliminaires](#lesson-0)
+* [Leçon 1 : L'accord pythagoricien](#lesson-1)
+* [Leçon 2 : Les intervalles premiers](#lesson-2)
+* [Leçon 3 : Altérations composées](#lesson-3)
+* [Da Capo Al Fine : Quoi d'autre ?](#da-capo-al-fine)
 
 ---
 
@@ -21,11 +21,11 @@ Nous sommes tous habitués à la notation de portée conventionnelle, et à ses 
 
 Par exemple, ici nous avons la gamme chromatique :
 
-<img src="../assets/example_1.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–La♯–Si–Do">
+<img src="../assets/crash/chromatic-wrong.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–La♯–Si–Do">
 
 Non, attendez. On l'écrit normalement comme ça :
 
-<img src="../assets/example_2.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–Si♭–Si–Do">
+<img src="../assets/crash/chromatic-right.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–Si♭–Si–Do">
 
 Pour nous, bien sûr, il n'y a pas de différence entre La dièse et Si bémol. Nous savons que ce sont deux noms différents qui signifient deux notes différentes de hauteur identique. Le choix de la notation dépend donc de la lisibilité ou la cohérence ou la simplicité, selon le sens, mais les deux signifient le même.
 
@@ -35,7 +35,7 @@ Mais n'oublions pas que la notation de portée fut inventée beaucoup avant l'id
 
 L'enharmonie est donc le seul aspect de 12-EDO dans la notation de portée. Le reste fonctionne aussi sans 12-EDO.
 
-## <a name="lesson_0">Leçon 0 : Préliminaires</a>
+## <a name="lesson-0">Leçon 0 : Préliminaires</a>
 
 Avant l'apprentissage du FJS, il y a encore quelques informations supplémentaires. Vous devez être bien confortable avec elles. Il me faut que je sois sûr.
 
@@ -71,13 +71,13 @@ $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}
 
 C'est tout ce dont vous avez besoin. Commençons, alors !
 
-## <a name="lesson_1">Leçon 1 : L'accord pythagoricien</a>
+## <a name="lesson-1">Leçon 1 : L'accord pythagoricien</a>
 
 Vous pensez peut-être que l'élimination de l'enharmonie permet de représenter beaucoup plus de hauteurs qu'avant, et vous avez raison. Pourtant, l'élimination de l'enharmonie ne suffit pas pour représenter toute l'intonation juste d'une manière logique. Un avantage de l'intonation juste est qu'elle peut exprimer de petites différences de hauteur et donne donc de différentes couleurs aux différents intervalles.
 
 Imaginez la séquence d'intervalles suivante : 11/10, 10/9, 9/8, 8/7. Écoutez :
 
-<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
 La plupart d'entre nous entend ici quatre « secondes environ majeures ». Mais ce serait injuste de les nommer égales et représenter toutes avec une seconde majeure sur la portée. Ce sont de différents intervalles. L'élimination de ces différences dans un système où elles comptent le plus est une erreur.
 
@@ -130,14 +130,14 @@ Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non ! Pou
 
 1. Calculez les intervalles FJS qui correspondent à ces rapports pythagoriciens : 2187/2048, 1024/729, 8192/6561.
 2. Calculez les rapports pythagoriciens qui correspondent à ces intervalles : septième diminuée, quinte augmentée, tierce diminuée.
-3. Trouvez les rapports entre les degrés de cette gamme : <img src="../assets/exercise_1.png" alt="Mi–Fa♯–La–Si–Ré–Mi"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
+3. Trouvez les rapports entre les degrés de cette gamme : <img src="../assets/crash/pythagorean-scale.png" alt="Mi–Fa♯–La–Si–Ré–Mi"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Écrivez cette gamme dans le FJS avec la tonique Ré : 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Calculez le rapport du comma pythagoricien (dans le FJS, une seconde diminuée).
 6. (DIFFICILE !) Le rapport pythagoricien 3<sup>53</sup>/2<sup>84</sup> est minuscule : il ne compte qu'environ 3.6 cents. Trouvez sa représentation FJS.
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
-## <a name="lesson_2">Leçon 2 : Les intervalles premiers</a>
+## <a name="lesson-2">Leçon 2 : Les intervalles premiers</a>
 
 Vous avez maintenant appris comment écrire l'accord pythagoricien. C'était sûrement un peu ennuyeux : l'accord pythagoricien ne diffère pas beaucoup de 12-EDO, et ce n'est pas assez pour pouvoir décrire toute l'intonation juste.
 
@@ -159,11 +159,11 @@ Supposons que nous l'acceptons d'abord. 5/4 est alors un genre de tierce majeure
 
 Écoutez la différence entre 81/64 et 5/4 :
 
-<audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/big-comma.mp3" type="audio/mpeg"></audio>
 
 Et celle entre 8192/6561 et 5/4 :
 
-<audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/small-comma.mp3" type="audio/mpeg"></audio>
 
 Pourquoi alors utiliser la tierce majeure et pas la quarte diminuée pour 5/4 ? En raison de la simplicité, vous dites ? La tierce majeure s'élève à +4 quintes pendant que la quarte diminuée à −8, donc beaucoup plus compliquée. D'après cela, pourquoi n'utilisons-nous pas la tierce *mineure* pour 5/4, qui est encore plus simple : seulement −3 quintes au lieu de +4. Maintenant, vous dites qu'elle est trop éloignée ? Avez-*vous* l'autorité de décider l'équilibre correct entre simplicité et proximité ?
 
@@ -234,11 +234,11 @@ Voyez l'échelle harmonique sur La jusqu'au huitième harmonique :
 
 Sur la portée :
 
-<img src="../assets/example_3.png" alt="La–La–Mi–La–Do♯5–Mi–Sol7–La">
+<img src="../assets/crash/overtone-short.png" alt="La–La–Mi–La–Do♯5–Mi–Sol7–La">
 
 Écoutez-la :
 
-<audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/overtone-short.mp3" type="audio/mpeg"></audio>
 
 Comme vous voyez, toutes les altérations dans l'échelle harmonique sont positives (cela est vrai pour toute l'échelle qui est infinie). N'est-il pas beaucoup plus propre que si nous utilisions la direction au lieu de l'otonalité ? Je comprends que vous pourriez être d'abord surpris ou surprise. Mais j'espère que vous verrez au fil du temps que le FJS est en fait plus simple et plus logique grâce à cette règle. (Vous pouvez aussi voir une autre analogie : remarquez que le dièse additionne des quintes, et le bémol en soustrait.)
 
@@ -251,9 +251,9 @@ Je voudrais maintenant expliquer comment ces altérations interagissent.
 
 Pourquoi ? Parce que cette règle est plus logique et plus pratique. Voici une démonstration :
 
-<img src="../assets/example_4.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
+<img src="../assets/crash/accidentals.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
 
-<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
 - Dans la première mesure, nous avons un Do♯<sup>5</sup> puis un Do. Puisque c'est le même ton diatonique dans la même octave, il absorbe le dièse. Puisque c'est alors un Do♯ dans la même octave, il absorbe aussi le +5. Nous avons donc Do♯<sup>5</sup>, Do♯<sup>5</sup>.
 - Dans la deuxième mesure, il y a un Do♯<sup>5</sup> puis un Do avec une altération +1. **+1 est l'équivalent d'un bécarre dans le FJS, il annule toutes les altérations FJS, mais rien d'autre.** Donc cela signifie Do♯<sup>5</sup>, Do♯.
@@ -287,7 +287,7 @@ D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles 
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
-## <a name="lesson_3">Leçon 3 : Altérations composées</a>
+## <a name="lesson-3">Leçon 3 : Altérations composées</a>
 
 Vous savez maintenant écrire une grande partie de l'intonation juste dans le FJS. Vous savez représenter tout l'accord pythagoricien et tous les intervalles premiers. Mais nous n'avons pas encore terminé ; il nous manque tous les intervalles qui sont composés de plus qu'un nombre premier (3 inclu), comme 15/8 ou 25/16, et il nous manque les intervalles qui n'apparaissent pas du tout dans l'échelle harmonique, comme 5/3, 6/5, ou 9/7.
 
@@ -319,7 +319,7 @@ Essayez d'utiliser ces méthodes pour résoudre l'exercice suivant.
 1. Trouvez les formes FJS des rapports suivants : 5/3, 6/5, 7/6, 9/5.
 2. Trouvez les rapports correspondants aux formes FJS suivants : (seconde majeure)<sup>5</sup>, (tierce majeure)<sub>7</sub>, (septième mineure)<sup>11</sup>.
 3. Écrivez dans le FJS, sur Do, l'échelle ptolémaïque dont les rapports sont : 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/exercise_2.png" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
+4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/crash/just-minor.png" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
@@ -342,11 +342,11 @@ Comme j'ai déjà expliqué, l'otonalité et l'utonalité ne sont jamais mixtes.
 
 Donc, les notes Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub> (soit 7/5 et 10/7 sur Do) seraient représentés de la façon suivante :
 
-<img src="../assets/example_5.png" alt="Sol♭7_5–Fa♯5_7">
+<img src="../assets/crash/interval.png" alt="Sol♭7_5–Fa♯5_7">
 
 Écoutez-les :
 
-<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
 Depuis que vous savez utiliser des altérations composées, vous pouvez faire beaucoup plus avec le FJS. Vous pouvez maintenant additionner, soustraire, et renverser des intervalles FJS comme vous voulez. Vous pouvez aussi additionner un intervalle à une note (Sol + (tierce majeure)<sup>5</sup> = Si<sup>5</sup>) et soustraire deux notes (Fa<sup>7</sup> − C = (quarte juste)<sup>7</sup>). Donc vous pouvez maintenant utiliser les identités de l'addition, la soustraction et le renversement pour trouver vite les formes FJS des intervalles que vous ne pouviez pas représenter avant.
 
@@ -436,16 +436,16 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
-4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique : <img src="../assets/exercise_3.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique : <img src="../assets/crash/cadence.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici : 11/10, 10/9, 9/8, 8/7. La tonique, c'est La.
 
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 	
 6. (DIFFICILE !) Il y a une communité qui supporte la « musique 432 Hz », dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
-## <a name="da_capo_al_fine">Da Capo Al Fine : Quoi d'autre ?</a>
+## <a name="da-capo-al-fine">Da Capo Al Fine : Quoi d'autre ?</a>
 
 C'est *tout* dont vous avez besoin pour utiliser le FJS ! Vous pouvez maintenant écrire toute la musique en intonation juste dans le FJS. Le reste du FJS, ce sont des méthodes d'abréviation, y compris des armures FJS et des lignes de transposition, que j'ai créées pour pouvoir éviter d'écrire beaucoup d'altérations dans les cas les plus fréquents. Ces éléments n'apparaissent pas dans ce cours. Si vous voulez apprendre comment les utiliser, lisez la [description formelle complète](rules.html) du FJS, où vous trouverez aussi des règles exactes si vous avez un doute.
 

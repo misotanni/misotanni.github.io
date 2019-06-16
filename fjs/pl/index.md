@@ -8,7 +8,7 @@ title: FJS (Funkcyjny System Stroju Naturalnego)
 
 ---
 
-<img src="../assets/impression.png" alt="Tak wygląda FJS!">
+<img src="../assets/index/impression.png" alt="Tak wygląda FJS!">
 
 # Witamy
 
@@ -86,4 +86,4 @@ Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, 
 
 **Czym FJS będzie dla Ciebie?**
 
-<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>

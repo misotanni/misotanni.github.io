@@ -144,42 +144,42 @@ Je ne suis pas un créateur têtu qui ne permettra pas que quelqu'un modifie son
 
 Ici on voit Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub>.
 
-<img src="../assets/example_5.png" alt="Sol♭7_5–Fa♯5_7">
+<img src="../assets/crash/interval.png" alt="Sol♭7_5–Fa♯5_7">
 
-<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
 Ici : Do♯<sup>5</sup> Do♯<sup>5</sup> ; Do♯<sup>5</sup> Do♯ ; Do♯<sup>5</sup> Do ; Do♯<sup>5</sup> Do<sup>5</sup>.
 
-<img src="../assets/example_4.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
+<img src="../assets/crash/accidentals.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
 
-<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
 L'échelle suivante est celle de La majeur ; La, Si, Do♯<sup>5</sup>, Ré, Mi, Fa♯<sup>5</sup>, Sol♯<sup>5</sup>, La.
 
-<img src="../assets/example_6.png" alt="♯Fa–Do–Sol Fa5 Do5 Sol5 : La–Si–Do–Ré–Mi–Fa–Sol–La">
+<img src="../assets/rules/mezzo-soprano.png" alt="♯Fa–Do–Sol Fa5 Do5 Sol5 : La–Si–Do–Ré–Mi–Fa–Sol–La">
 
-<audio controls><source src="../assets/audio_17.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/rules/mezzo-soprano.mp3" type="audio/mpeg"></audio>
 
 L'échelle suivante est la partie 8–16 de l'échelle harmonique sur Fa ; Fa, Sol, La<sup>5</sup>, Si♭<sup>11</sup>, Do, Ré♭<sup>13</sup>, Mi♭<sup>7</sup>, Mi<sup>5</sup>, Fa. (L'armure n'est pas pratique, mais possible.)
 
-<img src="../assets/example_7.png" alt="♭Si–Ré La5 Mi5 Si11 Ré13 Mi(♭)7 : Fa–Sol–La–Si–Do–Ré–Mi♭–Mi♮–Fa">
+<img src="../assets/rules/overtone-fragment.png" alt="♭Si–Ré La5 Mi5 Si11 Ré13 Mi(♭)7 : Fa–Sol–La–Si–Do–Ré–Mi♭–Mi♮–Fa">
 
-<audio controls><source src="../assets/audio_18.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/rules/overtone-fragment.mp3" type="audio/mpeg"></audio>
 
 La progression suivante contient deux accords de septième diminuée 10:12:14:17 et deux triades majeures 4:5:6, sur La, Ré, Sol, Do, dans cet ordre.
 
-<img src="../assets/example_8.png" alt="Mi5 Si5 Fa(♯)5 Do(♯)5 Si(♭)17 La(♭)17 : Do♯–Si♭–Mi1–Sol7, Ré–La–Ré–Fa♯, Si–La♭–Ré–Fa7, Do–Sol–Do–Mi">
+<img src="../assets/rules/progression.png" alt="Mi5 Si5 Fa(♯)5 Do(♯)5 Si(♭)17 La(♭)17 : Do♯–Si♭–Mi1–Sol7, Ré–La–Ré–Fa♯, Si–La♭–Ré–Fa7, Do–Sol–Do–Mi">
 
-<audio controls><source src="../assets/audio_19.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/rules/progression.mp3" type="audio/mpeg"></audio>
 
 La progression suivante démontre l'utilité de la règle qu'un changement d'armure pythagoricien ne signifie pas toujours celui du FJS. Ici on voit : La majeur, Mi majeur, La majeur, La septième de dominante, Ré majeur, Sol majeur, Ré majeur deuxième renversement, Mi majeur avec La, La septième de dominante, Ré majeur. Ici, les triades majeures sont toutes 4:5:6 et les accords de septième de dominante sont tous 4:5:6:7. L'armure FJS ne disparait pas après la modulation, ce qui est utile parce qu'il faudrait qu'un Sol dièse en Ré majeur soit +5.
 
-<img src="../assets/example_9.png" alt="♯Fa–Do–Sol Fa5 Do5 Sol5 : La–Mi–Do–La, Mi–Mi–Si–Sol, La–Mi–Do–La, Sol7–Mi–Do–La, ♯Fa–Do : Fa–La–Ré–La, Sol–Si–Ré–Sol, La–La–Ré–Fa, La–Si–Mi–Sol♯, La–Do♯–Mi–Sol7, Ré–La–Ré–Fa♯">
+<img src="../assets/rules/key-change.png" alt="♯Fa–Do–Sol Fa5 Do5 Sol5 : La–Mi–Do–La, Mi–Mi–Si–Sol, La–Mi–Do–La, Sol7–Mi–Do–La, ♯Fa–Do : Fa–La–Ré–La, Sol–Si–Ré–Sol, La–La–Ré–Fa, La–Si–Mi–Sol♯, La–Do♯–Mi–Sol7, Ré–La–Ré–Fa♯">
 
-<audio controls><source src="../assets/audio_20.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/rules/key-change.mp3" type="audio/mpeg"></audio>
 
 Cet exemple-ci utilise les huit notes Do, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5</sup>, La, et Si<sup>5</sup> sans aucune armure.
 
-<img src="../assets/example_10.png" alt="Do–Ré–Sol–Do–Ré–Sol–Do–Ré–Sol, 5 : Mi–La–Si–Mi–La–Si–Mi–La–Si, loco : Fa–Sol–Do–Fa–Sol–Do–Fa–Sol–Do, Ré–Sol–La–Ré–Sol–La–Ré–Sol–La">
+<img src="../assets/rules/ottavation.png" alt="Do–Ré–Sol–Do–Ré–Sol–Do–Ré–Sol, 5 : Mi–La–Si–Mi–La–Si–Mi–La–Si, loco : Fa–Sol–Do–Fa–Sol–Do–Fa–Sol–Do, Ré–Sol–La–Ré–Sol–La–Ré–Sol–La">
 
-<audio controls><source src="../assets/audio_21.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>

@@ -8,7 +8,7 @@ title: Le Système fonctionnel de l'intonation juste
 
 ---
 
-<img src="../assets/impression.png" alt="Voici le FJS !">
+<img src="../assets/index/impression.png" alt="Voici le FJS !">
 
 # Bienvenue
 
@@ -86,4 +86,4 @@ Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour
 
 **Le FJS, que signifiera-t-il pour toi ?**
 
-<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>

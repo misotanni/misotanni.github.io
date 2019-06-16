@@ -7,11 +7,11 @@ Ten kurs stworzyłem z myślą o przyswajalności. Nie skupię się na pewnych u
 ## Spis treści
 
 * [Wprowadzenie: Koniec z enharmonią](#introduction)
-* [Lekcja 0: Wiadomości wstępne](#lesson_0) 
-* [Lekcja 1: Strój pitagorejski](#lesson_1)
-* [Lekcja 2: Interwały pierwsze](#lesson_2)
-* [Lekcja 3: Składanie alteracji](#lesson_3)
-* [Da capo al fine: Co dalej?](#da_capo_al_fine)
+* [Lekcja 0: Wiadomości wstępne](#lesson-0) 
+* [Lekcja 1: Strój pitagorejski](#lesson-1)
+* [Lekcja 2: Interwały pierwsze](#lesson-2)
+* [Lekcja 3: Składanie alteracji](#lesson-3)
+* [Da capo al fine: Co dalej?](#da-capo-al-fine)
 
 ---
 
@@ -21,11 +21,11 @@ Wszyscy jesteśmy zaznajomieni z zapisem nutowym i występującymi w nim znakami
 
 Oto na przykład skala dodekafoniczna w 12-EDO:
 
-<img src="../assets/example_1.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–ais–h–c">
+<img src="../assets/crash/chromatic-wrong.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–ais–h–c">
 
 Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
-<img src="../assets/example_2.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–b–h–c">
+<img src="../assets/crash/chromatic-right.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–b–h–c">
 
 Oczywiście zamiana *ais* na *b* w tym miejscu nie robi naszym uszom różnicy. Wiemy, że to są dwie różne nazwy na tę samą wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są one mimo wszystko swoimi synonimami.
 
@@ -35,7 +35,7 @@ Mimo tego nie zapominajmy, że historia zapisu nutowego wyprzedza sam pomysł 12
 
 Innymi słowy równoważność enharmoniczna to jedyna 12-EDO-owa własność, która daje o sobie znać w zapisie nutowym – cała reszta jest niezwiązana.
 
-## <a name="lesson_0">Lekcja 0: Wiadomości wstępne</a>
+## <a name="lesson-0">Lekcja 0: Wiadomości wstępne</a>
 
 Oto krótka lista wiadomości, które musisz mieć dobrze przyswojone, żebyś mógł zrozumieć FJS:
 
@@ -70,13 +70,13 @@ $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}
 
 To praktycznie wszystko, co musisz wiedzieć – zaczynajmy więc!
 
-## <a name="lesson_1">Lekcja 1: Strój pitagorejski</a>
+## <a name="lesson-1">Lekcja 1: Strój pitagorejski</a>
 
 Pewnie myślisz, że gdy pozbyliśmy się równoważności enharmonicznej z pięciolinii, możemy teraz zanotować o wiele szerszą paletę wysokości – i myślisz słusznie. Jednak sama lobotomia enharmoniczna nie spowoduje, że będzie można przedstawić każdy strój naturalny w logiczny sposób. Jedną z zalet strojów naturalnych jest możliwość zakodowania drobnych różnic w wysokościach dźwięków, nadając poszczególnym interwałom unikatowe niuanse brzmieniowe.
 
 Oto kilka naturalnych interwałów: 11/10, 10/9, 9/8 i 8/7. Posłuchaj, jak brzmią:
 
-<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
 Wszystkie cztery słyszymy jako „jakieś” sekundy wielkie, ale błędem byłoby zapisać każdy z nich tym samym interwałem sekundy wielkiej. To szeroko różniące się od siebie interwały, a przyduszanie różnorodności tam, gdzie wyróżnia, zaprzecza ideom przewodnim JI.
 
@@ -129,14 +129,14 @@ Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u tego nie potr
 
 1. Znajdź FJS-owe interwały odpowiadające wymienionym ułamkom stroju pitagorejskiego: 2187/2048, 1024/729, 8192/6561.
 2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3\>\>. (Pierwszy interwał to septyma zmniejszona, nie mała).
-3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/exercise_1.png" alt="e–fis–a–h–d–e"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
+3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/crash/pythagorean-scale.png" alt="e–fis–a–h–d–e"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Zapisz tę skalę w FJS-ie, przyjmując za tonikę *d*: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2\>\>.
 6. (Trudne!). Pewien wyjątkowo wąski interwał w stroju pitagorejskim, mierzący ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-## <a name="lesson_2">Lekcja 2: Interwały pierwsze</a>
+## <a name="lesson-2">Lekcja 2: Interwały pierwsze</a>
 
 A więc umiesz zapisać wszystko, co pitagorejskie. To całkiem nudna zdolność, ponieważ strój pitagorejski wcale nie odbiega tak daleko od 12-EDO (oprócz tego, że jego sekunda zmniejszona nie równa się prymie czystej). Przede wszystkim nie daje nam to jeszcze możliwości zapisania każdego JI-owego stroju.
 
@@ -158,11 +158,11 @@ Załóżmy, że przyjmiemy 5/4 za rodzaj tercji wielkiej. Zapiszemy więc ją ja
 
 Posłuchaj, jak różnią się 81/64 i 5/4:
 
-<audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/big-comma.mp3" type="audio/mpeg"></audio>
 
 A teraz 8192/6561 i 5/4:
 
-<audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/small-comma.mp3" type="audio/mpeg"></audio>
 
 Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej dla 5/4? Twierdzisz pewnie, że prostota jest ważniejsza. Tercja wielka to tylko +4 kwinty, a kwarta zmniejszona to przerażające −8 kwint. Ale w takim razie dlaczego nie posłużylibyśmy się tercją *małą* dla 5/4? Przecież jest jeszcze prostsza – −3 kwinty, w porównaniu do +4. A, to teraz za daleko? Skąd myślisz, że wiesz dokładnie, kiedy stawiać na prostotę, a kiedy na wierność przybliżenia?
 
@@ -233,11 +233,11 @@ Oto seria alikwotów zbudowana na *a*, aż do ósmego alikwotu, zapisana za pomo
 
 To samo, zapisane na pięciolinii:
 
-<img src="../assets/example_3.png" alt="a–a–e–a–cis5–e–g7–a">
+<img src="../assets/crash/overtone-short.png" alt="a–a–e–a–cis5–e–g7–a">
 
 To samo, w wersji audio:
 
-<audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/overtone-short.mp3" type="audio/mpeg"></audio>
 
 Nietrudno się domyślić, że wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (otonalne). Nie jest to wygodniejsze, niż gdybyśmy przejmowali się kierunkami? Z czasem pojmiesz, jak logiczny i łatwy w użyciu jest cały FJS dzięki temu. (Możesz posłużyć się inną analogią: zamiast krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o znakach dodających i odejmujących kwinty).
 
@@ -250,9 +250,9 @@ Teraz chciałbym wyjaśnić, jak alteracje oddziałują na siebie nawzajem na pi
 
 Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej spójna i przez to o wiele bardziej użyteczna. Oto krótka demonstracja:
 
-<img src="../assets/example_4.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
+<img src="../assets/crash/accidentals.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
 
-<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
 - W pierwszym takcie mamy *c*♯5, po którym następuje gołe *c*. Ponieważ druga nuta jest na tym samym polu, co pierwsza, dziedziczy ona krzyżyk ♯, a ponieważ jest to teraz *cis* w tej samej oktawie, dziedziczy również +5. W takim razie mamy *cis*<sup>5</sup>, *cis*<sup>5</sup>.
 - W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz tego.** W takim razie mamy *cis*<sup>5</sup>, *cis*.
@@ -286,7 +286,7 @@ To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jesz
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-## <a name="lesson_3">Lekcja 3: Składanie alteracji</a>
+## <a name="lesson-3">Lekcja 3: Składanie alteracji</a>
 
 Teraz wiesz, jak przedstawić dużą część JI w FJS-ie. Potrafisz zapisać każdą wysokość stroju pitagorejskiego oraz każdy interwał pierwszy. Ale to wciąż nie wszystko – co na przykład z interwałami złożonymi z więcej niż jednej liczby pierwszej (włączając 3), takimi jak 15/8 czy 25/16? A co z tymi, które nie występują jako alikwoty, takimi jak 5/3, 6/5 czy 9/7?
 
@@ -318,7 +318,7 @@ Spróbuj użyć tych wszystkich metod, by poradzić sobie z następnym zestawem 
 1. Zapisz w FJS-ie następujące interwały: 5/3, 6/5, 7/6, 9/5.
 2. Znajdź wartości następujących FJS-owych interwałów: 2<sup>5</sup>, 3<sub>7</sub>, 7<sup>11</sup>.
 3. Zapisz skalę diatoniczną Ptolemeusza od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/exercise_2.png" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
+4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/crash/just-minor.png" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
@@ -341,11 +341,11 @@ Jak powiedziałem, otonalne i utonalne alteracje nie wchodzą w interakcję, wi�
 
 Zatem wysokości *ges*<sup>7</sup><sub>5</sub> i *fis*<sup>5</sup><sub>7</sub> (odpowiednio 7/5 i 10/7 od *c*) zapisalibyśmy następująco:
 
-<img src="../assets/example_5.png" alt="ges7_5–fis5_7">
+<img src="../assets/crash/interval.png" alt="ges7_5–fis5_7">
 
 A brzmią one następująco:
 
-<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
 Jak już zdefiniowaliśmy złożone alteracje, możemy dokonać o wiele więcej dzięki FJS. W szczególności możemy dodawać, odejmować i odwracać dowolne interwały. Możemy też dodać (zastosować) interwał do wysokości (np. *g* + 3<sup>5</sup> = *h*<sup>5</sup>) i odjąć wysokość od wysokości (czyli wyliczyć interwał spomiędzy nich – np. *f*<sup>7</sup> − *c* = 4<sup>7</sup>). W ten sposób możesz używać już poznanych własności dodawania, odejmowania i odwracania, by znaleźć FJS-owe odpowiedniki interwałów, których wcześniej po prostu nie byłeś w stanie przekonwertować.
 
@@ -435,16 +435,16 @@ Teraz możesz w końcu dowiedzieć się, dlaczego to właśnie pierwiastek kwadr
 	- S<sub>II</sub>: 10/9, 5/4, 4/3,   5/3,   1/1
 	- D:              3/2,  9/8, 21/16, 27/16, 15/8
 	- T:              1/1,  9/8, 5/4,   3/2,   15/8
-4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki: <img src="../assets/exercise_3.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki: <img src="../assets/crash/cadence.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7.
 
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 	
 6. (Trudne!). Tak zwany „ruch 432-hercowy” uparcie twierdzi, że przestrajanie *a* z 440 na 432 Hz poprawia fizyczny i duchowy aspekt muzyki. (Nie ma tu znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający temu przestrojeniu.
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-## <a name="da_capo_al_fine">Da capo al fine: Co dalej?</a>
+## <a name="da-capo-al-fine">Da capo al fine: Co dalej?</a>
 
 To już *wszystko*, co potrzebujesz wiedzieć, by korzystać z FJS-u. Teraz możesz napisać dowolny utwór naturalny z użyciem właśnie niego. Pozostały jedynie pewne skrótowe metody zapisu, które wymyśliłem, by ułatwić sobie zapis – na przykład klucze i chwilowe transpozycje. Nie są one opisane tutaj – zamiast tego spójrz do [pełnego formalnego opisu](rules.html), by się o nich nauczyć (tam też powinieneś sięgać po reguły dla odniesienia).
 

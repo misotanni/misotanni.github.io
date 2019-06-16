@@ -76,13 +76,13 @@ Cette page contient plus d'exemples du FJS en pratique.
 
 ## Listes d'échelles
 
-J'ai utilisé le FJS pour énumérer les tons que j'ai utilisés dans une pièce en JI. Par exemple, voici les [listes d'accords](../assets/tuning.pdf) pour deux pièces, *Overture of Opulence* et *Meditations on a Medieval Theme Remix*, dans *Justin Tonation*.
+J'ai utilisé le FJS pour énumérer les tons que j'ai utilisés dans une pièce en JI. Par exemple, voici les [listes d'accords](../assets/examples/tuning.pdf) pour deux pièces, *Overture of Opulence* et *Meditations on a Medieval Theme Remix*, dans *Justin Tonation*.
 
 L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une (tierce mineure)<sub>25</sub>, je la reconnais tout de suite : c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements* : 729/640 est déroutant, mais une (seconde majeure)<sub>5</sub> ne l'est pas ; un 9/8 élevé d'un comma syntonique.
 
 ## Notation
 
-Ceci est une [interprétation](../assets/cmaj.pdf) du Prélude en Do majeur de Johann Sebastian Bach, BWV 846, du Clavier bien tempéré (1<sup>er</sup> livre). Elle utilise l'accord suivant :
+Ceci est une [interprétation](../assets/examples/cmaj.pdf) du Prélude en Do majeur de Johann Sebastian Bach, BWV 846, du Clavier bien tempéré (1<sup>er</sup> livre). Elle utilise l'accord suivant :
 
 - 4:5:6(:15) pour des triades (accords de septième) majeur(e)s ;
 - 10:12:15(:18) pour des triades (accords de septième) mineur(e)s ;
@@ -93,7 +93,7 @@ Une armure FJS est démontrée aussi.
 
 Écoutez :
 
-<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 
 ## Vidéos
 

@@ -300,11 +300,11 @@ Here is what it would be if it used E♭ to notate the tonic; a little less conc
 
 ### Notation Comparison
 
-This [comparison](../assets/comparison.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage… well, see for yourself.
+This [comparison](../assets/compare/chorale.pdf) of the three systems in practice uses a 12-bar harmonization of a medieval melody in the Dorian mode on D in 5-limit just intonation. The fact that it's 5-limit should give Johnston's system an unfair advantage… well, see for yourself.
 
 Listen to it:
 
-<audio controls><source src="../assets/audio_6.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
 ## Verdict
 

@@ -14,7 +14,7 @@ Input: <br />
 Output: <br />
 <div id="output"></div>
 
-<link rel="stylesheet" href="../assets/calcsheets.css">
-<script src="../assets/fjs.js"></script>
-<script src="../assets/calc.js"></script>
+<link rel="stylesheet" href="../assets/calc/calcsheets.css">
+<script src="../assets/calc/fjs.js"></script>
+<script src="../assets/calc/calc.js"></script>
 

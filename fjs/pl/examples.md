@@ -76,13 +76,13 @@ Tutaj znajdziesz jeszcze więcej przykładów zastosowania FJS.
 
 ## Listy skal
 
-Używam FJS, aby zapisać pełną listę tonów użytych w konkretnej kompozycji JI-owej. Na przykład tutaj znajdują się [listy strojeniowe](../assets/tuning.pdf) dla dwóch kompozycji: *Overture of Opulence* oraz *Meditations on a Medieval Theme Remix*, z *Justin Tonation*.
+Używam FJS, aby zapisać pełną listę tonów użytych w konkretnej kompozycji JI-owej. Na przykład tutaj znajdują się [listy strojeniowe](../assets/examples/tuning.pdf) dla dwóch kompozycji: *Overture of Opulence* oraz *Meditations on a Medieval Theme Remix*, z *Justin Tonation*.
 
 Używanie tutaj FJS pozwala mi bez problemu rozpoznać funkcję jakiegoś tonu, nawet jeśli z samego ułamku nic nie rozpoznaję (a często używam skomplikowanych ułamków). Na przykład 243/200 mało mi mówi, ale zapis tego samego jako 3\><sub>25</sub> sprawia, że od razu rozpoznaję go jako 6/5 podniesione o jeszcze jeden komat syntoniczny. Inny przykład z innej mojej kompozycji, *Symphony of the Elements*: 729/640 nie jest szczególnie przejrzyste, ale 2<sub>5</sub> dużo bardziej; 9/8 podniesione o komat syntoniczny.
 
 ## Notacja
 
-Tutaj znajduje się [adaptacja](../assets/cmaj.pdf) preludium *C*-dur z *Das Wohltemperierte Klavier* (tom I), BWV 846, Jana Sebastiana Bacha. Używam w nim następujących konwencji:
+Tutaj znajduje się [adaptacja](../assets/examples/cmaj.pdf) preludium *C*-dur z *Das Wohltemperierte Klavier* (tom I), BWV 846, Jana Sebastiana Bacha. Używam w nim następujących konwencji:
 
 - 4:5:6(:15) dla trójdźwięków (czterodźwięków septymowych) durowych;
 - 10:12:15(:18) dla trójdźwięków (czterodźwięków septymowych) molowych;
@@ -93,7 +93,7 @@ Znajduje się tu także FJS-owe oznaczenie tonacji.
 
 Posłuchaj:
 
-<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 
 ## Wideo
 

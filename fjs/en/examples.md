@@ -76,13 +76,13 @@ This page contains more examples of the FJS in usage.
 
 ## Scale Listing
 
-I have used the FJS to list the pitches I have used in a Just Intonation piece. For example, here are the [tuning sets](../assets/tuning.pdf) for two pieces, *Overture of Opulence* and *Meditations on a Medieval Theme Remix*, from *Justin Tonation*.
+I have used the FJS to list the pitches I have used in a Just Intonation piece. For example, here are the [tuning sets](../assets/examples/tuning.pdf) for two pieces, *Overture of Opulence* and *Meditations on a Medieval Theme Remix*, from *Justin Tonation*.
 
 Using the FJS in these contexts helps me immediately recognize the function of a note even if its ratio to the initial tonic is very complex (and I do use complex ratios). For instance, 243/200 may not tell me much, but seeing that it is a m3<sub>25</sub> helps me recognize it instantly; it's just a 6/5 raised by another syntonic comma. To give another example from another one of my pieces, *Symphony of the Elements*: 729/640 is confusing, but M2<sub>5</sub> is less so; a 9/8 raised by a syntonic comma.
 
 ## Notation
 
-This is a [rendition](../assets/cmaj.pdf) of Johann Sebastian Bach's Prelude in C Major, BWV 846, from The Well-Tempered Clavier Book I. It uses the following tuning conventions:
+This is a [rendition](../assets/examples/cmaj.pdf) of Johann Sebastian Bach's Prelude in C Major, BWV 846, from The Well-Tempered Clavier Book I. It uses the following tuning conventions:
 
 - 4:5:6(:15) for major triads (seventh chords);
 - 10:12:15(:18) for minor triads (seventh chords);
@@ -93,7 +93,7 @@ An FJS key signature is also exemplified.
 
 Listen to it:
 
-<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 
 ## Videos
 

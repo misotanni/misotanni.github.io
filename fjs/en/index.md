@@ -9,7 +9,7 @@ redirect_from: "/fjs/"
 
 ---
 
-<img src="../assets/impression.png" alt="This is what the FJS looks like!">
+<img src="../assets/index/impression.png" alt="This is what the FJS looks like!">
 
 # Welcome
 
@@ -87,4 +87,4 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 
 **What will the FJS mean for you?**
 
-<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>

@@ -12,11 +12,11 @@ ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi tu'a ro jicmu selci be 
 ## liste
 
 * [lo lidne zo'u: vimcu tu'a lo si'o togbasti](#introduction)
-* [no mo'o: sarcu co cfapru se djuno](#lesson_0)
-* [pa mo'o: cistrpitagora](#lesson_1)
-* [re mo'o: dilcysle togyku'e](#lesson_2)
-* [ci mo'o: pluja togystika](#lesson_3)
-* [la dakapo'alfin zo'u: ca mo](#da_capo_al_fine)
+* [no mo'o: sarcu co cfapru se djuno](#lesson-0)
+* [pa mo'o: cistrpitagora](#lesson-1)
+* [re mo'o: dilcysle togyku'e](#lesson-2)
+* [ci mo'o: pluja togystika](#lesson-3)
+* [la dakapo'alfin zo'u: ca mo](#da-capo-al-fine)
 
 ---
 
@@ -28,12 +28,12 @@ ni'o ro ma'a se slabu lo fadni zgisnici'e .e lo ri fadni togystika
 
 ni'o mu'a ti se cmima ro se dunto'aci'e
 
-<img src="../assets/example_1.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
+<img src="../assets/crash/chromatic-wrong.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
 
 ni'o no'e drani
 .i so'e roi jarco ti uo dai
 
-<img src="../assets/example_2.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
+<img src="../assets/crash/chromatic-right.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
 
 ni'o ka'u .u'e nai lo branonto'a lo cmapavyto'a cu basti
 .i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
@@ -52,7 +52,7 @@ ni'o ku'i .ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darn
 ni'o va'i lo ka togbasti cu se steci lo ka lo dunto'aci'e cu ckaji kei lo selkai be lo zgisnici'e
 .i ro drata cu na'e srana
 
-## <a name="lesson_0">no mo'o: sarcu co cfapru se djuno</a>
+## <a name="lesson-0">no mo'o: sarcu co cfapru se djuno</a>
 
 ni'o .ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
 .i tu'e
@@ -114,7 +114,7 @@ $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}
 ni'o mulno
 .i .e'e cfari
 
-## <a name="lesson_1">pa mo'o: cistrpitagora</a>
+## <a name="lesson-1">pa mo'o: cistrpitagora</a>
 
 ni'o do jinvi la'a lo du'u lo nu vimcu lo si'o togbasti cu rinka lo nu zenba co cumki fa lo nu sinxa xo kau tonga
 .i go go'i gi do draji'i
@@ -124,7 +124,7 @@ ni'o do jinvi la'a lo du'u lo nu vimcu lo si'o togbasti cu rinka lo nu zenba co 
 ni'o mu'a ko se xanri lo togyku'e porsi pe li pa pa fi'u pa no lo'o ce'o li pa no fi'u so lo'o ce'o li so fi'u bi lo'o ce'o li bi fi'u ze
 .i ko tirna
 
-<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
 ni'o ba'a so'a da jai ga'a vo mei jibni be lo pavyto'aku'e
 .i ku'i toldra fa lo nu da'i lu'e lo pavyto'aku'e cu sinxa ro le vo togyku'e
@@ -193,14 +193,14 @@ Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst
 
 1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
 2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
-3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/exercise_1.png" alt="E–Fis–A–H–D–E"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
+3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/crash/pythagorean-scale.png" alt="E–Fis–A–H–D–E"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Notiere die folgende Tonleiter im FJS mit D als Grundton: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
 6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="lesson_2">Lektion 2: Die Primzahlintervalle</a>
+## <a name="lesson-2">Lektion 2: Die Primzahlintervalle</a>
 
 Also bisher hast du gelernt, die pythagoreische Stimmung aufzuschreiben. Bis jetzt war es ein bisschen langweilig. Die pythagoreische Stimmung weicht gar nicht so viel von 12-EDO ab. Es reicht auch gar nicht aus, um die ganze Naturtonstimmung aufschreiben zu können.
 
@@ -222,11 +222,11 @@ Nehmen wir an, wir akzeptieren das zunächst. 5/4 ist eine Art große Terz. Wir 
 
 Hör dir den Unterschied zwischen 81/64 und 5/4 an:
 
-<audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/big-comma.mp3" type="audio/mpeg"></audio>
 
 Und den Unterschied zwischen 8192/6561 und 5/4:
 
-<audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/small-comma.mp3" type="audio/mpeg"></audio>
 
 Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/4 benutzen? Einfachheit, sagst du? Die große Terz beträgt nur +4 Quinten, während die verminderte Quarte −8 anbietet, also viel komplizierter. Wieso benutzen wir also nicht die *kleine* Terz als 5/4? Sie ist doch einfacher, nur −3 statt +4 Quinten. Ach, jetzt ist sie nicht nah genug? Wieso bestimmst *du* das richtige Gleichgewicht zwischen Einfachheit und Nähe?
 
@@ -297,11 +297,11 @@ So sieht die Obertonreihe von A bis zum achten Oberton im FJS aus:
 
 So sieht sie in Notenschrift aus:
 
-<img src="../assets/example_3.png" alt="A–A–E–A–Cis5–E–G7–A">
+<img src="../assets/crash/overtone-short.png" alt="A–A–E–A–Cis5–E–G7–A">
 
 So hört sie sich an:
 
-<audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/overtone-short.mp3" type="audio/mpeg"></audio>
 
 Wie du siehst, alle Versetzungszeichen in der Obertonreihe sind positiv (und das gilt für die ganze, unendliche Obertonreihe). Ist das nicht viel sauberer, als wenn wir Richtung statt Otonalität benutzen würden? Ich verstehe, dass du zuerst verwirrt sein kannst. Mit der Zeit aber wirst du selbst sehen, dass es das FJS doch logischer und einfacher macht. (Du kannst dir auch eine andere Analogie vorstellen: anstatt das Kreuz als erhöhend und das Be als senkend zu betrachten, bemerke, dass das Kreuz Quinten addiert, und das Be Quinten subtrahiert.)
 
@@ -314,9 +314,9 @@ Jetzt möchte ich erklären, wie diese Versetzungszeichen miteinander interagier
 
 Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veranschaulichung dieser Regel:
 
-<img src="../assets/example_4.png" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
+<img src="../assets/crash/accidentals.png" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
 
-<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
 - Im ersten Takt haben wir ein Cis<sup>5</sup> und danach ein bloßes C. Weil es derselbe Stammton in derselben Oktave ist, absorbiert es das Kreuz. Weil es jetzt ein Cis in derselben Oktave ist, absorbiert es auch das +5. Wir haben also Cis<sup>5</sup>, Cis<sup>5</sup>.
 - Im zweiten Takt gibt es ein Cis<sup>5</sup> und danach ein bloßes C mit einem Versetzungszeichen von +1. **+1 ist das FJS-Äquivalent des Auflösungszeichens. Es löst alle FJS-Versetzungszeichen auf, aber nichts sonst.** Deshalb heißt es Cis<sup>5</sup>, Cis.
@@ -350,7 +350,7 @@ OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben z
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="lesson_3">Lektion 3: Verbundene Versetzungszeichen</a>
+## <a name="lesson-3">Lektion 3: Verbundene Versetzungszeichen</a>
 
 Du weißt jetzt, wie ein Großteil der Naturtonstimmung im FJS notiert wird. Du kannst die ganze pythagoreische Stimmung und alle Primzahlintervalle aufschreiben. Wir sind aber noch nicht fertig; was mit den Intervallen, die aus mehr als einer Primzahl (3 einbezogen) gebaut sind, wie 15/8 oder 25/16, und was mit den Intervallen, die gar nicht in der Obertonreihe vorkommen, wie 5/3, 6/5, oder 9/7?
 
@@ -382,7 +382,7 @@ Versuche diese Methoden, um die nächste Aufgabe zu lösen.
 1. Schreibe die FJS-Darstellungen folgender Frequenzverhältnisse: 5/3, 6/5, 7/6, 9/5.
 2. Finde die Frequenzverhältnisse folgender FJS-Intervalle: (große Sekunde)<sup>5</sup>, (große Terz)<sub>7</sub>, (kleine Septime)<sup>11</sup>.
 3. Notiere die ptolemäische Tonleiter im FJS von C. Die Verhältnisse lauten: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/exercise_2.png" alt="C–D–Es_5–F–G–As_5–B_5–C"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
+4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/crash/just-minor.png" alt="C–D–Es_5–F–G–As_5–B_5–C"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
@@ -405,11 +405,11 @@ Wie ich schon erwähnt habe, Otonalität und Utonalität mischt man nicht. Falls
 
 Die Noten Ges<sup>7</sup><sub>5</sub> und Fis<sup>5</sup><sub>7</sub> (also 7/5 bzw. 10/7 in der Tonart C) würde man so aufschreiben:
 
-<img src="../assets/example_5.png" alt="Ges7_5–Fis5_7">
+<img src="../assets/crash/interval.png" alt="Ges7_5–Fis5_7">
 
 So hören sie sich an:
 
-<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
 Seitdem du verbundene Versetzungszeichen kennst, kannst du viel mehr mit dem FJS anfangen. Du kannst beliebige FJS-Intervalle addieren, subtrahieren, und umkehren. Du kannst auch ein Intervall zu einer Note addieren (z.B. G + (große Terz)<sup>5</sup> = H<sup>5</sup>) oder eine Note von einer anderen subtrahieren (z.B. F<sup>7</sup> − C = (reine Quarte)<sup>7</sup>). Du kannst jetzt also die Identitäten für Addition, Subtraktion und Umkehrung benutzen, um schnell die FJS-Darstellungen von Intervallen zu finden, die du vorher nicht finden konntest.
 
@@ -499,16 +499,16 @@ Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den To
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
-4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/exercise_3.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/crash/cadence.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist.
 
-	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
+	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 	
 6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="da_capo_al_fine">Da Capo Al Fine: Was sonst?</a>
+## <a name="da-capo-al-fine">Da Capo Al Fine: Was sonst?</a>
 
 Das ist *alles*, was du brauchst, um das FJS nutzen zu können! Du kannst jede JI-Musik jetzt mithilfe des FJS notieren. Die verbleibenden Teil des FJS sind Kurzschriftmethoden, die ich entwickelt habe, damit du auf viele FJS-Versetzungszeichen in häufigen Situationen verzichten kannst. Darunter sind FJS-Vorzeichen und Transpositionslinien. Diese Elemente werden hier nicht berücksichtigt. Wenn du über sie lernen willst, dann lese die [komplette formale Erläuterung](rules.html) des FJS, welche du auch lesen solltest, falls du irgendwelche Zweifel zu den Regeln des Systems hast.
 
