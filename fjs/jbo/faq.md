@@ -40,7 +40,7 @@ ni'o do pilno pa lo bi'u nai tadji
 ni'o na'i go'i
 .i ko pilno lo [kajytci](calc.html)
 
-## ma mukti lo nu li ci fi'u re lo'o .e nai li mi fi'u vo lo'o mu'a cu jai se xusra
+## ma mukti lo nu li ci fi'u re lo'o .e nai li mu fi'u vo lo'o mu'a cu jai se xusra
 
 ni'o do zvafa'i so'i spuda bu'u lo [karbi](compare.html) kibystu
 
