@@ -125,7 +125,7 @@ Więcej: takie rozszerzenie FJS-a pokrywające dodatkowo potęgi φ zachowuje ws
 Między innymi działają również poniższe znane stałe niewymierne:
 
 - π; 6><sup>π</sup> (τ, czyli [prawdziwa ludolfina](https://tauday.com/tau-manifesto), ma dokładnie taki sam interwał FJS, bo równa się po prostu 2π, czyli oktawie π)
-- *e*; 4<sup>*e*</sup>
+- e; 4<sup>e</sup>
 - γ; 2<sup>γ</sup> (stała Eulera-Mascheroniego)
 
 Działają wszystkie liczby przestępne.
@@ -182,8 +182,8 @@ Ten przykład wykorzystuje osiem wysokości – *c*, *d*, *e*<sup>5</sup>, *f*, 
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
 
-W tym przykładzie są zapisane następujące cztery stałe: φ, π (lub τ), *e*, oraz γ, w tonacji *A*.
+W tym przykładzie są zapisane następujące cztery stałe: φ, π (lub τ), e, oraz γ, w tonacji *A*.
 
-<img src="../assets/rules/irrational.png" alt="a–fφ, a–fπ, a–d(e), a–hγ">
+<img src="../assets/rules/irrational.png" alt="a–fφ, a–fπ, a–d^e, a–hγ">
 
 <audio controls><source src="../assets/rules/irrational.mp3" type="audio/mpeg"></audio>

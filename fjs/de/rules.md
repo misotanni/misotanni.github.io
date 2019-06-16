@@ -127,12 +127,12 @@ Das ist aber nicht alles: die tollen Eigenschaften des FJS bleiben bei so einer 
 Das geht u.A. auch mit den folgenden irrationalen Konstanten:
 
 - π; (kleine Sexte)<sup>π</sup> (τ, die [echte Kreiskonstante](https://tauday.com/tau-manifesto), wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
-- *e*; (reine Quarte)<sup>*e*</sup>
+- e; (reine Quarte)<sup>e</sup>
 - γ; (große Sekunde)<sup>γ</sup> (Euler-Mascheroni-Konstante)
 
 Es funktioniert bei jeder transzendenter Zahl.
 
-Manche davon sind musikalisch sehr sinnvoll. φ ist das Grenzintervall bei der Suche von Intervallen, dessen beiden Kombinationstöne gleich entfernt sind. (Das folgt davon, dass φ in den Fibonaccizahlen vorkommt.) Dir ist vielleicht auch die Idee bekannt, dass φ die *am meisten irrationale Zahl* ist, deshalb ist φ-Musik irgendwie der Gegensatz der Naturtonstimmung, hier ist der goldene Schnitt gar nicht die Grundlage der Schönheit, im Gegenteil! Die Zahl *e* ist wegen ihrer Definition der Grenzwert der folgenden Reihe: Oktave, zwei 3/2-Quinten, drei 4/3-Quarten, vier große Terzen von 5/4, fünf kleine Terzen von 6/5 (die zusammen größer sind, verdammte 12-EDO-Intuition!) usw. (Was uns nicht angeht, sind diese Konstanten als *logarithmische* Proportionen, z.B. in der goldenen mitteltönigen Stimmung oder der Lucy-Stimmung.)
+Manche davon sind musikalisch sehr sinnvoll. φ ist das Grenzintervall bei der Suche von Intervallen, dessen beiden Kombinationstöne gleich entfernt sind. (Das folgt davon, dass φ in den Fibonaccizahlen vorkommt.) Dir ist vielleicht auch die Idee bekannt, dass φ die *am meisten irrationale Zahl* ist, deshalb ist φ-Musik irgendwie der Gegensatz der Naturtonstimmung, hier ist der goldene Schnitt gar nicht die Grundlage der Schönheit, im Gegenteil! Die Zahl e ist wegen ihrer Definition der Grenzwert der folgenden Reihe: Oktave, zwei 3/2-Quinten, drei 4/3-Quarten, vier große Terzen von 5/4, fünf kleine Terzen von 6/5 (die zusammen größer sind, verdammte 12-EDO-Intuition!) usw. (Was uns nicht angeht, sind diese Konstanten als *logarithmische* Proportionen, z.B. in der goldenen mitteltönigen Stimmung oder der Lucy-Stimmung.)
 
 Bisher gab es keinen Versuch, negative oder komplexe Zahlen im FJS darzustellen. :)
 
@@ -186,7 +186,7 @@ Hier werden die acht Noten C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, A, und H<su
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
 
-Hier stehen die vier Konstanten φ, π (oder auch τ), *e*, und γ, in der Tonart A.
+Hier stehen die vier Konstanten φ, π (oder auch τ), e, und γ, in der Tonart A.
 
 <img src="../assets/rules/irrational.png" alt="A–Fφ, A–Fπ, A–De, A–Hγ">
 

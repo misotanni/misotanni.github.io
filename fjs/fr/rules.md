@@ -127,7 +127,7 @@ En outre, cette expansion du FJS préserve toutes ses qualités stupéfiantes.
 Parmi d'autres, on peut aussi utiliser les constantes irrationelles suivantes :
 
 - π ; (sixte mineure)<sup>π</sup> (τ, la [vraie constante du cercle](https://tauday.com/tau-manifesto), a la même représentation puisqu'elle égale 2π, donc une octave de π)
-- *e* ; (quarte juste)<sup>*e*</sup>
+- e ; (quarte juste)<sup>e</sup>
 - γ ; (seconde majeure)<sup>γ</sup> (constante d'Euler-Mascheroni)
 
 Vous pouvez également utiliser tous les nombres transcendants.
@@ -184,8 +184,8 @@ Cet exemple-ci utilise les huit notes Do, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
 
-Ici, on voit les quatre constantes : φ, π (ou bien τ), *e*, et γ, en La.
+Ici, on voit les quatre constantes : φ, π (ou bien τ), e, et γ, en La.
 
-<img src="../assets/rules/irrational.png" alt="La–Faφ, La–Faπ, La–Ré(e), La–Siγ">
+<img src="../assets/rules/irrational.png" alt="La–Faφ, La–Faπ, La–Ré^e, La–Siγ">
 
 <audio controls><source src="../assets/rules/irrational.mp3" type="audio/mpeg"></audio>

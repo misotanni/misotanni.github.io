@@ -125,12 +125,12 @@ Moreover, expanding the FJS to notate powers of φ in addition to the rational n
 Among others, the following famous irrational constants work, too:
 
 - π; m6<sup>π</sup> (τ, the [true circle constant](https://tauday.com/tau-manifesto), has the same representation, since it's just 2π, so an octave of π)
-- *e*; P4<sup>*e*</sup>
+- e; P4<sup>e</sup>
 - γ; M2<sup>γ</sup> (Euler-Mascheroni constant)
 
 All transcendental numbers work.
 
-Some of these make quite a lot of sense musically. φ is the interval obtained when looking for intervals whose summation and difference tones are equidistant (which is a direct consequence of the appearance of φ in the Fibonacci sequence). You may also have heard that φ is the *most irrational number*, which makes music involving it the polar opposite of just intonation in a way; this is one way where the golden ratio is not the standard of absolute beauty, but its exact opposite! *e*, due to its most famous limit definition, shows up as the limit in the following sequence: octave, two 3/2 fifths, three 4/3 fourths, four 5/4 major thirds, five 6/5 minor thirds (yes, this term is greater than the previous one, cursed 12-EDO intuition!) et cetera. (Completely unrelated are the uses of these constants as *logarithmic* ratios, e.g. in golden meantone and in Lucy Tuning.)
+Some of these make quite a lot of sense musically. φ is the interval obtained when looking for intervals whose summation and difference tones are equidistant (which is a direct consequence of the appearance of φ in the Fibonacci sequence). You may also have heard that φ is the *most irrational number*, which makes music involving it the polar opposite of just intonation in a way; this is one way where the golden ratio is not the standard of absolute beauty, but its exact opposite! e, due to its most famous limit definition, shows up as the limit in the following sequence: octave, two 3/2 fifths, three 4/3 fourths, four 5/4 major thirds, five 6/5 minor thirds (yes, this term is greater than the previous one, cursed 12-EDO intuition!) et cetera. (Completely unrelated are the uses of these constants as *logarithmic* ratios, e.g. in golden meantone and in Lucy Tuning.)
 
 There has been no attempt so far to represent negative or complex numbers in the FJS. :)
 
@@ -184,7 +184,7 @@ The following example uses the eight notes C, D, E<sup>5</sup>, F, G, A<sup>5</s
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
 
-The following example denotes the constants φ, π (or τ), *e*, and γ, in the key of A.
+The following example denotes the constants φ, π (or τ), e, and γ, in the key of A.
 
 <img src="../assets/rules/irrational.png" alt="A–Fφ, A–Fπ, A–De, A–Bγ">
 
