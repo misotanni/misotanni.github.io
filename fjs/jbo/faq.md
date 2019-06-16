@@ -54,10 +54,10 @@ ni'o ie ru'e go'i
 .i ku'i go go'i gi do claxu so'o da
 .i fy jy sy po'o zo'u tu'e
 
-- .i ro roi cumki fa lo nu togycmuga'i ro ralto'a kei se cau lo nu lo se ca'engau cu cenba kei .e lo nu ciska lo pinka poi clani
+- .i ro roi cumki fa lo nu togycmuga'i fi ro ralto'a kei se cau lo nu lo se ca'engau cu cenba kei .e lo nu ciska lo pinka poi clani
 - .i fy jy sy ckaji lo ka ce'u jai tadji lo nu sinxa *ro* lo cuvyto'aci'e se pi'o so'u snika'u poi se jmina .i la'e di'u cu nibli lo du'u jijnu je xamgu bo jimpe tu'a lo selkai .e lo sutpeitadji
 - .i lo su'u togyku'e kancu cu stodi lo ka logji .i ku'i ga nai cunso cuxna lo tonga gi lo javni be lo su'u togyku'e kancu cu spofu
-- .i cumgau lo nu co'i se slabu .i lo nu do djuno lo du'u lo mumgapmaurelto'aku'e cu se nilbra li mu fi'u vo kei kei cu nibli lo nu do ji'a se slabu lo mumgapmumto'aku'e .e lo mumgapypavyto'aku'e .e lo mumgapmaucibyto'aku'e vu'o noi ckini li mu fi'u vo .i ji'a do se slabu lo zelgapxavyto'aku'e na .a zelgapcibyto'aku'e .e bo lo zelgaprelto'aku'e .e bo lo zelgapmecmumto'aku'e
+- .i cumgau lo nu co'i se slabu .i lo nu do djuno lo du'u lo mumgapmaurelto'aku'e cu se nilbra li mu fi'u vo kei kei cu nibli lo nu do ji'a se slabu lo mumgapmumto'aku'e .e lo mumgapypavyto'aku'e .e lo mumgapmaucibyto'aku'e vu'o noi ckini li mu fi'u vo .i ji'a do se slabu lo zelgapxavyto'aku'e na .a lo zelgapcibyto'aku'e .e bo lo zelgaprelto'aku'e .e bo lo zelgapmecmumto'aku'e
 - .i cumki fa lo nu pensi ci'e fy jy sy .i lo snici'e poi drata zo'u zi'o galfi lo xe boxna lo zgika'usni te zu'e po'o lo nu sinxa lo zgike .i ku'i ro nu pensi cu sarcu lo nu xruti .i fy jy sy zo'u kufra lo ka pensi ci'e lo zgika'usni .i la'e di'u cu zengau lo ka sutra je frili .i la'e de'u panra lo ka kanji lo sumji be lo relna'u se cau lo nu kanji lo dekna'u
 - .i cumgau lo nu tcidu be so'i zgipapri bei pa re'u ku poi sutra
 
@@ -68,9 +68,10 @@ ni'o ga nai do na se vajni la'e di'u gi fy jy sy la'a cu'i na mapti do
 
 ## la cuvyto'aci'e ku bi'u nai voi za'e curve tonga ciste zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
 
-ni'o ie nai cai na go'i
+ni'o ie nai cai
+.i na go'e
 
-ni'o lo cuvyto'aci'e cu srana lo cmaci gi'e lo .ente'ori be lo xe boxna be'o poi se jicmu lo selkai be lo sance be'o poi saske te djuno
+ni'o lo cuvyto'aci'e cu srana lo cmaci .e lo .ente'ori be lo xe boxna be'o poi se jicmu lo selkai be lo sance be'o poi saske te djuno
 .i cy ty cu ji'a klesi lo zgike poi pilno lo bi'u nai cmaci lo jicmu be lo zy tonga gunma bei se ba'i lo nu lo zelto'aku'e cu te dunto'aci'e .a lo drata
 .i fy jy sy cu ma'i la'e di'u ku ciste poi cumgau lo nu frili jimpe fi lo bi'u nai cmaci poi srana cy ty
 
