@@ -66,7 +66,7 @@ tu'u
 ni'o ga nai do na se vajni la'e di'u gi fy jy sy la'a cu'i na mapti do
 .i ku'i .e'u sai ko troci tu'a ri
 
-## la cuvyto'aci'e ku bi'u nai voi za'e curve tonga ciste zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
+## la cuvyto'aci'e ku bi'u nai voi za'e curve tonga ciste zi'e noi vajni do zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
 
 ni'o ie nai cai
 .i na go'e
