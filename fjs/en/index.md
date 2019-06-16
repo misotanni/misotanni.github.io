@@ -86,3 +86,5 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 - See many more [examples](examples.html) of the FJS in usage.
 
 **What will the FJS mean for you?**
+
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>

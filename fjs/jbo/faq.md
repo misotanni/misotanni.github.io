@@ -4,53 +4,76 @@
 
 ## xu fy jy sy jai se pi'o sinxa lo dunto'aci'e
 
-.i sa'u na go'i
+ni'o sa'u na go'i
 
-ni'o lo cuvyto'aci'e to .e fy jy sy toi zo'u lacri lo du'u bebna frili fa lo nu frinu kanji
+ni'o zu'u lo cuvyto'aci'e to .e fy jy sy toi zo'u lacri fi lo du'u bebna frili fa lo nu frinu kanji
 .i lo ni djuno fi lo cmaci kei poi sarcu lo nu cilre fi lo cuvyto'aci'e ku'o na zmadu lo me lo mijycu'e moi
 .i claxu lo si'o dugri .e lo si'o fenfa .e lo si'o ba'e salri
 to .i ta'o lo dugri cu se pilno fi lo nu kanji lo toglai be lo togyku'e
 .i la'e di'u se kufra gi'e no'e se pagbu lo ciste toi
+.i so'e da zo'u do kakne lo pu'u menli kanji da
+.i de poi drata zo'u .e'e do lacri lo do kajytci pe lo vo mei ve kanji ge'u lo nu de se kanji
+.i ba'a do tolju'i lo du'u lo bi'u nai kajytci cu ka'e kanji lo se kurtenfa
 
-fa'o
+ni'o zu'u nai lo dunto'aci'e cu so'e roi dunto'aci'e fi lo zelto'aku'e
+.i ku'i .o'i ko na jai te sucta
+.i lo du'u li pa re no no fe'i pa re du li pa no no kei cu simlu lo ka frili dukse
+.i ku'i lo si'o toglai cu minra po'o lo jai fatci noi xe boxna
+.i lo .ente'ori cu simlu lo ka dukse kei so'e lo zgipre
+.i ku'i .a'a dai lo nu do kanji fi lo toglai fe lo xe boxna kei cu rinka lo nu pruce fo lo si'o tenfa
+.i ri zo'u pruce fi lo tolfrinyna'u fe to so'a toi lo frinyna'u
+.i ji'a lo fatne zo'u lo prane je pluka be lo'e kerlo ca'e be'o sance pe lo cuvyto'aci'e vonto'aku'e ne li ci fi'u re ge'u zi'e noi ke'a jicmu ro lo sizgi'esarxe poi cabna ku'o ki'u lo ni ke'a vajni ku'o cu se toglai lo tolfrinyna'u no'u li ze no pa pi so mu mu no no no bi xa ji'i ge'u zi'e noi lo dunto'aci'e cu tolnolmle stika
+.i to di'u smudu'i lo se du'u lo dunto'aci'e cu mabla kei na .e lo se du'u lo nu jmina tu'a dy lo cuvyto'aci'e manri kei cu rinka lo si'o kalsa toi
 
-Die Naturtonstimmung – und dadurch auch das FJS – verlassen sich auf der absoluten Einfachheit der Arithmetik von Brüchen. Das Mathematikniveau erforderlich, um Theorie der Naturtonstimmung kennenzulernen, überschreitet das des Gymnasiums nicht – keine Logarithmen oder Wurzeln und auf keinen Fall Integrale sind erforderlich (Logarithmen braucht man nur, um Cent-Größen von Intervallen zu berechnen, was eher eine Bequemlichkeit als Teil des Systems ist). Du kannst den Großteil der Arithmetik im Kopf durchführen, und den Rest deinem treuen Vier-Funktionen-Rechner vertrauen, ohne zu bemerken, dass er eine Taste für Quadratwurzel besitzt.
+ni'o se ki'u bo pe'i lo dunto'aci'e cu na jai nitcu zo'e pe fy jy sy
+.i lo dunto'aci'e be li ny no'u li so'u cu pu'i jai se sinxa lo zgisnici'e poi fadni ku'o se ja'i lo nu lo tonga .e lo togystika cu se cuxna co xamgu
+.i li ny po'u li so'i zo'u .ei finti lo togystika poi cnino
+.i ge li ny po'u li za'u pa no no gi fau lo nu do djica lo ka zifrai zo'u .e'e ko [fukpi](http://musictheory.zentral.zone/huntsystem1.html) lo [drata](http://sagittal.org/)
+.i jo nai do finti lo zgisnici'e poi na'e srana lo fadni
 
-Gleichstufig temperierte Stimmungen dagegen sind (meistens) gleichstufige Aufteilungen der Oktave. Vorsicht aber, bevor du verallgemeinerst: 1200¢ / 12 = 100¢ sieht zwar auf den ersten Blick einfach aus, aber die Einheit Cent ist nur eine Darstellung der zugrundeliegenden Frequenzverhältnissen. Während manche von uns hier mit der Theorie aufhören, gedenke, dass sobald du diese angeblich reine Cent-Werte in Frequenzwerte, musst du das Ganze in eine Exponentialfunktion reintun, die dir für (fast) alle rationalen Eingaben irrationale Zahlen ergibt. Ohne den Gegenteil zu erwähnen; der reine, dem Ohr (per Definition des „Ohrs“) angenehme Klang einer Naturquinte (3/2) – so wichtig, dass die ganze moderne Harmonielehre auf ihm basiert – hat einen irrationalen Cent-Wert von etwa 701.95500086…¢, welchen die temperierte Stimmung grob ausgleicht. (Das heißt nicht, dass temperierte Stimmungen schlecht sind, sondern, dass die Einführung von ihnen in den JI-Rahmen Chaos verursachen wurde.)
+ni'o do pilno pa lo bi'u nai tadji
+.i se ju do ba facki lo du'u da'i fy jy sy na jai sidju do
+.i ja bo do djica lo nu finti lo togyci'e pe la franknctain
 
-Deswegen meine ich, dass eine gleichstufige Stimmung kein FJS braucht. Ein *n*-EDO, wo *n* ausreichend klein ist, kann man ohne Probleme in ihrem vollen Potenzial in üblicher Notenschrift aufschreiben, solange die Tonhöhen und Akzidenzien gut definiert sind. Steigt *n* ein bisschen, so definiere ein paar neue Akzidenzien; bei einem *n* von über hundert, oder bei dem Bedarf für absolute Flexibilität, [kannst](http://musictheory.zentral.zone/huntsystem1.html) du von anderen [übernehmen](http://sagittal.org/). Oder du kannst eine ganz neue Notenschrift entwickeln…
+## ma se zvati lo liste be lo togyfancylei .e lo togyfancyku'e
 
-Egal welche Methode du benutzt, wirst du erfahren, dass das FJS dir gar nicht helfen würde… Es sei denn, du willst eine Frankenstein-Stimmung konstruieren.
+ni'o na'i go'i
+.i ko pilno lo [kajytci](calc.html)
 
-## Wo befindet sich die Tabelle der Verschiebungen und formaler Kommas?
+## ma mukti lo nu li ci fi'u re lo'o .e nai li mi fi'u vo lo'o mu'a cu jai se xusra
 
-So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
+ni'o do zvafa'i so'i spuda bu'u lo [karbi](compare.html) kibystu
 
-## Wieso ist nur 3/2 ein vorausgesetztes Intervall, nicht z.B. 5/4?
+## mo la sagitl .e la .y'y bu ciste .e la zilska snici'e pe la kait ge'u .e la sorstika snici'e pe la katerinos ge'u .e lo snici'e poi drata
 
-Dazu erfahrst du vieles auf [dieser](compare.html) Seite.
+ni'o si'a .e'e ko lanli lo [karbi](compare.html) kibystu
 
-## Was mit (Sagittal / dem H-System / Kites Farbennotation / Catherinos polychromatische Notation / \[noch ein alternatives Notationssystem\])?
+## ma te zukte ji'u lo nu cumki fa lo nu ca'engau bu'u lo zgipapri tu'a lo tonga
 
-Sehe dir dazu wieder den [Vergleich](compare.html) an.
+ni'o ie ru'e go'i
+.i ku'i go go'i gi do claxu so'o da
+.i fy jy sy po'o zo'u tu'e
 
-## Warum überhaupt, wenn ich die Tonhöhen am Anfang der Partitur definieren kann?
+- .i ro roi cumki fa lo nu zgipevmuvdu ro ralto'a kei se cau lo nu lo se ca'engau cu cenba kei .e lo nu ciska lo pinka poi clani
+- .i fy jy sy ckaji lo ka ce'u jai tadji lo nu sinxa *ro* lo cuvyto'aci'e se pi'o so'u snika'u poi se jmina .i la'e di'u cu nibli lo du'u jijnu je xamgu bo jimpe tu'a lo selkai .e lo sutpeitadji
+- .i lo su'u togyku'e kancu cu stodi lo ka logji .i ku'i ga nai cunso cuxna lo tonga gi lo javni be lo su'u togyku'e kancu cu spofu
+- .i cumgau lo nu co'i se slabu .i lo nu do djuno lo du'u lo mumgapmaurelto'aku'e cu se nilbra li mu fi'u vo kei kei cu nibli lo nu do ji'a se slabu lo mumgapmumto'aku'e .e lo mumgapypavyto'aku'e .e lo mumgapmaucibyto'aku'e vu'o noi ckini li mu fi'u vo .i ji'a do se slabu lo zelgapxavyto'aku'e na .a zelgapcibyto'aku'e .e bo lo zelgaprelto'aku'e .e bo lo zelgapmecmumto'aku'e
+- .i cumki fa lo nu pensi ci'e fy jy sy .i lo snici'e poi drata zo'u zi'o galfi lo xe boxna lo zgika'usni te zu'e po'o lo nu sinxa lo zgike .i ku'i ro nu pensi cu sarcu lo nu xruti .i fy jy sy zo'u kufra lo ka pensi ci'e lo zgika'usni .i la'e di'u cu zengau lo ka sutra je frili .i la'e de'u panra lo ka kanji lo sumji be lo relna'u se cau lo nu kanji lo dekna'u
+- .i cumgau lo nu tcidu be so'i zgipapri bei pa re'u ku poi sutra
 
-Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
+tu'u
 
-- die Fähigkeit, zu jeder möglichen Tonart zu modulieren, wie du willst, ohne verwickelte Neudefinitionen oder unhandliche Anmerkungen;
-- die Eigenschaft des FJS, dass mit sehr wenigen zusätzlichen Notationselementen die *ganze* Naturtonstimmung mit dem gleichen System funktioniert, was dir eine Intuition und gründliches Verständnis der Fähigkeiten und Abkürzungen ermöglicht;
-- unveränderte Intervallarithmetik – Rechnen mit Intervallen funktioniert immer noch genauso wie üblich, was nicht bei einer zufälligen Zuordnung der Verhältnisse zu Noten der Fall ist;
-- die Fähigkeit, auf einmal zu erkennen, was los ist – falls du weißt, dass eine (große Terz)<sup>5</sup> 5/4 beträgt, weißt du auch, was eine (große Sexte)<sup>5</sup>, (große Sekunde)<sup>5</sup>, (große Septime)<sup>5</sup> und (übermäßige Quarte)<sup>5</sup> sind, nämlich die *Verwandten* von 5/4, und falls du die (kleine Septime)<sup>7</sup> erkennst, erkennst du auch die (reine Quarte)<sup>7</sup>, (kleine Terz)<sup>7</sup> und (kleine Sexte)<sup>7</sup>;
-- das Denken innerhalb des Systems selbst – bei anderen Notationssystemen verwandelt man Verhältnisse in Noten nur dazu, um die Musik darzustellen, das ganze Denken aber findet außerhalb dieser Noten statt, im FJS dagegen kannst du in den Noten denken, was viel einfacher und schneller ist – als würdest du zwei Binärzahlen direkt addieren, ohne die Umrechnung in die Basis zehn und dann wieder zurück;
-- schnelles Blattspiel, mit verschiedenen Partituren.
+ni'o ga nai do na se vajni la'e di'u gi fy jy sy la'a cu'i na mapti do
+.i ku'i .e'u sai ko troci tu'a ri
 
-Wenn du keinen Wert darauf legst, dann ist das FJS vielleicht nicht die richtige Wahl für dich. Ich empfehle, ihm trotzdem eine Chance zu geben.
+## la cuvyto'aci'e ku bi'u nai voi za'e curve tonga ciste zo'u xu ri srana lo se krici pe la cnino cedra .i'u nai
 
-## Was ist mit dieser „reinen Stimmung“ oder Naturtonstimmung, mit der du dich beschäftigst? Hat es etwas mit dem New-Age-Glauben zu tun?
+ni'o ie nai cai na go'i
 
-Nein.
+ni'o lo cuvyto'aci'e cu srana lo cmaci gi'e lo .ente'ori be lo xe boxna be'o poi se jicmu lo selkai be lo sance be'o poi saske te djuno
+.i cy ty cu ji'a klesi lo zgike poi pilno lo bi'u nai cmaci lo jicmu be lo zy tonga gunma bei se ba'i lo nu lo zelto'aku'e cu te dunto'aci'e .a lo drata
+.i fy jy sy cu ma'i la'e di'u ku ciste poi cumgau lo nu frili jimpe fi lo bi'u nai cmaci poi srana cy ty
 
-Die reine Stimmung ist eine Mathematik, und eine Theorie von Frequenzen, die auf wissenschaftlich bekannten Eigenschaften des Klangs basiert. Sie ist auch eine Musikform, die diese Mathematik als Basis ihres tonalen Wortschatzes benutzt, anstatt die Oktave zu zerteilen oder was sonst. Das FJS ist dabei ein formales System des einfachen Verständnisses dieser Mathematik, die JI bietet.
-
-New Age ist dagegen weder eine Wissenschaft noch eine Theorie. Du solltest eher solche „Wissenschaften“ und „Theorien“ wie [diese](https://attunedvibrations.com/432hz/) alternative Stimmung, „mathematisch in Harmonie mit dem Universum“, recherchieren… Oder vielleicht eher nicht.
+ni'o la cnino cedra ku ku'i jai ke saske na je nai .ente'ori
+.i .e'u ru'e do cilre fi lo za'e saske .e lo za'e .ente'ori vu'o pe mu'u [ti](https://attunedvibrations.com/432hz/) noi nalfadni togyci'e zi'e noi za'e sarxe be lo munje be'o co cmaci
+.i zo'o

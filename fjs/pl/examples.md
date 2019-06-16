@@ -91,6 +91,10 @@ Tutaj znajduje się [adaptacja](../assets/cmaj.pdf) preludium *C*-dur z *Das Woh
 
 Znajduje się tu także FJS-owe oznaczenie tonacji.
 
+Posłuchaj:
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+
 ## Wideo
 
 Tutaj jest [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-a. A tutaj [zapis muzyki](https://youtu.be/JH2_Fwuc5E4) użytej w tym wideo, zapisanej – rzecz jasna – w FJS-ie.
@@ -98,8 +102,6 @@ Tutaj jest [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-a. A tuta
 Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* Steve'a Reicha w stroju naturalnym 5-limitowym wizualizuje strój za pomocą *Tonnetz* zapisanym w FJS-ie.
 
 Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Minecrafta w stroju naturalnym 7-limitowym, który także przedstawia strój FJS-em.
-
-Tutaj znajduje się [wizualizacja](https://youtu.be/jG7lj98Yy-0) głównego algorytmu FJS.
 
 ## Więcej?
 

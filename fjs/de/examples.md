@@ -91,6 +91,10 @@ Dies ist eine [Wiedergabe](../assets/cmaj.pdf) von Johann Sebastian Bachs Prälu
 
 Veranschaulicht werden auch FJS-Vorzeichen.
 
+Hör zu:
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
+
 ## Videos
 
 Hier gibt's das [Einführungsvideo](https://youtu.be/38I3cylJlW4) des FJS. Die [Musik](https://youtu.be/JH2_Fwuc5E4) dazu gibt es hier, natürlich im FJS geschrieben.
@@ -98,8 +102,6 @@ Hier gibt's das [Einführungsvideo](https://youtu.be/38I3cylJlW4) des FJS. Die [
 Diese [Interpretation](https://youtu.be/bZffjSUd-2w) von *Electric Counterpoint* von Steve Reich in Naturtonstimmung im 5-Limit verwendet ein 5-Limit-Tonnetz im FJS, um die Stimmung darzustellen.
 
 Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus Minecraft in Naturtonstimmung im 7-Limit stellt die Stimmung auch im FJS dar.
-
-Hier siehst du eine [Visualisierung](https://youtu.be/jG7lj98Yy-0) des FJS-Master-Algorithmus.
 
 ## Mehr?
 

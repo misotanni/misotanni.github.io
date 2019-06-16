@@ -116,12 +116,6 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 4. Alle Noten unter einer FJS-Transpositionslinie **addieren** das Versetzungszeichen dieser Linie zu den üblichen Werten, die Versetzungszeichen und Vorzeichen bewirken.
 
-## Mehr experimentelle Elemente (\*)
-
-Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze „Dialekte“ des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Kommas für jedes ungerade Limit, nicht nur Primzahllimit, mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen, oder sogar mit einem veränderten Master-Algorithmus (z.B. anstatt die einfachste Annäherung innerhalb eines Toleranzradius kannst du die nächste Annäherung innerhalb einer Toleranz-Einfachheit).
-
-Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
-
 ## Das FJS und Notation außerhalb JI (\*)
 
 Der FJS-Master-Algorithmus akzeptiert jede Zahl, nicht nur Primzahlen. Obwohl das FJS für diesen Zweck nicht gedacht war, kann die ganze Serie von Algorithmen auch für die allermeisten irrationalen Zahlen durchgeführt werden. Jede positive reelle Zahl passt, aber manche davon (darunter namentlich jede Zahl, die als Wurzel einer rationalen Zahl dargestellt werden kann) werden die wunderschöne und zerbrechliche Bijektion des FJS zerstören und sie in eine bloße Surjektion verändern. (Lesen ist also noch eindeutig, Schreiben aber nicht mehr.)
@@ -140,32 +134,52 @@ Es funktioniert bei jeder transzendenter Zahl.
 
 Bisher gab es keinen Versuch, negative oder komplexe Zahlen im FJS darzustellen. :)
 
+## Mehr experimentelle Elemente (\*)
+
+Ab hier ist das FJS Open Source! Erfinde neue Abkürzungen, falls du sie für nützlich hältst. Du kannst sogar ganze „Dialekte“ des FJS erfinden, mit normwidrigen Toleranzradien (dafür hat der Rechner eine Funktion), mit Versetzungszeichen, die immer positiv erhöhen und negativ erniedrigen, oder sogar mit einem veränderten Master-Algorithmus (z.B. anstatt die einfachste Annäherung innerhalb eines Toleranzradius kannst du die nächste Annäherung innerhalb einer Toleranz-Einfachheit).
+
+Ich bin kein sturer Originalerfinder, der niemandem sein Werk verändern lassen wird, auch wenn die Änderungen gut sind. Das FJS hatte einmal so viele schlechte Elemente, manche davon wurden nur im letzten Moment weggeschmissen oder verändert. Falls du denkst, dass du ein nützliches neues Element des FJS gefunden hast, teile es mit mir per E-Mail, und ich werde es gerne hier hinfügen.
+
 ## Beispiele
 
 Hier sieht man Ges<sup>7</sup><sub>5</sub> und Fis<sup>5</sup><sub>7</sub>.
 
 <img src="../assets/example_5.png" alt="Ges7_5–Fis5_7">
 
+<audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
+
 Hier steht: Cis<sup>5</sup> Cis<sup>5</sup>; Cis<sup>5</sup> Cis; Cis<sup>5</sup> C; Cis<sup>5</sup> C<sup>5</sup>.
 
 <img src="../assets/example_4.png" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
+
+<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
 
 Das Folgende ist die A-Dur-Tonleiter; A, H, Cis<sup>5</sup>, D, E, Fis<sup>5</sup>, Gis<sup>5</sup>, A.
 
 <img src="../assets/example_6.png" alt="Fis–Cis–Gis F5 C5 G5: A–H–C–D–E–F–G–A">
 
+<audio controls><source src="../assets/audio_17.mp3" type="audio/mpeg"></audio>
+
 Das Folgende ist der Abschnitt 8 bis 16 der Obertonreihe in F; F, G, A<sup>5</sup>, B<sup>11</sup>, C, Des<sup>13</sup>, Es<sup>7</sup>, E<sup>5</sup>, F. (Die Vorzeichen sind nicht praktisch, aber möglich.)
 
 <img src="../assets/example_7.png" alt="B–Des A5 E5 H11 D13 E(♭)7: F–G–A–H–C–D–Es–E♮–F">
+
+<audio controls><source src="../assets/audio_18.mp3" type="audio/mpeg"></audio>
 
 Die folgende Progression enthält zwei verminderte Septakkorde der Stimmung 10:12:14:17 und zwei Dur-Dreiklänge der Stimmung 4:5:6, auf A, D, G, und C, in dieser Reihenfolge.
 
 <img src="../assets/example_8.png" alt="E5 H5 F(♯)5 C(♯)5 B(♭)17 A(♭)17: Cis–B–E1–G7, D–A–D–Fis, H–As–D–F7, C–G–C–E">
 
+<audio controls><source src="../assets/audio_19.mp3" type="audio/mpeg"></audio>
+
 Die folgende Progression zeigt die Nützlichkeit der Regel, dass eine pythagoreische Vorzeichenänderung nicht immer eine im FJS bewirkt. Hier steht: A-Dur, E-Dur, A-Dur, A-Dominantseptakkord, D-Dur, G-Dur, D-Dur 2. Umkehrung, E-Dur + A, A-Dominantseptakkord, D-Dur, wobei alle Dur-Dreiklänge 4:5:6 sind, und alle Dominantseptakkorde 4:5:6:7. Die FJS-Vorzeichen bleiben auch nach der Modulation gleich, was nützlich ist, weil man erwartet, dass das Gis auch in D-Dur ein +5 erhält.
 
 <img src="../assets/example_9.png" alt="Fis–Cis–Gis F5 C5 G5: A–E–C–A, E–E–H–G, A–E–C–A, G7–E–C–A, Fis–Cis: F–A–D–A, G–H–D–G, A–A–D–F, A–H–E–Gis, A–Cis–E–G7, D–A–D–Fis">
 
+<audio controls><source src="../assets/audio_20.mp3" type="audio/mpeg"></audio>
+
 Hier werden die acht Noten C, D, E<sup>5</sup>, F, G, A<sup>5</sup>, A, und H<sup>5</sup> ohne Vorzeichen benutzt.
 
 <img src="../assets/example_10.png" alt="C–D–G–C–D–G–C–D–G, 5: E–A–H–E–A–H–E–A–H, loco: F–G–C–F–G–C–F–G–C, D–G–A–D–G–A–D–G–A">
+
+<audio controls><source src="../assets/audio_21.mp3" type="audio/mpeg"></audio>

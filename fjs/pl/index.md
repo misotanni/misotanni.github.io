@@ -85,3 +85,5 @@ Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, 
 - Przestudiuj wiele [przykładów](examples.html) zastosowania FJS-u.
 
 **Czym FJS będzie dla Ciebie?**
+
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>

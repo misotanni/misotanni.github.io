@@ -85,3 +85,5 @@ Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour
 - Trouvez beaucoup plus d'[exemples](examples.html) du FJS en usage.
 
 **Le FJS, que signifiera-t-il pour toi ?**
+
+<audio controls><source src="../assets/audio_impression.mp3" type="audio/mpeg"></audio>

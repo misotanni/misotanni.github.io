@@ -1,12 +1,13 @@
 ﻿# la fy jy sy janli xe ctuca
 
-ni'o za'a a'u dai do kucli lo prali be fi tu'a fy jy sy i do djica lo nu cilre fi ri
+ni'o za'a .a'u dai do kucli lo prali be fi tu'a fy jy sy
+.i do djica lo nu cilre fi ri
 
 ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi tu'a ro jicmu selci be le ciste
-i na ctuca fo lo jai nu sutri noi na jai sarcu lo nu mulno
-i ga nai do djuno so'o da lo cuvyto'aci'e gi mutce frili do fa lo ka cilre tu'a fy jy sy
-i ka'e ku do cilre ro da ca lo mentu be li so'u po'o
-i melbi je frili ri'i ko
+.i na ctuca fo lo jai nu sutri noi na jai sarcu lo nu mulno
+.i ga nai do djuno so'o da lo cuvyto'aci'e gi mutce frili do fa lo ka cilre tu'a fy jy sy
+.i ka'e ku do cilre ro da ca lo mentu be li so'u po'o
+.i melbi je frili ri'i ko
 
 ## liste
 
@@ -21,45 +22,46 @@ i melbi je frili ri'i ko
 
 ## <a name="introduction">lo lidne zo'u: vimcu tu'a lo si'o togbasti</a>
 
-ni'o ro ma'a se slabu lo fadni zgisnici'e e lo ri fadni togystika
-i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e pe ma'i lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
-i to ba'o lo cabna zo'u ai cmene ri fa zo dunto'aci'e to'u toi
+ni'o ro ma'a se slabu lo fadni zgisnici'e .e lo ri fadni togystika
+.i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e pe ma'i lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
+.i to ba'o lo cabna zo'u .ai cmene ri fa zo dunto'aci'e to'u toi
 
 ni'o mu'a ti se cmima ro se dunto'aci'e
 
-<img src="../assets/example_1.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
+<img src="../assets/example_1.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
 
-ni'o no'e drani i so'e roi jarco ti uo dai
+ni'o no'e drani
+.i so'e roi jarco ti uo dai
 
-<img src="../assets/example_2.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
+<img src="../assets/example_2.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
 
-ni'o ka'u u'e nai lo gapnonto'a lo nitpavyto'a cu basti
-i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
-i lo du'u cmedu'a ma kau cu se nibli tu'a lo ni tcidu frili a lo ni stodi a lo ni sampu kei gi'e jai se krinu tu'a lo vanbi
-i ku'i dunli
+ni'o ka'u .u'e nai lo branonto'a lo cmapavyto'a cu basti
+.i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
+.i lo du'u cmedu'a ma kau cu se nibli tu'a lo ni tcidu frili .a lo ni stodi .a lo ni sampu kei gi'e jai se krinu tu'a lo vanbi
+.i ku'i dunli
 
-ni'o lo bi'u nai selkai noi ka lo mecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka klani se me'e si'o togbasti
-i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
-i lo drata togyci'e zo'u go nai no nu togbasti kei ri cumki gi lo togyku'e pe lo nu togbasti cu drata
-i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo ba'e relmecpavyto'aku'e cu dunli ja'e lo nu no'a fa lo gapyvonto'a lo nitmumto'a toi
+ni'o lo bi'u nai selkai noi ka lo relmecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka klani ku'o cu se cmene zo togbasti
+.i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
+.i lo drata togyci'e zo'u go nai ri no nu togbasti kei se cumki gi lo togyku'e pe lo nu togbasti cu drata
+i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo ba'e cibmecpavyto'aku'e cu dunli ja'e lo nu no'a fa lo bravonto'a lo cmamumto'a toi
 
-ni'o ku'i ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
-i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
-i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u lo pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu su'o na'e bo dy
+ni'o ku'i .ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
+.i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
+.i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u lo pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu su'o na'e bo dy
 
 ni'o va'i lo ka togbasti cu se steci lo ka lo dunto'aci'e cu ckaji kei lo selkai be lo zgisnici'e
-i ro drata cu na'e srana
+.i ro drata cu na'e srana
 
 ## <a name="lesson_0">no mo'o: sarcu co cfapru se djuno</a>
 
-ni'o ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
-i tu'e
+ni'o .ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
+.i tu'e
 
-- i djuno lo du'u smuxu'a fi lo cuvyto'aci'e fe lu'e su'o da poi ro togyku'e be va'o ke'a cu frinyna'u
-- i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u e li ci fi'u ree li mu fi'u voe li ze fi'u vo
-- i djuno lo du'u kanji lo du'u ma kau togyku'e ke sumji fa'u velvi'u fa'u dukti kei fo lo nu kanji lo du'u ma kau pilji fa'u parbi fa'u pavdilcu fe joi fi lo ty parbi
-- i kakne lo ka kanji tu'a lo toglai kei gi'e djuno lo du'u lo togytikyka'u pe lo dunto'aci'e ge'u fa'u lo zelto'aku'e cu toglai li pa no no fa'u li pa re no no
-- i kakne lo ka kanji lo se toglai be ro togyku'e fo su'o vi mekso
+- .i djuno lo du'u smuxu'a fi lo cuvyto'aci'e fe lu'e su'o da poi ro togyku'e be va'o ke'a cu frinyna'u
+- .i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u .e li ci fi'u re .e li mu fi'u vo .e li ze fi'u vo
+- .i djuno lo du'u kanji lo du'u ma kau togyku'e ke sumji fa'u velvi'u fa'u dukti kei fo lo nu kanji lo du'u ma kau pilji fa'u parbi fa'u pavdilcu fe lo ty parbi fi ri
+- .i kakne lo ka kanji tu'a lo toglai kei gi'e djuno lo du'u lo togytikyka'u pe lo dunto'aci'e ge'u fa'u lo zelto'aku'e cu toglai li pa no no lo'o fa'u li pa re no no
+- .i kakne lo ka kanji lo se toglai be ro togyku'e fo su'o vi mekso
 	
 	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ sei dugri be fi su'o simxu mintu}$$
 	
@@ -67,380 +69,449 @@ i tu'e
 
 tu'u
 
-ni'o ji'a ei se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
+ni'o ji'a .ei do se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
 
-The first is the ability to quickly convert back and forth between an **interval in staff notation** (without enharmonic equivalence) and the **number of steps by fifths** which is required to build that interval. For example, a **major second** is **+2** fifths, because reaching the major second requires 2 steps by fifths in the clockwise direction: C–G–D. Similarly a **minor third** is **−3 fifths**, because reaching it requires 3 steps by fourths, which are fifths in the anticlockwise direction: C–F–B♭–E♭. Each interval in staff notation has one unique number of steps by fifths corresponding to it. You must be able to perform this conversion and the backwards conversion, ideally quickly.
+ni'o pa mai ko kakne lo ka kanji galfi **lo togyku'e poi fadni ku'o** to se cau lo nu togbasti kei toi **lo namcu be lo vonto'aku'e**
+.i mu'a lo **pavyto'aku'e** cu srana lo vonto'aku'e noi **re mei**
+.i ri'a bo re da lo nu zbasu lo pavyto'aku'e vau cu jai se sarcu to co dutso toi
+.i mu'a relto'a ce'o xavyto'a ce'o cibyto'a
+.i si'a lo **relto'aku'e** cu srana lo vonto'aku'e noi **ni'u ci mei**
+.i ri'a bo ci cibyto'aku'e noi vonto'aku'e co zucna ku'o cu jai se sarcu
+.i mu'a relto'a ce'o mumto'a ce'o cmapavyto'a ce'o cmavonto'a
+.i .ei dai ko kakne be lo ka kanji bi'u nai be'o co manri je bo dukti je sutra .e'u
 
-The second is the ability to prime-factorize a rational number. Much like any **positive integer** can be uniquely factorized into primes with **natural number** exponents (this is the Fundamental Theorem of Arithmetic), any **positive rational number** can be uniquely factorized into primes with **integer** exponents. I will humorously dub this the Fundamental Theorem of Harmony. For example, the number 6/5 factorizes to 2<sup>1</sup> 3<sup>1</sup> 5<sup>−1</sup> and no other factorization exists. (Given that this is a crash course, the mathematical details of this fact will be omitted, but of course [they are available](math.html) for the curious reader. Anywhere in this course where a mathematical fact is taken for granted, look for a proof in the mathematics page.)
+ni'o re mai ko djuno lo du'u ma kau jai ta'i kanji lo dilcymu'o lo frinyna'u
+.i ro da poi **mulnonmau** fa'u **frinynonmau** si'a zo'u da se pagbu pa lo'i dilcymu'o noi se tenfa fi lo **kacna'u** fa'u **mulna'u** si'a
+.i la'e di'u cu se cmene fi zi'o fa'u mi fe lu ralju cmacybri pe lo nacycmaci li'u fa'u lu ralju cmacybri pe lo zgisarxe li'u .u'i
+.i mu'a li xa fi'u mu cu se pagbu li re te'a pa lo'o ce li ci te'a pa lo'o ce li mu te'a ni'u pa
+.i no cmima be lo dilcymu'o be'o poi drata cu zasti
+to .i lo nu ti xe ctuca kei jai mu'i mi vimcu lo cmaci tcila
+.i ku'i li'a ri zvati va'u lo [tcidu poi kucli](math.html)
+.i ro da poi srana lo cmacybri bu'u ti noi xe ctuca zo'u lo cmaci kibystu cu se zvati lo ctaipe toi
 
-The third is taking the reduced form of an interval. In practice, it consists of multiplying or dividing a number by 2 until the result is between 1 (inclusive) or 2 (exclusive); this process reflects our perception of *octave equivalence*, the tendency to perceive pitches off by an interval of 2/1 (the octave) as equivalent. For example, 7/1 becomes 7/4, and 1/6 becomes 4/3. The reduced form is given by the formula:
+ni'o ci mai do nitcu lo **sapka'i** be lo togyku'e
+.i lo su'u tcikai zo'u pilji jo nai dilcu lo togyku'e li re pu'o lo nu lo te pruce cu mleca li re gi'e zmadu ja bo du li pa
+.i la'e di'u panra lo rodrodrodrodrodrodbroda
+.i sy zo'u ma'a jai ga'a lo selto'a cu dunli va'i lo nu frica fi tu'a lo zelto'aku'e ku po'o ne li re fi'u
+.i mu'a li ze fi'u cu binxo li ze fi'u vo
+.i je li fi'u xa cu binxo li vo fi'u ci
+.i lo sapka'i cu te pruce fo tu'a ti noi mekso
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
-This is just about all you need, so let's get started!
+ni'o zasti ji'a fa lo **laxykemsapka'i**
+.i ly zo'u lo te pruce cu mleca li re te'a pi mu gi'e zmadu ja bo du li re te'a ni'u pi mu
+.i ly jai se kanji ji'u lo sapka'i noi fadni
+
+$$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
+
+ni'o ti jarco lo tadji poi zmadu lo ka frili kei va'i lo nu menli kanji
+
+$$\text{reb}(d)=\text{red}(d) \text{ , } \text{red}(d) < \sqrt{2}$$
+
+$$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}$$
+
+ni'o mulno
+.i .e'e cfari
 
 ## <a name="lesson_1">pa mo'o: cistrpitagora</a>
 
-You might think that removing enharmonic equivalence from staff notation gives us access to a vastly larger number of pitches, and you would be correct. However, removing enharmonic equivalence, on its own, is insufficient to represent the entirety of JI in a meaningful way. One of the merits of JI is its ability to express very small differences in pitch to give different intervals different flavors.
+ni'o do jinvi la'a lo du'u lo nu vimcu lo si'o togbasti cu rinka lo nu zenba co cumki fa lo nu sinxa xo kau tonga
+.i go go'i gi do draji'i
+.i ku'i vy na banzu lo ka cumgau lo nu sinxa ro da pe lo cuvyto'aci'e
+.i lo vrude pe lo cuvyto'aci'e cu ka lo tonga poi jibni simxu cu te bangu ja'e lo nu lo togyku'e poi drata cu skari pe'a lo drata
 
-Consider the sequence of JI intervals: 11/10, 10/9, 9/8, 8/7. Listen to it below:
+ni'o mu'a ko se xanri lo togyku'e porsi pe li pa pa fi'u pa no lo'o ce'o li pa no fi'u so lo'o ce'o li so fi'u bi lo'o ce'o li bi fi'u ze
+.i ko tirna
 
 <audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 
-All of them are "some type of major second" to most listeners, but it would be wrong to represent all of them with a major second in writing. They are very different intervals, and suppressing variety where it is the biggest virtue is contradicting the very essence of JI.
+ni'o ba'a so'a da jai ga'a vo mei jibni be lo pavyto'aku'e
+.i ku'i toldra fa lo nu da'i lu'e lo pavyto'aku'e cu sinxa ro le vo togyku'e
+.i ri drata simxu
+.i lo du'u mipri la'e di'u cu natfe tu'a lo jicmu be lo cuvyto'aci'e
 
-In that case, you might think that there might exist some middle ground, a subset of JI, which can be mapped exactly onto staff notation without enharmonic equivalence, and again you would be correct. That middle ground is none other than 3-limit JI, also known as Pythagorean tuning.
+ni'o ja'e bo do jinvi la'a lo du'u zasti fa lo midju noi ke'a gripau lo pi ro cuvyto'aci'e gi'e ro pagbu be ke'a cu se sinxa pa pagbu be lo zgisnici'e poi claxu lo si'o togbasti
+.i go go'i gi do ji'a draji'i
+.i lo bi'u nai midju no'u lo cistrpitagora cu cuvyto'aci'e li ci
 
-This means that the octave in staff notation is assigned the JI ratio 2/1, exactly the same as in 12-EDO, and that the perfect fifth in staff notation is assigned the JI ratio 3/2. With this assignment, every possible interval in staff notation is assigned exactly one possible 3-limit JI interval; there is a bijection.
+ni'o va'i tu'e lu'e lo zelto'aku'e cu srana li re fi'u
+.i to la'e di'u simsa lo me lo dunto'aci'e be li pa re moi toi
+.i lu'e lo mulvonto'aku'e cu srana li ci fi'u re tu'u
+.i ja'e bo ro da po'u lu'e lo togyku'e pe lo zgisnici'e zo'u da srana pa se cistrpitagora
+.i la'e di'u nibli lo du'u pavysmu 
 
-This, actually, is how the set of diatonic pitch classes can be considered to be *defined*: F, C, G, D, A, E, and B are all defined such that F–C is 3/2, C–G is 3/2, etc. We notice that B–F can then be calculated to be 1024/729, which is close to 3/2 but is smaller. So we then define the sharp and flat to counter this difference, so that B–F♯ is 3/2 and B♭–F is 3/2. You will later see that the FJS works by extending this principle of countering differences with accidentals.
+ni'o ta'o cumki fa lo nu ba'e *ca'engau* tu'a lo ralju toglei
+.i ca'engau lo du'u lo mumto'a ce'o relto'a ce'o xavyto'a ce'o cibyto'a ce'o nonto'a ce'o vonto'a ce'o pavyto'a zo'u lo se togyku'e pe my bi'o ry ge'u .e lo se togyku'e pe ry bi'o xy ge'u .e lo drata cu du li ci fi'u re
+.i ja'e bo lo se togyku'e pe py bi'o my cu du li pa no re vo fi'u ze re so noi milxe lo ka mleca li ci fi'u re
+.i ja'e bo ca'engau lo du'u lo togystika kantu cu vimcu tu'a lo bi'u nai ka mleca
+.i ja'e bo lo se togyku'e pe lo pavyto'a fa'u bo cmapavyto'a bi'u bramumto'a fa'u bo mumto'a cu du ji'a li ci fi'u re
+.i fy jy sy se jicmu lo si'o tcena lo bi'u nai javni noi du'u lo togystika cu cikre lo ka lo togyku'e cu drata
 
-I should note that this requires something that some musicians may not be aware exists: multiples, beyond double, of the sharp and flat. While extremely rarely used in conventional music, they are required here so that the line of fifths is unbounded in either side. In the FJS, sharps and flats can appear with any multiplicity. This is not to say that they are common; just do not panic when you have to use them.
+fa'o
 
-You are now ready to learn the first two FJS techniques.
+Bemerken wir, dass diese Bijektion etwas benötigt, das vielleicht nicht allen bewusst ist: mehr als nur doppelte Kreuze und Be. Obwohl sie sehr selten in üblicher Musik vorkommen, sind sie hier erforderlich, damit die Quintenlinie auf beiden Seiten unbegrenzt ist. Im FJS können dreifache, vierfache, usw. Kreuze und Be auch vorkommen. Das heißt gar nicht, dass sie oft vorkommen. Aber keine Panik, falls du sie benutzen musst.
 
-> ### FJS Technique \#1: To convert from a Pythagorean ratio to an FJS representation.
+Du bist jetzt bereit, die ersten zwei FJS-Techniken zu lernen.
+
+> ### FJS-Technik \#1: Ein pythagoreisches Frequenzverhältnis in seine FJS-Darstellung umrechnen.
 > 
-> 1. Factorize the ratio.
-> 2. Initially ignore octaves (powers of two).
-> 3. If the power of three is positive, move that many steps by fifths clockwise; if negative, move anticlockwise. Convert that number to an interval.
-> 4. Adjust octaves as required.
+> 1. Faktorisiere das Verhältnis.
+> 2. Ignoriere zunächst die 2er-Potenz.
+> 3. Beachte die 3er-Potenz, und mache so viele Quintenschritte (im Uhrzeigersinn oder gegen, je nachdem, ob die Potenz positiv oder negativ ist). Dadurch entsteht das entsprechende Intervall.
+> 4. Reguliere die Oktave.
 >
-> **Example:** To convert 9/8 to the FJS, we factorize: 2<sup>−3</sup> 3<sup>2</sup>. We ignore the factor of two. The power of three is +2, so we move two fifths clockwise: C–G–D. We have a major second. No octave adjustment needs to be made. The answer is M2.
+> **Beispiel:** Um 9/8 in das FJS umzurechnen, faktorisieren wir zunächst: 2<sup>−3</sup> 3<sup>2</sup>. Wir ignorieren die 2er-Potenz. Die 3er-Potenz beträgt +2, also gehen wir zwei Quinten im Uhrzeigersinn: C–G–D. Die Antwort lautet also: große Sekunde.
 
-> ### FJS Technique \#2: To convert from an FJS representation of a Pythagorean ratio back to the ratio.
+> ### FJS-Technik \#2: Eine FJS-Darstellung eines pythagoreischen Frequenzverhältnisses zurück umrechnen.
 > 
-> 1. Initially ignore octaves.
-> 2. Convert the interval to the number of steps by fifths, name it *n*.
-> 3. Calculate $$\text{red}(3^n)$$.
-> 4. Adjust octaves as required.
+> 1. Ignoriere zunächst Oktaven.
+> 2. Bestimme die Anzahl der Quintenschritte, aus denen sich das Intervall ergibt, und nenne sie *n*.
+> 3. Berechne $$\text{red}(3^n)$$.
+> 4. Reguliere die Oktave.
 >
-> **Example:** To convert the FJS interval m3 to a Pythagorean ratio, we convert it first to −3 fifths: C–F–B♭–E♭. We now raise 3 to that power: 3<sup>−3</sup>. This is 1/27. To bring this number between 1 (inclusive) and 2 (exclusive), we multiply by 32 to get the answer: 32/27.
+> **Beispiel:** Um die kleine Terz im FJS in ein Verhältnis umzurechnen, bestimmen wir zuerst, dass die kleine Terz −3 Schritte benötigt: C–F–B–Es. $$\text{red}(3^{-3})$$ beträgt 32/27.
 
-Below is a table of some common ones:
+Die folgenden sind am meisten verbreitet:
 
-| Interval | Steps | Ratio       |
-|---------:|:-----:|:------------|
-| m2       | −5    | 256/**243** |
-| m6       | −4    | 128/**81**  |
-| m3       | −3    | 32/**27**   |
-| m7       | −2    | 16/**9**    |
-| P4       | −1    | 4/**3**     |
-| P5       | +1    | **3**/2     |
-| M2       | +2    | **9**/8     |
-| M6       | +3    | **27**/16   |
-| M3       | +4    | **81**/64   |
-| M7       | +5    | **243**/128 |
+| Intervall      | Schritte | Verhältnis  |
+|:---------------|:--------:|:------------|
+| kleine Sekunde | −5       | 256/**243** |
+| kleine Sexte   | −4       | 128/**81**  |
+| kleine Terz    | −3       | 32/**27**   |
+| kleine Septime | −2       | 16/**9**    |
+| reine Quarte   | −1       | 4/**3**     |
+| reine Quinte   | +1       | **3**/2     |
+| große Sekunde  | +2       | **9**/8     |
+| große Sexte    | +3       | **27**/16   |
+| große Terz     | +4       | **81**/64   |
+| große Septime  | +5       | **243**/128 |
 
-You don't need to memorize this table. Memorization is not at all necessary to use the FJS. Instead, as with mental arithmetic, it's useful for speeding up your fluency. You should ideally be able to work out all these ratios given the intervals, and vice versa, on your own, given the two techniques listed above. Don't be afraid to use calculators to help you; you'll find one very useful when working with the FJS until you become fluent and simply know the common results.
+Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst du dir überhaupt keine Zahlen merken. Es ist ähnlich wie beim Kopfrechnen. Du sollst schon jetzt selber diese Verhältnisse aus den Intervallen berechnen können, und zurück, mithilfe der zwei Techniken. Fürchte nicht, einen Taschenrechner zu benutzen. Einer wird dir sicher sehr hilfreich sein, bis du dich mit dem FJS so gut auskennst, dass du die Ergebnisse einfach weißt.
 
-### Exercise 1
+### Aufgabe 1
 
-1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
-2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/exercise_1.png" alt="E–F♯–A–B–D–E">
-4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
-5. Find the ratio of the Pythagorean comma (d2 in the FJS).
-6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
+1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
+2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
+3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/exercise_1.png" alt="E–Fis–A–H–D–E"> <audio controls><source src="../assets/audio_7.mp3" type="audio/mpeg"></audio>
+4. Notiere die folgende Tonleiter im FJS mit D als Grundton: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
+5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
+6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
 
-You can check your answers [here](solutions.html).
+Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="lesson_2">re mo'o: dilcysle togyku'e</a>
+## <a name="lesson_2">Lektion 2: Die Primzahlintervalle</a>
 
-All right, you've learned to write all of Pythagorean tuning. This is pretty boring for now, since Pythagorean doesn't even deviate from 12-EDO that much – aside from having a nonzero diminished second. And more importantly, it's not even close to being able to notate the entirety of Just Intonation.
+Also bisher hast du gelernt, die pythagoreische Stimmung aufzuschreiben. Bis jetzt war es ein bisschen langweilig. Die pythagoreische Stimmung weicht gar nicht so viel von 12-EDO ab. Es reicht auch gar nicht aus, um die ganze Naturtonstimmung aufschreiben zu können.
 
-The next step in being able to cover all of JI is to cover the so-called prime intervals. These are intervals in the overtone series based on prime numbers. To find them, we take the prime numbers:
+Der nächste Schritt ist die Fähigkeit, sog. Primzahlintervalle darzustellen. Das sind Intervalle der Obertonreihe, die aus Primzahlen bestehen. Wir nehmen also die Reihe der Primzahlen:
 
 > 2, 3, 5, 7, 11, 13, 17, 19, …
 
-…and we take the reduced form of all of them:
+…und wir verwandeln alle in ihre reduzierte Formen:
 
 > 1/1, 3/2, 5/4, 7/4, 11/8, 13/8, 17/16, 19/16, …
 
-We already know how to notate the first two primes: the octave and the fifth. Those are covered. In fact, from this point onwards, when I refer to "prime intervals", I refer exclusively to the ones corresponding to primes greater than 3.
+Wir wissen schon, wie die ersten zwei Primzahlen aussehen: die Oktave und die Quinte. Ab jetzt, wenn ich „Primzahlintervalle“ sage, meine ich nur die, die Primzahlen über 3 zugeordnet sind.
 
-Now, if you are familiar with JI, then you might have heard of 5/4 being called a "just major third" and 7/4 being called a "harmonic seventh" – a form of "minor seventh". Chances are, this language may not have seemed strange to you at first glance. These just seem like innocent extensions of the notion of "major third" and "minor seventh" to include intervals that are close to those interval classes.
+Falls du dich mit JI auskennst, hast du schon gehört, dass 5/4 als „Naturterz“ und 7/4 als „Naturseptime“ bezeichnet werden – also Sonderformen der großen Terz bzw. der kleinen Septime. Diese Sprache fiel dir wahrscheinlich erstens nicht auf. Es sieht sich so an, als wären es einfach Erweiterungen der Begriffe „große Terz“ und „kleine Septime“, um Intervalle einzubeziehen, die nah sind.
 
-But if we consider this on a formal level, things start to get weird.
+Auf einem formalen Niveau aber geschieht etwas Merkwürdiges.
 
-Say we accept this at first: 5/4 is a type of major third. So we'll notate it as a major third, *with some kind of additional symbol indicating the deviation*. The difference from the Pythagorean major third, 81/64, is the small interval of 81/80, about 22 cents. This should be fine, why would it be problematic? The reason is because the Pythagorean diminished fourth, 8192/6561, is *much* closer. The difference between that and 5/4 is only 32805/32768, only about 2 cents!
+Nehmen wir an, wir akzeptieren das zunächst. 5/4 ist eine Art große Terz. Wir notieren es also als eine große Terz, *mit einem Zusatzzeichen, der für den Unterschied stehen wird.* Die Differenz zur pythagoreischen großen Terz (81/64) beträgt nur 81/80, etwa 22 Cent. Wieso sollte das ein Problem sein? Deswegen, dass es *viel* bessere Annäherungen gibt, zum Beispiel die pythagoreische verminderte Quarte (8192/6561). Sie liegt nur um 32805/32768, nur etwa 2 Cent, entfernt!
 
-Listen to the difference between 81/64 and 5/4:
+Hör dir den Unterschied zwischen 81/64 und 5/4 an:
 
 <audio controls><source src="../assets/audio_2.mp3" type="audio/mpeg"></audio>
 
-And the difference between 8192/6561 and 5/4:
+Und den Unterschied zwischen 8192/6561 und 5/4:
 
 <audio controls><source src="../assets/audio_3.mp3" type="audio/mpeg"></audio>
 
-Why should we choose the major third over the diminished fourth to notate 5/4? Ah, simplicity, I hear you say. The major third is only +4 fifths, while the diminished fourth is the much more complicated −8 fifths. But then in that case, why don't we use the *minor* third to notate 5/4 – clearly it is simpler, only −3 as opposed to +4 fifths. Oh, it's too far away now? Who are *you* to decide the exactly correct balance between simplicity and proximity?
+Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/4 benutzen? Einfachheit, sagst du? Die große Terz beträgt nur +4 Quinten, während die verminderte Quarte −8 anbietet, also viel komplizierter. Wieso benutzen wir also nicht die *kleine* Terz als 5/4? Sie ist doch einfacher, nur −3 statt +4 Quinten. Ach, jetzt ist sie nicht nah genug? Wieso bestimmst *du* das richtige Gleichgewicht zwischen Einfachheit und Nähe?
 
-OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question "How do we choose the approximations for each prime interval?" is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
+Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. „Wie wählen wir also die Annäherungen für jedes Primzahlintervall?“ Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
 
 $$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
 
-The reason will be explained later.
+Wieso, erkläre ich später.
 
-What does the FJS do with this number? The next step is the most important element in the entirety of the FJS; it's the element that makes it so unique among other notation systems for JI. It is the **FJS master algorithm.** Here it is, in a human-readable form. Implementations in programming languages, including a calculator on this website, are available as well.
+Wie benutzt das FJS diese Zahl? Der nächste Schritt ist das wichtigste Element des ganzen FJS. Es ist dasjenige Element, das das FJS von allen anderen JI-Notationssystemen unterscheidet. Es ist der **FJS-Master-Algorithmus**. Hier steht er lesbar für Menschen. Andere Formen in Programmiersprachen, darunter auch ein Rechner auf dieser Webseite, gibt es auch.
 
-The **FJS master algorithm** outputs the so-called **generator function** for each prime number input with a radius of tolerance. I will explain below what the algorithm does, how it is used, and what the generator function is used for.
+Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus so tut, wie er benutzt wird, und wozu die Quintenverschiebung dient.
 
-> ### The FJS Master Algorithm
+> ### Der FJS-Master-Algorithmus
 > 
-> 1. Input the desired prime interval in octave-reduced form.
-> 2. Let *k* = 0.
-> 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
-> 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
-> 5. If so: *k* is the generator function. Output. End.
-> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
-
-As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
-
-The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Here is how it is computed:
-
-> ### The Formal Comma
+> 1. Lese die eingegebene Primzahl und nenne sie *p*.
+> 2. Fange an mit *k* = 0.
+> 3. Betrachte das Intervall aus *k* pythagoreischen Quinten und nenne es *P*.
+> 4. Beträgt die Differenz zwischen *p* und *P* weniger als der Toleranzradius?
+> 5. Falls ja, dann ist *k* die Verschiebung. Ende.
+> 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
 >
-> The formal comma of a prime *p* with a generator function *g* is given by:
+> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
 >
-> $$\text{comma} (p)=\frac{\text{red} (p)}{\text{red} (3^g)}$$
+> | Verschiebung | Pythagoreisch |   Komma   |          Schlussfolgerungen |
+> |-------------:|:-------------:|:---------:|----------------------------:|
+> |          0   |      1/1      |    5/4    |  386.31¢   ≥ λ; fortfahren. |
+> |         +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
+> |         −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
+> |         +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
+> |         −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; fortfahren. |
+> |         +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
+> |         −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
+> |       **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
 
-You can also go the other way: determine the generator function of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the generator function. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the generator function for 7 is −2.
+Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
-Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
+Im 4. Schritt wählen wir die Oktaven von *p* und *P* so, dass die „Differenz“ minimal ist: wir meinen dabei die absolute Größe des Kandidaten für das formale Komma, also den **Betrag** seiner Cent-Größe. Hier, und nur hier, sind z.B. 16/15 und 15/16 gleichwertig. Formal bedeutet „Differenz“ hier Folgendes: $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
-- In note naming, positive accidentals are written as a superscript of the number itself, and negative ones as a subscript of the number.
-- In music notation, positive accidentals are written as the number itself, and negative ones as the number with a negative sign.
+Obwohl der Algorithmus langweilig wirkt, ist er tatsächlich sehr schnell, auch im Kopf. 5/4 ist natürlich zu weit von der Oktave, Quinte, Quarte, großen Sekunde, kleinen Septime, und großen Sexte. Hier ist es nur die Frage, ob sie zu weit von der kleinen Terz ist. Dann ist die große Terz eine prima Annäherung.
 
-You may have noticed that I used the words "positive" and "negative" rather than "upward" and "downward". This is because, in the FJS, positive accidentals are not always upward and negative accidentals are not always downward. Instead, **positive is always otonal** and **negative is always utonal**. This means that – and this is very important – *an FJS accidental is always positive in the direction in which a Pythagorean approximation becomes the target prime interval.* For example, to notate 5/4 above C, we first write E (its approximation, 81/64), and then we change it to 5/4 by writing E<sup>5</sup>. This change actually *lowers* it by 81/80.
+Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung jedes Primzahlintervalls, die innerhalb des Toleranzradius liegt. Die Differenz wird dann **formales Komma** genannt, und ihm wird ein FJS-Versetzungszeichen gegeben. So wird das formale Komma berechnet:
 
-Those of you who are already familiar with Ben Johnston's notation for JI will recognize this idea. For the rest of you:
+> ### Das formale Komma
+>
+> Das formale Komma einer Primzahl *p* mit Verschiebung *g* ist:
+>
+> $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-This may seem unnecessarily confusing at first glance, but it actually simplifies things. A positive accidental of, say, +17, always means that applying it will add a factor of 17 to the numerator, and as long as you know what Pythagorean interval is close to 17/16 (spoiler: it's a m2), you know that 17/16 is just a m2 with a +17 accidental attached. You don't need to know if the Pythagorean approximation is higher or lower than the target. This principle, focusing on otonality and utonality rather than direction, also makes the notation of many tuning systems and scales much more intuitive. In fact, in the FJS, the accidental +5 is actually represented as having a value of 80/81, not 81/80. You will find that in a list of formal commas for any prime number *p* > 3, every formal comma will always contain a factor of *p* in the numerator. It's also where the system gets its name from: the **Functional** Just System; the one that focuses on representing *function* rather than pitch position.
+Es geht auch anders herum: du kannst aus dem formalen Komma die Verschiebung einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Verschiebung. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Verschiebung für 7.
 
-In fact, let me mention an anecdote. While prototyping the Functional Just System (way before it even had a name), the original design forced all commas to be upward, so that positive is upward and negative is downward. At one point, I was considering some 5-limit and 7-limit tunings, and at one point I suddenly noticed that using the positive-upward, negative-downward system overcomplicates things, and I decided that I will immediately switch it to the positive-otonal, negative-utonal system. After I did this, it drastically simplified my thinking in the FJS, so it stayed that way. (There were many other inconvenient features in the FJS before I managed to reduce it to the extremely simple form it has now…)
+Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes Komma: positiv oder negativ. Das Symbol für das Versetzungszeichen basiert stets auf der Primzahl selbst. Die Form variiert, je nachdem du Notennamen oder Notenschrift schreibst:
 
-Here is the harmonic series on A, up to the eighth harmonic, notated using the FJS:
+- Bei Notennamen werden positive Versetzungszeichen hochgestellt und negative tiefgestellt.
+- Bei Notenschrift werden positive Versetzungszeichen als einfach die Primzahl, negative als die Primzahl mit einem Minus-Zeichen geschrieben.
 
-> A, A, E, A, C♯<sup>5</sup>, E, G<sup>7</sup>, A.
+Bemerke, dass ich mit Absicht die Worte „positiv“ und „negativ“ statt „aufwärts“ und „abwärts“ verwende. Deswegen eben, dass im FJS positive Versetzungszeichen nicht immer erhöhen, und negative nicht immer senken. Stattdessen heißt **positiv immer otonal** und **negativ immer utonal**. Das heißt Folgendes – und es ist ganz wichtig – *ein FJS-Versetzungszeichen ist immer positiv in der Richtung, wo eine pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird.* Beispielsweise, um 5/4 von C aufzuschreiben, schreiben wir zunächst E (die Annäherung, 81/64), dann verwandeln wir es in ein 5/4, indem wir ein +5 dazuschreiben, also E<sup>5</sup>. Dieses +5 versetzt es eigentlich um 81/80 nach *unten*.
 
-Here is the same using staff notation:
+Diejenigen von euch, denen das Ben-Johnston-System schon bekannt ist, ist diese Idee nicht fremd. Für den Rest von euch:
 
-<img src="../assets/example_3.png" alt="A–A–E–A–C♯5–E–G7–A">
+Es sieht zuerst überflüssig kompliziert aus. Tatsächlich ist es aber viel einfacher. Zum Beispiel: Ein positives Versetzungszeichen von +17 bedeutet immer, dass seine Anwendung einen Faktor von 17 zum Zähler hinzubringt. Solange du weißt, welche pythagoreische Annäherung 17/16 hat (es ist die kleine Sekunde), weißt du auch, dass 17/16 einfach als kleine Sekunde mit +17 geschrieben wird. Du brauchst dazu nicht zu wissen, ob die Annäherung höher oder niedriger als das Ziel ist! Dieses Prinzip, das auf Otonalität und Utonalität anstatt Richtung basiert, vereinfacht auch die Notation vieler Tonleitern und Stimmungssystemen. Im FJS ist das Versetzungszeichen +5 eigentlich als 80/81, nicht 81/80, beschrieben. In einer Liste formaler Kommas für jede Primzahl *p* > 3 wird das formale Komma einen Faktor von *p* immer im Zähler enthalten. Es ist auch der Grund, warum dieses System das Naturton**funktions**system heißt: sein Schwerpunkt ist, die **Funktion**, und nicht die Tonhöhe, wiederzugeben.
 
-Listen to this scale:
+Ich möchte dazu gerne eine Anekdote erzählen. Während ich ein Prototyp des Naturtonfunktionssystems entwickelte (noch bevor es einen Namen hatte), ursprünglich waren alle formalen Kommas doch positiv aufwärts und negativ abwärts. Einmal dachte ich über einige 5-Limit- und 7-Limit-Stimmungen nach, und plötzlich fiel mir auf, dass diese Konvention überflüssig kompliziert ist, und ich habe mich sofort entschieden, sie auf die jetzige zu ändern: positiv-otonal, negativ-utonal. Nachdem ich dies getan habe, hat es mein Denken im FJS drastisch vereinfacht, also so blieb es. (Das ursprüngliche FJS hatte noch viele andere Unbequemlichkeiten, bevor ich es zur heutigen, extrem einfachen Form reduzieren konnte…)
+
+So sieht die Obertonreihe von A bis zum achten Oberton im FJS aus:
+
+> A, A, E, A, Cis<sup>5</sup>, E, G<sup>7</sup>, A.
+
+So sieht sie in Notenschrift aus:
+
+<img src="../assets/example_3.png" alt="A–A–E–A–Cis5–E–G7–A">
+
+So hört sie sich an:
 
 <audio controls><source src="../assets/audio_4.mp3" type="audio/mpeg"></audio>
 
-As you can see (and this is true for the whole infinite harmonic series), all accidentals in the harmonic series are positive. Doesn't this look much cleaner than what it would be if we used direction instead? I understand that you may initially be confused by this choice, but with time, you will see for yourself that it does make the FJS more logical and much easier to use. (You can also think of a different analogy: instead of the sharp raising and the flat lowering, you can think of the sharp adding fifths and the flat removing fifths.)
+Wie du siehst, alle Versetzungszeichen in der Obertonreihe sind positiv (und das gilt für die ganze, unendliche Obertonreihe). Ist das nicht viel sauberer, als wenn wir Richtung statt Otonalität benutzen würden? Ich verstehe, dass du zuerst verwirrt sein kannst. Mit der Zeit aber wirst du selbst sehen, dass es das FJS doch logischer und einfacher macht. (Du kannst dir auch eine andere Analogie vorstellen: anstatt das Kreuz als erhöhend und das Be als senkend zu betrachten, bemerke, dass das Kreuz Quinten addiert, und das Be Quinten subtrahiert.)
 
-At this point, I'd like to explain how these accidentals interact with each other on a staff.
+Jetzt möchte ich erklären, wie diese Versetzungszeichen miteinander interagieren.
 
-> ### Propagation of FJS Accidentals
+> ### Propagierung der FJS-Versetzungszeichen
 >
-> - As we all know, conventional (Pythagorean) accidentals categorize letter-pitches (CDEFGAB) into their correct Pythagorean pitch classes, so they apply to the same letter-pitch in the same octave until the end of a bar.
-> - Similarly, FJS accidentals categorize Pythagorean pitch classes (C, D♭, C♯, D, etc.) into their correct FJS pitches, so they apply to the same Pythagorean pitch in the same octave until the end of a bar.
+> - Wir wissen alle, dass pythagoreische Versetzungszeichen die einzelnen Stammtöne (C, D, E, F, G, A, H) in dessen korrekte pythagoreische Tonhöhen kategorisieren. Deshalb gelten sie für alle Noten desselben Stammtons in derselben Oktave in demselben Takt.
+> - Ebenso kategorisieren FJS-Versetzungszeichen die pythagoreischen Töne (C, Des, Cis, D, …) in dessen korrekte absolute Tonhöhen. Deshalb gelten sie für alle Noten desselben pythagoreischen Tons in derselben Oktave in demselben Takt.
 
-Why so? Because when this rule is considered in this way, it is much more logical, and because this is much more useful. Below is a demonstration of this rule:
+Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veranschaulichung dieser Regel:
 
-<img src="../assets/example_4.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
+<img src="../assets/example_4.png" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
 
-- In the first bar, we have a C♯<sup>5</sup> followed by just a bare C. Because it's the same letter-pitch in the same octave, it absorbs the sharp. Because it's now a C♯ in the same octave, it also absorbs the +5. So it reads C♯<sup>5</sup>, C♯<sup>5</sup>.
-- In the second bar, there is a C♯<sup>5</sup> followed by a bare C with a +1 accidental. **+1 is the FJS equivalent of a natural; it cancels any FJS accidentals, but nothing else.** So this reads C♯<sup>5</sup>, C♯.
-- In the third bar, there is a C♯<sup>5</sup> followed by a C-natural. Since it is now a different Pythagorean pitch, the +5 is not absorbed, so this reads C♯<sup>5</sup>, C.
-- In the fourth bar, there is a C♯<sup>5</sup> followed by a C-natural with a +5 accidental. Now we have C♯<sup>5</sup>, C<sup>5</sup>; this case is least likely to be used.
+<audio controls><source src="../assets/audio_8.mp3" type="audio/mpeg"></audio>
 
-One more note: the FJS also allows interval names to include these superscripts and subscripts. This, in fact, is how JI ratios are formally named using the FJS. For example, 5/4 is written in the FJS as M3<sup>5</sup>. This means that it will be E<sup>5</sup> above C, or A<sup>5</sup> above F, or B<sup>5</sup> above G, etc.
+- Im ersten Takt haben wir ein Cis<sup>5</sup> und danach ein bloßes C. Weil es derselbe Stammton in derselben Oktave ist, absorbiert es das Kreuz. Weil es jetzt ein Cis in derselben Oktave ist, absorbiert es auch das +5. Wir haben also Cis<sup>5</sup>, Cis<sup>5</sup>.
+- Im zweiten Takt gibt es ein Cis<sup>5</sup> und danach ein bloßes C mit einem Versetzungszeichen von +1. **+1 ist das FJS-Äquivalent des Auflösungszeichens. Es löst alle FJS-Versetzungszeichen auf, aber nichts sonst.** Deshalb heißt es Cis<sup>5</sup>, Cis.
+- Im dritten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C. Weil es jetzt nicht mehr derselbe pythagoreische Ton ist, wird das +5 nicht mehr absorbiert, deshalb heißt es Cis<sup>5</sup>, C.
+- Im vierten Takt gibt es ein Cis<sup>5</sup> und danach ein aufgelöstes C mit +5. Jetzt haben wir Cis<sup>5</sup>, C<sup>5</sup>; dieser Fall tritt wahrscheinlich am seltensten auf.
 
-OK, that's all you need to know to notate the prime intervals. Below is one more technique. The radius of tolerance is not needed anymore; the only place where the FJS uses the radius of tolerance is in the master algorithm, in computing the generator function of a prime.
+Noch eine Anmerkung: das FJS ermöglicht auch, Intervallnamen diese hoch- und tiefgestellten Versetzungszeichen anzuhängen. Auf diese Weise werden JI-Frequenzverhältnisse formal im FJS benannt. Zum Beispiel „heißt“ 5/4 die (große Terz)<sup>5</sup>. Das wäre also E<sup>5</sup> von C, oder A<sup>5</sup> von F, oder H<sup>5</sup> von G, usw.
 
-> ### FJS Technique \#3: To convert any arbitrary otonal prime interval into its FJS representation.
+OK, das ist alles, was du wissen musst, um die Primzahlintervalle aufschreiben zu können. Unten findest du eine neue Technik. Den Toleranzradius brauchst du nicht mehr. Man benutzt ihn nur im Master-Algorithmus, wo die Verschiebung einer Primzahl bestimmt wird.
+
+> ### FJS-Technik \#3: Ein otonales Primzahlintervall ins FJS umrechnen.
 > 
-> 1. Compute the generator function of the prime.
-> 2. Write the interval generated by that number of fifths.
-> 3. Modify it by a positive accidental of that prime. For example, if you are writing 23/16, add a +23 accidental.
+> 1. Finde die Verschiebung der Primzahl.
+> 2. Schreibe das Intervall auf, das dieser Anzahl von Quintenschritten entspricht.
+> 3. Addiere ein positives Versetzungszeichen der Primzahl selbst. Beispielsweise erhält 23/16 ein +23.
 >
-> **Example:** To write 7/4 in the FJS, we compute the generator function of 7 as −2. We write the interval generated by −2 fifths: C–F–B♭, so m7. The final step is to add the positive +7 accidental to obtain m7<sup>7</sup>. (Yes, it might look strange at first sight, but that's what it is.)
+> **Beispiel:** Um 7/4 im FJS zu notieren, wir finden zuerst die Verschiebung von 7: −2. Wir schreiben das Intervall aus −2 Quinten auf: C–F–B, also eine kleine Septime. Als Letztes fügen wir ein +7 dazu, damit erhalten wir eine (kleine Septime)<sup>7</sup>. (Ja, es sieht auf den ersten Blick komisch aus.)
 
-(Deducing the inverse – the identity of an interval from its FJS representation given that it is an otonal prime interval – is trivial: it's just the prime that the accidental is representing, but octave-reduced!)
+(Die Rückumrechnung ist trivial: um das Verhältnis eines Intervalls im FJS zu bestimmen, wenn gegeben ist, dass es ein otonales Primzahlintervall ist, nimmt man einfach die Primzahl, die auf dem Versetzungszeichen steht!)
 
-### Exercise 2
+### Aufgabe 2
 
-(From this point onwards, the radius of tolerance is always assumed to be λ.)
+(Ab jetzt nimm immer an, dass der Toleranzradius λ beträgt.)
 
-1. Determine the generator function for the primes 11 and 13.
-2. Given that the generator for the prime 19 is −3, find the formal comma for 19.
-3. Given that the formal comma for the prime 47 is 47/48, find its generator.
-4. Notate the following scale with E as tonic: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
-5. Notate the harmonic series on A up to the fourteenth harmonic.
-6. (HARD!) Notate the *undertone* (subharmonic) series from A down to the eighth subharmonic.
+1. Finde die Verschiebung für die Primzahlen 11 und 13.
+2. Gegeben ist, dass die Verschiebung von 19 −3 beträgt. Finde daher das formale Komma für 19.
+3. Gegeben ist, dass das formale Komma von 47 47/48 beträgt. Finde daher die Verschiebung für 47.
+4. Notiere die folgende Tonleiter mit E als Grundton: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
+5. Notiere die Obertonreihe von A bis zum vierzehnten Oberton.
+6. (SCHWIERIG!) Notiere die *Unter*tonreihe von A bis zum achten Unterton.
 
-You can check your answers [here](solutions.html).
+Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="lesson_3">ci mo'o: pluja togystika</a>
+## <a name="lesson_3">Lektion 3: Verbundene Versetzungszeichen</a>
 
-You now know how to represent a large portion of Just Intonation using the FJS. You can notate all of Pythagorean tuning and all of the prime intervals. But that still doesn't cover everything; what about intervals built from more than one prime (including 3), like 15/8 or 25/16, and what about intervals that aren't in the harmonic series at all, like 5/3, 6/5, or 9/7?
+Du weißt jetzt, wie ein Großteil der Naturtonstimmung im FJS notiert wird. Du kannst die ganze pythagoreische Stimmung und alle Primzahlintervalle aufschreiben. Wir sind aber noch nicht fertig; was mit den Intervallen, die aus mehr als einer Primzahl (3 einbezogen) gebaut sind, wie 15/8 oder 25/16, und was mit den Intervallen, die gar nicht in der Obertonreihe vorkommen, wie 5/3, 6/5, oder 9/7?
 
-For the purposes of this crash course, I've divided the intervals not yet covered into two groups:
+In diesem Crash-Kurs habe ich diese übrigen Intervalle in zwei Gruppen geteilt:
 
-- Intervals, like 15/8 or 9/7, which consist of a Pythagorean interval plus a single otonal or utonal prime interval.
-- Intervals, like 25/16 or 7/5, which require more than one prime interval to be built.
+- Intervalle wie 15/8 oder 9/7, die aus einem pythagoreischen Intervall plus einem einzigen otonalen oder utonalen Primzahlintervall gebaut sind.
+- Intervalle wie 25/16 oder 7/5, die mehr als ein Primzahlintervall benötigen.
 
-When it comes to the first group, you can already write them – you just don't know that yet. This is because the FJS has a number of really useful identities that will often allow you to skip having to carry out the techniques I've given (remember that intervals are compounded by multiplying their ratios):
+Die erste Gruppe kannst du schon notieren – du weißt es nur noch nicht. Das FJS hat nämlich viele sehr praktische Identitäten, die dir oft ermöglichen werden, die gegebenen Techniken komplett zu überspringen. (Gedenke dabei, dass Intervalle addiert werden, indem man ihre Frequenzverhältnisse multipliziert.)
 
-> ### FJS Shortcut Identities
+> ### FJS-Abkürzungsidentitäten
 >
-> - The sum of the FJS representations of two JI ratios is the FJS representation of the product of these ratios.
-> - The difference of the FJS representations of two JI ratios is the FJS representation of the quotient of these ratios.
-> - The inversion of the FJS representation of a JI ratio is the FJS representation of the reciprocal of the ratio.
+> - Die Summe zweier FJS-Intervalle zweier Frequenzverhältnisse ist die FJS-Darstellung des Produktes der Verhältnisse.
+> - Die Differenz zweier FJS-Intervalle zweier Frequenzverhältnisse ist die FJS-Darstellung des Quotients der Verhältnisse.
+> - Die Umkehrung eines FJS-Intervalls eines Frequenzverhältnisses ist die FJS-Darstellung des Kehrwertes des Verhältnisses.
 
-These identities have several really nice corollaries that are useful to keep in the back of your mind for fluency. For example, if you have two notes with identical FJS accidentals, you know that the interval between them must be Pythagorean. E<sup>5</sup> and F♯<sup>5</sup>? You may have no idea what they are in the key of B♭<sub>7</sub>, but you know the interval between them is a Pythagorean major second – that is, 9/8. Neat, huh?
+Diese Identitäten haben ein paar nette logische Folgen, die nützlich zu wissen sind, um noch flüssiger zu werden. Wenn du zum Beispiel zwei Noten mit gleichen FJS-Versetzungszeichen hast, weißt du, dass das Intervall zwischen ihnen pythagoreisch sein muss. E<sup>5</sup> und Fis<sup>5</sup>? Du kannst zwar keine Ahnung haben, was sie in der Tonart B<sub>7</sub> sind, aber du weißt, dass das Intervall zwischen ihnen eine pythagoreische große Sekunde sein muss – also 9/8. Cool, oder?
 
-These identities can also be used to write the first group of missing intervals. Take 15/8. Break it up into its Pythagorean part and the remainder: 3/2 and 5/4. Write each of these in the FJS in turn, and then add those representations together. 3/2 becomes P5, and 5/4 becomes M3<sup>5</sup>. The sum is M7<sup>5</sup>. You just add the intervals as you normally would, and affix the FJS accidentals at the end. This indeed is the representation of 15/8 in the FJS!
+Diese Identitäten kannst du auch schon benutzen, um die erste Gruppe fehlender Intervalle zu notieren. Betrachten wir z.B. 15/8. Wir spalten es in zwei Teile: den pythagoreischen und das, was übrig bleibt. Wir erhalten 3/2 und 5/4. Wir übersetzen jetzt ins FJS und addieren dann die Intervalle, die wir dabei erhalten. 3/2 wird zu einer (reinen Quinte), und 5/4 wird zu einer (großen Terz)<sup>5</sup>. Zusammen haben wir eine (große Septime)<sup>5</sup>. Wir addieren die Intervalle wie gewöhnlich, und kleben die Versetzungszeichen auf. Das ist wirklich die Darstellung von 15/8 im FJS!
 
-Another way to think about it is like so: the fifteenth harmonic is like the fifth harmonic in the dominant key. So to notate 15/8 in the key of C, you can start with an "imaginary modulation" to the key of G. There, your target is simply the fifth harmonic, which becomes B<sup>5</sup>. This is therefore also the representation of 15/8 in the key of C.
+Mal anders: Der fünfzehnte Oberton ist wie der fünfte Oberton in der Tonart der Dominante. Um 15/8 in der Tonart C zu notieren, wir können mit einer „imaginären Modulation“ zur Tonart G anfangen. Dort ist dein Ziel einfach der fünfte Oberton, d.h. H<sup>5</sup>. Das ist deshalb auch die Darstellung von 15/8 in der Tonart C.
 
-Yet another way to think about it: you may not know what 15/8 is in the FJS in the key of C, but you know what 5/4 is: it's E<sup>5</sup>. You also know that between 5/4 and 15/8 there's 3/2, a Pythagorean interval. So they must have the same FJS accidentals. You also know that this Pythagorean interval between them is a perfect fifth. That uniquely describes the note B<sup>5</sup>, which is correct.
+Noch mal anders: Du weißt vielleicht nicht, was 15/8 in der Tonart C im FJS ist, aber du weißt bereits, was 5/4 ist: es ist E<sup>5</sup>. Du weißt auch, dass die Differenz zwischen 5/4 und 15/8 3/2 beträgt, ein pythagoreisches Intervall. Deshalb müssen 15/8 und 5/4 dieselbe FJS-Versetzungszeichen haben. Du weißt auch, dass dieses pythagoreische Intervall eine reine Quinte ist. Die zwei Informationen beschreiben zusammen eine einzige Note: H<sup>5</sup>. Das ist die richtige Antwort.
 
-Try using these methods to tackle the next exercise.
+Versuche diese Methoden, um die nächste Aufgabe zu lösen.
 
-### Exercise 3
+### Aufgabe 3
 
-1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
-2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
-3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/exercise_2.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C">
+1. Schreibe die FJS-Darstellungen folgender Frequenzverhältnisse: 5/3, 6/5, 7/6, 9/5.
+2. Finde die Frequenzverhältnisse folgender FJS-Intervalle: (große Sekunde)<sup>5</sup>, (große Terz)<sub>7</sub>, (kleine Septime)<sup>11</sup>.
+3. Notiere die ptolemäische Tonleiter im FJS von C. Die Verhältnisse lauten: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
+4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/exercise_2.png" alt="C–D–Es_5–F–G–As_5–B_5–C"> <audio controls><source src="../assets/audio_9.mp3" type="audio/mpeg"></audio>
 
-You can check your answers [here](solutions.html).
+Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-(At the end of this lesson, you will be provided with techniques to translate *any* ratio to an FJS representation and backwards. However it's useful to keep these methods in mind because they are much quicker and you will generally be using them instead. It's like choosing factorization over the quadratic formula to solve quadratics; it's much faster if you can.)
+(Am Ende dieser Lektion wirst du Techniken kennen, mit denen du *jedes* mögliche Frequenzverhältnis zu einem FJS-Intervall und zurück umrechnen kannst. Es ist aber eine gute Idee, diese Methoden auch im Kopf zu behalten, weil sie viel schneller sind, und du meistens sie benutzen wirst. Es ähnelt den verschiedenen Methoden zur Lösung einer quadratischen Gleichung. Die Formel wirkt immer, ist aber gleichzeitig die langsamste Methode.)
 
-While you were using the identities you were given to tackle these questions, you may have asked yourself a question: "How would I add, for instance, two M3<sup>5</sup> intervals to each other? What would the result be?" Would it be A5<sup>5</sup>? No, that would be the result of adding M3 to M3<sup>5</sup>. Our case is different, it's adding M3<sup>5</sup> to another M3<sup>5</sup>.
+Während du diese Identitäten verwendetest, um die Aufgabe zu lösen, hast du dich vielleicht gefragt: „Wie würde ich beispielsweise zwei (große Terzen)<sup>5</sup> zueinander addieren? Was wäre das Ergebnis?“ Wäre es eine (übermäßige Quinte)<sup>5</sup>? Nein, das wäre das Ergebnis, wenn man eine (große Terz) zu einer (großen Terz)<sup>5</sup> addiert. Bei uns ist es anders. Wir addieren eine (große Terz)<sup>5</sup> zu noch einer (großen Terz)<sup>5</sup>.
 
-The answer to this question happens to simultaneously be the way the FJS notates the second group of remaining JI intervals: *compound accidentals*.
+Die Antwort auf diese Frage ist zufällig auch die Methode, die das FJS für die zweite Gruppe der übrigen Intervalle benutzt: *verbundene Versetzungszeichen*.
 
-Any FJS note or interval may have not just one, but any number of FJS accidentals appended to it. The otonal and utonal accidentals are always kept separate, but if there is more than one accidental of the same "x-tonality" (otonality or utonality), they are merged. FJS accidentals merge by multiplication. Why? Because they are all primes; multiplying them – as opposed to, say, adding or concatenating the digits in base ten – will never make you lose information about the original primes, because every positive integer can be uniquely factorized back into its primes, and order does not matter.
+Jeder FJS-Note oder jedem -Intervall kann man nicht nur eines, aber beliebig viele FJS-Versetzungszeichen hinzufügen. Die Otonalen und Utonalen sind immer getrennt, aber bei mehr als einem Versetzungszeichen derselben „Tonalität“ (Otonalität oder Utonalität) verbindet man sie. Und zwar durch Multiplikation. Wieso? Weil sie alle Primzahlen sind; bei der Multiplikation (anders als z.B. bei der Addition oder Verkettung in der Basis zehn) geht die Information über die ursprünglichen Bestandteile nie verloren, denn jede positive ganze Zahl kann nur auf eine Weise wieder zerlegt werden, und die Reihenfolge macht keinen Unterschied.
 
-If the accidentals merge in such a way that you can't easily factorize them in your head (e.g. 119 = 7 × 17), you can write them out as a list with commas between each prime ("commas" being, of course, the punctuation mark, not a tiny musical interval). For example, D<sup>7,17</sup> would mean the exact same thing as D<sup>119</sup>. The convention is to write these primes in non-descending order, but any order is correct. You can also multiply in any combination, so for example you can write G<sup>11,125</sup>, multiplying only some of the factors.
+Falls die Versetzungszeichen so verbunden werden, dass du nicht mehr auf den ersten Blick sehen kannst, wie sie sich faktorisieren (z.B. 119 = 7 × 17), kannst du sie auch getrennt hintereinander schreiben, mit Kommas zwischen jeder Primzahl (mit „Komma“ wird hier natürlich das Satzzeichen, nicht ein kleines Intervall, gemeint). Das heißt, D<sup>7,17</sup> bedeutet genau dasselbe wie D<sup>119</sup>. Normalerweise sollten diese Primzahl in nicht-absteigender Reihenfolge geschrieben werden, aber jede Reihenfolge ist korrekt. Du kannst auch multiplizieren, wie du willst. Du kannst also z.B. G<sup>11,125</sup> schreiben, wobei du nur manche der Faktoren miteinander multiplizierst.
 
-So to answer the original question, the sum of two M3<sup>5</sup> is A5<sup>25</sup>, which neatly fits as the FJS name of the ratio 25/16. Similarly, given that a 7/4 is a m7<sup>7</sup>, you immediately know that a 49/32 will be a m6<sup>49</sup> and a 35/32 will be a M2<sup>35</sup>.
+Um die Frage also zu beantworten: Die Summe zweier (großen Terzen)<sup>5</sup> ist eine (übermäßige Quinte)<sup>25</sup>, die auch gut als der FJS-Name des Verhältnisses 25/16 passt. Wenn du dazu noch weißt, dass 7/4 als (kleine Septime)<sup>7</sup> dargestellt wird, weißt du sofort, dass 49/32 eine (kleine Sexte)<sup>49</sup> und 35/32 eine (große Sekunde)<sup>35</sup> ist.
 
-As mentioned, otonal and utonal do not mix. So if a note G♭ happened to have both +7 and −5 accidentals, it would be written as G♭<sup>7</sup><sub>5</sub>. The exact rules are as follows:
+Wie ich schon erwähnt habe, Otonalität und Utonalität mischt man nicht. Falls also ein Ges die Versetzungszeichen +7 und −5 gleichzeitig hätte, wäre es ein Ges<sup>7</sup><sub>5</sub>. Die genauen Regeln lauten:
 
-- In note naming, use one superscript representing the merged positive accidentals, followed by one subscript representing the merged negative accidentals.
-- In music notation, the merged positive accidental is written first (if any), then the merged negative accidental with a minus sign in front (if any), then any conventional accidental, then the note.
+- Bei Notennamen benutzt man eine hochgestellte Zahl, die für die verbundenen positiven Versetzungszeichen steht, dann eine tiefgestellte für die negativen.
+- Bei Notenschrift schreibt man zuerst das verbundene positive Versetzungszeichen (falls vorhanden), dann das negative mit einem Minus-Zeichen davor (falls vorhanden), dann das übliche Versetzungszeichen (falls vorhanden), dann die Note selbst.
 
-So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
+Die Noten Ges<sup>7</sup><sub>5</sub> und Fis<sup>5</sup><sub>7</sub> (also 7/5 bzw. 10/7 in der Tonart C) würde man so aufschreiben:
 
-<img src="../assets/example_5.png" alt="G♭7_5–F♯5_7">
+<img src="../assets/example_5.png" alt="Ges7_5–Fis5_7">
 
-Here is what they sound like, respectively:
+So hören sie sich an:
 
 <audio controls><source src="../assets/audio_5.mp3" type="audio/mpeg"></audio>
 
-Once compound accidentals have been defined, you can do a lot more with the FJS. In particular, you can add, subtract, and invert any two FJS intervals. You can also add an interval to a note (e.g. G + M3<sup>5</sup> = B<sup>5</sup>) and you can subtract a note from another note (e.g. F<sup>7</sup> − C = P4<sup>7</sup>). That way, you can use the identities for addition, subtraction and inversion to quickly find many FJS representations of intervals you couldn't represent before.
+Seitdem du verbundene Versetzungszeichen kennst, kannst du viel mehr mit dem FJS anfangen. Du kannst beliebige FJS-Intervalle addieren, subtrahieren, und umkehren. Du kannst auch ein Intervall zu einer Note addieren (z.B. G + (große Terz)<sup>5</sup> = H<sup>5</sup>) oder eine Note von einer anderen subtrahieren (z.B. F<sup>7</sup> − C = (reine Quarte)<sup>7</sup>). Du kannst jetzt also die Identitäten für Addition, Subtraktion und Umkehrung benutzen, um schnell die FJS-Darstellungen von Intervallen zu finden, die du vorher nicht finden konntest.
 
-> ### FJS Interval Arithmetic
+> ### FJS-Intervall-Arithmetik
 >
-> - To add two FJS intervals, add their Pythagorean parts (conventional interval classes) and merge the accidentals.
-> - To subtract two FJS intervals, subtract their Pythagorean parts, then swap the otonal with the utonal accidental for the second interval, then merge. Subtracting an FJS interval is the same as adding its inverse.
-> - To invert an FJS interval, invert its Pythagorean part and swap the otonal with the utonal accidental.
-> - You can also add an FJS interval to an FJS note, or subtract an FJS note from another FJS note.
+> - Um zwei FJS-Intervalle zueinander zu addieren, addiere die pythagoreischen Teile (die üblichen Intervallteile) und verbinde die FJS-Versetzungszeichen.
+> - Um FJS-Intervalle zu subtrahieren, subtrahiere die pythagoreischen Teile, dann vertausche das Otonale mit dem Utonalen bei dem zweiten Intervall, dann verbinde. Ein Intervall zu subtrahieren ist dasselbe, als seine Umkehrung zu addieren.
+> - Um ein FJS-Intervall umzukehren, kehre den pythagoreischen Teil um, dann vertausche das Otonale mit dem Utonalen.
+> - Du kannst auch ein Intervall zu einer Note addieren, oder eine Note von einer anderen Note subtrahieren.
 
-When you combine accidentals, you cancel out identical factors in the otonal and the utonal. For example, adding M3<sup>5</sup> (5/4) to m3<sub>5</sub> (6/5) gives "P5<sup>5</sup><sub>5</sub>" which reduces to P5, as expected (3/2). Adding m2<sup>49</sup> (49/48) to M2<sub>7</sub> (8/7) gives "m3<sup>49</sup><sub>7</sub>" which becomes m3<sup>7</sup> (7/6).
+Wenn du Versetzungszeichen verbindest, kannst (und sollst) du gleiche Faktoren im Otonalen und im Utonalen kürzen. Beispielsweise ergibt sich bei der Addition einer (großen Terz)<sup>5</sup> (5/4) zu einer (kleinen Terz)<sub>5</sub> (6/5) eine „(reine Quinte)<sup>5</sup><sub>5</sub>“. Das ist dasselbe wie einfach eine reine Quinte. Das haben wir erwartet (3/2). Die Addition einer (kleinen Sekunde)<sup>49</sup> (49/48) zu einer (großen Sekunde)<sub>7</sub> (8/7) ergibt eine „(kleine Terz)<sup>49</sup><sub>7</sub>“, also eine (kleine Terz)<sup>7</sup> (7/6).
 
-Using interval arithmetic, you can now in fact represent *any* JI ratio using the FJS, and decode any FJS interval back into a ratio. You can use a few simple methods if the ratios in question don't involve many primes.
+Mit der Intervall-Arithmetik kannst du schon jetzt ein *beliebiges* JI-Verhältnis im FJS darstellen, und jedes FJS-Intervall zurück in ein Verhältnis umrechnen. Du kannst die folgenden Methoden anwenden, wenn die Verhältnisse nicht besonders primzahlkompliziert sind.
 
-To convert a simple JI ratio quickly to an FJS representation: Factorize the numerator into a Pythagorean interval plus primes. Build the Pythagorean interval, and each prime as a prime interval, and add them up. Repeat for the denominator. Then, take the difference of numerator's interval and the denominator's interval. For example, to convert 36/25, we first build the numerator: 36, which is 9/8, which is M2. Then we build the denominator: 25. It splits to 5 and 5, which is two M3<sup>5</sup>, which becomes A5<sup>25</sup>. Now we subtract; M2 − A5 = d5, and the accidentals are (0) − (+25) = (−25). So the final answer is d5<sub>25</sub>.
+Um ein einfaches JI-Verhältnis in die FJS-Form umzurechnen: Faktorisiere den Zähler in ein pythagoreisches Intervall plus Primzahlen. Baue das pythagoreische Intervall, und jede Primzahl als Primzahlintervall, dann addiere sie alle. Wiederhole das Gleiche für den Nenner. Dann, bestimme die Differenz zwischen dem Intervall des Zählers und dem des Nenners. Beispielsweise, um 36/25 umzurechnen, bauen wir zunächst den Zähler: 36, also 9/8, also eine große Sekunde. Dann den Nenner: 25. Das spalten wir: 5 und 5, also zwei (große Terzen)<sup>5</sup>, also eine (übermäßige Quinte)<sup>25</sup>. Wir subtrahieren jetzt: (große Sekunde) − (übermäßige Quinte) = (verminderte Quinte). Und die Versetzungszeichen: (0) − (+25) = (−25). Die Antwort lautet also: (verminderte Quinte)<sub>25</sub>.
 
-Similarly, you can also easily convert a simple FJS representation back into a JI ratio. Try $$\frac{\text{otonal accidental}}{\text{utonal accidental}}$$. (You don't even need to factorize the accidentals. That's a perk of using multiplication to merge them.) If you are off, then only by a Pythagorean interval. Adjust accordingly. For example, let's try to convert A1<sup>5</sup><sub>7</sub>. We try 5/7, which is 10/7; when we apply the above method to this, we obtain A4<sup>5</sup><sub>7</sub>, which isn't too far off. We only need to adjust by one Pythagorean fifth upwards. So the correct answer is actually (3/2) × (5/7) = 15/14.
+Um ein einfaches FJS-Intervall zurück in die JI-Form umzurechnen: Probiere zunächst Folgendes: $$\frac{\text{otonales Versetzungszeichen}}{\text{utonales Versetzungszeichen}}$$. (Du musst die Versetzungszeichen nicht einmal faktorisieren: ein Vorteil davon, dass sie durch Multiplizieren verbunden werden.) Du legst entweder schon richtig oder noch falsch; wenn falsch, dann nur um ein pythagoreisches Intervall. Reguliere. Probieren wir z.B. die (übermäßige Prime)<sup>5</sup><sub>7</sub>. Wir probieren 5/7, also 10/7; bei der Anwendung der oberen Methode erhalten wir die (übermäßige Quarte)<sup>5</sup><sub>7</sub>. Wir legen nur um eine Quinte falsch. Wir addieren also eine pythagoreische Quinte. Die Antwort lautet also (3/2) × (5/7) = 15/14.
 
-These methods will, 99% of the time, be enough to read and write in the FJS, and as you can see, they are easy to use. In fact, much of the time, you don't even have to use these; skimming the harmonic series is often enough to perform forwards and backwards conversions in mere seconds. Want to convert 14/13 into the FJS? You know that 13 is a m6 and 14 is a m7, so 14/13 must be a M2. Then because of 14 in the numerator you stick a +7, and because of 13 in the denominator you stick a −13, and voilà, you have found the correct FJS representation: M2<sup>7</sup><sub>13</sub>.
+Bei neunundneunzig Prozent der Fälle reicht das aus, um im FJS zu lesen und zu schreiben. Diese Methoden sind sehr einfach, wie du siehst. Eigentlich musst du selbst diese Methoden nicht benutzen; oft reicht es aus, die Obertonreihe einfach zu überfliegen, um vorwärts und rückwärts in wenigen Sekunden umzurechnen. Willst du 14/13 im FJS darstellen? Du weißt, dass 13 eine kleine Sexte, und 14 eine kleine Septime ist, also muss 14/13 eine große Sekunde sein. Wegen der 14 im Zähler addierst du ein +7, und wegen der 13 im Nenner ein −13, und voilà, du hast die korrekte FJS-Darstellung schon gefunden: (große Sekunde)<sup>7</sup><sub>13</sub>.
 
-However, one of the virtues of the FJS is that it can be fully automated. The above methods may rely a little on intuition, and are not very useful for complex intervals. In the case of complex intervals, you can *always* perform the forward and backward conversions using these final two techniques:
+Aber: eine der großen Tugenden des FJS ist, dass man es komplett automatisieren kann. Die oberen Methoden können sich manchmal auf Intuition verlassen, und sind nicht sehr nützlich für komplexe Intervalle. Du kannst aber *immer* vorwärts und rückwärts mit den folgenden Techniken umrechnen:
 
-> ### FJS Technique \#4: To convert any JI ratio automatically to an FJS representation.
+> ### FJS-Technik \#4: Jedes JI-Verhältnis in die entsprechende FJS-Form automatisch umrechnen.
 >
-> 1. Factorize the ratio.
-> 2. For every prime *p* greater than 3 with an exponent of α<sub>*p*</sub>, remember the α<sub>*p*</sub> for every *p* and multiply the initial ratio by
+> 1. Faktorisiere.
+> 2. Für jede Primzahl *p* größer als 3 mit einer Potenz α<sub>*p*</sub>, speichere die α<sub>*p*</sub> für jede *p* und multipliziere das JI-Verhältnis mit
 >
 > 	$$(\text{comma} (p))^{-\alpha _p}$$
 >
->	where $$\text{comma}(p)$$ is the formal comma of *p*.
+>	wobei $$\text{comma}(p)$$ das formale Komma von *p* ist.
 >
-> 3. The result will be Pythagorean. Transform it into FJS form.
-> 4. Now add the α<sub>*p*</sub> as accidentals – if positive, then otonal; if negative, then utonal.
-> 5. Take the reduced form and adjust octaves as required.
+> 3. Das Ergebnis wird stets pythagoreisch sein. Rechne es in die FJS-Form um.
+> 4. Füge jetzt die α<sub>*p*</sub> als Versetzungszeichen hinzu – positiv heißt otonal, negativ utonal.
+> 5. Reduziere, und reguliere die Oktave.
 >
-> **Example:** Let's convert the weak just chromatic semitone, 25/24, into FJS form using this technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Because of 5<sup>2</sup>, remember 2 and multiply by (80/81)<sup>−2</sup>. The result is 2187/2048, which is Pythagorean and converts to A1. Now we add a double +5 (because of the 2) and we get A1<sup>25</sup>.
+> **Beispiel:** Rechnen wir den schwachen chromatischen Halbton, 25/24, ins FJS mithilfe dieser Technik um. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Wegen 5<sup>2</sup>, speichern wir 2 und multiplizieren mit (80/81)<sup>−2</sup>. Das Ergebnis ist 2187/2048, was pythagoreisch ist und einer übermäßigen Prime entspricht. Wir fügen jetzt ein doppeltes +5 (wegen der 2) und die Antwort lautet (Übermäßige Prime)<sup>25</sup>.
 
-> ### FJS Technique \#5: To convert any FJS representation automatically into a JI ratio.
+> ### FJS-Technik \#5: Jede FJS-Darstellung zurück in ein JI-Verhältnis automatisch umrechnen.
 >
-> 1. Convert the Pythagorean part of the FJS interval into a Pythagorean ratio.
-> 2. For every otonal accidental *p*, multiply by the formal comma of *p*. If utonal, then divide.
-> 3. Take the reduced form and adjust octaves as required.
+> 1. Rechne den pythagoreischen (üblichen) Teil des Intervalls in ein pythagoreisches Verhältnis um.
+> 2. Für jedes otonale Versetzungszeichen *p*, multipliziere mit dem formalen Komma von *p*. Für utonale Versetzungszeichen dividiere.
+> 3. Reduziere, und reguliere die Oktave.
 >
-> **Example:** One of the most iconic harmonies of La Monte Young's *Well-Tuned Piano* is written m3<sup>49</sup> in the FJS. To find its ratio, we start by converting m3 to 32/27. Then, +49 means multiply by the formal comma of 7 twice. So (32/27) × (63/64)<sup>2</sup> = 147/128.
+> **Beispiel:** Eine der ikonischen Zusammenklänge des *Well-Tuned Piano* von La Monte Young wird im FJS als (kleine Terz)<sup>49</sup> notiert. Um ihr Verhältnis zu finden, rechnen wir zunächst die kleine Terz in 32/27 um. Dann bedeutet +49: multipliziere zweimal mit dem formalen Komma von 7. Also (32/27) × (63/64)<sup>2</sup> = 147/128.
 
-One final note is on pronunciation and ASCII. If you want to communicate using the FJS, that ought to be possible using more than just one medium. Here are the simple and logical pronunciation rules:
+Eine letzte Anmerkung über Aussprache und ASCII. Wenn du mithilfe des FJS kommunizieren willst, soll das nicht nur in einem Medium möglich sein. Hier sind die einfachen und logischen Ausspracheregeln:
 
-> ### FJS Pronunciation
+> ### FJS-Aussprache
 >
-> 1. Pronounce the conventional (Pythagorean) part of the note name, or the conventional (Pythagorean) interval.
-> 2. Then, attach the compound otonal accidental (if any) pronounced simply as the number itself, optionally with a "super" prefix.
-> 3. Then, attach the compound utonal accidental (if any) pronounced simply as the number itself with a "sub" prefix.
+> 1. Spreche den pythagoreischen (üblichen) Teil des Noten- oder Intervallnamens aus.
+> 2. Dann füge das verbundene otonale Versetzungszeichen (falls vorhanden) an, ausgesprochen als die Zahl selbst, mit einem optionalen Präfix „super“.
+> 3. Dann füge das verbundene utonale Versetzungszeichen (falls vorhanden) an, ausgesprochen als die Zahl selbst, mit einem Präfix „sub“.
 
-So for example, E<sup>5</sup> is pronounced "E-five" or "E-super-five", and E♭<sub>5</sub> is pronounced "E-flat-sub-five". An interval such as P4<sup>7</sup><sub>11</sub> would be pronounced "perfect fourth (super) seven sub eleven", where the word "super" is optional and is used to emphasize the division between the name of the interval and the start of the FJS accidentals.
+Beispielsweise wird E<sup>5</sup> als „E-fünf“ oder „E-super-fünf“ ausgesprochen, und Es<sub>5</sub> als „Es-sub-fünf“. Ein Intervall wie (reine Quarte)<sup>7</sup><sub>11</sub> wäre „reine Quarte-(super)-sieben-sub-elf“, wobei das Wort „super“ optional ist, eine Art Betonung der Trennung zwischen dem Intervallnamen und dem Beginn der FJS-Versetzungszeichen.
 
-If you split, there's no change. So A<sup>5,17</sup><sub>13</sub> is pronounced "A-(super)-five-seventeen-sub-thirteen". The word "sub" is just a terminator for the otonal part, and marks that the utonal part follows.
+Falls du die Versetzungszeichen trennst, gibt es keinen Unterschied. A<sup>5,17</sup><sub>13</sub> wäre „A-(super)-fünf-siebzehn-sub-dreizehn“. Das wort „sub“ ist nur ein Terminator des otonalen Teils. Er markiert also, dass das Folgende zum utonalen Teil gehört.
 
-As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written `E^5` or simply `E5`, but M3<sup>5</sup> can only be written `M3^5` (not `M35`, obviously, as that would be a "major thirty-fifth", or a major seventh plus four octaves; M35 would be 243/8 in the FJS).
+Was ASCII angeht: Es wäre problematisch, diese Namen auf dem Computer zu tippen, wegen der hoch- und tiefgestellten Zahlen. Alternativ kannst du tiefgestellte Versetzungszeichen mit einem Unterstrich markieren, wie üblich, und du kannst in demselben Sinne das Einschaltungszeichen für hochgestellte Versetzungszeichen benutzen. Das Einschaltungszeichen brauchst du aber nie im Deutschen. E<sup>5</sup> wäre `E^5` oder einfach `E5`, und eine (große Terz)<sup>5</sup> wäre eine `(große Terz)^5` oder einfach eine `(große Terz)5`.
 
-**That's it!**
+**Fertig!**
 
-This is all you need to know to use the *entirety* of the FJS and represent *any* JI you wish! There is no memorization to be done, no lookup tables to be bookmarked, nothing! One of the largest virtues of this system is that it's all completely portable; all you need to set it up anywhere is calculation and your radius of tolerance. The techniques you've just been given can be automated and the entire system can be handled by a computer.
+Das ist alles, was du brauchst, um das *ganze* FJS zu benutzen und die *ganze* Naturtonstimmung aufzuschreiben! Du musst dir keine Zahlen merken oder keine Wertetabellen speichern, überhaupt nichts! Einer der größten Vorteile dieses Systems ist, dass es komplett portabel ist. Alles, was du brauchst, um ihn überall aus dem Nichts herzustellen, ist der Toleranzradius und Rechnen. Die Techniken, die du gelernt hast, können ganz automatisiert werden, und das ganze System kann ein Computer beherrschen.
 
-The FJS has a lot of beautiful properties that make it incredibly logical. The most important property is that it is *bijective* to JI; every positive rational number has exactly one FJS representation, and every FJS representation has exactly one rational number it represents. Another property – which has already been given above – is that it is *linear*; it doesn't matter if you combine ratios and then transform them into the FJS, or first transform them, then combine; the result is the same. These properties make transposition in the FJS extremely easy. To transpose by, say, M2<sup>5</sup>, you would first transpose by a M2 (which is exactly the same as a normal transposition by a major second; the FJS accidentals remain unchanged) and then add a +5 accidental to every note, merging as necessary (so that e.g. +5 becomes +25, +7 becomes +35, −5 becomes 1).
+Das FJS hat auch viele schöne Eigenschaften, die es wahnsinnig logisch machen. Die wichtigste davon ist, dass es eine *Bijektion* zur Naturtonstimmung liefert; jede positive rationale Zahl hat genau eine FJS-Darstellung, und jede FJS-Darstellung hat genau eine rationale Zahl, die sie darstellt. Eine andere Eigenschaft, die ich schon vorher angegeben habe, ist, dass das FJS einen *Isomorphismus* besitzt; es macht keinen Unterschied, ob du zuerst JI-Intervalle kombinierst und dann ins FJS umrechnest, oder zuerst umrechnest, dann kombinierst; das Ergebnis bleibt gleich. Diese Eigenschaften machen es extrem einfach, im FJS zu transponieren. Um beispielsweise um eine (große Sekunde)<sup>5</sup> zu transponieren, transponiert man zuerst um eine übliche große Sekunde (wie üblich, die FJS-Versetzungszeichen bleiben dabei unverändert) und dann fügt man überall ein +5 hinzu und verbindet (damit z.B. +5 zu +25 wird, und +7 zu +35, und −5 zu 1).
 
-There's one last thing that you might want before trying your accumulated skills at the last exercise. Again, this is just for reference; you could have calculated this table yourself if you wanted (which you wouldn't, so that's why I did it for you).
+Es gibt noch eine Sache, die du vielleicht möchtest, bevor du deine neu erlernten Können bei der letzten Aufgabe ausprobierst. Das sind wieder nur Hinweise; du hättest diese Tabelle selbst ausrechnen können (aber das würde dir nicht gefallen, deshalb habe ich es für dich getan).
 
-| Prime | Generator | Formal Comma |
-|------:|:---------:|:------------:|
-| 5     | +4        | 80/81        |
-| 7     | −2        | 63/64        |
-| 11    | −1        | 33/32        |
-| 13    | −4        | 1053/1024    |
-| 17    | −5        | 4131/4096    |
-| 19    | −3        | 513/512      |
-| 23    | +6        | 736/729      |
-| 29    | −2        | 261/256      |
-| 31    | +5        | 248/243      |
+| Primzahl | Verschiebung | Formales Komma |
+|---------:|:------------:|:--------------:|
+| 5        | +4           | 80/81          |
+| 7        | −2           | 63/64          |
+| 11       | −1           | 33/32          |
+| 13       | −4           | 1053/1024      |
+| 17       | −5           | 4131/4096      |
+| 19       | −3           | 513/512        |
+| 23       | +6           | 736/729        |
+| 29       | −2           | 261/256        |
+| 31       | +5           | 248/243        |
 
-Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be an absurd d5). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8. Clever, huh?
+Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den Toleranzradius gewählt habe. Sie ist das geometrische Mittel von 33/32 und 32/31, dabei ist sie größer als 33/32 und kleiner als 32/31. Daher wird 33/32 als mögliches formales Komma akzeptiert, deshalb kann 11/8 als reine Quarte dargestellt werden (falls nicht, dann wäre es die verminderte Quinte; Unsinn). Aber gleichzeitig wird die genauso unsinnige Darstellung von 31/16 als reine Oktave verworfen, weil 32/31 nicht als formales Komma akzeptiert wird. Schlau, oder?
 
-### Exercise 4
+### Aufgabe 4
 
-1. Convert the following JI ratios into the FJS using any technique you like: 28/27, 15/13, 33/25.
-2. Convert the following FJS representations into JI ratios using any technique you like: M6<sub>7</sub>, d4<sup>13</sup><sub>5</sub>, m3<sub>25</sub>.
-3. Notate a JI rendition of the famous ii–V–I progression in the FJS in the key of B♭, given the following JI ratios from B♭:
-	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
-	- V chord: 3/2, 9/8, 21/16, 27/16, 15/8
-	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
-4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic:
-	
-	<img src="../assets/exercise_3.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭">
-	
-5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again: 11/10, 10/9, 9/8, 8/7.
-	
+1. Rechne die folgenden JI-Verhältnisse ins FJS um, mithilfe einer beliebigen Technik: 28/27, 15/13, 33/25.
+2. Rechne die folgenden FJS-Darstellungen zurück in JI-Verhältnisse um, mithilfe einer beliebigen Technik: (große Sexte)<sub>7</sub>, (verminderte Quarte)<sup>13</sup><sub>5</sub>, (kleine Terz)<sub>25</sub>.
+3. Notiere eine JI-Wiedergabe der folgenden berühmten Progression im FJS in B-Dur. Was dir gegeben ist, sind die Verhältnisse jeder Note zu B (ohne Oktaven).
+	- 10/9, 5/4, 4/3, 5/3, 1/1
+	- 3/2, 9/8, 21/16, 27/16, 15/8
+	- 1/1, 9/8, 5/4, 3/2, 15/8
+4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/exercise_3.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/audio_10.mp3" type="audio/mpeg"></audio>
+5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist.
+
 	<audio controls><source src="../assets/audio_1.mp3" type="audio/mpeg"></audio>
 	
-6. (HARD!) There are supporters of the "432 Hz movement", which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
+6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
 
-You can check your answers [here](solutions.html).
+Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
-## <a name="da_capo_al_fine">la dakapo'alfin zo'u: ca mo</a>
+## <a name="da_capo_al_fine">Da Capo Al Fine: Was sonst?</a>
 
-This is *all* you need to use the FJS! You can write any JI music using the FJS now. The only remaining parts of the FJS are shorthand methods that I have invented to make you able to cut down on writing many FJS accidentals in common situations. These include FJS key signatures and transposition lines. These elements are not covered in this crash course. Instead, to learn about them, you should check out the [full formal description](rules.html) of the FJS (where you should also go for reference of any rules regarding the system).
+Das ist *alles*, was du brauchst, um das FJS nutzen zu können! Du kannst jede JI-Musik jetzt mithilfe des FJS notieren. Die verbleibenden Teil des FJS sind Kurzschriftmethoden, die ich entwickelt habe, damit du auf viele FJS-Versetzungszeichen in häufigen Situationen verzichten kannst. Darunter sind FJS-Vorzeichen und Transpositionslinien. Diese Elemente werden hier nicht berücksichtigt. Wenn du über sie lernen willst, dann lese die [komplette formale Erläuterung](rules.html) des FJS, welche du auch lesen solltest, falls du irgendwelche Zweifel zu den Regeln des Systems hast.
 
-Except for those, that's it! You have already learned the entirety of the FJS in mere minutes. Go now, and may the FJS simplify your thinking when you next encounter Just Intonation.
+Außerdem ist das alles! Du hast schon das ganze FJS in ein paar Minuten gelernt. Möge das FJS jetzt dein Denken vereinfachen, wenn du das nächste Mal der Naturtonstimmung begegnest.
 
-**The End.**
+**Ende.**

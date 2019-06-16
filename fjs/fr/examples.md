@@ -87,9 +87,13 @@ Ceci est une [interprétation](../assets/cmaj.pdf) du Prélude en Do majeur de J
 - 4:5:6(:15) pour des triades (accords de septième) majeur(e)s ;
 - 10:12:15(:18) pour des triades (accords de septième) mineur(e)s ;
 - 4:5:6:7 pour des accords de septième de dominante ;
-- 10:12:14:17 pour des accords de septième diminuée ;
+- 10:12:14:17 pour des accords de septième diminuée.
 
 Une armure FJS est démontrée aussi.
+
+Écoutez :
+
+<audio controls><source src="../assets/audio_bach.mp3" type="audio/mpeg"></audio>
 
 ## Vidéos
 
@@ -97,9 +101,7 @@ Vous trouvez ici la [vidéo d'introduction](https://youtu.be/38I3cylJlW4) du FJS
 
 Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint* de Steve Reich en intonation juste de la 5-limite utilise un *Tonnetz* écrit dans le FJS pour visualiser l'accord.
 
-Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontré ses accords aussi dans le FJS.
-
-Ici, il y a une [visualisation](https://youtu.be/jG7lj98Yy-0) de l'algorithme principal du FJS.
+Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontre ses accords aussi dans le FJS.
 
 ## Plus ?
 
