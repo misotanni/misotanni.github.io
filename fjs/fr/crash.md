@@ -213,7 +213,7 @@ L'algorithme trouve alors pour chaque intervalle premier l'approximation pythago
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-L'opération inverse est aussi possible : vous pouvez trouver le displacement d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Divisez la forme réduite de l'intervalle premier par le comma formel. Vous obtenez l'approximation pythagoricienne. Factorisez-la. L'exposant de 3 est alors le displacement. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous divisons 7/4 par 63/64. Le résultat est (7/4) ÷ (63/64) = 16/9, l'approximation pythagoricienne. Nous la factorisons et obtenons 2<sup>4</sup> 3<sup>−2</sup>. Puisque l'exposant de 3 est −2, −2 est aussi le displacement de 7.
+L'opération inverse est aussi possible : vous pouvez trouver le displacement d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Trouvez le renversement du comma formel. Factorisez-le. L'exposant de 3 est alors le déplacement. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous factorisons le renversement (64/63) et obtenons 2<sup>6</sup> 3<sup>−2</sup> 7<sup>−1</sup>. Puisque l'exposant de 3 est −2, −2 est aussi le displacement de 7.
 
 Comme avec le dièse et le bémol, il y a toujours deux altérations différentes pour chaque comma : soit positif, soit négatif. Le symbole des altérations est toujours basé sur le nombre premier lui-même, il diffère selon l'utilisation :
 

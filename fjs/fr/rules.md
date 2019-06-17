@@ -26,6 +26,8 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 > Le comma formel d'un nombre premier *p* dont le déplacement est *g* égale :
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
+>
+> *Conversion inverse – méthode pour calculer le déplacement pour un comma formel connu, sans utiliser l'algorithme principal ou le rayon de tolérance: Le déplacement égale l'exposant de 3 dans la factorisation du renversement du comma formel.*
 
 ## La conversion de chaque rapport JI en sa forme FJS
 

@@ -26,6 +26,8 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 > Komat formalny dla liczby pierwszej *p* i przeniesienia *g* wynosi:
 > 
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
+>
+> *Proces odwrotny – zamiana komatu formalnego na przeniesienie kwintowe bez potrzeby użycia głównego algorytmu ani promienia tolerancji: Przeniesienie kwintowe równa się potędze 3 w rozkładzie odwrotności komatu formalnego na czynniki pierwsze.*
 
 ### Zamiana ułamka z JI na FJS.
 

@@ -213,7 +213,7 @@ Der Algorithmus findet also die einfachste mögliche pythagoreische Annäherung 
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-Es geht auch anders herum: du kannst aus dem formalen Komma die Verschiebung einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Dividiere das reduzierte Primzahlintervall durch das formale Komma. Der Quotient ist die pythagoreische Annäherung. Faktorisiere sie. Die 3er-Potenz davon ist die Verschiebung. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir dividieren das Primzahlintervall 7/4 durch 63/64. Das Ergebnis ist (7/4) ÷ (63/64) = 16/9, die pythagoreische Annäherung. Wir faktorisieren sie und erhalten 2<sup>4</sup> 3<sup>−2</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Verschiebung für 7.
+Es geht auch anders herum: du kannst aus dem formalen Komma die Verschiebung einer Primzahl bestimmen, ohne den Algorithmus zu benutzen oder den Toleranzradius zu kennen. (Das ist manchmal nützlich, aber kommt nicht oft vor.) Bilde den Kehrwert des formalen Kommas. Die 3er-Potenz davon ist die Verschiebung. Beispielsweise ist uns gegeben, dass das formale Komma von 7 63/64 beträgt. Wir faktorisieren den Kehrwert, 64/63, und erhalten 2<sup>6</sup> 3<sup>−2</sup> 7<sup>−1</sup>. Da die 3er-Potenz −2 beträgt, ist das auch die Verschiebung für 7.
 
 Genauso wie das Kreuz und das Be gibt es je zwei Versetzungszeichen für jedes Komma: positiv oder negativ. Das Symbol für das Versetzungszeichen basiert stets auf der Primzahl selbst. Die Form variiert, je nachdem du Notennamen oder Notenschrift schreibst:
 

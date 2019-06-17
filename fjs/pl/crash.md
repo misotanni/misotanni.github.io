@@ -212,7 +212,7 @@ Główny algorytm FJS wynajduje najprostsze możliwe przybliżenie pitagorejskie
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-Można by też podejść od drugiej strony: wyznaczyć przeniesienie dla danej liczby pierwszej, znając przydzielony jej komat formalny. To nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (Na pewno nie będziesz tego robił często). Wystarczy, że podzielisz zredukowany interwał pierwszy przez komat formalny, by uzyskać pitagorejskie przybliżenie. Teraz gdy rozłożysz je na czynniki pierwsze, wykładnik przy trójce będzie przeniesieniem. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Dzielimy więc redukcję 7, czyli 7/4, przez 63/64, otrzymując 16/9, czyli przybliżenie pitagorejskie. Rozkładamy 16/9 na 2<sup>4</sup> 3<sup>−2</sup>. Ponieważ 3 podniesione jest do potęgi −2, przeniesieniem dla 7 jest właśnie −2.
+Można by też podejść od drugiej strony: wyznaczyć przeniesienie dla danej liczby pierwszej, znając przydzielony jej komat formalny. To nie używając głównego algorytmu czy znając wielkość promienia tolerancji. (Na pewno nie będziesz tego robił często). Wystarczy, że rozłożysz odwrotność komatu na czynniki pierwsze, wykładnik przy trójce będzie przeniesieniem. Na przykład: dane jest nam, że komatem formalnym dla 7 jest 63/64. Rozkładamy więc 64/63 (odwrotność) na 2<sup>6</sup> 3<sup>−2</sup> 7<sup>−1</sup>. Ponieważ 3 podniesione jest do potęgi −2, przeniesieniem dla 7 jest właśnie −2.
 
 Tak, jak krzyżyk i bemol, alteracja o taki komat formalny może być dodania lub ujemna. Znak dla tej alteracji to sama liczba pierwsza, dla której komat formalny zbudowano; dokładne nazewnictwo zależy od tego, czy nuty nazywamy czy zapisujemy na pięciolinii:
 

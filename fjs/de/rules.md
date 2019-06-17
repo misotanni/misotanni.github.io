@@ -26,6 +26,8 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 > Das formale Komma einer Primzahl *p* mit Verschiebung *g* ist:
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
+>
+> *Umkehrprozess – Berechnung der Quintenverschiebung eines bekannten formalen Kommas, ohne den Master-Algorithmus oder den Toleranzradius: Die Verschiebung ist die Potenz von 3 im Kehrwert des formalen Kommas.*
 
 ## Die Umrechnung jedes JI-Verhältnisses in die entsprechende FJS-Form
 
