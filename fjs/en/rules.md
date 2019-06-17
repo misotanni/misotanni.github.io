@@ -12,12 +12,12 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 ## The FJS Master Algorithm
 
-> 1. Input the desired prime interval in octave-reduced form.
+> 1. Input the desired prime interval and call it *p*.
 > 2. Let *k* = 0.
-> 3. Consider the interval of *k* Pythagorean fifths, in octave-reduced form.
-> 4. Is the difference between this interval and the target prime interval less than the radius of tolerance?
+> 3. Consider the interval of *k* Pythagorean fifths and call it *P*.
+> 4. Is the difference between *p* and *P* less than the radius of tolerance?
 > 5. If so: *k* is the fifth shift. Output. End.
-> 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
+> 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
 > In step 4, the meaning of “difference” is the **absolute value** of the cent size of $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
@@ -26,6 +26,8 @@ Everything concerning experimental elements is marked with the symbol (\*).
 > The formal comma of a prime *p* with a fifth shift *g* is given by:
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
+>
+> *Inverse procedure – finding the fifth shift knowing the formal comma without using the master algorithm or the radius of tolerance: The fifth shift is the exponent of 3 in the factorization of the reciprocal of the formal comma.*
 
 ## Converting JI Ratios into FJS Representations
 

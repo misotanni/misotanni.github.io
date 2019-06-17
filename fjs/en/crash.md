@@ -213,7 +213,7 @@ The FJS master algorithm finds the simplest possible Pythagorean approximation o
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-You can also go the other way: determine the fifth shift of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) Divide the octave-reduced version of the prime interval by the formal comma. This is the Pythagorean approximation. Factorize this approximation. The exponent of the factor of three is the fifth shift. For example, we are given that the formal comma of 7 is 63/64. We divide the reduced prime interval, 7/4, by 63/64. We obtain (7/4) ÷ (63/64) = 16/9 (which is the Pythagorean approximation). We factorize this to 2<sup>4</sup> 3<sup>−2</sup>. Since the exponent of 3 is −2, the fifth shift for 7 is −2.
+You can also go the other way: determine the fifth shift of a prime given the value of its formal comma, without using the master algorithm or knowing the radius of tolerance. (This is useful in certain cases, but isn't something you'll do often.) It's the exponent of the factor of three in the factorization of the reciprocal of the formal comma. For example, we are given that the formal comma of 7 is 63/64. We factorize its reciprocal, 64/63, to 2<sup>6</sup> 3<sup>−2</sup> 7<sup>−1</sup>. Since the exponent of 3 is −2, the fifth shift for 7 is −2.
 
 Just like the sharp and flat, the accidental that modifies by such a formal comma can be positive or negative. The symbol for this accidental is based on the prime number itself, it depends on whether you're naming notes or writing music on a staff:
 
