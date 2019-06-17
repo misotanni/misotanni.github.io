@@ -203,7 +203,7 @@ As you can see, the algorithm is simple enough that you can implement it in your
 
 In step 4, the octaves of *p* and *P* are chosen to minimize the “difference”, which is the absolute size of the comma candidate (or the **absolute value** of its cent size). In this step only, 16/15 and 15/16 are equivalent. The difference formally refers to $$\text{reb}\left( \frac{p}{3^k} \right)$$.
 
-Although the algorithm may look daunting, it's really fast to carry out in your head. Obviously 5/4 is too far from the octave, fifth, fourth, major second, minor seventh, and major sixth. The only difficult check here is whether it's too far from the minor third. If not, then the major third nails it.
+Although the algorithm may look daunting, it's really fast to carry out in your head. Obviously 5/4 is too far from the octave, fifth, fourth, major second, minor seventh, and major sixth. The only difficult check here is whether it's too far from the minor third. If so, then the major third nails it.
 
 The FJS master algorithm finds the simplest possible Pythagorean approximation of any desired prime interval that is closer than the radius of tolerance to the true value. The difference between the two is then called a **formal comma** and given an FJS accidental. Here is how it is computed:
 
