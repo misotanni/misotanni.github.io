@@ -1,6 +1,29 @@
 # FJS Examples
 
-This page contains more examples of the FJS in usage.
+You have seen many short FJS examples in the [crash course](crash.html), the [comparison](compare.html), as well as the [formal description](rules.html). If you haven't seen them yet, make sure to check those out first. This page contains even more longer examples of the FJS in usage.
+
+## Notation
+
+This is a [rendition](../assets/examples/cmaj.pdf) of Johann Sebastian Bach's Prelude in C Major, BWV 846, from The Well-Tempered Clavier Book I. It uses the following tuning conventions:
+
+- 4:5:6(:15) for major triads (seventh chords);
+- 10:12:15(:18) for minor triads (seventh chords);
+- 4:5:6:7 for dominant seventh chords;
+- 10:12:14:17 for diminished seventh chords.
+
+An FJS key signature is also exemplified.
+
+Listen to it:
+
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
+
+## Videos
+
+Here's the FJS [introductory video](https://youtu.be/38I3cylJlW4). Here's a [score follower](https://youtu.be/JH2_Fwuc5E4) of the video's music, written – of course – in the FJS.
+
+This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric Counterpoint* in 5-limit Just Intonation uses the 5-limit Tonnetz written in the FJS to visualize the tuning.
+
+This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 7-limit Just Intonation also visualizes its tuning lattices in the FJS.
 
 ## Note Naming
 
@@ -79,29 +102,6 @@ This page contains more examples of the FJS in usage.
 I have used the FJS to list the pitches I have used in a Just Intonation piece. For example, here are the [tuning sets](../assets/examples/tuning.pdf) for two pieces, *Overture of Opulence* and *Meditations on a Medieval Theme Remix*, from *Justin Tonation*.
 
 Using the FJS in these contexts helps me immediately recognize the function of a note even if its ratio to the initial tonic is very complex (and I do use complex ratios). For instance, 243/200 may not tell me much, but seeing that it is a m3<sub>25</sub> helps me recognize it instantly; it's just a 6/5 raised by another syntonic comma. To give another example from another one of my pieces, *Symphony of the Elements*: 729/640 is confusing, but M2<sub>5</sub> is less so; a 9/8 raised by a syntonic comma.
-
-## Notation
-
-This is a [rendition](../assets/examples/cmaj.pdf) of Johann Sebastian Bach's Prelude in C Major, BWV 846, from The Well-Tempered Clavier Book I. It uses the following tuning conventions:
-
-- 4:5:6(:15) for major triads (seventh chords);
-- 10:12:15(:18) for minor triads (seventh chords);
-- 4:5:6:7 for dominant seventh chords;
-- 10:12:14:17 for diminished seventh chords.
-
-An FJS key signature is also exemplified.
-
-Listen to it:
-
-<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
-
-## Videos
-
-Here's the FJS [introductory video](https://youtu.be/38I3cylJlW4). Here's a [score follower](https://youtu.be/JH2_Fwuc5E4) of the video's music, written – of course – in the FJS.
-
-This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric Counterpoint* in 5-limit Just Intonation uses the 5-limit Tonnetz written in the FJS to visualize the tuning.
-
-This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 7-limit Just Intonation also visualizes its tuning lattices in the FJS.
 
 ## More?
 

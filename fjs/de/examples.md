@@ -1,6 +1,29 @@
 # FJS-Beispiele
 
-Auf dieser Seite sind mehr Beispiele des FJS im Einsatz zu sehen.
+Du hast schon mehrere kurze FJS-Beispiele beim [Crash-Kurs](crash.html), dem [Vergleich](compare.html) sowie der [formalen Beschreibung](rules.html) gesehen (falls nicht, ergänze die Lücken). Auf dieser Seite sind noch mehr längere Beispiele des FJS im Einsatz zu sehen.
+
+## Notation
+
+Dies ist eine [Wiedergabe](../assets/examples/cmaj.pdf) von Johann Sebastian Bachs Präludium in C-Dur, BWV 846, aus dem Wohltemperierten Klavier, Teil I. Es benutzt die folgenden Stimmungskonventionen:
+
+- 4:5:6(:15) für Dur-Dreiklänge (Septakkorde);
+- 10:12:15(:18) für Moll-Dreiklänge (Septakkorde);
+- 4:5:6:7 für Dominantseptakkorde;
+- 10:12:14:17 für verminderte Septakkorde.
+
+Veranschaulicht werden auch FJS-Vorzeichen.
+
+Hör zu:
+
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
+
+## Videos
+
+Hier gibt's das [Einführungsvideo](https://youtu.be/38I3cylJlW4) des FJS. Die [Musik](https://youtu.be/JH2_Fwuc5E4) dazu gibt es hier, natürlich im FJS geschrieben.
+
+Diese [Interpretation](https://youtu.be/bZffjSUd-2w) von *Electric Counterpoint* von Steve Reich in Naturtonstimmung im 5-Limit verwendet ein 5-Limit-Tonnetz im FJS, um die Stimmung darzustellen.
+
+Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus Minecraft in Naturtonstimmung im 7-Limit stellt die Stimmung auch im FJS dar.
 
 ## Notennamen
 
@@ -79,29 +102,6 @@ Auf dieser Seite sind mehr Beispiele des FJS im Einsatz zu sehen.
 Ich habe das FJS dazu benutzt, um alle verwendeten Töne in einem JI-Stück aufzulisten. Hier zum Beispiel befinden sich die [Stimmungen](../assets/examples/tuning.pdf) für zwei Stücke, *Overture of Opulence* und *Meditations on a Medieval Theme Remix*, aus *Justin Tonation*.
 
 In diesen Kontexten hilft mir das FJS, die Funktion einer Note auf einmal zu erkennen, auch wenn das Verhältnis zum Grundton komplex ist (und ich verwende oft komplexe Verhältnisse). Zum Beispiel sagt mir 243/200 nicht viel, aber wenn ich sehe, dass es eine (kleine Terz)<sub>25</sub> ist, dann weiß ich gleich: es ist 6/5, erhöht um ein syntonisches Komma. Ein anderes Beispiel aus einem anderen meiner Stücke, *Symphony of the Elements*: 729/640 verwirrt, aber eine (große Sekunde)<sub>5</sub> nicht; es ist 9/8 erhöht um ein syntonisches Komma.
-
-## Notation
-
-Dies ist eine [Wiedergabe](../assets/examples/cmaj.pdf) von Johann Sebastian Bachs Präludium in C-Dur, BWV 846, aus dem Wohltemperierten Klavier, Teil I. Es benutzt die folgenden Stimmungskonventionen:
-
-- 4:5:6(:15) für Dur-Dreiklänge (Septakkorde);
-- 10:12:15(:18) für Moll-Dreiklänge (Septakkorde);
-- 4:5:6:7 für Dominantseptakkorde;
-- 10:12:14:17 für verminderte Septakkorde.
-
-Veranschaulicht werden auch FJS-Vorzeichen.
-
-Hör zu:
-
-<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
-
-## Videos
-
-Hier gibt's das [Einführungsvideo](https://youtu.be/38I3cylJlW4) des FJS. Die [Musik](https://youtu.be/JH2_Fwuc5E4) dazu gibt es hier, natürlich im FJS geschrieben.
-
-Diese [Interpretation](https://youtu.be/bZffjSUd-2w) von *Electric Counterpoint* von Steve Reich in Naturtonstimmung im 5-Limit verwendet ein 5-Limit-Tonnetz im FJS, um die Stimmung darzustellen.
-
-Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus Minecraft in Naturtonstimmung im 7-Limit stellt die Stimmung auch im FJS dar.
 
 ## Mehr?
 

@@ -1,6 +1,29 @@
 ﻿# Exemples FJS
 
-Cette page contient plus d'exemples du FJS en pratique.
+Vous avez déjà vu de nombreux exemples courts du FJS dans le [cours intensif](crash.html), la [comparaison](compare.html) et la [description formelle complète](rules.html). Cette page contient encore plus d'exemples longs du FJS en pratique.
+
+## Notation
+
+Ceci est une [interprétation](../assets/examples/cmaj.pdf) du Prélude en Do majeur de Johann Sebastian Bach, BWV 846, du Clavier bien tempéré (1<sup>er</sup> livre). Elle utilise l'accord suivant :
+
+- 4:5:6(:15) pour des triades (accords de septième) majeur(e)s ;
+- 10:12:15(:18) pour des triades (accords de septième) mineur(e)s ;
+- 4:5:6:7 pour des accords de septième de dominante ;
+- 10:12:14:17 pour des accords de septième diminuée.
+
+Une armure FJS est démontrée aussi.
+
+Écoutez :
+
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
+
+## Vidéos
+
+Vous trouvez ici la [vidéo d'introduction](https://youtu.be/38I3cylJlW4) du FJS. Ici, il y a la [musique](https://youtu.be/JH2_Fwuc5E4) du vidéo, écrit bien sûr dans le FJS.
+
+Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint* de Steve Reich en intonation juste de la 5-limite utilise un *Tonnetz* écrit dans le FJS pour visualiser l'accord.
+
+Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontre ses accords aussi dans le FJS.
 
 ## Noms de notes
 
@@ -79,29 +102,6 @@ Cette page contient plus d'exemples du FJS en pratique.
 J'ai utilisé le FJS pour énumérer les tons que j'ai utilisés dans une pièce en JI. Par exemple, voici les [listes d'accords](../assets/examples/tuning.pdf) pour deux pièces, *Overture of Opulence* et *Meditations on a Medieval Theme Remix*, dans *Justin Tonation*.
 
 L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une (tierce mineure)<sub>25</sub>, je la reconnais tout de suite : c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements* : 729/640 est déroutant, mais une (seconde majeure)<sub>5</sub> ne l'est pas ; un 9/8 élevé d'un comma syntonique.
-
-## Notation
-
-Ceci est une [interprétation](../assets/examples/cmaj.pdf) du Prélude en Do majeur de Johann Sebastian Bach, BWV 846, du Clavier bien tempéré (1<sup>er</sup> livre). Elle utilise l'accord suivant :
-
-- 4:5:6(:15) pour des triades (accords de septième) majeur(e)s ;
-- 10:12:15(:18) pour des triades (accords de septième) mineur(e)s ;
-- 4:5:6:7 pour des accords de septième de dominante ;
-- 10:12:14:17 pour des accords de septième diminuée.
-
-Une armure FJS est démontrée aussi.
-
-Écoutez :
-
-<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
-
-## Vidéos
-
-Vous trouvez ici la [vidéo d'introduction](https://youtu.be/38I3cylJlW4) du FJS. Ici, il y a la [musique](https://youtu.be/JH2_Fwuc5E4) du vidéo, écrit bien sûr dans le FJS.
-
-Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint* de Steve Reich en intonation juste de la 5-limite utilise un *Tonnetz* écrit dans le FJS pour visualiser l'accord.
-
-Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontre ses accords aussi dans le FJS.
 
 ## Plus ?
 

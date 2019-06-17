@@ -1,6 +1,29 @@
 # Przykłady FJS
 
-Tutaj znajdziesz jeszcze więcej przykładów zastosowania FJS.
+Widziałeś zapewne już wiele krótkich przykładów w [kursie](crash.html), [porównaniu](compare.html), oraz [opisie formalnym](rules.html). Tutaj znajdziesz jeszcze więcej dłuższych przykładów zastosowania FJS.
+
+## Notacja
+
+Tutaj znajduje się [adaptacja](../assets/examples/cmaj.pdf) preludium *C*-dur z *Das Wohltemperierte Klavier* (tom I), BWV 846, Jana Sebastiana Bacha. Używam w nim następujących konwencji:
+
+- 4:5:6(:15) dla trójdźwięków (czterodźwięków septymowych) durowych;
+- 10:12:15(:18) dla trójdźwięków (czterodźwięków septymowych) molowych;
+- 4:5:6:7 dla czterodźwięków septymowych dominantowych;
+- 10:12:14:17 dla czterodźwięków septymowych zmniejszonych.
+
+Znajduje się tu także FJS-owe oznaczenie tonacji.
+
+Posłuchaj:
+
+<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
+
+## Wideo
+
+Tutaj jest [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-a. A tutaj [zapis muzyki](https://youtu.be/JH2_Fwuc5E4) użytej w tym wideo, zapisanej – rzecz jasna – w FJS-ie.
+
+Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* Steve'a Reicha w stroju naturalnym 5-limitowym wizualizuje strój za pomocą *Tonnetz* zapisanym w FJS-ie.
+
+Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Minecrafta w stroju naturalnym 7-limitowym, który także przedstawia strój FJS-em.
 
 ## Nazwy nut
 
@@ -79,29 +102,6 @@ Tutaj znajdziesz jeszcze więcej przykładów zastosowania FJS.
 Używam FJS, aby zapisać pełną listę tonów użytych w konkretnej kompozycji JI-owej. Na przykład tutaj znajdują się [listy strojeniowe](../assets/examples/tuning.pdf) dla dwóch kompozycji: *Overture of Opulence* oraz *Meditations on a Medieval Theme Remix*, z *Justin Tonation*.
 
 Używanie tutaj FJS pozwala mi bez problemu rozpoznać funkcję jakiegoś tonu, nawet jeśli z samego ułamku nic nie rozpoznaję (a często używam skomplikowanych ułamków). Na przykład 243/200 mało mi mówi, ale zapis tego samego jako 3\><sub>25</sub> sprawia, że od razu rozpoznaję go jako 6/5 podniesione o jeszcze jeden komat syntoniczny. Inny przykład z innej mojej kompozycji, *Symphony of the Elements*: 729/640 nie jest szczególnie przejrzyste, ale 2<sub>5</sub> dużo bardziej; 9/8 podniesione o komat syntoniczny.
-
-## Notacja
-
-Tutaj znajduje się [adaptacja](../assets/examples/cmaj.pdf) preludium *C*-dur z *Das Wohltemperierte Klavier* (tom I), BWV 846, Jana Sebastiana Bacha. Używam w nim następujących konwencji:
-
-- 4:5:6(:15) dla trójdźwięków (czterodźwięków septymowych) durowych;
-- 10:12:15(:18) dla trójdźwięków (czterodźwięków septymowych) molowych;
-- 4:5:6:7 dla czterodźwięków septymowych dominantowych;
-- 10:12:14:17 dla czterodźwięków septymowych zmniejszonych.
-
-Znajduje się tu także FJS-owe oznaczenie tonacji.
-
-Posłuchaj:
-
-<audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
-
-## Wideo
-
-Tutaj jest [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-a. A tutaj [zapis muzyki](https://youtu.be/JH2_Fwuc5E4) użytej w tym wideo, zapisanej – rzecz jasna – w FJS-ie.
-
-Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* Steve'a Reicha w stroju naturalnym 5-limitowym wizualizuje strój za pomocą *Tonnetz* zapisanym w FJS-ie.
-
-Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Minecrafta w stroju naturalnym 7-limitowym, który także przedstawia strój FJS-em.
 
 ## Więcej?
 
