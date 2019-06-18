@@ -36,5 +36,5 @@
 	- S<sub>II</sub>: 4/3, 5/3, 4/3, 10/9
 	- D: 3/2, 3/2, 9/8, 15/8
 	- T: 1/1, 3/2, 5/4, 1/1
-5. <img src="../assets/solutions/seconds.png" alt="a–b11-5, a–h5, a–h, a–h-7">
+5. <img src="../assets/solutions/seconds.png" alt="a–b11-5, a–h5, a–h, a–h-7"> <audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 6. 1<sup>55</sup>, czyli wartościowo 440/432 = 55/54. Nie daj się nabrać na tę 432-hercową paplaninę – z góry dziękuję.
