@@ -213,7 +213,7 @@ L'algorithme trouve alors pour chaque intervalle premier l'approximation pythago
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 
-L'opération inverse est aussi possible : vous pouvez trouver le displacement d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Trouvez le renversement du comma formel. Factorisez-le. L'exposant de 3 est alors le déplacement. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous factorisons le renversement (64/63) et obtenons 2<sup>6</sup> 3<sup>−2</sup> 7<sup>−1</sup>. Puisque l'exposant de 3 est −2, −2 est aussi le displacement de 7.
+L'opération inverse est aussi possible : vous pouvez trouver le déplacement d'un nombre premier sans utiliser l'algorithme ou savoir le rayon de tolérance, si vous connaissez le comma formel. (Cela est parfois utile, mais pas souvent.) Trouvez le renversement du comma formel. Factorisez-le. L'exposant de 3 est alors le déplacement. Par exemple, nous savons que le comma formel de 7 est 63/64. Nous factorisons le renversement (64/63) et obtenons 2<sup>6</sup> 3<sup>−2</sup> 7<sup>−1</sup>. Puisque l'exposant de 3 est −2, −2 est aussi le déplacement de 7.
 
 Comme avec le dièse et le bémol, il y a toujours deux altérations différentes pour chaque comma : soit positif, soit négatif. Le symbole des altérations est toujours basé sur le nombre premier lui-même, il diffère selon l'utilisation :
 
@@ -262,15 +262,15 @@ Pourquoi ? Parce que cette règle est plus logique et plus pratique. Voici une 
 
 Encore une remarque : le FJS permet aussi d'ajouter ces altérations en indice supérieur et inférieur aux noms des intervalles. C'est comment les rapports de l'intonation juste sont formellement nommés dans le FJS. Par exemple, 5/4 « s'appelle » une (tierce majeure)<sup>5</sup>. Cela signifie soit Mi<sup>5</sup> de Do, soit La<sup>5</sup> de Fa, soit Si<sup>5</sup> de Sol, etc.
 
-D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles premiers. Vous allez apprendre une nouvelle technique maintenant. Vous n'avez plus besoin du rayon de tolérance : il n'est utilisé que dans l'algorithme principal pour calculer le displacement.
+D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles premiers. Vous allez apprendre une nouvelle technique maintenant. Vous n'avez plus besoin du rayon de tolérance : il n'est utilisé que dans l'algorithme principal pour calculer le déplacement.
 
 > ### Technique FJS \#3 : Convertir un intervalle premier otonal en forme FJS.
 > 
-> 1. Trouvez le displacement du nombre premier.
+> 1. Trouvez le déplacement du nombre premier.
 > 2. Écrivez l'intervalle qui correspond à ce nombre de quintes.
 > 3. Ajoutez une altération de ce nombre premier. Par exemple, 23/16 recevrait un +23.
 >
-> **Exemple :** Pour convertir 7/4 en forme FJS, nous trouvons d'abord le displacement de 7 : −2. Nous écrivons l'intervalle de −2 quintes : Do–Fa–Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient une (septième mineure)<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
+> **Exemple :** Pour convertir 7/4 en forme FJS, nous trouvons d'abord le déplacement de 7 : −2. Nous écrivons l'intervalle de −2 quintes : Do–Fa–Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient une (septième mineure)<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
 
 (La calculation inverse est banale : pour trouver le rapport d'un intervalle dans le FJS, si on sait qu'il s'agit d'un intervalle premier otonal, on prend tout simplement le nombre premier de l'altération en forme réduite !)
 
@@ -278,9 +278,9 @@ D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles 
 
 (À partir d'ici, supposez toujours que le rayon de tolérance est λ.)
 
-1. Trouvez le displacement pour les nombres premiers 11 et 13.
-2. En savant que le displacement pour 19 est −3, trouvez le comma formel pour 19.
-3. En savant que le comma formel pour 47 est 47/48, trouvez le displacement pour 47.
+1. Trouvez le déplacement pour les nombres premiers 11 et 13.
+2. En savant que le déplacement pour 19 est −3, trouvez le comma formel pour 19.
+3. En savant que le comma formel pour 47 est 47/48, trouvez le déplacement pour 47.
 4. Écrivez cette gamme dans la tonique Mi : 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Écrivez l'échelle harmonique de La jusqu'au quatorzième harmonique.
 6. (DIFFICILE !) Écrivez l'échelle *sous*-harmonique de La jusqu'au huitième sous-harmonique.
