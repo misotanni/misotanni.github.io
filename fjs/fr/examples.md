@@ -13,7 +13,7 @@ Ceci est une [interprétation](../assets/examples/cmaj.pdf) du Prélude en Do ma
 
 Une armure FJS est démontrée aussi.
 
-Écoutez :
+Écoutez :
 
 <audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 

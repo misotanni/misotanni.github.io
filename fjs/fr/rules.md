@@ -27,7 +27,7 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 >
 > $$\text{comma} (p)=\text{reb}\left( \frac{p}{3^g} \right)$$
 >
-> *Conversion inverse – méthode pour calculer le déplacement pour un comma formel connu, sans utiliser l'algorithme principal ou le rayon de tolérance : Le déplacement égale l'exposant de 3 dans la factorisation du renversement du comma formel.*
+> *Conversion inverse – méthode pour calculer le déplacement pour un comma formel connu, sans utiliser l'algorithme principal ou le rayon de tolérance : Le déplacement égale l'exposant de 3 dans la factorisation du renversement du comma formel.*
 
 ## La conversion de chaque rapport JI en sa forme FJS
 
@@ -134,7 +134,7 @@ Parmi d'autres, on peut aussi utiliser les constantes irrationelles suivantes :
 
 Vous pouvez également utiliser tous les nombres transcendants.
 
-Certains d'entre eux ont du sens musical. On trouve φ lorsqu'on cherche des intervalles dont un son résultant est aussi éloigné que l'autre. Ceci est dû au fait que φ apparaît dans les nombres de Fibonacci. Vous connaissez peut-être aussi l'idée que φ est *le nombre le plus irrationnel*, on peut ainsi dire que la musique basée sur φ est l'inverse de l'intonation juste, où le nombre d'or n'est pas la norme de la beauté ; au contraire ! Le nombre e, selon son définition, est la limite de la séquence suivante : octave, deux quintes de 3/2, trois quartes de 4/3, quatre tierces de 5/4, cinq tierces de 6/5 (ce qui est plus grand que le précédent ; l'intuition 12-EDO est parfois erronée, zut !), etc. (Ce qui n'est pas important pour nous, c'est l'usage *logarithmique* de ces constantes, par exemple dans le tempérament mésotonique dorée ou le tempérament de Lucy.)
+Certains d'entre eux ont du sens musical. On trouve φ lorsqu'on cherche des intervalles dont un son résultant est aussi éloigné que l'autre. Ceci est dû au fait que φ apparaît dans les nombres de Fibonacci. Vous connaissez peut-être aussi l'idée que φ est *le nombre le plus irrationnel*, on peut ainsi dire que la musique basée sur φ est l'inverse de l'intonation juste, où le nombre d'or n'est pas la norme de la beauté ; au contraire ! Le nombre e, selon son définition, est la limite de la séquence suivante : octave, deux quintes de 3/2, trois quartes de 4/3, quatre tierces de 5/4, cinq tierces de 6/5 (ce qui est plus grand que le précédent ; l'intuition 12-EDO est parfois erronée, zut !), etc. (Ce qui n'est pas important pour nous, c'est l'usage *logarithmique* de ces constantes, par exemple dans le tempérament mésotonique dorée ou le tempérament de Lucy.)
 
 On n'a pas encore essayé de représenter des nombres négatifs ou complexes dans le FJS. :)
 
@@ -188,7 +188,7 @@ Cet exemple-ci utilise les huit notes Do, Ré, Mi<sup>5</sup>, Fa, Sol, La<sup>5
 
 <audio controls><source src="../assets/rules/ottavation.mp3" type="audio/mpeg"></audio>
 
-Ici, on voit les quatre constantes : φ, π (ou bien τ), e, et γ, en La.
+Ici, on voit les quatre constantes : φ, π (ou bien τ), e, et γ, en La.
 
 <img src="../assets/rules/irrational.png" alt="La–Faφ, La–Faπ, La–Ré^e, La–Siγ">
 
