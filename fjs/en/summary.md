@@ -31,4 +31,4 @@ Below is the FJS master algorithm.
 > 5. If so: *k* is the fifth shift. Output. End.
 > 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
-> In step 4, the meaning of “difference” is the **absolute value** of the cent size of the difference, chosen in octaves of *p* and *P* to minimize this absolute difference. For details, see the [formal description](rules.html).
+> In step 4, the meaning of “difference” is the **absolute value** of the cent size of the difference, chosen in octaves of *p* and *P* to minimize this absolute difference. For details, see the [crash course](crash.html).

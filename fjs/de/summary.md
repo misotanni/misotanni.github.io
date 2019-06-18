@@ -31,4 +31,4 @@ Hier steht der FJS-Master-Algorithmus.
 > 5. Falls ja, dann ist *k* die Quintenverschiebung. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
 >
-> Beim 4. Schritt ist die gemeinte Differenz der **Betrag** der Cent-Größe des Intervalls zwischen so gewählten Oktaven von *p* und *P*, damit dieses Intervall minimal ist. Mehr Details gibt es dazu in der [formalen Beschreibung](rules.html).
+> Beim 4. Schritt ist die gemeinte Differenz der **Betrag** der Cent-Größe des Intervalls zwischen so gewählten Oktaven von *p* und *P*, damit dieses Intervall minimal ist. Mehr Details gibt es dazu im [Crash-Kurs](crash.html).

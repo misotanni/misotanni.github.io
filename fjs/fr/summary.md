@@ -20,7 +20,7 @@ On peut ainsi représenter l'intonation juste :
 	- Chaque comma formel est un nombre pont, puisqu'ils sont tous une différence entre un nombre premier et un rapport de la 3-limite.
 	- Ainsi, chaque intervalle au-delà de la 3-limite peut être représenté comme un rapport de la 3-limite (qui correspond a un intervalle conventionnel) multiplié par des commas formels (qui ont des altérations FJS) avec des entiers relatifs comme exposants.
 
-L'algorithme principal du FJS trouve deux valeurs pour chaque nombre premier : le déplacement de quintes et le comma formel. Bien que les deux soient utiles pour une description complète, il vous faut seulement une pour pouvoir calculer l'autre sans utiliser l'algorithme ou le rayon de tolérance (voir la [description formelle](math.html)).
+L'algorithme principal du FJS trouve deux valeurs pour chaque nombre premier : le déplacement de quintes et le comma formel. Bien que les deux soient utiles pour une description complète, il vous faut seulement une pour pouvoir calculer l'autre sans utiliser l'algorithme ou le rayon de tolérance (voir la [description formelle](rules.html)).
 
 Vous voyez ici l'algorithme principal du FJS.
 
@@ -31,4 +31,4 @@ Vous voyez ici l'algorithme principal du FJS.
 > 5. Si oui, *k* égale le déplacement de quintes. Fin.
 > 6. Si non, avancez au *k* suivant dans la séquence : (0, 1, −1, 2, −2, 3, −3, …), et retournez à l'étape 3.
 >
-> Dans l'étape 4, la différence dont on parle, c'est la **valeur absolue** du nombre de cents de la différence entre les octaves de *p* et *P* choisies pour que cette différence soit minimale. Il y a une explication plus détaillée dans la [description formelle](math.html).
+> Dans l'étape 4, la différence dont on parle, c'est la **valeur absolue** du nombre de cents de la différence entre les octaves de *p* et *P* choisies pour que cette différence soit minimale. Il y a une explication plus détaillée dans le [cours intensif](crash.html).
