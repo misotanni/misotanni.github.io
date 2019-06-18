@@ -74,7 +74,7 @@ ni'o ro da poi cuvyto'aci'e zgiselfi'i zo'u la'e do'e lu'u noi javni ze moi cu b
 
 5. .i lo cmene be lo zgika'u zo'u lo togystika cu jmina fa'u vimcu gi'o se ke li'erla'i tcita la'e zo ma'u fa'u zo ni'u
 
-6. .i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba lu'u ce'o lu'e lo togystika poi jdika lu'u se ce'o bo lu'e vi'i bu lu'u ce'o lu'e lo fadni togystika lu'u ce'o lu'e lo zgika'u
+6. .i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba lu'u ce'o lu'e lo togystika poi jdika lu'u se ce'o bo lu'e me'o vi'i bu lu'u ce'o lu'e lo fadni togystika lu'u ce'o lu'e lo zgika'u
 
 7. .i lo ro drata cu jai nu ciska sutra
 
