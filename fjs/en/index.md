@@ -78,6 +78,7 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 
 ## What Now?
 
+- Read a quick [summary](summary.html) of the entire system.
 - Go here for a [crash course](crash.html) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
 - Read the [complete formal description](rules.html) for a reference of the exact rules when in doubt.
 - See the [mathematics](math.html) behind the FJS. Go here for the proof that the FJS is bijective and the proofs of its many beautiful properties.
