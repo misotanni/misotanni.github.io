@@ -57,7 +57,7 @@ Te siedem reguł wystarczy, by móc zapisać dowolny utwór strojony naturalnie 
 
 5. Wysokości nazywa się zwyczajnymi nazwami nutowymi, po których następują alteracje otonalne w indeksie górnym i utonalne w dolnym.
 
-6. Na pięciolinii przed nutą i zwyczajnym znakiem przygodnym zapisuje się najpierw otonalne alteracje (jeżeli występują), następnie ukośnik razem z utonalnymi alteracjami (jeżeli te występują).
+6. Na pięciolinii przed nutą i zwyczajnym znakiem przygodnym zapisuje się najpierw otonalne alteracje (jeżeli występują), następnie kreska razem z utonalnymi alteracjami (jeżeli te występują).
 
 7. Cała reszta to dodatkowe udogodnienia.
 

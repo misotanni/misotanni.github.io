@@ -78,7 +78,7 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 1. To add positive comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, as an accidental. For consistency, just like standard accidentals are prepended to a note on a staff but appended to its name, the same happens to microtonal accidentals. They are written in front of the note, and if there is a standard accidental as well, then in front of the accidental.
 
-2. To add negative comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, but prepended with a slash sign (e.g. “/35”). Note that e.g. “7/5” is not an alteration by a 7/5 interval, but by 63/64 compounded with 81/80, which is 5103/5120.
+2. To add negative comma shifts to a note, write the corresponding number that results from combining these shifts in front of it, but prepended with a stroke (e.g. “/35”). Note that e.g. “7/5” is not an alteration by a 7/5 interval, but by 63/64 compounded with 81/80, which is 5103/5120.
 
 3. If both positive and negative comma shifts appear, then the total positive shift should be written to the left of the total negative shift.
 

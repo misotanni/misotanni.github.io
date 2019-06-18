@@ -217,7 +217,7 @@ Można by też podejść od drugiej strony: wyznaczyć przeniesienie dla danej l
 Tak, jak krzyżyk i bemol, alteracja o taki komat formalny może być dodania lub ujemna. Znak dla tej alteracji to sama liczba pierwsza, dla której komat formalny zbudowano; dokładne nazewnictwo zależy od tego, czy nuty nazywamy czy zapisujemy na pięciolinii:
 
 - Nuty nazywamy, zapisując dodatnie alteracje w indeksie górnym, a ujemne – w dolnym.
-- Nuty zapisujemy, dopisując liczby pierwsze – dla ujemnych alteracji poprzedzone ukośnikiem.
+- Nuty zapisujemy, dopisując liczby pierwsze – dla ujemnych alteracji poprzedzone kreską.
 
 Może zauważyłeś, że użyłem tu wyrażeń „dodatni” i „ujemny” zamiast „w górę” i „w dół” – to dlatego, że FJS-owe alteracje dodatnie wcale nie zawsze przenoszą w górę, ani ujemne zawsze w dół; zamiast tego **dodatniość zawsze odpowiada otonalności, a ujemność utonalności**. Co ważne, *dodatnie FJS-owe alteracje zawsze przenoszą w tym kierunku, w którym przenosi się z przybliżenia pitagorejskiego do interwału pierwszego*. Na przykład by zapisać dźwięk o 5/4 od *c*, najpierw zapisujemy pitagorejskie przybliżenie *e* (81/64), a potem przenosimy je do 5/4 poprzez dodanie „<sup>5</sup>”. Ta zmiana *obniża* o 81/80 – z *e* do *e*<sup>5</sup>.
 
@@ -337,7 +337,7 @@ Odpowiem więc na zawieszone pytanie: sumą dwóch 3<sup>5</sup> jest 5&lt;<sup>
 Jak powiedziałem, otonalne i utonalne alteracje nie wchodzą w interakcję, więc jeżeli do wysokości *ges* dodamy i +7, i −5, uzyskamy *ges*<sup>7</sup><sub>5</sub>. Oto dokładne reguły:
 
 - Nazywając wysokości, użyj jednego indeksu górnego dla wszystkich dodatnich alteracji, po czym jednego indeksu dolnego dla wszystkich ujemnych.
-- Zapisując wysokości, najpierw zapisujemy wszystkie dodatnie alteracje (jeżeli występują), następnie wszystkie ujemne, poprzedzone ukośnikiem (jeżeli występują), po czym zwykłe znaki przygodne i sama główka nutowa.
+- Zapisując wysokości, najpierw zapisujemy wszystkie dodatnie alteracje (jeżeli występują), następnie wszystkie ujemne, poprzedzone kreską (jeżeli występują), po czym zwykłe znaki przygodne i sama główka nutowa.
 
 Zatem wysokości *ges*<sup>7</sup><sub>5</sub> i *fis*<sup>5</sup><sub>7</sub> (odpowiednio 7/5 i 10/7 od *c*) zapisalibyśmy następująco:
 

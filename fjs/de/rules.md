@@ -80,7 +80,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 1. Um positive Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note. Der Konsistenz halber werden sie vor, nicht nach, der Note geschrieben, genauso wie übliche Versetzungszeichen. (Wenn es auch ein übliches Versetzungszeichen gibt, dann auch vor ihm.)
 
-2. Um negative Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note, mit einem Schrägstrich (z.B. „/35“). Bemerke, dass z.B. „7/5“ keine Versetzung von 7/5 bedeutet, sondern von 63/64 und gleichzeitig 81/80, also zusammen 5103/5120.
+2. Um negative Kommas zu einer Note zu addieren, schreibe die Zahl des verbundenen Versetzungszeichens vor der Note, mit einem Strich (z.B. „/35“). Bemerke, dass z.B. „7/5“ keine Versetzung von 7/5 bedeutet, sondern von 63/64 und gleichzeitig 81/80, also zusammen 5103/5120.
 
 3. Falls sowohl positive als auch negative Kommas vorkommen, wird das verbundene positive zuerst geschrieben, dann das Minus-Zeichen, dann das verbundene negative.
 

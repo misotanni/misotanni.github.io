@@ -218,7 +218,7 @@ L'opération inverse est aussi possible : vous pouvez trouver le déplacement d
 Comme avec le dièse et le bémol, il y a toujours deux altérations différentes pour chaque comma : soit positif, soit négatif. Le symbole des altérations est toujours basé sur le nombre premier lui-même, il diffère selon l'utilisation :
 
 - Lorsqu'on nomme les notes, on écrit l'altération positive en indice supérieur et la négative en indice inférieur.
-- Lorsqu'on les écrit sur la portée, on écrit l'altération positive comme le nombre lui-même et la négative avec une barre oblique.
+- Lorsqu'on les écrit sur la portée, on écrit l'altération positive comme le nombre lui-même et la négative avec une barre.
 
 Remarquez que j'utilise délibérément les mots « positif » et « négatif » au lieu de « ascendant » et « descendant », parce que dans le FJS, des altérations positives ne sont pas toujours ascendantes, et les négatives ne sont pas toujours descendantes. Au lieu de cela, **le positif est toujours otonal** et **le négatif est toujours utonal**. Cela signifie quelque chose de très important : *une altération FJS est toujours positive lorsqu'une approximation pythagoricienne d'un intervalle premier devient l'intervalle premier lui-même.* Par exemple, pour écrire 5/4 sur Do, on écrit d'abord Mi (l'approximation, 81/64) et puis on le transforme en 5/4 en utilisant une altération +5, donc Mi<sup>5</sup>. Ce +5 modifie de 81/80 en *bas*, en fait.
 
@@ -338,7 +338,7 @@ Alors, la réponse à la question : La somme de deux (tierces majeures)<sup>5</
 Comme j'ai déjà expliqué, l'otonalité et l'utonalité ne sont jamais mixtes. Si un Sol♭ aurait des altérations +7 et −5 simultanément, on aurait un Sol♭<sup>7</sup><sub>5</sub>. Les règles exactes sont suivantes :
 
 - Lorsqu'on nomme les notes, on utilise un nombre en indice supérieur pour représenter l'altération positive composée et un nombre en indice inférieur pour la négative.
-- Lorsqu'on écrit sur la portée, on écrit d'abord l'altération positive composée (s'il y en a), puis la négative (s'il y en a) avec une barre oblique, puis les altérations conventionnelles (s'il y en a), puis la note.
+- Lorsqu'on écrit sur la portée, on écrit d'abord l'altération positive composée (s'il y en a), puis la négative (s'il y en a) avec une barre, puis les altérations conventionnelles (s'il y en a), puis la note.
 
 Donc, les notes Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub> (soit 7/5 et 10/7 sur Do) seraient représentés de la façon suivante :
 
