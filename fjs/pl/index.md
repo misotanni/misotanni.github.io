@@ -77,8 +77,8 @@ Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, 
 
 ## Co teraz?
 
-- Zobacz krótkie [podsumowanie](summary.html) całego systemu.
 - Tu znajdziesz [intensywny kurs](crash.html), dzięki któremu nawet z powierzchownym zrozumieniem JI nauczysz się FJS-u w kilkanaście minut.
+- Zobacz krótkie [podsumowanie](summary.html) całego systemu.
 - Jeżeli nie jesteś pewien, jak dokładnie brzmi dana reguła, odwołaj się do [szczegółów technicznych](rules.html).
 - Poznaj [matematyczne zaplecze](math.html) FJS-u. Tam znajdziesz dowód wzajemnej jednoznaczności FJS-u, a także innych ciekawych własności.
 - [Tu](compare.html) porównuję FJS z dwoma konkurencyjnymi notacjami: Helmholtza-Ellisa i Bena Johnstona, wykazując, że FJS przewyższa je obie.

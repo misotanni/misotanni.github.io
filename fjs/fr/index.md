@@ -77,8 +77,8 @@ Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour
 
 ## Quoi maintenant ?
 
-- Lisez un [sommaire](summary.html) du système entier.
 - Vous trouvez ici un [cours intensif](crash.html) du FJS. Avec une connaissance médiocre de JI, il ne faut que quelques minutes pour apprendre le FJS.
+- Lisez un [sommaire](summary.html) du système entier.
 - Lisez la [description formelle complète](rules.html) si vous avez un doute en ce qui concerne les règles exactes.
 - Voyez les [mathématiques](math.html) grâce à lesquelles le FJS a en fait une bijection ainsi que toutes les autres belles qualités dont j'ai parlé.
 - Ici, je [compare](compare.html) le FJS à deux autres systèmes de notation en compétition : celui de Helmholtz-Ellis et celui de Ben Johnston, et j'explique pourquoi le FJS dépasse les deux.

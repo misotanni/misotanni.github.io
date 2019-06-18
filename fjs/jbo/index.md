@@ -119,8 +119,8 @@ i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgike .ente'ori poi cabna cu kair
 
 ni'o tu'e
 
-- .i zgana [lo torveki](summary.html) be fy jy sy
 - .i zvati ti fa [la janli xe ctuca](crash.html) ku pe fy jy sy .i fau lo ji'a nu so'o va'e jimpe fi cy ty cu sarcu lo nu cilre lo jicmu be lo fy jy sy sidbo kei fa tu'a lo mentu be li so'o po'o
+- .i zgana [lo torveki](summary.html) be fy jy sy
 - .i tcidu [lo se javni](rules.html) fau lo nu fa'idji fi lo se senpi
 - .i zgana [lo cmaci](math.html) pe fy jy sy .i lo ctaipe be lo du'u fy jy sy cu pavysmu gi'e ckaji so'i da vau cu zvati ti
 - .i mencti [lo xe karbi](compare.html) be fy jy sy bei lo re jivna snici'e no'u zo'e pe la xelmxolts elis ge'u .e zo'e pe la ben djonston .i ba'o la'e di'u jimpe lo du'u fy jy sy zmadu re zo'e ma kau
