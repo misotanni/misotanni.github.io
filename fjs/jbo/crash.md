@@ -1,13 +1,13 @@
 ﻿# la fy jy sy janli xe ctuca
 
-ni'o za'a .a'u dai do kucli lo prali be fi tu'a fy jy sy
-.i do djica lo nu cilre fi ri
+ni'o za'a a'u dai do kucli lo prali be fi tu'a fy jy sy
+i do djica lo nu cilre fi ri
 
 ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi tu'a ro jicmu selci be le ciste
-.i na ctuca fo lo jai nu sutri noi na jai sarcu lo nu mulno
-.i ga nai do djuno so'o da lo cuvyto'aci'e gi mutce frili do fa lo ka cilre tu'a fy jy sy
-.i ka'e ku do cilre ro da ca lo mentu be li so'u po'o
-.i melbi je frili ri'i ko
+i na ctuca fo lo jai nu sutri noi na jai sarcu lo nu mulno
+i ga nai do djuno so'o da lo cuvyto'aci'e gi mutce frili do fa lo ka cilre tu'a fy jy sy
+i ka'e ku do cilre ro da ca lo mentu be li so'u po'o
+i melbi je frili ri'i ko
 
 ## liste
 
@@ -22,46 +22,46 @@ ni'o ti noi xe ctuca cu se finti fi lo nu sutra cilre fi tu'a ro jicmu selci be 
 
 ## <a name="introduction">lo lidne zo'u: vimcu tu'a lo si'o togbasti</a>
 
-ni'o ro ma'a se slabu lo fadni zgisnici'e .e lo ri fadni togystika
-.i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e pe ma'i lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
-.i to ba'o lo cabna zo'u .ai cmene ri fa zo dunto'aci'e to'u toi
+ni'o ro ma'a se slabu lo fadni zgisnici'e e lo ri fadni togystika
+i ku'i la'a ma'a na facki lo du'u cilre lo bi'u nai zgisnici'e pe ma'i lo ma'a rolzva togyci'e noi dunto'aci'e li pa re
+i to ba'o lo cabna zo'u ai cmene ri fa zo dunto'aci'e to'u toi
 
 ni'o mu'a ti se cmima ro se dunto'aci'e
 
 <img src="../assets/crash/chromatic-wrong.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
 
 ni'o no'e drani
-.i so'e roi jarco ti uo dai
+i so'e roi jarco ti uo dai
 
 <img src="../assets/crash/chromatic-right.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
 
-ni'o ka'u .u'e nai lo branonto'a lo cmapavyto'a cu basti
-.i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
-.i lo du'u cmedu'a ma kau cu se nibli tu'a lo ni tcidu frili .a lo ni stodi .a lo ni sampu kei gi'e jai se krinu tu'a lo vanbi
-.i ku'i dunli
+ni'o ka'u u'e nai lo branonto'a lo cmapavyto'a cu basti
+i ma'a djuno lo du'u cmene lo re zgika'u poi dunli fi lo ka tonga
+i lo du'u cmedu'a ma kau cu se nibli tu'a lo ni tcidu frili a lo ni stodi a lo ni sampu kei gi'e jai se krinu tu'a lo vanbi
+i ku'i dunli
 
 ni'o lo bi'u nai selkai noi ka lo relmecpavyto'aku'e lo mulnonto'aku'e cu dunli lo ka klani ku'o cu se cmene zo togbasti
-.i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
-.i lo drata togyci'e zo'u go nai ri no nu togbasti kei se cumki gi lo togyku'e pe lo nu togbasti cu drata
+i ji'a lo zgipre poi na se slabu ja sanji su'o drata togyci'e na la'a cu'i djuno lo du'u le selkai cu kampu be na ku gi'e se steci lo so'o po'o mei noi me ke'a fa lo dunto'aci'e
+i lo drata togyci'e zo'u go nai ri no nu togbasti kei se cumki gi lo togyku'e pe lo nu togbasti cu drata
 i to mu'a lo dunto'aci'e be li pa so zo'u lo mulnonto'aku'e lo ba'e cibmecpavyto'aku'e cu dunli ja'e lo nu no'a fa lo bravonto'a lo cmamumto'a toi
 
-ni'o ku'i .ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
-.i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
-.i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u lo pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu su'o na'e bo dy
+ni'o ku'i ei ko morji lo du'u lo nu finti lo ciste co sinxa be lo zgike cu darno purci lo za'i lo dunto'aci'e cu rolzva gi'a se ba'e jurpei
+i lo zgisnici'e cu se jicmu lo cistriiono noi ckaji lo so'i da ne mu'u lo ka jai se bapli tu'a lo'i vonto'aku'e
+i lo zgisnici'e zo'u lo ba'e du'u lo dunto'aci'e zo'u lo pa selto'a cu se sinxa za'u da cu nibli lo du'u zy se jicmu su'o na'e bo dy
 
 ni'o va'i lo ka togbasti cu se steci lo ka lo dunto'aci'e cu ckaji kei lo selkai be lo zgisnici'e
-.i ro drata cu na'e srana
+i ro drata cu na'e srana
 
 ## <a name="lesson-0">no mo'o: sarcu co cfapru se djuno</a>
 
-ni'o .ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
-.i tu'e
+ni'o ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi fy jy sy
+i tu'e
 
-- .i djuno lo du'u smuxu'a fi lo cuvyto'aci'e fe lu'e su'o da poi ro togyku'e be va'o ke'a cu frinyna'u
-- .i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u .e li ci fi'u re .e li mu fi'u vo .e li ze fi'u vo
-- .i djuno lo du'u kanji lo du'u ma kau togyku'e ke sumji fa'u velvi'u fa'u dukti kei fo lo nu kanji lo du'u ma kau pilji fa'u parbi fa'u pavdilcu fe lo ty parbi fi ri
-- .i kakne lo ka kanji tu'a lo toglai kei gi'e djuno lo du'u lo togytikyka'u pe lo dunto'aci'e ge'u fa'u lo zelto'aku'e cu toglai li pa no no lo'o fa'u li pa re no no
-- .i kakne lo ka kanji lo se toglai be ro togyku'e fo su'o vi mekso
+- i djuno lo du'u smuxu'a fi lo cuvyto'aci'e fe lu'e su'o da poi ro togyku'e be va'o ke'a cu frinyna'u
+- i selsau lo cy ty parbi poi jai cafne zi'e ne mu'u li re fi'u lo'o e li ci fi'u re lo'o e li mu fi'u vo lo'o e li ze fi'u vo
+- i djuno lo du'u kanji lo du'u ma kau togyku'e ke sumji fa'u velvi'u fa'u dukti kei fo lo nu kanji lo du'u ma kau pilji fa'u parbi fa'u pavdilcu fe lo ty parbi fi ri
+- i kakne lo ka kanji tu'a lo toglai kei gi'e djuno lo du'u lo togytikyka'u pe lo dunto'aci'e ge'u fa'u lo zelto'aku'e cu toglai li pa no no lo'o fa'u li pa re no no
+- i kakne lo ka kanji lo se toglai be ro togyku'e fo su'o vi mekso
 	
 	$$\displaystyle \text{C}(d)=\frac{1200 \cdot \log d}{\log 2} \text{ sei dugri be fi su'o simxu mintu}$$
 	
@@ -69,39 +69,39 @@ ni'o .ei birti lo du'u do djuno je se slabu so'o co'e kei pu'o lo nu do cilre fi
 
 tu'u
 
-ni'o ji'a .ei do se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
+ni'o ji'a ei do se slabu ci da poi cmaci sidbo gi'e steci srana fy jy sy
 
 ni'o pa mai ko kakne lo ka kanji galfi **lo togyku'e poi fadni ku'o** to se cau lo nu togbasti kei toi **lo namcu be lo vonto'aku'e**
-.i mu'a lo **pavyto'aku'e** cu srana lo vonto'aku'e noi **re mei**
-.i ri'a bo re da lo nu zbasu lo pavyto'aku'e vau cu jai se sarcu to co dutso toi
-.i mu'a relto'a ce'o xavyto'a ce'o cibyto'a
-.i si'a lo **relto'aku'e** cu srana lo vonto'aku'e noi **ni'u ci mei**
-.i ri'a bo ci cibyto'aku'e noi vonto'aku'e co zucna ku'o cu jai se sarcu
-.i mu'a relto'a ce'o mumto'a ce'o cmapavyto'a ce'o cmavonto'a
-.i .ei dai ko kakne be lo ka kanji bi'u nai be'o co manri je bo dukti je sutra .e'u
+i mu'a lo **pavyto'aku'e** cu srana lo vonto'aku'e noi **re mei**
+i ri'a bo re da lo nu zbasu lo pavyto'aku'e vau cu jai se sarcu to co dutso toi
+i mu'a relto'a ce'o xavyto'a ce'o cibyto'a
+i si'a lo **relto'aku'e** cu srana lo vonto'aku'e noi **ni'u ci mei**
+i ri'a bo ci cibyto'aku'e noi vonto'aku'e co zucna ku'o cu jai se sarcu
+i mu'a relto'a ce'o mumto'a ce'o cmapavyto'a ce'o cmavonto'a
+i ei dai ko kakne be lo ka kanji bi'u nai be'o co manri je bo dukti je sutra e'u
 
 ni'o re mai ko djuno lo du'u ma kau jai ta'i kanji lo dilcymu'o lo frinyna'u
-.i ro da poi **mulnonmau** fa'u **frinynonmau** si'a zo'u da se pagbu pa lo'i dilcymu'o noi se tenfa fi lo **kacna'u** fa'u **mulna'u** si'a
-.i la'e di'u cu se cmene fi zi'o fa'u mi fe lu ralju cmacybri pe lo nacycmaci li'u fa'u lu ralju cmacybri pe lo zgisarxe li'u .u'i
-.i mu'a li xa fi'u mu cu se pagbu li re te'a pa lo'o ce li ci te'a pa lo'o ce li mu te'a ni'u pa
-.i no cmima be lo dilcymu'o be'o poi drata cu zasti
-to .i lo nu ti xe ctuca kei jai mu'i mi vimcu lo cmaci tcila
-.i ku'i li'a ri zvati va'u lo [tcidu poi kucli](math.html)
-.i ro da poi srana lo cmacybri bu'u ti noi xe ctuca zo'u lo cmaci kibystu cu se zvati lo ctaipe toi
+i ro da poi **mulnonmau** fa'u **frinynonmau** si'a zo'u da se pagbu pa lo'i dilcymu'o noi se tenfa fi lo **kacna'u** fa'u **mulna'u** si'a
+i la'e di'u cu se cmene fi zi'o fa'u mi fe lu ralju cmacybri pe lo nacycmaci li'u fa'u lu ralju cmacybri pe lo zgisarxe li'u u'i
+i mu'a li xa fi'u mu cu se pagbu li re te'a pa lo'o ce li ci te'a pa lo'o ce li mu te'a ni'u pa
+i no cmima be lo dilcymu'o be'o poi drata cu zasti
+to i lo nu ti xe ctuca kei jai mu'i mi vimcu lo cmaci tcila
+i ku'i li'a ri zvati va'u lo [tcidu poi kucli](math.html)
+i ro da poi srana lo cmacybri bu'u ti noi xe ctuca zo'u lo cmaci kibystu cu se zvati lo ctaipe toi
 
 ni'o ci mai do nitcu lo **sapka'i** be lo togyku'e
-.i lo su'u tcikai zo'u pilji jo nai dilcu lo togyku'e li re pu'o lo nu lo te pruce cu mleca li re gi'e zmadu ja bo du li pa
-.i la'e di'u panra lo rodrodrodrodrodrodbroda
-.i sy zo'u ma'a jai ga'a lo selto'a cu dunli va'i lo nu frica fi tu'a lo zelto'aku'e ku po'o ne li re fi'u
-.i mu'a li ze fi'u cu binxo li ze fi'u vo
-.i je li fi'u xa cu binxo li vo fi'u ci
-.i lo sapka'i cu te pruce fo tu'a ti noi mekso
+i lo su'u tcikai zo'u pilji jo nai dilcu lo togyku'e li re pu'o lo nu lo te pruce cu mleca li re gi'e zmadu ja bo du li pa
+i la'e di'u panra lo rodrodrodrodrodrodbroda
+i sy zo'u ma'a jai ga'a lo selto'a cu dunli va'i lo nu frica fi tu'a lo zelto'aku'e ku po'o ne li re fi'u
+i mu'a li ze fi'u cu binxo li ze fi'u vo
+i je li fi'u xa cu binxo li vo fi'u ci
+i lo sapka'i cu te pruce fo tu'a ti noi mekso
 
 $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 
 ni'o zasti ji'a fa lo **laxykemsapka'i**
-.i ly zo'u lo te pruce cu mleca li re te'a pi mu gi'e zmadu ja bo du li re te'a ni'u pi mu
-.i ly jai se kanji ji'u lo sapka'i noi fadni
+i ly zo'u lo te pruce cu mleca li re te'a pi mu gi'e zmadu ja bo du li re te'a ni'u pi mu
+i ly jai se kanji ji'u lo sapka'i noi fadni
 
 $$\text{reb}(d)=\frac{1}{\sqrt{2}} \text{red}(\sqrt{2} \cdot \text{red}(d))$$
 
@@ -112,41 +112,41 @@ $$\text{reb}(d)=\text{red}(d) \text{ , } \text{red}(d) < \sqrt{2}$$
 $$\text{reb}(d)=\frac{1}{2} \text{red}(d) \text{ , } \text{red}(d) \geq \sqrt{2}$$
 
 ni'o mulno
-.i .e'e cfari
+i e'e cfari
 
 ## <a name="lesson-1">pa mo'o: cistrpitagora</a>
 
 ni'o do jinvi la'a lo du'u lo nu vimcu lo si'o togbasti cu rinka lo nu zenba co cumki fa lo nu sinxa xo kau tonga
-.i go go'i gi do draji'i
-.i ku'i vy na banzu lo ka cumgau lo nu sinxa ro da pe lo cuvyto'aci'e
-.i lo vrude pe lo cuvyto'aci'e cu ka lo tonga poi jibni simxu cu te bangu ja'e lo nu lo togyku'e poi drata cu skari pe'a lo drata
+i go go'i gi do draji'i
+i ku'i vy na banzu lo ka cumgau lo nu sinxa ro da pe lo cuvyto'aci'e
+i lo vrude pe lo cuvyto'aci'e cu ka lo tonga poi jibni simxu cu te bangu ja'e lo nu lo togyku'e poi drata cu skari pe'a lo drata
 
 ni'o mu'a ko se xanri lo togyku'e porsi pe li pa pa fi'u pa no lo'o ce'o li pa no fi'u so lo'o ce'o li so fi'u bi lo'o ce'o li bi fi'u ze
-.i ko tirna
+i ko tirna
 
 <audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
 ni'o ba'a so'a da jai ga'a vo mei jibni be lo pavyto'aku'e
-.i ku'i toldra fa lo nu da'i lu'e lo pavyto'aku'e cu sinxa ro le vo togyku'e
-.i ri drata simxu
-.i lo du'u mipri la'e di'u cu natfe tu'a lo jicmu be lo cuvyto'aci'e
+i ku'i toldra fa lo nu da'i lu'e lo pavyto'aku'e cu sinxa ro le vo togyku'e
+i ri drata simxu
+i lo du'u mipri la'e di'u cu natfe tu'a lo jicmu be lo cuvyto'aci'e
 
 ni'o ja'e bo do jinvi la'a lo du'u zasti fa lo midju noi ke'a gripau lo pi ro cuvyto'aci'e gi'e ro pagbu be ke'a cu se sinxa pa pagbu be lo zgisnici'e poi claxu lo si'o togbasti
-.i go go'i gi do ji'a draji'i
-.i lo bi'u nai midju no'u lo cistrpitagora cu cuvyto'aci'e li ci
+i go go'i gi do ji'a draji'i
+i lo bi'u nai midju no'u lo cistrpitagora cu cuvyto'aci'e li ci
 
 ni'o va'i tu'e lu'e lo zelto'aku'e cu srana li re fi'u
-.i to la'e di'u simsa lo me lo dunto'aci'e be li pa re moi toi
-.i lu'e lo mulvonto'aku'e cu srana li ci fi'u re tu'u
-.i ja'e bo ro da po'u lu'e lo togyku'e pe lo zgisnici'e zo'u da srana pa se cistrpitagora
-.i la'e di'u nibli lo du'u pavysmu 
+i to la'e di'u simsa lo me lo dunto'aci'e be li pa re moi toi
+i lu'e lo mulvonto'aku'e cu srana li ci fi'u re tu'u
+i ja'e bo ro da po'u lu'e lo togyku'e pe lo zgisnici'e zo'u da srana pa se cistrpitagora
+i la'e di'u nibli lo du'u pavysmu 
 
 ni'o ta'o cumki fa lo nu ba'e *ca'engau* tu'a lo ralju toglei
-.i ca'engau lo du'u lo mumto'a ce'o relto'a ce'o xavyto'a ce'o cibyto'a ce'o nonto'a ce'o vonto'a ce'o pavyto'a zo'u lo se togyku'e pe my bi'o ry ge'u .e lo se togyku'e pe ry bi'o xy ge'u .e lo drata cu du li ci fi'u re
-.i ja'e bo lo se togyku'e pe py bi'o my cu du li pa no re vo fi'u ze re so noi milxe lo ka mleca li ci fi'u re
-.i ja'e bo ca'engau lo du'u lo togystika kantu cu vimcu tu'a lo bi'u nai ka mleca
-.i ja'e bo lo se togyku'e pe lo pavyto'a fa'u bo cmapavyto'a bi'u bramumto'a fa'u bo mumto'a cu du ji'a li ci fi'u re
-.i fy jy sy se jicmu lo si'o tcena lo bi'u nai javni noi du'u lo togystika cu cikre lo ka lo togyku'e cu drata
+i ca'engau lo du'u lo mumto'a ce'o relto'a ce'o xavyto'a ce'o cibyto'a ce'o nonto'a ce'o vonto'a ce'o pavyto'a zo'u lo se togyku'e pe my bi'o ry ge'u e lo se togyku'e pe ry bi'o xy ge'u e lo drata cu du li ci fi'u re
+i ja'e bo lo se togyku'e pe py bi'o my cu du li pa no re vo fi'u ze re so noi milxe lo ka mleca li ci fi'u re
+i ja'e bo ca'engau lo du'u lo togystika kantu cu vimcu tu'a lo bi'u nai ka mleca
+i ja'e bo lo se togyku'e pe lo pavyto'a fa'u bo cmapavyto'a bi'u bramumto'a fa'u bo mumto'a cu du ji'a li ci fi'u re
+i fy jy sy se jicmu lo si'o tcena lo bi'u nai javni noi du'u lo togystika cu cikre lo ka lo togyku'e cu drata
 
 fa'o
 
