@@ -1,24 +1,30 @@
-﻿# A Summary of the FJS
+﻿# lo fy jy sy terta'a seljmaji
 
-The Functional Just System (FJS) is a notation system used to extend traditional staff notation to be able to notate all of just intonation (JI). Like Helmholtz-Ellis notation or Johnston notation, the FJS does this by extending staff notation with a list of special accidentals. The FJS uses a deterministic process to convert any JI ratio into an interval class (M2, m3, A4, etc.) plus additional specific FJS accidentals.
+ni'o la fancu ke curve ciste ku to no'u fy jy sy toi cu snici'e te pi'o lo nu sinxa ro cuvyto'aci'e to no'u cy ty toi kei se pi'o lo nu tcena lo fadni zgisnici'e
+.i lo snici'e pe la xelmxolts elis ge'u .e lo snici'e pe la ben djonston cu jai tai jmina fai fy jy sy fi lo zgisnici'e fe lo'i togystika poi cnino
+.i fy jy sy jai ve pruce lo cy ty frinu lo **pa mei po'o** togykuplei to ne mu'u lo pavyto'aku'e .a lo relto'aku'e toi ge'u .e lo se jmina noi togystika gi'e se steci tu'a fy jy sy
 
-The goals of the FJS are: 
+ni'o lo te zukte be tu'a fy jy sy zo'u tu'e
 
-- To make the conversion process from JI ratios to musical notation and backwards fully automatic and deterministic, in contrast to the hand-picked accidentals used in Helmholtz-Ellis and Johnston notations. There are no special glyphs for accidentals and no special predefined list of their values. All of the FJS can be calculated on the spot, both using external tools and mental arithmetic.
-- To be able to represent the entirety of just intonation with perfect accuracy, not only up to a certain prime limit (61 for Helmholtz-Ellis, 31 for Johnston) or only up to a certain degree of precision (Sagittal).
-- To be much easier to use (both in reading and in writing) than existing notation systems for just intonation.
-- To be optimized for use with digital musical notation software, due to its ability to automatically generate all of its accidentals. 
+- .i gasnu lo nu lo pruce be lo frinu bei lo zgika'usni be'o soi vo'e vo'i cu mulno zmiku je pavysmu .i se ku'i xy .e bu .e by jy cu jai cunso cuxna lo togystika .i no cizra cu sinxa lo togystika .i je no liste lo porsi poi jai se xusra ku'o be ty .i pi ro boi fy jy sy cu jai cumki fai lo nu kanji ri lo kunti se pi'o ge lo kajytci gi lo su'u menli kanji
+- .i kakne lo ka sinxa lo cuvyto'aci'e be li ci'i gi'e cimni lo ka satci kei gi'e nai sinxa fi'o se cuvyto'aci'e fa'u se satci lo stodi to ne mu'u li xa pa pe xy .e bu ge'u .e li ci pa pe by jy ge'u fa'u lo se steci pe la sagitl toi
+- .i jai frili fai lo nu pilno fi ge lo nu tcidu gi lo nu ciska kei kei se mau lo drata snici'e pe cy ty
+- .i mutce lo ka mapti fi lo ka pilno ci'e lo zgifi'i samtci .i ki'u bo jai cumki fai lo nu zmiku zbasu ro togystika
 
-The core of the FJS is the **FJS master algorithm**, which takes any prime number greater than 3 as its input, and makes use of a constant known as the **radius of tolerance** (of which the standard value is $$\sqrt{\frac{33}{31}}$$, the geometric mean of 33/32 and 32/31). It looks for the simplest approximation of that prime number closer than the radius of tolerance within the 3-limit (*simplest* means lowest absolute value of the **fifth shift**, i.e. the exponent of three). The difference between the target and the approximation is then recorded as the so-called **formal comma** of that prime.
+tu'u
 
-Just intonation is notated in the following way: 
+ni'o lo jicmu be fy jy sy cu me **la fy jy sy ralju algoritma ku** noi pruce lo dilcysle poi zmadu li ci ku'o lo traji be lo ka sampu bei fo da poi simsa be le dilcysle banzu gi'e se pagbu lo cuvyto'aci'e be li ci ku'o se pi'o lo stodi ne me'e zo crulai zi'e noi fadni du li vei ci ci fi'u ci pa ve'o te'a pi mu lo'o no'u lo pilji midju be li ci ci fi'u ci re lo'o jo'u li ci re fi'u ci pa
+
+The core of the FJS is the **FJS master algorithm**, which takes any prime number greater than 3 as its input, and makes use of a constant known as the **radius of tolerance** (whose standard value is $$\sqrt{\frac{33}{31}}$$, the geometric mean of 33/32 and 32/31). It looks for the simplest approximation of that prime number closer than the radius of tolerance within the 3-limit (*simplest* means lowest absolute value of the **fifth shift**, i.e. the exponent of three). The difference between the target and the approximation is then recorded as the so-called **formal comma** of that prime, always in the original direction, i.e. with the prime number factor in the numerator.
+
+Just Intonation is notated in the following way: 
 
 - All 3-limit intervals are assigned directly to unchanged interval classes, since Pythagorean tuning is bijective to staff notation (cf. the [mathematics page](math.html)).
 - For the 5-limit and above, the following procedure is used:
-	- Every prime has exactly one formal comma under any given radius of tolerance (it is the output of the FJS master algorithm for that prime). Every formal comma is assigned an accidental.
-	- Every ratio starting from the 5-limit can be uniquely represented as a 3-limit ratio multiplied by so-called bridge numbers raised to integer exponents, with exactly one bridge interval for every prime above 3 (cf. the [mathematics page](math.html)). A bridge number is an interval equal to a power of 2 times a power of 3 times exactly one other prime raised to +1.
-	- Every formal comma is a bridge number, since they all are the difference between a 3-limit ratio and a prime ratio. Therefore they all are of the form of a power of 2 times a power of 3 times exactly one other prime raised to the power of +1.
-	- Therefore every ratio starting from the 5-limit is represented as a 3-limit ratio, which is given an interval class, multiplied by formal commas, which are given FJS accidentals. 
+	- Every prime has exactly one formal comma under any given radius of tolerance (it is the output of the FJS master algorithm for that prime). Every formal comma is assigned exactly two accidentals, an otonal one and a utonal one.
+	- Every ratio starting from the 5-limit can be uniquely represented as a 3-limit ratio multiplied by so-called bridge numbers raised to integer exponents, with exactly one bridge interval for every prime above 3 (cf. the [mathematics page](math.html)). A bridge number is an interval equal to an integer power of 2 times an integer power of 3 times exactly one other prime raised to +1.
+	- Every formal comma is a bridge number, since they all are the difference between a 3-limit ratio and a prime ratio.
+	- Therefore every ratio starting from the 5-limit is represented as a 3-limit ratio, which is given an interval class, multiplied by integer powers of formal commas, which are given FJS accidentals. 
 
 For every prime, the FJS master algorithm outputs two values: the fifth shift, and the formal comma. Both are useful to describe the FJS fully, but only one of them must be known for a given prime for both to be uniquely determined without having to use the FJS master algorithm or the radius of tolerance (cf. the [formal description](rules.html)).
 
@@ -31,4 +37,4 @@ Below is the FJS master algorithm.
 > 5. If so: *k* is the fifth shift. Output. End.
 > 6. If not: move to the next *k* in sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
-> In step 4, the meaning of “difference” is the **absolute value** of the cent size of the difference, chosen in octaves of *p* and *P* to minimize this absolute difference. For details, see the [formal description](rules.html).
+> In step 4, the meaning of “difference” is the **absolute value** of the cent size of the difference, chosen in octaves of *p* and *P* to minimize this absolute difference. For details, see the [crash course](crash.html).

@@ -66,7 +66,7 @@ ni'o ro da poi cuvyto'aci'e zgiselfi'i zo'u la'e do'e lu'u noi javni ze moi cu b
 
 1. .i ro lo zgika'usni joi lo togystika poi fadni cu se skicu fo tu'a lo cistrpitagora .i me'o py bi fa'u me'o py mu cu sinxa lo togyku'e pe li re fi'u fa'u li ci fi'u re
 
-2. .i lo ro togyku'e poi frinu fe ja fi su'o dilcysle poi zmadu li ci ku'o ne mu'u li mu ce li ze cu se ke steci fancu fi lo jibni poi se cistrpitagora kei lo fy jy sy ralju algoritma .i .a bu kanji tu'a lo sampu je simsa be lo dilcysle banzu .i lo ve vimcu be ri bei lo dilcysle cu ckini lo pa togystika pe dy .i lu'e dy sinxa lo togystika
+2. .i lo ro togyku'e poi frinu fe ja fi su'o dilcysle poi zmadu li ci ku'o ne mu'u li mu ce li ze cu se ke steci fancu fi lo jibni poi se cistrpitagora kei la fy jy sy ralju algoritma .i .a bu kanji tu'a lo sampu je simsa be lo dilcysle banzu .i lo ve vimcu be ri bei lo dilcysle cu ckini lo pa togystika pe dy .i lu'e dy sinxa lo togystika
 
 3. .i lo fy jy sy togystika cu jmina .i jo galfi lo jibni poi se cistrpitagora ku'o lo togyku'e pe lo dilcysle .i lo nu jmina fa'u vimcu na srana lo nu zenba fa'u jdika lo ni gapru i ja'a go'i lo su'u galto'a fa'u dzito'a
 
