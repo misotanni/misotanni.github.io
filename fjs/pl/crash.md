@@ -231,54 +231,54 @@ Oto seria alikwotów zbudowana na *a*, aż do ósmego alikwotu, zapisana za pomo
 
 > *a*, *a*, *e*, *a*, *cis*<sup>5</sup>, *e*, *g*<sup>7</sup>, *a*.
 
-To samo, zapisane na pięciolinii:
+To samo na pięciolinii:
 
 <img src="../assets/crash/overtone-short.png" alt="a–a–e–a–cis5–e–g7–a">
 
-To samo, w wersji audio:
+W wersji audio:
 
 <audio controls><source src="../assets/crash/overtone-short.mp3" type="audio/mpeg"></audio>
 
-Nietrudno się domyślić, że wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (otonalne). Nie jest to wygodniejsze, niż gdybyśmy przejmowali się kierunkami? Z czasem pojmiesz, jak logiczny i łatwy w użyciu jest cały FJS dzięki temu. (Możesz posłużyć się inną analogią: zamiast krzyżyk jako podwyższenie i bemol jako obniżenie, pomyśl o nich jako o znakach dodających i odejmujących kwinty).
+Nietrudno się domyślić, że wszystkie alteracje w całym (nieskończonym) szeregu alikwotowym są dodatnie (otonalne). Nie sprawiłoby nam to więcej kłopotu, gdybyśmy brali pod uwagę kierunki? Z czasem zrozumiesz, że FJS zawdzięcza swoją konsekwentność i łatwość w użyciu właśnie temu. (Możesz posłużyć się inną analogią: zamiast jako o podwyższeniu i obniżeniu, pomyśl o krzyżyku i bemolu jako o dodawaniu i odejmowaniu kwint).
 
-Teraz chciałbym wyjaśnić, jak alteracje oddziałują na siebie nawzajem na pięciolinii.
+Teraz wyjaśnię, jak alteracje oddziałują na siebie nawzajem na pięciolinii.
 
 > ### Przenoszenie FJS-owych alteracji
 >
 > - Jak wiadomo, zwykłe (pitagorejskie) znaki przygodne przydzielają pola i linie na pięciolinii (*cdefgah*) odpowiednim pitagorejskim wysokościom, a więc działają na wysokości tego pola czy linii (w tej samej oktawie) aż do końca taktu.
-> - Podobnie, FJS-owe alteracje przydzielają wysokościom pitagorejskim (*c*, *des*, *cis*, *d*, itp.) dokładne naturalne wysokości, a więc działają na tej pitagorejskiej wysokości w tej oktawie aż do końca taktu.
+> - Podobnie, FJS-owe alteracje przydzielają wysokościom pitagorejskim (*c*, *des*, *cis*, *d*, itp.) dokładne naturalne wysokości, a więc oddziałują na tę pitagorejską wysokość w tej oktawie aż do końca taktu.
 
-Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej spójna i przez to o wiele bardziej użyteczna. Oto krótka demonstracja:
+Dlaczego akurat tak? Ponieważ ta reguła w tej formie jest o wiele bardziej spójna i użyteczna. Oto demonstracja:
 
 <img src="../assets/crash/accidentals.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
 
 <audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
-- W pierwszym takcie mamy *c*♯5, po którym następuje gołe *c*. Ponieważ druga nuta jest na tym samym polu, co pierwsza, dziedziczy ona krzyżyk ♯, a ponieważ jest to teraz *cis* w tej samej oktawie, dziedziczy również +5. W takim razie mamy *cis*<sup>5</sup>, *cis*<sup>5</sup>.
-- W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz tego.** W takim razie mamy *cis*<sup>5</sup>, *cis*.
-- W trzecim takcie mamy *c*♯5, po którym następuje *c*♮. Ponieważ drugie *c* jest różną wysokością od pierwszego *cis*, nie dziedziczy alteracji +5. W takim razie mamy *cis*<sup>5</sup>, *c*.
-- W czwartym takcie mamy *c*♯5, po którym następuje *c*♮5. W takim razie mamy *cis*<sup>5</sup>, *c*<sup>5</sup>. To najrzadsza opcja.
+- W pierwszym takcie mamy *c*♯5, po którym następuje *c* bez żadnych dodatkowych znaków. Ponieważ druga nuta jest na tym samym polu, co pierwsza, dziedziczy krzyżyk ♯, a ponieważ jest to teraz *cis* w tej samej oktawie, dziedziczy również +5. Czytamy więc: *cis*<sup>5</sup>, *cis*<sup>5</sup>.
+- W drugim takcie mamy *c*♯5, po którym następuje *c*1. **+1 to FJS-owy odpowiednik kasownika – kasuje wszystkie FJS-owe alteracje, ale nic oprócz.** Czytamy więc: *cis*<sup>5</sup>, *cis*.
+- W trzecim takcie mamy *c*♯5, po którym następuje *c*♮. Ponieważ drugie *c* jest inną wysokością od pierwszego *cis*, nie dziedziczy alteracji +5. Czytamy więc: *cis*<sup>5</sup>, *c*.
+- W czwartym takcie mamy *c*♯5, po którym następuje *c*♮5. Czytamy więc: *cis*<sup>5</sup>, *c*<sup>5</sup>. Ten układ występuje najrzadziej.
 
-Jeszcze jedna rzecz: FJS także pozwala na dostawianie indeksów górnych i dolnych do interwałów. Tak naprawdę to w ten sposób FJS zapisuje JI-owe interwały. Na przykład 5/4 formalnie nazywa się 3<sup>5</sup> (tercja wielka +5) – to oznacza, że ten interwał znajdziemy pomiędzy *c* a *e*<sup>5</sup>, *f* a *a*<sup>5</sup>, *g* a *h*<sup>5</sup>, itd.
+Jeszcze jedna rzecz: FJS także pozwala na dostawianie indeksów górnych i dolnych do interwałów. Tak naprawdę tak zapisujemy w FJS-ie JI-owe interwały. Na przykład 5/4 nosi formalnie nazwę 3<sup>5</sup> (tercja wielka +5), co oznacza, że ten interwał znajdziemy pomiędzy *c* a *e*<sup>5</sup>, *f* a *a*<sup>5</sup>, *g* a *h*<sup>5</sup>, itd.
 
-To wszystko, czego potrzebujesz, by zanotować interwały pierwsze. Czas na jeszcze jedną technikę. Nie potrzebujesz znać promienia tolerancji (jedyne miejsce, w którym jest on używany, to główny algorytm – do obliczania przeniesień).
+To wszystko, co potrzebujesz wiedzieć, by zanotować interwały pierwsze. Czas na jeszcze jedną technikę. Nie musisz pamiętać przyjętej wartości promienia tolerancji. (Jedyne miejsce, w którym się go używa, to główny algorytm – do obliczania przeniesień).
 
 > ### Technika FJS-owa nr 3: Zapisanie dowolnego otonalnego interwału pierwszego w FJS-ie.
 > 
-> 1. Wylicz przeniesienie kwintowe dla tej liczby pierwszej.
+> 1. Wylicz przeniesienie kwintowe dla danej liczby pierwszej.
 > 2. Zapisz interwał generowany przez tę ilość kwint.
-> 3. Dopisz dodatnią alterację tej liczby pierwszej – na przykład jeżeli zapisujesz 23/16, dopisz +23.
+> 3. Dopisz dodatnią alterację tej liczby pierwszej – na przykład dla 23/16 dopisz +23.
 >
-> **Przykład.** Aby zapisać 7/4 w FJS-ie, wyliczamy przeniesienie dla 7: −2. Zapisujemy interwał generowany przez −2 kwinty: *c*–*f*–*b*, a zatem 7 (septyma mała). Ostatecznie dopisujemy +7, uzyskując 7<sup>7</sup>. (Tak, wiem, wygląda to całkiem dziwnie, ale właśnie takie jest).
+> **Przykład.** Aby zapisać 7/4 w FJS-ie, wyliczamy przeniesienie dla 7: −2. Zapisujemy interwał generowany przez −2 kwinty: *c*–*f*–*b*, a zatem 7 (septyma mała). Ostatecznie dopisujemy +7, uzyskując 7<sup>7</sup>. (Tak, wiem – wygląda całkiem dziwnie, ale to poprawny zapis).
 
-(Wynajdywanie odwrotnej informacji – tożsamości interwału z jego FJS-owego przedstawienia, wiedząc, że jest to otonalny interwał pierwszy – jest trywialne: to po prostu liczba pierwsza z indeksu górnego (tylko zredukowana)!).
+(Proces odwrotny – wyznaczanie wartości interwału z jego FJS-owego przedstawienia, wiedząc, że to otonalny interwał pierwszy – jest banalny: po prostu zredukuj liczbę pierwszą z indeksu górnego).
 
 ### Ćwiczenia – zestaw 2
 
-(Od tego momentu zakładamy, że promieniem tolerancji zawsze jest λ).
+(Od tego momentu zawsze zakładamy za promień tolerancji λ).
 
-1. Znajdź przeniesienia dla 11 i 13.
-2. Jeżeli przeniesieniem dla 19 jest −3, jaki jest komat formalny dla 19?
+1. Znajdź przeniesienia odpowiadające 11 i 13.
+2. Jeżeli przeniesienie dla 19 równa się −3, jaki 19 ma komat formalny?
 3. Znajdź przeniesienie dla 47, wiedząc, że jej komatem formalnym jest 47/48.
 4. Zapisz następującą skalę, przyjmując *e* za tonikę: 1/1, 9/8, 5/4, 4/3, 3/2, 7/4, 2/1.
 5. Zapisz szereg alikwotowy od *a* aż do czternastego alikwotu.
@@ -288,58 +288,58 @@ Rozwiązania znajdziesz [tutaj](solutions.html).
 
 ## <a name="lesson-3">Lekcja 3: Składanie alteracji</a>
 
-Teraz wiesz, jak przedstawić dużą część JI w FJS-ie. Potrafisz zapisać każdą wysokość stroju pitagorejskiego oraz każdy interwał pierwszy. Ale to wciąż nie wszystko – co na przykład z interwałami złożonymi z więcej niż jednej liczby pierwszej (włączając 3), takimi jak 15/8 czy 25/16? A co z tymi, które nie występują jako alikwoty, takimi jak 5/3, 6/5 czy 9/7?
+Już wiesz, jak przedstawić dużą część JI w FJS-ie. Potrafisz zapisać każdą wysokość stroju pitagorejskiego oraz każdy interwał pierwszy. Ale to wciąż nie wszystko – co chociażby z interwałami złożonymi z kilku liczb pierwszych (włączając 3), takimi jak 15/8 czy 25/16? A co z niealikwotami, jak 5/3, 6/5 czy 9/7?
 
-Na potrzeby tego intensywnego kursu podzieliłem te interwały, których jeszcze nie omówiliśmy, na dwie grupy:
+Na potrzeby tego intensywnego kursu podzieliłem jeszcze nieomówione przez nas interwały na dwie grupy:
 
-- te, które składają się z interwału pitagorejskiego oraz jedno otonalnego lub utonalnego interwału pierwszego; oraz
-- te, do skonstruowania których potrzeba więcej niż jednego interwału pierwszego.
+- te składające się z interwału pitagorejskiego oraz jednego otonalnego lub utonalnego interwału pierwszego; oraz
+- te wymagające więcej niż jednego interwału pierwszego.
 
-Te z pierwszej grupy już potrafisz zapisać, tylko tego jeszcze nie wiesz. To dlatego, że FJS-em rządzi kilka przydatnych własności, które często pozwolą ci pominąć już poznane przez ciebie mozolne obliczenia i techniki i przejść od razu do wyniku. (Pamiętaj, że interwały składa się, wymnażając je przez siebie).
+Te z pierwszej grupy już potrafisz zapisać, tylko jeszcze sobie tego nie uświadomiłeś. To dlatego, że FJS podlega kilku przydatnym własnościom, które często pozwolą ci pominąć mozolne obliczenia i czasochłonne techniki i od razu otrzymać wynik. (Pamiętaj, że interwały składa się mnożeniem).
 
 > ### Skrótowe własności FJS-u
 >
 > - Sumą FJS-owych przedstawień dwóch JI-owych interwałów jest FJS-owe przedstawienie iloczynu tychże interwałów.
 > - Różnicą między FJS-owymi przedstawieniami dwóch JI-owych interwałów jest FJS-owe przedstawienie ilorazu tychże interwałów.
-> - Odwrotnością FJS-owego przedstawienia JI-owego interwału jest FJS-owe przedstawienie odwrotności multyplikatywnej tegoż interwału.
+> - Odwrotnością FJS-owego przedstawienia JI-owego interwału jest FJS-owe przedstawienie odwrotności multiplikatywnej (czyli \\(\frac1x\\)) tegoż interwału.
 
-Z tych własności wynika parę interesujących wniosków, które dla płynności warto trzymać z tyłu głowy. Na przykład dwie wysokości z dokładnie tym samym zestawem alteracji FJS-owym będą różniły się o interwał pitagorejski. *E*<sup>5</sup> i *fis*<sup>5</sup>? Możesz nie mieć zielonego pojęcia, czym są w *B*<sub>7</sub>, ale będziesz i tak wiedział, że interwał pomiędzy nimi jest pitagorejski – czyli 9/8. Fajne, nie?
+Te własności prowadzą do interesujących wniosków, o których warto pamiętać, by móc płynnie korzystać z FJS-u. Na przykład dwie wysokości z dokładnie tym samym zestawem alteracji FJS-owych różnią się o interwał pitagorejski. *E*<sup>5</sup> i *fis*<sup>5</sup>? Możesz nie mieć pojęcia, jak się mają względem *B*<sub>7</sub>, ale ponieważ interwał pomiędzy nimi jest pitagorejski, łatwo wywnioskować, że to 9/8. Sprytne, prawda?
 
-Te własności można użyć właśnie, by zapisać interwały z pierwszej grupy. Rozważ 15/8. Rozbij je na część pitagorejską i „resztę” – odpowiednio 3/2 i 5/4. Zapisz obydwie te części osobno FJS-em, a potem dodaj je do siebie. 3/2 zapiszemy jako 5, a 5/4 jako 3<sup>5</sup>. Ich sumą będzie więc 7&lt;<sup>5</sup> – po prostu dodajesz pitagorejskie części tak, jakbyś dodawał zwykłe interwały, a następnie łączysz ze sobą FJS-owe alteracje. Właśnie takie jest przedstawienie 15/8 w FJS-ie!
+Te własności można spożytkować właśnie, by zapisać interwały z pierwszej grupy. Rozważmy 15/8. Rozbijmy ten ułamek na część pitagorejską i „resztę” – odpowiednio 3/2 i 5/4. Przełożymy na FJS obydwie części osobno, a potem dodamy do siebie. 3/2 to 5, a 5/4 to 3<sup>5</sup>. Ich sumą jest więc 7&lt;<sup>5</sup> – po prostu dodaje się pitagorejskie części tak, jakby miało się dodawać zwykłe interwały, a następnie łączy się ze sobą FJS-owe alteracje. Właśnie tak brzmi przedstawienie 15/8 w FJS-ie.
 
-Możesz też myśleć o tym na inny sposób: 15. alikwot jest jak 5. alikwot w tonacji dominanty. A zatem żeby zapisać 15/8 w, powiedzmy, *C*-dur, zacząłbyś od niby-modulacji do *G*-dur – tak więc twoim celem staje się po prostu piąty alikwot, czyli *h*<sup>5</sup>. To też jest więc poprawny sposób dotarcia do zapisu 15/8 w *C*-dur.
+Możesz też pomyśleć o tym tak: 15. alikwot jest jak 5. alikwot w tonacji dominanty. A zatem żeby zapisać 15/8 w, powiedzmy, *C*-dur, zaczęłoby się od niby-modulacji do *G*-dur – wtedy wystarczy po prostu znaleźć piąty alikwot, czyli *h*<sup>5</sup>. To też poprawny sposób dotarcia do zapisu 15/8 w *C*-dur.
 
-Jeszcze inna metoda: możesz nie wiedzieć, czym 15/8 jest w *C*-dur, ale wiesz, czym jest 5/4 – to *e*<sup>5</sup>. Wiesz też, że pomiędzy 5/4 a 15/8 jest 3/2, interwał pitagorejski. To jednoznacznie przedstawia poprawny wynik *h*<sup>5</sup>.
+Jeszcze inna metoda: nie musisz wiedzieć, czym 15/8 jest w *C*-dur, ale wiesz, co to 5/4 – to *e*<sup>5</sup>. A że pomiędzy 5/4 a 15/8 jest 3/2, interwał pitagorejski, jednoznacznie przechodzimy do poprawnego wyniku *h*<sup>5</sup>.
 
-Spróbuj użyć tych wszystkich metod, by poradzić sobie z następnym zestawem ćwiczeń.
+Posłuż się dowolnymi metodami, by poradzić sobie z następnym zestawem ćwiczeń.
 
 ### Ćwiczenia – zestaw 3
 
 1. Zapisz w FJS-ie następujące interwały: 5/3, 6/5, 7/6, 9/5.
 2. Znajdź wartości następujących FJS-owych interwałów: 2<sup>5</sup>, 3<sub>7</sub>, 7<sup>11</sup>.
-3. Zapisz skalę diatoniczną Ptolemeusza od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (Trudne!). Rozważ zapisaną poniżej skalę. Czy to tryb skali powyżej? <img src="../assets/crash/just-minor.png" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
+3. Zapisz ptolemejską skalę diatoniczną od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
+4. (Trudne!). Dana jest zapisana poniżej skala. Czy to tryb skali z poprzedniego ćwiczenia? <img src="../assets/crash/just-minor.png" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
-(Na końcu tej lekcji będziesz miał przyswojone metody na tłumaczenie *dowolnych* ułamków na FJS i na odwrót. Jednak warto mieć na uwadze i te metody powyżej, ponieważ są one o wiele szybsze i prawdopodobnie sam zauważysz, że będziesz wybierał jednak nie. To tak, jak rozkładać równanie kwadratowe na jednomiany zamiast rozwiązywać wzorami na pierwiastki funkcji kwadratowej – jest to o wiele szybsze, jeżeli się tego nauczysz).
+(Zanim skończysz czytać tę lekcję, przyswoisz sobie metody na tłumaczenie *dowolnych* ułamków na FJS i na odwrót. Jednak warto mieć na uwadze te metody powyżej z powodu ich efektywności – sam prawdopodobnie zauważysz, że będziesz je często wybierał. To tak, jak rozkładać równanie kwadratowe na jednomiany zamiast rozwiązywać wzorami na pierwiastki funkcji kwadratowej – to o wiele szybsze, jak tylko się tego nauczysz).
 
-Kiedy używałeś własności, by stawić czoło ćwiczeniom, może zadałeś sobie takie pytanie: „Jak dodać na przykład dwie 3<sup>5</sup> do siebie? Co by powstało?” Może 5&lt;<sup>5</sup>? Nie – to byłoby 3 + 3<sup>5</sup>. W naszym przypadku jest inaczej, ponieważ próbujemy znaleźć 3<sup>5</sup> + 3<sup>5</sup>.
+Kiedy używałeś tych własności, by poradzić sobie z ćwiczeniami, może zadałeś sobie pytanie: „Jak dodać na przykład dwie 3<sup>5</sup> do siebie? Co by powstało?” Może 5&lt;<sup>5</sup>? Nie – to byłoby 3 + 3<sup>5</sup>. W naszym przypadku jest inaczej, ponieważ próbujemy znaleźć 3<sup>5</sup> + 3<sup>5</sup>.
 
-Odpowiedzią na to pytanie akurat jest naraz sposób, na który w FJS-ie zapisujemy drugą wyróżnioną przeze mnie grupę interwałów. To *złożone alteracje*.
+Odpowiedzią na to pytanie jest metoda, którą w FJS-ie zapisujemy drugą wyróżnioną przeze mnie grupę interwałów. To *alteracje złożone*.
 
-Każda wysokość czy interwał w FJS-ie może mieć dołączone nie tylko jedną, ale dowolną ilość alteracji FJS-owych. Otonalne i utonalne alteracje nigdy nie są ze sobą mieszane, ale jeżeli dwie alteracje tego samego rodzaju (obydwie otonalne lub obydwie tonalne) mają być zastosowane naraz, są ze sobą łączone poprzez mnożenie. Dlaczego tak? Ponieważ każda alteracja jest liczbą pierwszą, więc przez mnożenie – w przeciwieństwie do np. dodawania czy pisania jedna po drugim – nie tracimy informacji o czynnikach, ponieważ każdą liczbę dodatnią można rozłożyć na dokładnie jeden sposób, a kolejność nie gra roli.
+Do każdej wysokości czy interwału w FJS-ie można dołączyć dowolną ilość alteracji FJS-owych. Otonalne i utonalne alteracje nigdy się ze sobą nie łączy, ale jeżeli dwie alteracje tego samego rodzaju (obydwie otonalne lub obydwie utonalne) chcemy stosować naraz, łączymy je ze sobą, mnożąc. Dlaczego tak? Ponieważ każda alteracja jest liczbą pierwszą, więc przez mnożenie – w przeciwieństwie do dodawania czy pisania jedna po drugim (konkatenacji) – nie tracimy informacji o czynnikach, ponieważ każdą liczbę dodatnią można rozłożyć na dokładnie jeden sposób, a kolejność nie gra roli.
 
-Jeżeli iloczyn alteracji jest na tyle duży, że trudno szybko odczytać z niego czynniki (np. 119 = 7 ⋅ 17), możesz zapisać te alteracje jedna po drugiej, przedzielając przecinkami. Na przykład *d*<sup>7,17</sup> znaczy to samo, co *d*<sup>119</sup>. Powinieneś pisać te czynniki od najmniejszego do największego, ale każda kolejność jest poprawna. Możesz też przemnożyć częściowo – na przykład *g*<sup>11,125</sup>.
+Jeżeli iloczyn alteracji jest na tyle duży, że trudno szybko odczytać z niego czynniki (np. 119 = 7 ⋅ 17), możesz wypisać alteracje, przedzielając je przecinkami. Na przykład *d*<sup>7,17</sup> znaczy to samo, co *d*<sup>119</sup>. Choć powinno się pisać czynniki od najmniejszego do największego, każda kolejność jest równie poprawna. Możesz też przemnożyć tylko niektóre czynniki – na przykład *g*<sup>11,125</sup>.
 
-Odpowiem więc na zawieszone pytanie: sumą dwóch 3<sup>5</sup> jest 5&lt;<sup>25</sup>, co zgrabnie pasuje jako FJS-owa nazwa na 25/16. Podobnie, jeżeli dane Ci jest, że 7/4 to interwał 7<sup>7</sup>, od razu zauważysz, że 49/32 to będzie 6><sup>49</sup>, a 35/32 – 2<sup>35</sup>.
+Odpowiem więc na wcześniejsze pytanie: sumą dwóch 3<sup>5</sup> jest 5&lt;<sup>25</sup>, co pasuje jako FJS-owa nazwa na 25/16. Podobnie, jeżeli 7/4 to interwał 7<sup>7</sup>, nietrudno dojść do na przykład tego, że 49/32 to 6><sup>49</sup>, a 35/32 to 2<sup>35</sup>.
 
-Jak powiedziałem, otonalne i utonalne alteracje nie wchodzą w interakcję, więc jeżeli do wysokości *ges* dodamy i +7, i −5, uzyskamy *ges*<sup>7</sup><sub>5</sub>. Oto dokładne reguły:
+Jak wspomniałem, otonalne i utonalne alteracje się nie mieszają, więc jeżeli do wysokości *ges* dodamy i +7, i −5, uzyskamy *ges*<sup>7</sup><sub>5</sub>. Oto reguły:
 
 - Nazywając wysokości, użyj jednego indeksu górnego dla wszystkich dodatnich alteracji, po czym jednego indeksu dolnego dla wszystkich ujemnych.
-- Zapisując wysokości, najpierw zapisujemy wszystkie dodatnie alteracje (jeżeli występują), następnie wszystkie ujemne, poprzedzone kreską (jeżeli występują), po czym zwykłe znaki przygodne i sama główka nutowa.
+- Zapisuje się najpierw wszystkie dodatnie alteracje (jeżeli występują), następnie wszystkie ujemne, poprzedzone kreską (jeżeli występują), po czym zwykłe znaki przygodne i sama główka nuty.
 
-Zatem wysokości *ges*<sup>7</sup><sub>5</sub> i *fis*<sup>5</sup><sub>7</sub> (odpowiednio 7/5 i 10/7 od *c*) zapisalibyśmy następująco:
+Zatem wysokości *ges*<sup>7</sup><sub>5</sub> i *fis*<sup>5</sup><sub>7</sub> (odpowiednio 7/5 i 10/7 od *c*) zapisujemy następująco:
 
 <img src="../assets/crash/interval.png" alt="ges7_5–fis5_7">
 
@@ -347,7 +347,7 @@ A brzmią one następująco:
 
 <audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
-Jak już zdefiniowaliśmy złożone alteracje, możemy dokonać o wiele więcej dzięki FJS. W szczególności możemy dodawać, odejmować i odwracać dowolne interwały. Możemy też dodać (zastosować) interwał do wysokości (np. *g* + 3<sup>5</sup> = *h*<sup>5</sup>) i odjąć wysokość od wysokości (czyli wyliczyć interwał spomiędzy nich – np. *f*<sup>7</sup> − *c* = 4<sup>7</sup>). W ten sposób możesz używać już poznanych własności dodawania, odejmowania i odwracania, by znaleźć FJS-owe odpowiedniki interwałów, których wcześniej po prostu nie byłeś w stanie przekonwertować.
+Gdy już poznaliśmy złożone alteracje, potrafimy o wiele więcej. W szczególności możemy dodawać, odejmować i odwracać dowolne interwały. Możemy też przyłożyć interwał do wysokości (np. *g* + 3<sup>5</sup> = *h*<sup>5</sup>) i odjąć wysokość od wysokości (czyli wyliczyć interwał pomiędzy nimi – np. *f*<sup>7</sup>−*c* = 4<sup>7</sup>). Używając już poznanych własności dodawania, odejmowania i odwracania, powinieneś potrafić zapisać wcześniej niedostępne Ci interwały.
 
 > ### Arytmetyka interwałowa w FJS-ie
 >
@@ -358,27 +358,27 @@ Jak już zdefiniowaliśmy złożone alteracje, możemy dokonać o wiele więcej 
 
 Przy łączeniu alteracji identyczne czynniki po dwóch stronach kasują się. Na przykład dodanie 3<sup>5</sup> (5/4) do 3><sub>5</sub> (6/5) daje „5<sup>5</sup><sub>5</sub>”, co skraca się do samej „5”, czyli 3/2, co się zgadza. 2><sup>49</sup> (49/48) + 2<sub>7</sub> (8/7) = „3><sup>49</sup><sub>7</sub>”, co z powodu wspólnego czynnika skraca się do 3><sup>7</sup> (7/6).
 
-Z pomocą arytmetyki interwałowej możesz teraz tak naprawdę przedstawić *każdy* ułamek JI w FJS-ie oraz odszyfrować FJS-owe interwały z powrotem na ułamki. Możesz użyć jedną z metod poniżej, jeżeli ułamki nie zawierają wielu liczb pierwszych.
+Z pomocą arytmetyki interwałowej możesz teraz tak naprawdę przedstawić *każdy* ułamek JI w FJS-ie oraz odszyfrować FJS-owe interwały z powrotem na ułamki. Jeżeli ułamki nie zawierają wielu liczb pierwszych, posłuż się poniższymi metodami.
 
-Aby zamienić prosty ułamek JI na FJS: rozłóż licznik na interwał pitagorejski i liczby pierwsze; zbuduj interwał pitagorejski, następnie do tego kolejne interwały pierwsze; powtórz dla mianownika; ostatecznie znajdź różnicę pomiędzy ułamkiem zbudowanym z licznika a tym z mianownika. Na przykład dla 36/25: najpierw budujemy licznik – 36 – czyli 9/8, czyli sekunda wielka; rozkładamy mianownik na 5 ⋅ 5, a więc dwa razy 3<sup>5</sup>, a więc 5&lt;<sup>25</sup>; teraz odejmujemy 2 − 5&lt; = 5\>, 0 − +25 = −25; zatem ostateczny wynik to 5><sub>25</sub>.
+Aby zamienić prosty ułamek JI na FJS: rozłóż licznik na interwał pitagorejski i liczby pierwsze; zbuduj interwał pitagorejski, następnie do tego kolejne interwały pierwsze; powtórz dla mianownika; ostatecznie znajdź różnicę pomiędzy ułamkiem zbudowanym z licznika a tym z mianownika. Na przykład dla 36/25: najpierw budujemy licznik – 36 – czyli 9/8, czyli sekunda wielka; rozkładamy mianownik na 5 ⋅ 5, a więc dwa razy 3<sup>5</sup>, a więc 5&lt;<sup>25</sup>; teraz odejmujemy: 2 − 5&lt; = 5\>, 0 − +25 = −25; zatem ostateczny wynik to 5><sub>25</sub>.
 
-Podobnie możesz łatwo zamienić prosty interwał FJS z powrotem na JI: spróbuj $$\frac{\text{alteracje otonalne}}{\text{alteracje utonalne}}$$. (Nie ma potrzeby, byś rozkładał alteracje na czynniki – to zaleta używania wymnażania). Jeżeli wynik jest błędny, to jedynie o interwał pitagorejski – dostosuj więc wynik odpowiednio. Na przykład mamy dane 1&lt;<sup>5</sup><sub>7</sub>; próbujemy 5/7, czyli po redukcji 10/7; po sprawdzeniu metodą powyżej otrzymujemy 4&lt;<sup>5</sup><sub>7</sub>, co nie jest wcale aż tak daleko; poprawiamy zatem o jedną pitagorejską kwintę w górę – wynik w takim razie brzmi 3/2 ⋅ 5/7 = 15/14.
+Podobnie możesz łatwo zamienić prosty interwał FJS z powrotem na JI: wypróbuj wliczyć $$\frac{\text{alteracje otonalne}}{\text{alteracje utonalne}}$$. (Nie ma potrzeby, byś rozkładał alteracje na czynniki – to zaleta używania w tym miejscu mnożenia). Wynik może się różnić jedynie o interwał pitagorejski – dostosuj więc odpowiednio. Na przykład dano 1&lt;<sup>5</sup><sub>7</sub>; sprawdzamy 5/7, czyli po redukcji 10/7, metodą powyżej, otrzymując 4&lt;<sup>5</sup><sub>7</sub>, co nie jest wcale aż tak daleko; poprawiamy zatem o jedną pitagorejską kwintę w górę – wynik brzmi więc 3/2 ⋅ 5/7 = 15/14.
 
-Te metody starczą, by w 99% przypadków poprawnie przeczytać i zapisać coś w FJS-ie – jak sam widzisz, są one całkiem proste. Tak naprawdę nawet i z nich nie musisz korzystać – wystarczy przejrzeć serię alikwotową, by tłumaczyć w tę i we w tę w kilka sekund. Wyrazić 14/13 w FJS? Wiesz, że 13 to 6>, a 14 to 7, więc 14/13 musi być 2. Z powodu 14 w liczniku dodajesz +7, a z powodu 13 w mianowniku – −13, i voilà – właśnie znalazłeś prawidłowy zapis: 2<sup>7</sup><sub>13</sub>.
+Te metody starczą, by w 99% przypadków poprawnie przeczytać i zapisać w FJS-ie – jak sam widzisz, to całkiem proste metody. Tak naprawdę nawet i z nich nie musisz korzystać – wystarczy przejrzeć serię alikwotową, by tłumaczyć w tę i we w tę w kilka sekund. 14/13 w FJS? Skoro 13 to 6>, a 14 to 7, więc 14/13 musi być 2. Z powodu 14 w liczniku dodajesz +7, a z powodu 13 w mianowniku – −13, i voilà – znalazłeś prawidłowy zapis: 2<sup>7</sup><sub>13</sub>.
 
-Jednak jedną z zalet FJS-u jest to, że może on być całkowicie zautomatyzowany. Techniki powyżej polegają na intuicji, która nie przydaje się zbytnio dla skomplikowanych interwałów. W bardziej złożonych przypadkach możesz *zawsze* wykonać konwersje za pomocą tych ostatnich dwóch technik poniżej:
+Jednak jedną z zalet FJS-u jest to, że może on być całkowicie zautomatyzowany. Techniki powyżej polegają na intuicji, która nie przydaje się zbytnio przy skomplikowanych interwałach. Możesz *zawsze* wykonać konwersję za pomocą tych ostatnich dwóch technik poniżej:
 
 > ### Technika FJS-owa nr 4: Automatyczna zamiana dowolnego ułamka na FJS.
 >
 > 1. Rozłóż ułamek na czynniki pierwsze.
-> 2. Dla każdej liczby pierwszej *p* > 3 połóż α<sub>*p*</sub> = wykładnik przy p i pomnóż wyjściowy ułamek przez:
+> 2. Dla każdej liczby pierwszej *p* > 3 kładziemy α<sub>*p*</sub> = wykładnik przy p i mnożymy wyjściowy ułamek przez:
 >
 > 	$$(\text{comma} (p))^{-\alpha _p},$$
 >
 >	gdzie \\(\text{comma}(p)\\) to komat formalny dla *p*.
 >
 > 3. Wynik będzie pitagorejski – zapisz go w FJS-ie.
-> 4. Teraz dodaj α<sub>*p*</sub> jako alteracje – jeżeli dodatnie, to otonalnie; jeżeli ujemne, to utonalnie.
+> 4. Teraz dodaj α<sub>*p*</sub> jako alteracje – jeżeli dodatnie, to otonalne; jeżeli ujemne, to utonalne.
 > 5. Zredukuj i dostosuj oktawy.
 >
 > **Przykład.** Zamieńmy tzw. słaby naturalny półton chromatyczny – 25/24 – na FJS za pomocą tej techniki. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Mamy 5<sup>2</sup>, więc zapamiętaj α<sub>5</sub> = 2 i pomnóż przez (80/81)<sup>−2</sup>. Uzyskujemy 2187/2048 – pitagorejskie 1&lt;. Teraz dodajemy +5 dwa razy (= α<sub>5</sub>) i otrzymujemy wynik: 1&lt;<sup>25</sup>.
@@ -389,9 +389,9 @@ Jednak jedną z zalet FJS-u jest to, że może on być całkowicie zautomatyzowa
 > 2. Dla każdego otonalnej (utonalnej) alteracji *p*, pomnóż (podziel) przez komat formalny dla *p*.
 > 3. Zredukuj i dostosuj oktawy.
 >
-> **Przykład.** Jednym z kultowych współbrzmień występujących w *Dobrze Nastrojonym Fortepianie* („Well-Tuned Piano”) La Monte Younga jest z zapisie FJS-owym 3><sup>49</sup>. By znaleźć odpowiadający temu zapisowi ułamek, zaczynamy od zamiany pitagorejskiego interwału 3> na 32/27. Następnie +49 oznacza, że mnożymy przez komat formalny siódemki dwa razy, zatem 32/27 ⋅ (63/64)<sup>2</sup> = 147/128.
+> **Przykład.** Jednym kultowym współbrzmieniem występującym w *Dobrze Nastrojonym Fortepianie* („Well-Tuned Piano”) La Monte Younga jest w zapisie FJS-owym 3><sup>49</sup>. By znaleźć odpowiadający temu zapisowi ułamek, zaczynamy od zamiany pitagorejskiego interwału 3> na 32/27. Następnie +49 oznacza, że mnożymy przez komat formalny siódemki dwa razy, zatem 32/27 ⋅ (63/64)<sup>2</sup> = 147/128.
 
-Ostatnią sprawą wartą wspomnienia jest wymowa i ASCII. Jeżeli chcesz przekazywać dźwięki FJS-em, powinieneś być w stanie dokonać tego przez więcej niż jedno medium. Oto proste i logiczne reguły wymowy:
+Ostatnią sprawą wartą wspomnienia jest wymowa i ASCII. FJS-em można się porozumiewać przez więcej niż jedno medium. Oto proste i logiczne reguły wymowy:
 
 > ### Wymowa FJS
 >
@@ -403,7 +403,7 @@ Na przykład *e*<sup>5</sup> wymawiamy „e pięć” (lub ew. „e nad pięć�
 
 Nic się nie zmienia, jeżeli alteracje nie są do końca wymnożone: *a*<sup>5,17</sup><sub>13</sub> wymawiamy „a (nad) pięć siedemnaście pod trzynaście”. Słowo „pod” służy zamknięciu wyliczenia otonalnych alteracji i otwarciu wyliczenia tych utonalnych.
 
-W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślenia (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karety (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako `e^5` albo po prostu `e5`, natomiast 3<sup>5</sup> można zapisać tylko jako `3^5` (nie `35`, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
+W ASCII nie da się zapisać indeksów górnych czy dolnych, więc w przypadku, w którym nie możesz zastosować takiego formatowania, użyj znaku podkreślnika (\_) dla utonalnych alteracji. Otonalne alteracje możesz zacząć znakiem karetki (^), który można zwykle pominąć, chyba że po nazwie interwału – wtedy potrzeba go, by oddzielić nazwę interwału pitagorejskiego od alteracji FJS-owych. Toteż *e*<sup>5</sup> można zapisać jako `e^5` albo po prostu `e5`, natomiast 3<sup>5</sup> można zapisać tylko jako `3^5` (nie `35`, bo to by była „35-ola wielka”, czyli cztery oktawy plus septyma wielka, czyli 243/8).
 
 **To wszystko!**
 
