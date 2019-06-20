@@ -31,9 +31,9 @@ Surely you've seen the [introductory video](https://youtu.be/38I3cylJlW4) for th
 
 All the three above examples can also be found in video form:
 
-- [Bach](youtube.blah)
-- [Chorale](youtube.blah)
-- [Intro music](youtube.blah)
+- [Bach](https://youtu.be/-LBh5txPtXo)
+- [Chorale](https://youtu.be/dufya-I8QFk)
+- [Intro music](https://youtu.be/9UuS9VcBQxc)
 
 Additionally:
 

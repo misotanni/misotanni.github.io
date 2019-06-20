@@ -31,9 +31,9 @@ Sicher hast du das [FJS-Einführungsvideo](https://youtu.be/38I3cylJlW4) gesehen
 
 Die drei Notationsbeispiele oben gibt es auch als Videos:
 
-- [Bach](youtube.blah)
-- [Choral](youtube.blah)
-- [Einführungsmusik](youtube.blah)
+- [Bach](https://youtu.be/-LBh5txPtXo)
+- [Choral](https://youtu.be/dufya-I8QFk)
+- [Einführungsmusik](https://youtu.be/9UuS9VcBQxc)
 
 Dazu:
 

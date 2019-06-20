@@ -31,9 +31,9 @@ Vous avez certainement vu la [vidéo d'introduction du FJS](https://youtu.be/38I
 
 Tous ces trois exemples sont aussi disponibles en forme vidéo:
 
-- [Bach](youtube.blah)
-- [choral](youtube.blah)
-- [musique d'introduction](youtube.blah)
+- [Bach](https://youtu.be/-LBh5txPtXo)
+- [choral](https://youtu.be/dufya-I8QFk)
+- [musique d'introduction](https://youtu.be/9UuS9VcBQxc)
 
 En outre:
 
