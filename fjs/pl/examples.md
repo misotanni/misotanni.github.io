@@ -23,6 +23,8 @@ Poniżej znajdziesz [chorał](../assets/compare/chorale.pdf), który jednocześn
 
 Widziałeś zapewne [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-u, umieszczone na stronie głównej. Tutaj jest [zapis muzyki](../assets/examples/intro-music.pdf) z niego, zapisanej rzecz jasna w FJS-ie, również z porównaniem.
 
+(\*) **Uwaga co do partytury:** Ani Helmholtz-Ellis, ani Johnston nie potrafią zapisać alikwotu sto pierwszego. Zamiast 101/64 pojawia się tam 128/81 (Helmholtz-Ellis) lub 8/5 (Johnston).
+
 <audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Wideo
@@ -118,5 +120,3 @@ Używam FJS, aby zapisać pełną listę tonów użytych w konkretnej kompozycji
 Używanie tutaj FJS pozwala mi bez problemu rozpoznać funkcję jakiegoś tonu, nawet jeśli z samego ułamku nic nie rozpoznaję (a często używam skomplikowanych ułamków). Na przykład 243/200 mało mi mówi, ale zapis tego samego jako 3\><sub>25</sub> sprawia, że od razu rozpoznaję go jako 6/5 podniesione o jeszcze jeden komat syntoniczny. Inny przykład z innej mojej kompozycji, *Symphony of the Elements*: 729/640 nie jest szczególnie przejrzyste, ale 2<sub>5</sub> dużo bardziej; 9/8 podniesione o komat syntoniczny.
 
 ## Więcej?
-
-Czy sam stworzyłeś bądź stworzyłaś coś, używając FJS, i chciał(a)byś to umieścić tutaj? Podziel się ze mną mailowo, a z przyjemnością rozszerzę tę stronę!

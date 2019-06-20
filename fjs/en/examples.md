@@ -23,6 +23,8 @@ Here you'll find a [chorale](../assets/compare/chorale.pdf) which simultaneously
 
 Surely you've seen the [introductory video](https://youtu.be/38I3cylJlW4) for the FJS, which I've placed on the main page. Here, you can see a [score](../assets/examples/intro-music.pdf) of the music used in it, written of course in the FJS, also with a comparison.
 
+(\*) **Note about the score:** It's not possible to write the 101st harmonic in either Helmholtz-Ellis or Johnston. Instead, the score reads 128/81 (Helmholtz-Ellis) or 8/5 (Johnston) at that position.
+
 <audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Videos
@@ -118,5 +120,3 @@ I have used the FJS to list the pitches I have used in a Just Intonation piece. 
 Using the FJS in these contexts helps me immediately recognize the function of a note even if its ratio to the initial tonic is very complex (and I do use complex ratios). For instance, 243/200 may not tell me much, but seeing that it is a m3<sub>25</sub> helps me recognize it instantly; it's just a 6/5 raised by another syntonic comma. To give another example from another one of my pieces, *Symphony of the Elements*: 729/640 is confusing, but M2<sub>5</sub> is less so; a 9/8 raised by a syntonic comma.
 
 ## More?
-
-Have you created something using the FJS and would like to showcase it here? Share it with me by e-mail and I'd be more than happy to add it to this page!

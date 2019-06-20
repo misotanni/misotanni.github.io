@@ -23,6 +23,8 @@ Vous trouvez ici un [choral](../assets/compare/chorale.pdf) où je compare le FJ
 
 Vous avez certainement vu la [vidéo d'introduction du FJS](https://youtu.be/38I3cylJlW4) qui se trouve sur la page d'accueil. Ici, il y a une [partition](../assets/examples/intro-music.pdf) de la musique de la vidéo, écrite bien sûr dans le FJS, avec une comparaison aussi.
 
+(\*) **Remarque sur la partition:** Ni Helmholtz-Ellis ni Johnston ne peuvent représenter le 101. harmonique (101/64). La version Helmholtz-Ellis représente ici 128/81, et Johnston représente 8/5.
+
 <audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Vidéos
@@ -118,5 +120,3 @@ J'ai utilisé le FJS pour énumérer les tons que j'ai utilisés dans une pièce
 L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une (tierce mineure)<sub>25</sub>, je la reconnais tout de suite : c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements* : 729/640 est déroutant, mais une (seconde majeure)<sub>5</sub> ne l'est pas ; un 9/8 élevé d'un comma syntonique.
 
 ## Plus ?
-
-Avez-vous créé quelque chose en utilisant le FJS et voudriez-vous le présenter ici ? Partager-le avec moi par e-mail, et je l'ajouterai ici avec plaisir !

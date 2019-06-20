@@ -23,6 +23,8 @@ Hier findest du ein [Choral](../assets/compare/chorale.pdf), welches auch gleich
 
 Sicher hast du das [FJS-Einführungsvideo](https://youtu.be/38I3cylJlW4) gesehen, dass sich auf der Hauptseite befindet. Hier siehst du eine [Partitur](../assets/examples/intro-music.pdf) der Musik aus diesem Video, natürlich im FJS mit einem Vergleich geschrieben.
 
+(\*) **Notiz zur Partitur:** Es ist unmöglich, den 101. Oberton im Helmholtz-Ellis-System oder im Johnston-System darzustellen. Anstatt 101/64 steht dort jeweils 128/81 bei HE oder 8/5 bei Johnston.
+
 <audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Videos
@@ -118,5 +120,3 @@ Ich habe das FJS dazu benutzt, um alle verwendeten Töne in einem JI-Stück aufz
 In diesen Kontexten hilft mir das FJS, die Funktion einer Note auf einmal zu erkennen, auch wenn das Verhältnis zum Grundton komplex ist (und ich verwende oft komplexe Verhältnisse). Zum Beispiel sagt mir 243/200 nicht viel, aber wenn ich sehe, dass es eine (kleine Terz)<sub>25</sub> ist, dann weiß ich gleich: es ist 6/5, erhöht um ein syntonisches Komma. Ein anderes Beispiel aus einem anderen meiner Stücke, *Symphony of the Elements*: 729/640 verwirrt, aber eine (große Sekunde)<sub>5</sub> nicht; es ist 9/8 erhöht um ein syntonisches Komma.
 
 ## Mehr?
-
-Hast du etwas mithilfe des FJS erschaffen und möchtest es hier vorstellen? Schicke es mir per E-Mail; ich würde es gerne hier hinzufügen!
