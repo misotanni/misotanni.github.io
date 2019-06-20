@@ -102,10 +102,6 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 6. Nowy klucz FJS-owy kasuje wszystkie alteracje wprowadzony przez poprzedni. Jeżeli klucz pitagorejski również był się zmienił, co musi się stać przed wprowadzeniem FJS-owego klucza, wtedy oczywiście nowe alteracje mikrotonalne oparte są na nowym zestawie wysokości diatonicznych. Na przykład ♯*fcg* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup> to *A*-dur kwintowe; zmiana pitagorejskiego klucza na ♭*head* prowadzi implicite do klucza ♭*head* *f*<sup>5</sup>(♯) *c*<sup>5</sup>(♯) *g*<sup>5</sup>(♯); jednak jeżeli zapiszemy ponownie *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup> zaraz po wprowadzeniu pitagorejskiej zamiany na ♭*head*, tzn. jeżeli dojdzie do zestawienia ♭*head* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup>, rezultat będzie inny niż przedtem, gdyż odpowiednie pola/linie *f*, *c* i *g* diatoniczne dla *As*-dur to już nie *fis*, *cis* i *gis*, lecz *f*, *c* i *g* czyste.
 
-7. Zmiana klucza FJS-owego następuje przy podaniu przynajmniej jednej alteracji mikrotonalnej przy kluczu. Jeżeli zmiana polega na skasowaniu wszystkich poprzednich alteracji przy niewprowadzaniu żadnych nowych, można to zrobić jedynkami (odpowiednikami kasowników dla FJS-u). Jednak ta kasacja jest z góry założona przy jakiejkolwiek innej zmianie klucza, a przypadek kasowania wszystkich alteracji i niezastępywania ich żadną inną jest rzadki.
-
-8. Można pomijać FJS-owe klucze na początku systemów, jeżeli już raz zostały podane. Ta reguła istnieje po to, by ułatwić edycję FJS-owych nut, ponieważ niestandardowe klucze nie są zwykle przez programy obsługiwane.
-
 ## Zasady dotyczące przenośników FJS-owych (\*)
 
 1. Istnieją tak zwane przenośniki FJS-owe, analogiczne do przenośników oktawowych, lecz wpływające na wysokości poprzez jednoczesne przesunięcie o alterację zamiast o oktawę.

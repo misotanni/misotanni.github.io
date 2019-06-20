@@ -104,10 +104,6 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 6. Un changement d'armure FJS annulera toutes les altérations de l'armure précédente. Si la pythagoricienne a changé en même temps (ce qui se passe toujours avant le changement FJS), les altérations FJS dans la nouvelle armure sont bien sûr définies par rapport aux nouveaux tons diatoniques. Exemple : ♯Fa–Do–Sol Fa<sup>5</sup> Do<sup>5</sup> Sol<sup>5</sup> est l'échelle ptolémaïque en La majeur. Un changement d'armure pythagoricienne à ♭Si–Mi–La–Ré causerait ♭Si–Mi–La–Ré Fa<sup>5</sup>(♯) Do<sup>5</sup>(♯) Sol<sup>5</sup>(♯). Mais la répétition simple de l'armure FJS (écrite comme Fa<sup>5</sup> Do<sup>5</sup> Sol<sup>5</sup>) après le changement pythagoricien a un effet différent : la combinaison ♭Si–Mi–La–Ré Fa<sup>5</sup> Do<sup>5</sup> Sol<sup>5</sup> s'appliquent aux Fa, Do, et Sol qui sont diatoniques en La bémol majeur, donc Fa♮, Do♮ et Sol♮, pas Fa♯, Do♯ et Sol♯.
 
-7. Un changement d'armure FJS est indiqué avec au moins une altération microtonale. Si vous voulez en annuler tous, vous pouvez l'indiquer avec une série de signes +1 (ce qui est l'équivalent des signes bécarre dans le FJS). Cette annulation arrive automatiquement avec chaque changement d'armure FJS. Remarquez qu'une annulation de toutes altérations FJS est très rarement exigé.
-
-8. Il est permis d'omettre une armure FJS dans des systèmes après le premier. Ceci est dû tout simplement au fait qu'ils sont peut-être difficiles à écrire dans certains logiciels.
-
 ## Règles pour utiliser les lignes de transposition FJS (\*)
 
 1. Les lignes de transposition FJS fonctionnent de manière similaire aux lignes d'octave conventionnelles, mais elles appliquent une altération FJS au lieu d'une octave.

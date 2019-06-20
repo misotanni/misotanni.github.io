@@ -102,10 +102,6 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 6. An FJS key signature change will cancel all alterations due to the previous FJS key signature. If the Pythagorean key signature has changed as well, which it always does before the FJS key signature, then of course a new key signature is always defined with respect to the new set of seven diatonic pitches. For example, ♯FCG F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> is quintal A major. Changing the Pythagorean key signature to ♭BEAD causes ♭BEAD F<sup>5</sup>(♯) C<sup>5</sup>(♯) G<sup>5</sup>(♯). However, if the FJS key signature (written as F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>) is restated immediately after the Pythagorean switch to ♭BEAD, i.e. if we have the combination ♭BEAD F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>, this has a different effect because the F, C, and G that are diatonic to A♭ major are now different: F♮, C♮, G♮ instead of F♯, C♯, G♯.
 
-7. An FJS key signature change is indicated by at least one microtonal accidental. If the change is to cancel the previous FJS key signature but without introducing any new accidentals, all the previous accidentals can be canceled with 1s (which are the equivalent of naturals in the FJS). However, such cancelations are implied in any FJS key signature change. Note that a complete cancelation of all FJS accidentals is very rarely required.
-
-8. FJS key signatures may be generally omitted in subsequent systems. This is simply because, being nonstandard key signatures, they are often inconvenient to write in digital musical notation software.
-
 ## Rules for Using FJS Transposition Lines (\*)
 
 1. There exist FJS transposition lines, which work analogically to octave lines, but apply an FJS accidental instead of shifting by an octave.

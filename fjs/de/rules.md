@@ -104,10 +104,6 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 6. Eine FJS-Vorzeichenänderung wird alle Vorzeichen in der vorherigen immer auflösen. Falls die pythagoreischen sich auch verändert haben (das geschieht immer, bevor die FJS-Vorzeichen sich ändern), dann werden die neuen FJS-Vorzeichen natürlich in Bezug auf die neuen diatonischen Töne definiert. Z.B. Fis–Cis–Gis F<sup>5</sup> C<sup>5</sup> G<sup>5</sup> ist das ptolemäische A-Dur. Eine Veränderung der pythagoreischen Vorzeichen auf B–Es–As–Des bewirkt B–Es–As–Des Fis<sup>5</sup> Cis<sup>5</sup> Gis<sup>5</sup>. Aber wenn die FJS-Vorzeichen (geschrieben als F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>) einfach nach dieser pythagoreischen Veränderung wiederholt werden (also es steht: B–Es–As–Des F<sup>5</sup> C<sup>5</sup> G<sup>5</sup>), verändert sich die Wirkung, denn die F, C, und G, die diatonisch in As-Dur sind, haben sich verändert: es sind jetzt F, C, und G, und nicht Fis, Cis, und Gis.
 
-7. Eine FJS-Vorzeichenänderung wird mit mindestens einem mikrotonalen Vorzeichen kenngezeichnet. Wenn man darstellen will, dass die vorherigen FJS-Vorzeichen alle aufgelöst sein sollen, kann man das mithilfe einer Serie von +1-Zeichen darstellen (das Äquivalent von Auflösungszeichen im FJS). Solche Auflösungen sind aber schon automatisch in jeder FJS-Vorzeichenänderung vorhanden. Gedenke, dass eine komplette Auflösung aller FJS-Vorzeichen ist nur sehr selten notwendig.
-
-8. FJS-Vorzeichen kann man in Notensystemen nach dem ersten weglassen, weil es oft schwierig ist, sie in einer Notensoftware darzustellen.
-
 ## Regeln für die Anwendung von FJS-Transpositionslinien (\*)
 
 1. Es gibt FJS-Transpositionslinien, die ähnlich wie übliche Oktavklammern funktionieren, aber anstatt einer Oktave ein FJS-Versetzungszeichen anwenden.
