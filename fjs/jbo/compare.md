@@ -1,28 +1,28 @@
 ﻿# lo xe karbi be fy jy sy bei lo drata
 
 ni'o fy jy sy na se steci lo ka ce'u snici'e lo cuvyto'aci'e
-.i so'i zgifi'i cu sezbanzu finti lo cmato'aku'e zgike
-.i ja'e bo so'i snici'e fi tu'a so'i cmato'aku'e ciste cu se finti
-.i ku'i so'a le so'i ciste cu se finti pa cmato'aku'e ciste ne mu'u pa dunto'aci'e
-.i ja'e bo mapti ro cuvyto'aci'e na ku
+i so'i zgifi'i cu sezbanzu finti lo cmato'aku'e zgike
+i ja'e bo so'i snici'e fi tu'a so'i cmato'aku'e ciste cu se finti
+i ku'i so'a le so'i ciste cu se finti pa cmato'aku'e ciste ne mu'u pa dunto'aci'e
+i ja'e bo mapti ro cuvyto'aci'e na ku
 
 ni'o lo cuvyto'aci'e su'a nai cu jai te finti fy jy sy
-.i zu'u mutce lo ka mapti lo nu sinxa cy ty
-.i zu'u nai no'e mapti lo drata
-**.i zasti fa su'o re snici'e poi drata ku'o be te zu'e lo simsa be'o** ne ra'a la xelmxolts elis .e la ben djonston
+i zu'u mutce lo ka mapti lo nu sinxa cy ty
+i zu'u nai no'e mapti lo drata
+**i zasti fa su'o re snici'e poi drata ku'o be te zu'e lo simsa be'o** ne ra'a la xelmxolts elis e la ben djonston
 
 ni'o zasti ji'a fa pa da poi mi na ba'o tavla fi ke'a
-.i ri du la sagitl ku noi se finti fi tu'a ro cmato'aku'e
-.i mi na ba'o karbi fi sy ki'u lo nu sy lacri lo ka sinxa lo se tonga ro roi ku
-.i se ni'i bo tu'e
-.i lo sy togystika cu mutce lo ka jai satci
-.i to'e se ki'u nai bo no da pavysmu lo se ciska be ci'e sy be'o ni'i lo nu lo cy ty togyku'e cu cimni lo ka denmi tu'u
+i ri du la sagitl ku noi se finti fi tu'a ro cmato'aku'e
+i mi na ba'o karbi fi sy ki'u lo nu sy lacri lo ka sinxa lo se tonga ro roi ku
+i se ni'i bo tu'e
+i lo sy togystika cu mutce lo ka jai satci
+i to'e se ki'u nai bo no da pavysmu lo se ciska be ci'e sy be'o ni'i lo nu lo cy ty togyku'e cu cimni lo ka denmi tu'u
 
-ni'o zu'u lo snici'e pe la xelmxolts elis goi xy .e bu ge'u zi'e noi ji'a srana la xelmxolts .e la elis .e la uylf .e la monzos ku'o cu jai nu pa re'u troci lo nu jmina fi lo zgisnici'e te zu'e lo nu sinxa cy ty
-.i la mark sabat cu finti [lo ro re'u se tcena](http://www.marcsabat.com/pdfs/notation.pdf) be fi'o cmima lo se zvafa'i be mi be'o noi ka'e sinxa lo cuvyto'aci'e be li xa pa
+ni'o zu'u lo snici'e pe la xelmxolts elis goi xy e bu ge'u zi'e noi ji'a srana la xelmxolts e la elis e la uylf e la monzos ku'o cu jai nu pa re'u troci lo nu jmina fi lo zgisnici'e te zu'e lo nu sinxa cy ty
+i la mark sabat cu finti [lo ro re'u se tcena](http://www.marcsabat.com/pdfs/notation.pdf) be fi'o cmima lo se zvafa'i be mi be'o noi ka'e sinxa lo cuvyto'aci'e be li xa pa
 
 ni'o zu'u nai lo snici'e pe la ben djonston goi by jy ge'u cu se finti pa da noi cuvyto'aci'e zgifi'i
-.i lo [se karni](https://www.jstor.org/stable/833435) be fi'o selsnu lo by jy ciste be'o noi traji lo ka mulno cu ve liste lo togystika pe lo cuvyto'aci'e be li ci pa .i lo [gidva](https://kylegann.com/BJNotation.html) be fi'e la kail gan cu go'i ji'a
+i lo [se karni](https://www.jstor.org/stable/833435) be fi'o selsnu lo by jy ciste be'o noi traji lo ka mulno cu ve liste lo togystika pe lo cuvyto'aci'e be li ci pa i lo [gidva](https://kylegann.com/BJNotation.html) be fi'e la kail gan cu go'i ji'a
 
 ni'o mi ba'o karbi fi le re ciste fe fy jy sy
 
