@@ -1,6 +1,6 @@
 # FJS Examples
 
-You have seen many short FJS examples in the [crash course](crash.html), the [comparison](compare.html), as well as the [formal description](rules.html). If you haven't seen them yet, make sure to check those out first. This page contains even more longer examples of the FJS in usage.
+You have seen many short FJS examples in the [crash course](crash.html) and the [formal description](rules.html), as well as some longer ones in the [comparison](compare.html). If you haven't seen them yet, make sure to check those out first. This page contains even more longer examples of the FJS in usage.
 
 ## Notation
 
@@ -17,9 +17,23 @@ Listen to it:
 
 <audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 
+Here you'll find a [chorale](../assets/compare/chorale.pdf) which simultaneously compares the FJS against Helmholtz-Ellis and Ben Johnston. Listen to it below:
+
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
+
+Surely you've seen the [introductory video](https://youtu.be/38I3cylJlW4) for the FJS, which I've placed on the main page. Here, you can see a [score](../assets/examples/intro-music.pdf) of the music used in it, written of course in the FJS, also with a comparison.
+
+<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+
 ## Videos
 
-Here's the FJS [introductory video](https://youtu.be/38I3cylJlW4). Here's a [score follower](https://youtu.be/JH2_Fwuc5E4) of the video's music, written – of course – in the FJS.
+All the three above examples can also be found in video form:
+
+- [Bach](youtube.blah)
+- [Chorale](youtube.blah)
+- [Intro music](youtube.blah)
+
+Additionally:
 
 This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric Counterpoint* in 5-limit Just Intonation uses the 5-limit Tonnetz written in the FJS to visualize the tuning.
 

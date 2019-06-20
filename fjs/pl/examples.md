@@ -1,6 +1,6 @@
 # Przykłady FJS
 
-Widziałeś zapewne już wiele krótkich przykładów w [kursie](crash.html), [porównaniu](compare.html), oraz [opisie formalnym](rules.html). Tutaj znajdziesz jeszcze więcej dłuższych przykładów zastosowania FJS.
+Widziałeś zapewne już wiele krótkich przykładów w [kursie](crash.html), oraz [opisie formalnym](rules.html), a także parę dłuższych z [porównania](compare.html). Tutaj znajdziesz jeszcze więcej dłuższych przykładów zastosowania FJS.
 
 ## Notacja
 
@@ -17,9 +17,23 @@ Posłuchaj:
 
 <audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 
+Poniżej znajdziesz [chorał](../assets/compare/chorale.pdf), który jednocześnie porównuje FJS z systemami Helmholtza-Ellisa oraz Johnstona. Posłuchaj go tu:
+
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
+
+Widziałeś zapewne [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-u, umieszczone na stronie głównej. Tutaj jest [zapis muzyki](../assets/examples/intro-music.pdf) z niego, zapisanej rzecz jasna w FJS-ie, również z porównaniem.
+
+<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+
 ## Wideo
 
-Tutaj jest [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-a. A tutaj [zapis muzyki](https://youtu.be/JH2_Fwuc5E4) użytej w tym wideo, zapisanej – rzecz jasna – w FJS-ie.
+Wszystkie powyższe trzy przykłady znajdziesz również w wersji wideo:
+
+- [Bach](youtube.blah)
+- [chorał](youtube.blah)
+- [muzyka z wprowadzenia](youtube.blah)
+
+Ponadto:
 
 Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* Steve'a Reicha w stroju naturalnym 5-limitowym wizualizuje strój za pomocą *Tonnetz* zapisanym w FJS-ie.
 

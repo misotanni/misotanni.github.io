@@ -1,6 +1,6 @@
 # FJS-Beispiele
 
-Du hast schon mehrere kurze FJS-Beispiele beim [Crash-Kurs](crash.html), dem [Vergleich](compare.html) sowie der [formalen Beschreibung](rules.html) gesehen (falls nicht, ergänze die Lücken). Auf dieser Seite sind noch mehr längere Beispiele des FJS im Einsatz zu sehen.
+Du hast schon mehrere kurze FJS-Beispiele beim [Crash-Kurs](crash.html) sowie der [formalen Beschreibung](rules.html) gesehen, dazu noch ein paar längere beim [Vergleich](compare.html) (falls nicht, ergänze die Lücken). Auf dieser Seite sind noch mehr längere Beispiele des FJS im Einsatz zu sehen.
 
 ## Notation
 
@@ -17,9 +17,23 @@ Hör zu:
 
 <audio controls><source src="../assets/examples/cmaj.mp3" type="audio/mpeg"></audio>
 
+Hier findest du ein [Choral](../assets/compare/chorale.pdf), welches auch gleichzeitig ein Vergleich zwischen dem FJS, dem Helmholtz-Ellis-System und dem Johnston-System ist. Du kannst auch zuhören:
+
+<audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
+
+Sicher hast du das [FJS-Einführungsvideo](https://youtu.be/38I3cylJlW4) gesehen, dass sich auf der Hauptseite befindet. Hier siehst du eine [Partitur](../assets/examples/intro-music.pdf) der Musik aus diesem Video, natürlich im FJS mit einem Vergleich geschrieben.
+
+<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+
 ## Videos
 
-Hier gibt's das [Einführungsvideo](https://youtu.be/38I3cylJlW4) des FJS. Die [Musik](https://youtu.be/JH2_Fwuc5E4) dazu gibt es hier, natürlich im FJS geschrieben.
+Die drei Notationsbeispiele oben gibt es auch als Videos:
+
+- [Bach](youtube.blah)
+- [Choral](youtube.blah)
+- [Einführungsmusik](youtube.blah)
+
+Dazu:
 
 Diese [Interpretation](https://youtu.be/bZffjSUd-2w) von *Electric Counterpoint* von Steve Reich in Naturtonstimmung im 5-Limit verwendet ein 5-Limit-Tonnetz im FJS, um die Stimmung darzustellen.
 
