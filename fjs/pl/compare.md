@@ -304,6 +304,8 @@ Możesz posłuchać:
 
 <audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
+Więcej porównań znajdziesz m.in. w [przykładach](examples.html).
+
 ## Werdykt
 
 Nie jest żadną niespodzianką, że FJS jest najlepszym systemem zapisu JI spośród trójki. HE niestety wypada całkiem źle jako pierwsza chronologicznie próba. Wyobrażam sobie, że BJ, biorąc pod uwagę dziwny wybór wysokości niealterowanych, jest jeszcze gorszy niż sam HE – równy wynik musi być błędem. FJS znacząco prześciga i HE, i BJ w sprawnym notowania JI.
