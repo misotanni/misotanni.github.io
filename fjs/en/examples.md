@@ -25,7 +25,7 @@ Surely you've seen the [introductory video](https://youtu.be/38I3cylJlW4) for th
 
 (\*) **Note about the score:** It's not possible to write the 101st harmonic in either Helmholtz-Ellis or Johnston. Instead, the score reads 128/81 (Helmholtz-Ellis) or 8/5 (Johnston) at that position.
 
-<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Videos
 

@@ -25,7 +25,7 @@ Vous avez certainement vu la [vidéo d'introduction du FJS](https://youtu.be/38I
 
 (\*) **Remarque sur la partition:** Ni Helmholtz-Ellis ni Johnston ne peuvent représenter le 101. harmonique (101/64). La version Helmholtz-Ellis représente ici 128/81, et Johnston représente 8/5.
 
-<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Vidéos
 

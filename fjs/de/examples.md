@@ -25,7 +25,7 @@ Sicher hast du das [FJS-Einführungsvideo](https://youtu.be/38I3cylJlW4) gesehen
 
 (\*) **Notiz zur Partitur:** Es ist unmöglich, den 101. Oberton im Helmholtz-Ellis-System oder im Johnston-System darzustellen. Anstatt 101/64 steht dort jeweils 128/81 bei HE oder 8/5 bei Johnston.
 
-<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Videos
 

@@ -25,7 +25,7 @@ Widziałeś zapewne [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-
 
 (\*) **Uwaga co do partytury:** Ani Helmholtz-Ellis, ani Johnston nie potrafią zapisać alikwotu sto pierwszego. Zamiast 101/64 pojawia się tam 128/81 (Helmholtz-Ellis) lub 8/5 (Johnston).
 
-<audio controls><source src="../assets/compare/intro-music.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="../assets/examples/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Wideo
 
