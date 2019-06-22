@@ -77,6 +77,8 @@ Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, 
 
 ## Co teraz?
 
+- Dołącz do [subredditu FJS-owego!](https://www.reddit.com/r/fjs)
+
 - Tu znajdziesz [intensywny kurs](crash.html), dzięki któremu nawet z powierzchownym zrozumieniem JI nauczysz się FJS-u w kilkanaście minut.
 - Zobacz krótkie [podsumowanie](summary.html) całego systemu.
 - Jeżeli nie jesteś pewien, jak dokładnie brzmi dana reguła, odwołaj się do [szczegółów technicznych](rules.html).

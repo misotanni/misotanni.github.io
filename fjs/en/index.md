@@ -78,6 +78,8 @@ One concept I would compare the FJS to is Lojban: a constructed language that wa
 
 ## What Now?
 
+- Join the [official FJS subreddit!](https://www.reddit.com/r/fjs)
+
 - Go here for a [crash course](crash.html) in the FJS. With a mediocre understanding of JI, learning the FJS takes mere minutes.
 - Read a quick [summary](summary.html) of the entire system.
 - Read the [complete formal description](rules.html) for a reference of the exact rules when in doubt.
