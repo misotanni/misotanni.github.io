@@ -43,11 +43,6 @@ defaults:
       layout: "fjs"
   -
     scope:
-      path: "tuningaljabr"
-    values:
-      layout: "default"
-  -
-    scope:
       path: ""
     values:
       layout: "default"
