@@ -20,7 +20,7 @@ var loc = {
         radiusSet: "Set radius of tolerance to %1.",
 
             comma: "Find the fifth shift and formal comma (as well as give the cent size of this comma) for any input prime number greater than 3.",
-            tofjs: "Find the unique FJS representation of any input positive fraction. <br>All FJS accidentals will be listed separate, never multiplied together. For intervals less than the perfect prime, a negative number is used to represent a downward interval. For instance, 5/4 is <code>M3^5</code>, while 4/5 is <code>M-3_5</code>.",
+            tofjs: "Find the unique FJS representation of any input positive fraction. <br>All FJS accidentals will be listed separate, never multiplied together. For intervals less than the perfect prime, a negative number is used to represent a downward interval (as in Kite's color notation). For instance, 5/4 is <code>M3^5</code>, while 4/5 is <code>M-3_5</code>.",
           fromfjs: "Find the unique fraction corresponding to an FJS interval input. <br>A caret must be used to indicate the beginning of the otonal modifiers, and an underscore for the utonal ones. FJS accidentals may be multiplied together in any combination, and a negative number for a downward interval can be used.",
         setlambda: "Set the radius of tolerance to any custom floating-point (decimal) value between 1 and sqrt(2). <br>Type “default” to reset the value back to the standard sqrt(33/31)."
 };
