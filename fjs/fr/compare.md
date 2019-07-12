@@ -137,7 +137,7 @@ Ben Johnston se comporte beaucoup mieux. Bien que ses commas soient toujours une
 
 …et le nombre premier *renversé* pour l'altération négative. Quoi ? La seule raison pour laquelle ce n'est pas un problème **énorme**, c'est que la 11-limite est elle-même représentée par un symbole irrégulier, pas le nombre 11, qui ne change pas d'apparence lorsqu'il est renversé si on écrit le chiffre 1 avec une ligne verticale. Sinon, 686989 est le plus petit nombre avec ce problème.
 
-Le FJS utilise le nombre lui-même pour toutes les altérations, les renverse en ajoutant un signe moins, et les compose en les multipliant. Je suppose que celles de Johnston seraient composées tout simplement en les enchaînant (ce qui est parfois équivoque ; 1097, 109, et 7 sont tous des nombres premiers), mais je n'ai jamais vu cela chez Johnston.
+Le FJS utilise le nombre lui-même pour toutes les altérations, les renverse en ajoutant un signe moins, et les compose en les multipliant. Je suppose que celles de Johnston seraient composées tout simplement en les enchaînant (ce qui est parfois équivoque ; 137, 13, et 7 sont tous des nombres premiers), mais je n'ai jamais vu cela chez Johnston.
 
 Un point pour le FJS et un demi-point pour Johnston.
 

@@ -137,7 +137,7 @@ Every accidental from the 13-limit onwards uses just the prime number itself for
 
 …and the prime number *upside down* for the negative adjustment. Seriously? The only reason why this is not a **very serious** problem is because the 11-limit is notated with a special accidental and not the number “11”, which looks the same when written upside down if the digit 1 is written as a vertical line. If not, then the first prime with this problem is 686989.
 
-The FJS uses the number itself to represent all accidentals, they are negated by affixing a minus sign, and they are merged by multiplication. I assume Johnston's accidentals would merge simply by concatenation (which cannot be split unambiguously; 1097 is prime, and the concatenation of the prime numbers 109 and 7). However, I have never seen a note in Johnston's writings that had to be modified by more than one numerical accidental.
+The FJS uses the number itself to represent all accidentals, they are negated by affixing a minus sign, and they are merged by multiplication. I assume Johnston's accidentals would merge simply by concatenation (which cannot be split unambiguously; 137 is prime, and the concatenation of the prime numbers 13 and 7). However, I have never seen a note in Johnston's writings that had to be modified by more than one numerical accidental.
 
 One point for the FJS, half a point for Johnston.
 
