@@ -137,7 +137,7 @@ Ab dem 13-Limit benutzt jedes Versetzungszeichen einfach die Primzahl selbst fü
 
 …und die *umgedrehte* Primzahl für das negative Zeichen. Wirklich? Es ist nur deshalb kein **riesiges** Problem, weil das 11-Limit selbst mit einem unregelmäßigen Zeichen notiert wird, und nicht mit der Zahl „11“, die sich bei Umdrehung nicht verändert, falls die Ziffer 1 als senkrechte Linie geschrieben wird. Falls nicht, dann ist es bei 686989 zum ersten Mal ein Problem.
 
-Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, man kehrt sie mit einem Minus-Zeichen um, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 137 sowie 13 und 7 sind alle Primzahlen). Ich habe aber keinen solchen Fall bei Johnston gesehen.
+Das FJS benutzt die Zahl selbst, um alle Versetzungszeichen darzustellen, man kehrt sie mit einem Minus-Zeichen um, und man verbindet sie durch Multiplikation. Ich nehme an, dass Johnstons Versetzungszeichen einfach durch Verkettung verbunden werden (was manchmal vieldeutig ist; 137 sowie 13 und 7 sind alle Primzahlen, ich danke dem Leser Volleo 6144 für diese Anmerkung). Ich habe aber keinen solchen Fall bei Johnston gesehen.
 
 Ein Punkt für das FJS und ein halber für Johnston.
 
