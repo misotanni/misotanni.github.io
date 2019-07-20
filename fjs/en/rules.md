@@ -112,6 +112,12 @@ Everything concerning experimental elements is marked with the symbol (\*).
 
 4. All notes under the transposition line have its FJS pitch shift **added** to its pitch shifts as applied by FJS accidentals and key signatures.
 
+## The Pythagorean Comma (\*)
+
+This notation element is nonstandard and it cannot be used within the calculator.
+
+The Pythagorean comma can be allocated to the factor of 3. Hence e.g. 15/14 (a type of chromatic semitone) can be changed to a diatonic semitone and hence can be used to conveniently write a trill. +3 raises by a Pythagorean comma (adds twelve factors of 3, so otonal) and −3 lowers. So B♯ is the same as C<sup>3</sup>, and D♭♭<sub>7</sub> is the same as C<sub>21</sub>.
+
 ## Using the FJS for Notation Beyond JI (\*)
 
 Any number, not just primes, can be the input of the FJS master algorithm. In fact, although the FJS was not constructed for this purpose, the entire algorithmic procedure can be carried out for many irrational numbers. Any positive real number works, but a few (in particular, integer roots of rational numbers) will obliterate the FJS's pristine and fragile bijection, leaving a mere surjection behind (unambiguous reading, but no longer unambiguous writing).

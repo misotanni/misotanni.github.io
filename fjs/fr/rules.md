@@ -114,6 +114,12 @@ Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (
 
 4. Toutes les notes sous une ligne de transposition FJS **additionnent** l'altération de cette ligne aux valeurs normales dues aux altérations accidentelles et celles d'armure.
 
+## Le comma pythagoricien (\*)
+
+Cet élément de la notation n'est ni conventionnel ni disponible dans la calculatrice.
+
+On pourrait associer le nombre 3 avec le comma pythagoricien. De cette façon, il est possible d'écrire un trille d'un intervalle comme 15/14 (un demi-ton chromatique) en le nommant un demi-ton diatonique. +3 élève d'un comma pythagoricien (ce qui est otonal, puisqu'on ajoute 12 facteurs de 3), pendant que −3 baisse. Ainsi, Si♯ égale Do<sup>3</sup> et Ré♭♭<sub>7</sub> égale Do<sub>21</sub>.
+
 ## Le FJS et la notation au-delà de JI (\*)
 
 L'algorithme principal du FJS accepte chaque entrée, pas seulement des nombres premiers. Bien que le FJS ne soit pas construit à cet usage, on peut réaliser toute l'algorithmerie pour des nombres irrationnels aussi bien que des rationnels. Cela fonctionne pour tous nombres réels, mais certains (en particulier, des racines entières des nombres rationnels) détruisent la bijection virginale et délicate du FJS et ne la transforment qu'en surjection. (Vous pouvez alors lire, mais ne plus écrire, sans équivoque.)

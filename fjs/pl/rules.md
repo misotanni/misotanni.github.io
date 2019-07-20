@@ -112,7 +112,13 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 4. Wszystkim wysokościom pod przenośnikiem dodaje się podaną alterację złożoną – po ustaleniu wysokości i alteracji ze względu na znaki przygodne i przykluczowe.
 
-## FJS i notacja poza JI (\*)
+## Komat pitagorejski (\*)
+
+Ten element notacji jest niestandardowy i nie występuje w kalkulatorze.
+
+Liczbie 3 można przyporządkować komat pitagorejski. Czyli żeby wygodnie zapisać tryl o interwał 15/14 (który jest półtonem chromatycznym), można go zamienić na półton diatoniczny. +3 podwyższa o komat pitagorejski (jest to ruch otonalny, ponieważ dodaje 12 czynników liczby 3), z kolei −3 obniża. Czyli *his* równa się *c*<sup>3</sup>, a *deses*<sub>7</sub> – *c*<sub>21</sub>.
+
+## FJS a notacja poza JI (\*)
 
 Główny algorytm FJS działa dla każdej liczby, nie tylko liczb pierwszych. Chociaż FJS nie został stworzony w tym celu, cały proces algorytmów może być równie dobrze zastosowany dla większości liczb niewymiernych. Działa każda dodatnia liczba rzeczywista, ale niektóre z nich – dokładniej mówiąc, pierwiastki całkowitego stopnia z liczb wymiernych – zniszczą w trymiga dziewiczą i jakże kruchą bijekcję FJS-u, zostawiając po sobie tylko marną surjekcję (jednoznaczne czytanie, ale już nie pisanie).
 

@@ -114,6 +114,12 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
 4. Alle Noten unter einer FJS-Transpositionslinie **addieren** das Versetzungszeichen dieser Linie zu den üblichen Werten, die Versetzungszeichen und Vorzeichen bewirken.
 
+## Das pythagoreische Komma (\*)
+
+Dieses Element der Notation ist nicht üblich, und der Rechner verfügt über es nicht.
+
+Der Faktor 3 kann für das pythagoreische Komma benutzt werden. Damit kann man z.B. das Intervall 15/14 (einen chromatischen Halbton) in einen diatonischen Halbton verwandeln und damit einen Triller aufschreiben. +3 erhöht um ein pythagoreisches Komma (12 Faktoren von 3 werden hinzugefügt, also otonal); −3 erniedrigt. His ist also dasselbe wie C<sup>3</sup>, Deses<sub>7</sub> ist dasselbe wie C<sub>21</sub>.
+
 ## Das FJS und Notation außerhalb JI (\*)
 
 Der FJS-Master-Algorithmus akzeptiert jede Zahl, nicht nur Primzahlen. Obwohl das FJS für diesen Zweck nicht gedacht war, kann die ganze Serie von Algorithmen auch für die allermeisten irrationalen Zahlen durchgeführt werden. Jede positive reelle Zahl passt, aber manche davon (darunter namentlich jede Zahl, die als Wurzel einer rationalen Zahl dargestellt werden kann) werden die wunderschöne und zerbrechliche Bijektion des FJS zerstören und sie in eine bloße Surjektion verändern. (Lesen ist also noch eindeutig, Schreiben aber nicht mehr.)
