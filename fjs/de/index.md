@@ -77,8 +77,6 @@ Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, 
 
 ## Was jetzt?
 
-- Werde Mitglied vom [FJS-Subreddit!](https://www.reddit.com/r/fjs)
-
 - Hier befindet sich ein [Crash-Kurs](crash.html) des FJS. Mit einem gewissen Verständnis von JI kann man das FJS in wenigen Minuten lernen.
 - Hier findest du eine kurze [Zusammenfassung](summary.html) des ganzen Systems.
 - Lese die [komplette formale Erläuterung](rules.html), um die genauen Regeln bei Zweifel nachzuschlagen.
