@@ -41,7 +41,7 @@ Cette [interprétation](https://youtu.be/bZffjSUd-2w) de *Electric Counterpoint*
 
 Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecraft* en intonation juste de la 7-limite démontre ses accords aussi dans le FJS.
 
-## Noms de notes
+## Noms de notes et d'intervalles
 
 ### L'échelle Genesis de 43 tons par Harry Partch
 

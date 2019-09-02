@@ -41,7 +41,7 @@ Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* 
 
 Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Minecrafta w stroju naturalnym 7-limitowym, który także przedstawia strój FJS-em.
 
-## Nazwy nut
+## Nazwy nut i interwałów
 
 ### 43-tonowa skala Genesis Harry'ego Partcha
 

@@ -41,7 +41,7 @@ This [interpretation](https://youtu.be/bZffjSUd-2w) of Steve Reich's *Electric C
 
 This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 7-limit Just Intonation also visualizes its tuning lattices in the FJS.
 
-## Note Naming
+## Note and Interval Naming
 
 ### Harry Partch's 43-tone Genesis Scale
 

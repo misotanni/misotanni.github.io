@@ -41,7 +41,7 @@ Diese [Interpretation](https://youtu.be/bZffjSUd-2w) von *Electric Counterpoint*
 
 Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus Minecraft in Naturtonstimmung im 7-Limit stellt die Stimmung auch im FJS dar.
 
-## Notennamen
+## Noten- und Intervallnamen
 
 ### Die 43-stufige Genesis-Skala von Harry Partch
 
