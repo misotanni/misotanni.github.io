@@ -1,4 +1,4 @@
 # Credits
 
-Guy #1: **la misotanni** <mailto:lamisotanis@gmail.com>
-Guy #2: **uakci** <https://uakci.pl>
+Original idea, music, audio, English text, French & German translations: **misotanni** <mailto:lamisotanis@gmail.com>
+Programming, music engraving, English text, Polish translation: **uakci** <https://uakci.pl>
