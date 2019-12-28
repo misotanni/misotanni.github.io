@@ -1,3 +1,6 @@
+// FJS library
+// by uakci
+
 Array.prototype.product = function() {
   var n = 1;
   for(var i = 0; i < this.length; ++i)
