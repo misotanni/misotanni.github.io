@@ -12,13 +12,15 @@
     {% endif %}
   </head>
   <body>
-    {{ page.otherlang }} <a href="../de/{{ page.name | replace: ".md", ".html" }}">de</a> · <a href="../en/{{ page.name | replace: ".md", ".html" }}">en</a> · <a href="../fr/{{ page.name | replace: ".md", ".html" }}">fr</a> · <a href="../pl/{{ page.name | replace: ".md", ".html" }}">pl</a>
-
-
+    {{ page.otherlang }}
+    <a href="../de/{{ page.name | replace: ".md", ".html" }}">de</a>
+    · <a href="../en/{{ page.name | replace: ".md", ".html" }}">en</a>
+    · <a href="../fr/{{ page.name | replace: ".md", ".html" }}">fr</a>
+    · <a href="../pl/{{ page.name | replace: ".md", ".html" }}">pl</a>
     <hr />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
     {{ content }}
     <hr />
-    <a href="index.html">{{ page.return }}</a> · {{ page.anyquestions }} <a href="mailto:lamisotanis@gmail.com">lamisotanis@gmail.com</a>.
+    <a href="credits.html">{{ page.credits }}</a>
+    · {{ page.disclaimer }}
   </body>
 </html>

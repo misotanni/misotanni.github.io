@@ -6,36 +6,36 @@ defaults:
       path: "fjs/en"
     values:
       otherlang: "English · In other languages:"
-      anyquestions: "If you have any questions, you are encouraged to contact the author at"
-      return: "Return to the main page"
+      credits: "Credits and contact"
+      disclaimer: "" # no disclaimer to be had
   -
     scope:
       path: "fjs/pl"
     values:
-      otherlang: "Polski · W innym języku:"
-      anyquestions: "Jeżeli masz jakieś pytania, nie krępuj się zapytać autora:"
-      return: "Powróć do strony głównej"
+      otherlang: "Polski · W innych językach:"
+      credits: "Autorzy, kontakt"
+      disclaimer: "Tłumaczenie może nie być aktualne z główną wersją angielską."
   -
     scope:
       path: "fjs/jbo"
     values:
-      otherlang: "la lojban · bau lo drata:"
-      anyquestions: "te zu'e lo ka retsku kei ko samymri e'e fi:"
-      return: "xruzva lo ralju"
+      otherlang: "jbobau .i bau lo drata zo'u:"
+      credits: "lo finti datni jo'u lo jikca judri"
+      disclaimer: ".i cumki fa lo nu lo xe fanva na sarxe lo pe ca ralju ke glibau versiio"
   -
     scope:
       path: "fjs/fr"
     values:
       otherlang: "Français · En d'autres langues:"
-      anyquestions: "Si vous avez des questions, n'hésitez pas à demander à l'auteur:"
-      return: "Retournez à la page d'accueil"
+      credits: "À la page des crédits et du contact"
+      disclaimer: "Il peut être que la traduction n'est pas à jour avec la version anglaise principale."
   -
     scope:
       path: "fjs/de"
     values:
       otherlang: "Deutsch · In anderen Sprachen:"
-      anyquestions: "Bei irgendwelchen Fragen kannst du dich jederzeit an den Autor wenden:"
-      return: "Zurück zur Hauptseite"
+      credits: "Zur Credits- und Kontaktseite"
+      disclaimer: "Die Übersetzung kann mit der englischer Hauptfassung nicht aktuell sein."
   -
     scope:
       path: "fjs"

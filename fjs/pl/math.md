@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
 # Matematyka FJS
 
 Tutaj umieściłem twierdzenia matematyczne, dzięki którym zapewnione jest, że FJS działa i może się chwalić tymi wymienionymi właściwościami, ale które poza kontekstem FJS nie występują. Większość tej matematyki to jedna wielka misja udowodnienia, że FJS posiada bijekcję, czyli że każdy interwał FJS-owy przedstawia dokładnie jeden ułamek JI, i na odwrót.
