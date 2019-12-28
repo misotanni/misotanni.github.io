@@ -69,9 +69,7 @@ Voici la liste jusqu'à la 61-limite pour Helmholtz-Ellis :
 
 Quelques altérations sont identiques dans le FJS : 5, 7, 11, 19, 23, et 43.
 
-On voit le plus clairement que les altérations pour 17, 29, 31, 37, 41, 47, 53, 57, et 61 nécessitent des facteurs différents que 2, 3, et le nombre premier du comma. Chez Helmholtz-Ellis, seulement les commas pour 5, 7, 11, 13, 19, 23, et 43 ont la forme d'un nombre pont. (Dans la seconde partie, entre 32 et 64, seulement 43 a un nombre pont comme comma.)
-
-(L'idée d'un *nombre pont* vient de la [page mathématique](math.html).)
+On voit le plus clairement que les altérations pour 17, 29, 31, 37, 41, 47, 53, 57, et 61 nécessitent des facteurs différents que 2, 3, et le nombre premier du comma. Chez Helmholtz-Ellis, seulement le nombre 13 et les commas qui sont identiques dans le FJS n'en ont pas. (Dans la seconde partie, entre 32 et 64, ce n'est que le nombre 43.)
 
 Pourquoi est-ce que c'est un problème ? Bien qu'on puisse les noter sans problème, ils nécessitent deux altérations de deux nombres premiers différents, ce qui est beaucoup trop compliqué. Il semble que tous les commas après celui de 23 soient choisis pour que leur rapport soit toujours de la forme $$\frac{n+1}{n}$$, même si cela signifierait une factorisation compliquée. (Il saute aux yeux que cette forme ne garantit pas que le comma soit petit. Un comma bien connu, 1029/1024, n'a pas cette forme, mais pourtant il est très petit : la différence entre une quinte 3/2 et trois intervalles de 8/7.)
 

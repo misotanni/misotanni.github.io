@@ -69,9 +69,7 @@ Here is the list, up to the 61-limit, for Helmholtz-Ellis:
 
 A few of these accidentals coincide with those of the FJS: 5, 7, 11, 19, 23, and 43.
 
-What stands out most is that the accidentals for 17, 29, 31, 37, 41, 47, 53, 57, and 61 involve factors other than 2, 3, and the prime in question. In fact, the only Helmholtz-Ellis commas that are in the form of bridge numbers are those for 5, 7, 11, 13, 19, 23, and 43. (Among the primes between 32 and 64, only one of them – 43 – is in the form of a bridge number.)
-
-(The term *bridge number* is from the [mathematics page](math.html).)
+What stands out most is that the accidentals for 17, 29, 31, 37, 41, 47, 53, 57, and 61 involve factors other than 2, 3, and the prime in question. The only ones left over are the ones that coincide with the FJS, plus 13. (Among the primes between 32 and 64, only one of them – 43 – has no extraneous factors.)
 
 Why is this a problem? While these can still be represented, they require two accidentals combined from two different primes, which is unnecessarily confusing. It seems as though all commas after the 23-comma were specifically selected to be a ratio of the form $$\frac{n+1}{n}$$ (referred to as superparticular), often at the cost of having a complicated prime factorization. (What is particularly notable is that such a form does not even guarantee that the resulting comma is small. One famous comma in microtonal music theory, 1029/1024, the difference between a 3/2 fifth and three 8/7 septimal whole tones, is not of this form, yet it is particularly small.)
 

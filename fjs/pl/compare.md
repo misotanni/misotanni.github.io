@@ -67,9 +67,7 @@ Oto lista aż do komatu 61. dla HE:
 
 Kilka z tych alteracji może wyglądać Tobie znajomo: 5., 7., 11., 19., 23. i 43. Pokrywają się one z FJS-owymi.
 
-Większość pozostałych alteracji – 17., 29., 31., 37., 41., 47., 53., 57. i 61. – zawiera oprócz 2, 3 i danej liczby pierwszej inne czynniki. Tak naprawdę jedyne komaty w HE, które mają formę liczb mostów, to te pierwsze plus 13. (Spośród tych pomiędzy 32 a 64 tylko jeden, 43., ma taką formę).
-
-(Termin „liczba most” pochodzi ze [strony matematycznej](math.html)).
+Większość pozostałych alteracji – 17., 29., 31., 37., 41., 47., 53., 57. i 61. – zawiera oprócz 2, 3 i danej liczby pierwszej inne czynniki. Tak naprawdę jedyne komaty w HE, które ich nie zawierają, to te, które pokrywają się z FJS-owymi, plus 13. (Spośród tych pomiędzy 32 a 64 tylko jeden, 43., ma taką formę).
 
 Dlaczego miałoby to stanowić problem? Otóż chociaż komaty pierwsze jako takie można wciąż wyrazić, wymaga to dwóch odrębnych alteracji, co jest niepotrzebnie mylące. Wydaje się, że wszystkie komaty po 23. zostały dobrane ze zbioru ułamków postaci $$\frac{n+1}{n}$$, często kosztem złożonego rozkładu na czynniki pierwsze. (Warto zauważyć, że taka postać nie gwarantuje, że powstały komat jest mały. Jednym dobrze znanym komatem w teorii mikrotonalnej muzyki jest 1029/1024 – różnica pomiędzy kwintą 3/2 a trzema septymowymi całymi tonami (8/7) – czyli liczba nie o takiej postaci, a jednak wyjątkowo drobna).
 

@@ -69,9 +69,7 @@ So sieht die Liste bis zum 61-Limit für Helmholtz-Ellis aus:
 
 Ein paar dieser Versetzungszeichen stimmen mit dem FJS überein: 5, 7, 11, 19, 23, und 43.
 
-Was man am deutlichsten sieht, ist, dass die Versetzungszeichen für 17, 29, 31, 37, 41, 47, 53, 57, und 61 auch andere Faktoren als 2, 3, und die eine Primzahl enthalten. Die einzigen Kommas bei Helmholtz-Ellis, die die Form einer Brückenzahl haben, sind 5, 7, 11, 13, 19, 23, und 43. (Von den Primzahlen zwischen 32 und 64 hat nur 43 eine Brückenzahl als Komma.)
-
-(Die Idee einer *Brückenzahl* ist auf der [Mathematikseite](math.html) definiert.)
+Was man am deutlichsten sieht, ist, dass die Versetzungszeichen für 17, 29, 31, 37, 41, 47, 53, 57, und 61 auch andere Faktoren als 2, 3, und die eine Primzahl enthalten. Die einzigen Kommas bei Helmholtz-Ellis, die übrig bleiben, sind die, die mit dem FJS übereinstimmen, und 13. (Von den Primzahlen zwischen 32 und 64 hat nur 43 keine überflüssigen Faktoren.)
 
 Warum ist das ein Problem? Obwohl sie immer noch aufgeschrieben werden können, brauchen sie zwei Versetzungszeichen aus zwei verschiedenen Primzahlen, was total überflüssig ist. Es sieht aus, als ob alle Kommas nach dem 23-Komma genau so ausgewählt wurden, damit ihr Verhältnis die Form $$\frac{n+1}{n}$$ hat, auch wenn das eine komplizierte Primfaktorzerlegung bedeutet. (Was besonders auffällt, ist, dass so eine Form gar nicht garantiert, dass das Komma auch klein ist. Ein berühmtes Komma: 1029/1024, ist sehr klein: der Unterschied zwischen einer 3/2-Quinte und drei Intervallen von 8/7.)
 
