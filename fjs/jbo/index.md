@@ -80,37 +80,6 @@ i tu'e
 
 tu'u
 
-## ma mukti tu'a fy jy sy
-
-ni'o ma te zukte tu'a fy jy sy
-i ma mukti lo nu finti fy vau mi
-i ma prali lo zgipre lo ka pilno fy jy sy
-i pilno mu'i ma
-i mo filri'a lo ka finti lo cuvyto'aci'e zgike kei e lo ka lanli ri
-i ma jai mu'i troci lo nu lo fadni zgisnici'e cu krati cy ty
-i li'a lo zgisnici'e cu se finti fi tu'a lo zgike poi se jicmu lo vonto'aku'e cukpoi jo'u lo cistrxiioniiano
-i je bo cy ty se pagbu loi parbi poi simxu lo ka ckini fi lo melbi je zgike bo fange ku'i
-i lo cy ty zgike cu frica lo zgike poi ma'a ta'e finti vau lo ka javni
-i se ni'i ba'a dai bo juxre fa lo jalge be lo nu snigau fi cy ty su'o tamsmi
-
-ni'o mi zu'ejdi to'e ki'u nai la'e di'u tu'a lo bi'u nai sidbo mu'i ma
-i lo du'u lo zgisnici'e cu bangu ro lo zgipre gi'e prane na je jai kampu
-i za'u mai ma'a noi zgipre cu sutra lo ka ci'e pensi
-i xu pau nai xamgu fa lo nu fanva fo lo cy ty melbi noi mulno co te javni gi'e ku'i jai nandu fai lo ka jijnu fi ce'u ku'o fi zo'e pe lo zgisnici'e noi slabu
-i xu pau nai rinka lo nu lo zgipre cu creze'a lo ka zmiku tu'a cy ty kei gi'e kuspygau cy ty lo ro pruce pe lo fadni zgike ge'u ne mu'u lo nunfi'i e lo nunlanli e lo nunti'i
-
-ni'o lo ka snici'e na sai jai se steci tu'a fy jy sy
-i lo nu mi zbasu fy jy sy cu nibli lo po'o nai nu mi jimpe fi lo simlu kalsa pe cy ty
-i ji'a fakri'a mi lo du'u lo zgisnici'e cu terjavni gi'e dunli cy ty so'i ue da
-i mi cpedu fi do ji'a fe lo ka zukte fi lo ka jimpe fi lo du'u melbi je frili fa fy jy sy kau kei e lo du'u lo ri zgike denxi'u pe'a cu jai rinka lo nu re sidbo poi simlu lo ka simxu lo ka srana te ki'i no da cu simxu lo ka ba'e simsa
-
-ni'o karbi fy jy sy la lojban
-i ly noi runbau cu se finti fi lo nu facki lo du'u ma kau se cenba lo pensi pruce fo lo nu lo ri remna cu baupli su'o lojykai je jai smudra
-i ia fy jy sy panra ly lo ka bangu fi tu'a lo cmato'aku'e zgike
-i pe'i ly fa'u fy jy sy jai rinka lo nu lo baupli fa'u lo zgipli cu curve pensi ci'e lo logji fa'u cy ty
-i ji'a ro zu'o zgike ke finti ja lanli ja tigni cu binxo co sarxe lo pu'i se djuno be fi lo zgike ente'ori
-i ki'u bo lo nu fy jy sy jai se cumki lo nu lo zgike ente'ori poi cabna cu kairjo'e lo me cy ty moi
-
 ## xu zvati fa la cafrai preti
 
 [ni'o ja'a go'i](faq.html)

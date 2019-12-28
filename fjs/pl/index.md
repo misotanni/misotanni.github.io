@@ -61,16 +61,6 @@ Te siedem reguł wystarczy, by móc zapisać dowolny utwór strojony naturalnie 
 
 7. Cała reszta to dodatkowe udogodnienia.
 
-## Czemu FJS?
-
-Skąd potrzeba na taką notację, jak FJS? Co zmotywowało mnie do zaprojektowania jej? Jaką korzyść muzykom mogłaby przynieść? Po co jej używać, i jak mogłaby pomóc kompozytorom i teoretykom JI? Dlaczego w ogóle by próbować przełożyć JI na zapis nutowy? W końcu ta została stworzona szczególnie na potrzeby muzyki, która opiera się na kole kwintowym i skalach diatonicznych, kiedy muzyka „naturalna” to jedynie ułamki związane ze sobą na piękne, choć muzycznie obce sposoby. Stroje naturalne operują inaczej niż te, do zapisywania których przyzwyczailiśmy się, więc mogłoby się wydawać, że wszelki wysiłek przedstawienia ich w takiej postaci doprowadziłby do czegoś niezgrabnego i nienaturalnego.
-
-Dlaczego więc podjąłem się takiego zadania pomimo tych trudności? To dlatego, że zapis nutowy jest językiem, którym komunikują się muzycy, i pomimo, że nie jest on pozbawiony wad, jest uniwersalny – każdy potrafi się nim porozumiewać. Poza tym jesteśmy z nim obyci jako muzycy. Nie opłaciłoby się przenieść piękny, systematyczny, choć trochę nieintuicyjny język JI na grunt znajomego języka pięcioliniowego? Nie pozwoliłoby to zrozumieć JI intuicyjnie i poszerzyć jego narzędzia po wszystkie działania podejmowane w kręgach muzyki klasycznej – tworzenie, badanie i wykonawstwo?
-
-FJS to coś więcej niż metoda zapisu dla strojów naturalnych. Nie tylko ułatwiła mi ona zrozumienie na głębszym poziomie tego bezkształtnego rozgardiaszu, którym wydawało mi się na początku JI, ale również uświadomiła mi, że notacja pięcioliniowa jest o wiele bardziej uporządkowana i powiązana z FJS-em, niż mogłem sobie wyobrazić. Zachęcam i Ciebie do odkrycia drzemiącego w FJS-ie piękna i prostoty oraz pojęcia płynnego współdziałania dzięki niemu dwóch inaczej niemożliwych do pogodzenia idei.
-
-Chciałbym porównać FJS do Lożbanu – języka sztucznego, który stworzono, by sprawdzić, jak posługiwanie się logicznym i spójnym językiem wpłynęłoby na procesy myślowe. Uważam, że FJS jest jak Lożban mikrotonalnej muzyki. Tak samo, jak dzięki Lożbanowi zacząłem myśleć przejrzyście i logicznie, FJS może pomóc Tobie myśleć *w* JI, a Twoim kompozycjom, analizom i wykonaniom muzyki naturalnie strojonej zazębiać się gładko z już nabytą wiedzą teoretyczną, gdyż FJS przeplata elementy teorii klasycznej i JI-owej.
-
 ## FAQ: Czy jest FAQ?
 
 [Jak najbardziej!](faq.html)

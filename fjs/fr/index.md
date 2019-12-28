@@ -61,16 +61,6 @@ Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'int
 
 7. Tout le reste sont des abréviations.
 
-## Pourquoi le FJS ?
-
-Pourquoi en avons-nous besoin ? Qu'est-ce qui m'a motivé à créer le FJS ? Quels avantages peuvent en retirer les musiciens ? Pourquoi l'utiliser, et comment aide-t-il à composer et à analyser la musique en intonation juste ? Pourquoi même essayer de représenter l'intonation juste sur la portée ? La notation de portée fut d'ailleurs créée pour la musique basée sur le cycle des quintes et la gamme diatonique. En revanche, l'intonation juste est un réseau de proportions qui sont connectés d'une façon harmonieuse mais étrange. La musique en intonation juste fonctionne d'une manière très différente de celle que nous écrivons d'habitude. Tenter de la représenter de cette façon serait, certes, anormal et maladroit.
-
-Pourquoi ai-je toutefois décidé de réaliser cette idée ? Pour la raison que la notation de portée est une langue de communication entre musiciens. Bien qu'elle ne soit pas parfaite, elle est universelle pour tous les musiciens. En outre, nous sommes habitués à penser en notes. Ne serait-il pas utile de pouvoir traduire la langue de l'intonation juste qui est harmonieuse et régulière, mais peu intuitive, dans la langue de la portée qui est familière ? Ne permettrait-il pas que les musiciens comprennent l'intonation juste avec plus d'intuition et étendent ses aspects à tous les processus liés à la musique conventionnelle : la composition, l'analyse et la performance ?
-
-Le FJS, c'est beaucoup plus qu'un système de notation. Lorsque j'ai créé le système, il m'a permis de trouver un sens dans un chaos apparent de l'intonation juste. Il m'a démontré que la notation de portée est beaucoup plus logique et plus liée à l'intonation juste que ce que je pensais. Pour toutes ces raisons, je vous invite aussi à connaître la facilité et la beauté du FJS et à comprendre comment ses roues dentées musicales connectent deux aspects qui semblent très éloignés.
-
-Je comparerais le FJS à Lojban. Lojban est une langue artificielle créée pour découvrir comment la pensée des gens changerait si leur langue était complètement logique et avait du sens. Je crois que le FJS serait un « Lojban de la musique microtonale ». Comme Lojban motive des gens à penser de manière logique, le FJS motive des musiciens à penser en intonation juste. C'est pourquoi il permet de lier la composition, l'analyse et la performance de cette musique à leur connaissance de la théorie de la musique, qui est elle-même liée à celle de JI.
-
 ## FAQ : Y a-t-il un FAQ ?
 
 [Il y en a !](faq.html)

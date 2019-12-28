@@ -61,16 +61,6 @@ Es gibt nur sieben Regeln, die alles, was man zur Notation jeglicher JI-Musik mi
 
 7. Alles andere ist Kurzschrift.
 
-## Warum das FJS?
-
-Warum brauchen wir es überhaupt? Was hat mich dazu motiviert, das FJS zu konstruieren? Was für Vorteile gibt es davon für Musiker? Warum soll man es benutzen, und wie hilft es mit der Komposition und Analyse von JI-Musik? Wieso überhaupt versuchen, die Naturtonstimmung der Notenschrift zuzuordnen? Die Notenschrift ist doch für Musik, die auf dem Quintenzirkel und den Stammtönen basiert, entworfen worden. Die Naturtonstimmung dagegen ist ein Netzwerk von Frequenzverhältnissen, die miteinander wunderschön, aber unkenntlich, verbunden sind. JI-Musik funktioniert komplett anders als die Musik, die wir gebräuchlich notieren. Ein Versuch, sie so zu repräsentieren, klingt wie eine verrückte und ungeschickte Idee.
-
-Warum also habe ich mich trotzdem entschieden, diese Idee zu verwirklichen? Es liegt daran, dass die Notenschrift eine Kommunikationssprache für Musiker ist. Obwohl sie nicht perfekt ist, ist sie universal: sie umfasst alle Musiker. Darüber hinaus sind wir als Musiker dazu gewohnt, in Noten zu denken. Wäre es nicht nützlich, die schöne und regelmäßige, aber nicht wirklich intuitive, Sprache der Naturtonstimmung irgendwie in die bekannte Sprache der Notenschrift übersetzen zu können? Würde es Musikern nicht ermöglichen, die Naturtonstimmung intuitiv zu verstehen, und ihre Eigenschaften auf alle Prozesse – Komposition, Analyse, und Aufführung – üblicher Musik zu erweitern?
-
-Das FJS ist viel mehr als nur ein Notationssystem. Als ich das System entwurf, hat es mir ermöglicht, Sinn im scheinbaren Chaos der Naturtonstimmung zu sehen. Es hat mir auch gezeigt, dass die Notenschrift viel logischer und viel mehr mit JI verbunden ist, als ich zuerst dachte. Deshalb lade ich auch dich dazu ein. Lerne die Einfachheit und die Schönheit des FJS kennen, und verstehe, wie seine musikalischen Zahnräder zwei Ideen verbinden, die auf den ersten Blick sich komplett fremd ansehen.
-
-Ich würde das FJS mit Lojban vergleichen. Lojban ist eine künstliche Sprache, die entworfen wurde, um zu sehen, wie das Denken sich verändert, wenn die Sprache komplett logisch ist und Sinn macht. Ich glaube, dass das FJS einem „Lojban der mikrotonalen Musik“ entspricht. Genauso wie Lojban Leute zum logischen Denken bringt, bringt das FJS Musiker meiner Meinung nach zum JI-Denken. Dadurch werden ihre Komposition, Analyse, und Aufführung näher mit ihrer eigenen Kenntnis der Musiktheorie verbunden, da das FJS üblicher Musiktheorie die JI-Musiktheorie näher bringt.
-
 ## FAQ: Gibt es ein FAQ?
 
 [Tatsächlich!](faq.html)
