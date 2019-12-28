@@ -7,7 +7,6 @@ defaults:
     values:
       otherlang: "English · In other languages:"
       credits: "Credits and contact"
-      disclaimer: "" # no disclaimer to be had
   -
     scope:
       path: "fjs/pl"
