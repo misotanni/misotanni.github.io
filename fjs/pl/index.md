@@ -70,7 +70,6 @@ Te siedem reguł wystarczy, by móc zapisać dowolny utwór naturalny w FJS-ie. 
 - Tu znajdziesz [intensywny kurs](crash.html), dzięki któremu nawet przy powierzchownym zrozumieniu JI nauczysz się FJS-u w kilkanaście minut.
 - Zobacz krótkie [podsumowanie](summary.html) całego systemu.
 - Jeżeli nie jesteś pewien, jak dokładnie brzmi dana reguła, odwołaj się do [szczegółów technicznych](rules.html).
-- Poznaj [matematyczne zaplecze](math.html) FJS-u. Tam znajdziesz dowód wzajemnej jednoznaczności FJS-u, a także innych ciekawych własności.
 - [Tu](compare.html) porównuję FJS z dwoma konkurencyjnymi notacjami: Helmholtza-Ellisa i Bena Johnstona, wykazując, że FJS przewyższa je obie.
 - Skorzystaj z [kalkulatora](calc.html), by pomóc sobie z FJS-owymi obliczeniami. **Porada:** dodaj je od razu do zakładek.
 - Przestudiuj [przykłady](examples.html) zastosowania FJS-u.

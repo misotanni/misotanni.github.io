@@ -13,10 +13,10 @@ Le cœur du FJS est **l'algorithme principal** dont l'entrée peut être chaque 
 
 On peut ainsi représenter l'intonation juste :
 
-- Tous les intervalles de la 3-limite reçoivent un intervalle conventionnel, puisqu'il y a une bijection entre l'accord pythagoricien et la notation de portée (voir la [page mathématique](math.html)).
+- Tous les intervalles de la 3-limite reçoivent un intervalle conventionnel, puisqu'il y a une bijection entre l'accord pythagoricien et la notation de portée.
 - Pour tous les autres intervalles :
 	- Chaque nombre premier n'a qu'un comma formel, avec n'importe quel rayon de tolérance. (Ce comma formel est le résultat de l'algorithme pour ce nombre premier.) Chaque comma formel reçoit deux altérations: une otonale et une utonale.
-	- Depuis la 5-limite, on peut représenter chaque rapport JI avec un rapport de la 3-limite multiplié par des nombres appelés nombres ponts avec des entiers relatifs comme exposants et avec exactement un nombre pont pour chaque nombre premier (voir la [page mathématique](math.html)). Un nombre pont est un nombre qui égale 2 avec un entier relatif comme exposant, multiplié par 3 avec un entier relatif comme exposant, multiplié par un autre nombre premier avec +1 comme exposant.
+	- Depuis la 5-limite, on peut représenter chaque rapport JI avec un rapport de la 3-limite multiplié par des nombres appelés nombres ponts avec des entiers relatifs comme exposants et avec exactement un nombre pont pour chaque nombre premier. Un nombre pont est un nombre qui égale 2 avec un entier relatif comme exposant, multiplié par 3 avec un entier relatif comme exposant, multiplié par un autre nombre premier avec +1 comme exposant.
 	- Chaque comma formel est un nombre pont, puisqu'ils sont tous une différence entre un nombre premier et un rapport de la 3-limite.
 	- Ainsi, chaque intervalle au-delà de la 3-limite peut être représenté comme un rapport de la 3-limite (qui correspond a un intervalle conventionnel) multiplié par des commas formels (qui ont des altérations FJS) avec des entiers relatifs comme exposants.
 

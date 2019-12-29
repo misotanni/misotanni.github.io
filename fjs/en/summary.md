@@ -13,10 +13,10 @@ The core of the FJS is the **FJS master algorithm**, which takes any prime numbe
 
 Just Intonation is notated in the following way: 
 
-- All 3-limit intervals are assigned directly to unchanged interval classes, since Pythagorean tuning is bijective to staff notation (cf. the [mathematics page](math.html)).
+- All 3-limit intervals are assigned directly to unchanged interval classes, since Pythagorean tuning is bijective to staff notation.
 - For the 5-limit and above, the following procedure is used:
 	- Every prime has exactly one formal comma under any given radius of tolerance (it is the output of the FJS master algorithm for that prime). Every formal comma is assigned exactly two accidentals, an otonal one and a utonal one.
-	- Every ratio starting from the 5-limit can be uniquely represented as a 3-limit ratio multiplied by so-called bridge numbers raised to integer exponents, with exactly one bridge interval for every prime above 3 (cf. the [mathematics page](math.html)). A bridge number is an interval equal to an integer power of 2 times an integer power of 3 times exactly one other prime raised to +1.
+	- Every ratio starting from the 5-limit can be uniquely represented as a 3-limit ratio multiplied by so-called bridge numbers raised to integer exponents, with exactly one bridge interval for every prime above 3. A bridge number is an interval equal to an integer power of 2 times an integer power of 3 times exactly one other prime raised to +1.
 	- Every formal comma is a bridge number, since they all are the difference between a 3-limit ratio and a prime ratio.
 	- Therefore every ratio starting from the 5-limit is represented as a 3-limit ratio, which is given an interval class, multiplied by integer powers of formal commas, which are given FJS accidentals. 
 

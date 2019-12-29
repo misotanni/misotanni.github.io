@@ -22,10 +22,10 @@ i va'i lo dilcysle cu ro roi zvati lo se frinu be lo togyfancyku'e be'o e nai lo
 ni'o ja'o lo cuvyto'aci'e cu se sinxa ta'i la'e di'e
 i tu'e
 
-- i ro togyku'e pe lo cuvyto'aci'e be li ci cu srana lo fadni togykuplei ni'i lo nu lo cistrpitagora cu pavysmu mapti lo zgisnici'e i to ko tcidu lo [cmaci kibystu](math.html) toi
+- i ro togyku'e pe lo cuvyto'aci'e be li ci cu srana lo fadni togykuplei ni'i lo nu lo cistrpitagora cu pavysmu mapti lo zgisnici'e
 - i lo togyku'e pe lo cuvyto'aci'e be li za'u ci zo'u tu'e
 	- i ro da poi crulai ro de poi dilcysle su'o di poi togyfancyku'e zo'u de srana pa di ma'i da i to di te pruce fi la fy jy sy ralju algoritma fe de toi i ro togyfancyku'e cu srana re togystika poi pa ke'a cu galto'a zi'e poi pa ke'a cu dzito'a
-	- i ro da poi togyku'e pe lo cuvyto'aci'e be li su'o mu zo'u cumki fa lo nu sinxa da fa lo pilji be lo togyku'e pe lo cuvyto'aci'e be li ci ge'u bei lo ripna'u poi se tenfa fi lo mulna'u bei fi'o cmima pa ripna'u poi srana pa dilcysle poi zmadu li ci i to ko tcidu lo [cmaci kibystu](math.html) toi
+	- i ro da poi togyku'e pe lo cuvyto'aci'e be li su'o mu zo'u cumki fa lo nu sinxa da fa lo pilji be lo togyku'e pe lo cuvyto'aci'e be li ci ge'u bei lo ripna'u poi se tenfa fi lo mulna'u bei fi'o cmima pa ripna'u poi srana pa dilcysle poi zmadu li ci
 
 tu'u tu'u
 

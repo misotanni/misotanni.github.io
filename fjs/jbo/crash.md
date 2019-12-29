@@ -85,9 +85,6 @@ i ro da poi **mulnonmau** fa'u **frinynonmau** si'a zo'u da se pagbu pa lo'i dil
 i la'e di'u cu se cmene fi zi'o fa'u mi fe lu ralju cmacybri pe lo nacycmaci li'u fa'u lu ralju cmacybri pe lo zgisarxe li'u u'i
 i mu'a li xa fi'u mu cu se pagbu li re te'a pa lo'o ce li ci te'a pa lo'o ce li mu te'a ni'u pa
 i no cmima be lo dilcymu'o be'o poi drata cu zasti
-to i lo nu ti xe ctuca kei jai mu'i mi vimcu lo cmaci tcila
-i ku'i li'a ri zvati va'u lo [tcidu poi kucli](math.html)
-i ro da poi srana lo cmacybri bu'u ti noi xe ctuca zo'u lo cmaci kibystu cu se zvati lo ctaipe toi
 
 ni'o ci mai do nitcu lo **sapka'i** be lo togyku'e
 i lo su'u tcikai zo'u pilji jo nai dilcu lo togyku'e li re pu'o lo nu lo te pruce cu mleca li re gi'e zmadu ja bo du li pa

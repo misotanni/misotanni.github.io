@@ -13,10 +13,10 @@ Sercem FJS-u jest **główny algorytm FJS**, który za pomocą **promienia toler
 
 Wtedy stroje naturalne zapisuje się następująco:
 
-- Wszystkie interwały 3-limitowe zapisuje się bezpośrednio niezmienionymi interwałami, ponieważ istnieje bijekcja między strojem pitagorejskim a zapisem pięcioliniowym (zobacz [stronę matematyczną](math.html)).
+- Wszystkie interwały 3-limitowe zapisuje się bezpośrednio niezmienionymi interwałami, ponieważ istnieje bijekcja między strojem pitagorejskim a zapisem pięcioliniowym.
 - Dla interwałów 5-limitowych oraz wyższych:
 	- Każda liczba pierwsza ma dokładnie jeden komat formalny dla każdego promienia tolerancji (jest to wynik głównego algorytmu FJS dla tej liczby pierwszej). Każdy komat formalny ma dwie odpowiadające mu alteracje, otonalną i utonalną.
-	- Każdy ułamek począwszy od 5-limitowych można zapisać jednoznacznie jako ułamek 3-limitowy pomnożony przez tzw. liczby mosty podniesione do potęg całkowitych, gdzie każda liczba pierwsza większa od trzech ma dokładnie jedną liczbę most (zobacz [stronę matematyczną](math.html)). Liczba most to interwał, który równa się 2 do potęgi całkowitej razy 3 do potęgi całkowitej razy jedna inna liczba pierwsza do potęgi +1.
+	- Każdy ułamek począwszy od 5-limitowych można zapisać jednoznacznie jako ułamek 3-limitowy pomnożony przez tzw. liczby mosty podniesione do potęg całkowitych, gdzie każda liczba pierwsza większa od trzech ma dokładnie jedną liczbę most. Liczba most to interwał, który równa się 2 do potęgi całkowitej razy 3 do potęgi całkowitej razy jedna inna liczba pierwsza do potęgi +1.
 	- Każdy komat formalny jest liczbą mostem, ponieważ każdy komat formalny jest różnicą między interwałem pierwszym a interwałem 3-limitowym.
 	- Zatem każdy ułamek począwszy od 5-limitowych można zapisać jako ułamek 3-limitowy, któremu odpowiada zwykły interwał, pomnożony przez całkowite potęgi komatów formalnych, którym odpowiadają alteracje FJS-owe.
 

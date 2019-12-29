@@ -13,10 +13,10 @@ Am Herz des FJS liegt der **FJS-Master-Algorithmus**, der jede Primzahl größer
 
 Dann wird die Naturtonstimmung folgendermaßen notiert:
 
-- Alle Intervalle des 3-Limits werden direkt unveränderten Intervallen zugeordnet, da es eine Bijektion zwischen der pythagoreischen Stimmung und der Notenschrift gibt (sehe die [Mathematikseite](math.html)).
+- Alle Intervalle des 3-Limits werden direkt unveränderten Intervallen zugeordnet, da es eine Bijektion zwischen der pythagoreischen Stimmung und der Notenschrift gibt.
 - Für alle höhere Intervalle gilt:
 	- Jede Primzahl hat genau ein formales Komma für jeden möglichen Toleranzradius (es ist das Ergebnis des Algorithmus für diese Primzahl) und jedes formale Komma bekommt genau zwei Versetzungszeichen, ein otonales und ein utonales.
-	- Jedes Verhältnis ab dem 5-Limit kann auf genau eine Weise als Verhältnis des 3-Limits mal sog. Brückenzahlen mit Ganzzahlpotenzen dargestellt werden, wobei es genau eine Brückenzahl für jede Primzahl größer als 3 gibt (sehe die [Mathematikseite](math.html)). Eine Brückenzahl ist eine Ganzzahlpotenz von 2, mal eine Ganzzahlpotenz von 3, mal genau eine andere Primzahl mit einer Potenz von +1.
+	- Jedes Verhältnis ab dem 5-Limit kann auf genau eine Weise als Verhältnis des 3-Limits mal sog. Brückenzahlen mit Ganzzahlpotenzen dargestellt werden, wobei es genau eine Brückenzahl für jede Primzahl größer als 3 gibt. Eine Brückenzahl ist eine Ganzzahlpotenz von 2, mal eine Ganzzahlpotenz von 3, mal genau eine andere Primzahl mit einer Potenz von +1.
 	- Jedes formale Komma ist eine Brückenzahl, denn es handelt sich immer um das Intervall zwischen einer Primzahl und einem 3-Limit-Verhältnis.
 	- Deshalb kann man jedes höhere Intervall als 3-Limit-Verhältnis (welches eine Intervalldarstellung hat) mal formale Kommas mit Ganzzahlpotenzen (welche FJS-Versetzungszeichen haben) darstellen.
 
