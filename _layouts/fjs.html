@@ -22,8 +22,9 @@
     {{ content }}
     <hr />
     <a href="credits.html">{{ page.credits }}</a>
-    {{ if page.disclaimer }}
-      · {{ page.disclaimer }}
-    {{ endif }}
+    · <a href="index.html">{{ page.return }}</a>
+  {{ if page.disclaimer != "" }}
+    · {{ page.disclaimer }}
+  {{ endif }}
   </body>
 </html>
