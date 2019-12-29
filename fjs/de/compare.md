@@ -105,7 +105,7 @@ Wo kommen sie denn also her?
 
 Die Antwort lautet: weder Helmholtz-Ellis noch Johnston geben einen Grund.
 
-Helmholtz-Ellis hat zwar 81/80 (das **syntonische Komma**) und 64/63 (das sog. **himmlische Komma**, auf Englisch „celestial comma“ nach Michael Harrison), die meiner Meinung nach wegen ihrer historischen Bedeutung vorkommen. 33/32 und 27/26 sind Vierteltönen des 11- und 13-Limits ähnlich. Die 17- und 19-Kommas basieren auf Übereinstimmungen mit 2er-Potenzen: 256/255 sowie 513/512. Die 23- und 43-Kommas stimmen mit dem FJS überein. Der Rest wirkt zufällig, als ob diese Kommas nach einer blinden Suche in der Obertonreihe gefunden würden.
+Helmholtz-Ellis hat zwar 81/80 (das **syntonische Komma**) und 64/63 (das **septimale Komma**), die meiner Meinung nach wegen ihrer historischen Bedeutung vorkommen. 33/32 und 27/26 sind Vierteltönen des 11- und 13-Limits ähnlich. Die 17- und 19-Kommas basieren auf Übereinstimmungen mit 2er-Potenzen: 256/255 sowie 513/512. Die 23- und 43-Kommas stimmen mit dem FJS überein. Der Rest wirkt zufällig, als ob diese Kommas nach einer blinden Suche in der Obertonreihe gefunden würden.
 
 Johnston hat natürlich 81/80, um seine eigene Widersprüche zu korrigieren, der Rest der Kommas erkennt man aber nicht, denn sie sind Zuordnungen aus dem 5-Limit zu den Primzahlintervallen, und manche davon sind wirklich merkwürdig. Man würde erwarten, dass 256/255 eher bei Johnston als in Helmholtz-Ellis vorkommen würde; das stimmt aber nicht, Johnston benutzt 51/50, dass den *chromatischen* und nicht den diatonischen Halbton an 17/16 zuordnet.
 

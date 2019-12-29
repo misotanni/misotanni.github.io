@@ -103,7 +103,7 @@ Skąd więc pochodzą te alteracje?
 
 Odpowiedź jest całkiem prosta: ani HE, ani BJ nie udzielają wyjaśnień.
 
-W HE występują 81/80 (**komat syntoniczny**) i 64/63 (jak nazwał go Michael Harrison, **komat niebiański**), które, jak zakładam, znalazły się tam z powodu ich historycznego znaczenia. 33/32 i 27/26 przypominają znajome ćwierćtonowe interwały z 11- i 13-limitu. Komaty 17. i 19. wyglądają na przypadkowe \\(\frac{n+1}{n}\\) na potęgach dwójki: 256/255 i 513/512. Komaty 23. i 43. są identyczne do FJS-owych. Reszta wydaje się całkiem losowa, jakby poszukiwanie odpowiadających komu ułamków \\(\frac{n+1}{n}\\) w szeregu alikwotowym w ciemno.
+W HE występują 81/80 (**komat syntoniczny**) i 64/63 (**komat septymowy**), które, jak zakładam, znalazły się tam z powodu ich historycznego znaczenia. 33/32 i 27/26 przypominają znajome ćwierćtonowe interwały z 11- i 13-limitu. Komaty 17. i 19. wyglądają na przypadkowe \\(\frac{n+1}{n}\\) na potęgach dwójki: 256/255 i 513/512. Komaty 23. i 43. są identyczne do FJS-owych. Reszta wydaje się całkiem losowa, jakby poszukiwanie odpowiadających komu ułamków \\(\frac{n+1}{n}\\) w szeregu alikwotowym w ciemno.
 
 BJ oczywiście ma 81/80 dla złagodzenia swojej niespójności, ale pozostałe komaty są zupełnie nierozpoznawalne z powodu swojego 5-limitowego pochodzenia, a niektóre z nich rzeczywiście potrafią zadziwić. Mogłoby się wydawać, że komat taki jak 256/255 raczej wystąpi w BJ niż w HE; jednak BJ w tym celu wykorzystuje 51/50, które jest odwzorowaniem nie diatonicznego, lecz *chromatycznego* półtonu na 17/16.
 
