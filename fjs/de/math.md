@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
-
 # Die Mathematik des FJS
 
 Diese Seite enthält mathematische Sätze, dessen Wahrheit die Funktionsweise des FJS gewährleistet, und garantiert, dass das FJS alle Eigenschaften besitzt, von denen ich erzählt habe, aber die gleichzeitig außer dem FJS nicht vorkommen. Die Mehrheit dieser Mathematik ist eine große Bestrebung, um zu beweisen, dass das FJS bijektiv ist, also dass jede FJS-Darstellung genau einem JI-Frequenzverhältnis zugeordnet wird, und umgekehrt.

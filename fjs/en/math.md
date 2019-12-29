@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
-
 # The Mathematics of the FJS
 
 This page contains mathematical theorems whose truth is required to ensure that the FJS can work the way it does and that the FJS has all these properties I stated it has, but which do not appear outside the context of the FJS. Most of the mathematics on this page is one huge endeavor to eventually prove that the FJS is bijective, i.e. that every FJS representation corresponds to one JI ratio, and vice versa.

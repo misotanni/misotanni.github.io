@@ -1,6 +1,4 @@
-﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
-
-# Porównanie FJS-u z innymi systemami
+﻿# Porównanie FJS-u z innymi systemami
 
 FJS to nie jest jedyny system zapisu JI, z którym można się spotkać. Wielu kompozytorów, pisząc muzykę mikrotonową na własną rękę, tworzą wiele osobistych systemów dla różnorakich skal mikrotonowych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonowości lub własnych potrzebach, na przykład konkretnego podziału oktawy czy limitu (ograniczenia ze względu na czynniki pierwsze), zatem jest niezdatna do użycia do ogólnego JI.
 

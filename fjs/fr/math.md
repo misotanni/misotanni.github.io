@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
-
 # Les mathématiques du FJS
 
 Cette page contient des théorèmes mathématiques dont la vérité est nécessaire pour garantir que le FJS fonctionne avec toutes ces qualités dont j'ai parlé, mais qui n'apparaissent pas du tout hors FJS. La plupart des mathématiques sur cette page est une grande mission pour prouver que le FJS a une bijection (que chaque représentation FJS correspond à un seul rapport JI et inversement).
