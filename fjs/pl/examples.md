@@ -1,17 +1,17 @@
 # Przykłady FJS
 
-Widziałeś zapewne już wiele krótkich przykładów w [kursie](crash.html), oraz [opisie formalnym](rules.html), a także parę dłuższych z [porównania](compare.html). Tutaj znajdziesz jeszcze więcej dłuższych przykładów zastosowania FJS.
+Widziałeś zapewne już wiele krótkich przykładów w [kursie](crash.html) oraz [opisie formalnym](rules.html), a także parę dłuższych z [porównania](compare.html). Tutaj znajdziesz jeszcze więcej dłuższych przykładów zastosowania FJS.
 
 ## Notacja
 
-Tutaj znajduje się [adaptacja](../assets/examples/cmaj.pdf) preludium *C*-dur z *Das Wohltemperierte Klavier* (tom I), BWV 846, Jana Sebastiana Bacha. Używam w nim następujących konwencji:
+Tutaj znajduje się [adaptacja](../assets/examples/cmaj.pdf) preludium *C*-dur z I tomu *Dobrze temperowanego klawesynu* Jana Sebastiana Bacha, BWV 846. Używam w nim następujących konwencji przy stroju:
 
 - 4:5:6(:15) dla trójdźwięków (czterodźwięków septymowych) durowych;
 - 10:12:15(:18) dla trójdźwięków (czterodźwięków septymowych) molowych;
 - 4:5:6:7 dla czterodźwięków septymowych dominantowych;
 - 10:12:14:17 dla czterodźwięków septymowych zmniejszonych.
 
-Znajduje się tu także FJS-owe oznaczenie tonacji.
+Znajduje się tu także przykład FJS-owego oznaczenia tonacji.
 
 Posłuchaj:
 
@@ -21,15 +21,15 @@ Poniżej znajdziesz [chorał](../assets/compare/chorale.pdf), który jednocześn
 
 <audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
-Widziałeś zapewne [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-u, umieszczone na stronie głównej. Tutaj jest [zapis muzyki](../assets/examples/intro-music.pdf) z niego, zapisanej rzecz jasna w FJS-ie, również z porównaniem.
+Widziałeś zapewne [wideo wprowadzające](https://youtu.be/38I3cylJlW4) do FJS-u, umieszczone na stronie głównej. Tu [rozpisano](../assets/examples/intro-music.pdf) muzykę, która w nim występuje, w FJS-ie, również z porównaniem.
 
-(\*) **Uwaga co do partytury:** Ani Helmholtz-Ellis, ani Johnston nie potrafią zapisać alikwotu sto pierwszego. Zamiast 101/64 pojawia się tam 128/81 (Helmholtz-Ellis) lub 8/5 (Johnston).
+(\*) **Uwaga odnośnie do partytury:** Ani Helmholtz-Ellis, ani Johnston nie potrafią zapisać alikwotu sto pierwszego. Zamiast 101/64 pojawia się tam 128/81 (Helmholtz-Ellis) i 8/5 (Johnston).
 
 <audio controls><source src="../assets/examples/intro-music.mp3" type="audio/mpeg"></audio>
 
 ## Wideo
 
-Wszystkie powyższe trzy przykłady znajdziesz również w wersji wideo:
+Wszystkie powyższe trzy przykłady dostępne są również w wersji wideo:
 
 - [Bach](https://youtu.be/-LBh5txPtXo)
 - [chorał](https://youtu.be/dufya-I8QFk)
@@ -37,7 +37,7 @@ Wszystkie powyższe trzy przykłady znajdziesz również w wersji wideo:
 
 Ponadto:
 
-Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* Steve'a Reicha w stroju naturalnym 5-limitowym wizualizuje strój za pomocą *Tonnetz* zapisanym w FJS-ie.
+Ta [interpretacja](https://youtu.be/bZffjSUd-2w) utworu *Electric Counterpoint* Steve'a Reicha w stroju naturalnym 5-limitowym wizualizuje strój za pomocą siatki dźwięków, podpisanej w FJS-ie.
 
 Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Minecrafta w stroju naturalnym 7-limitowym, który także przedstawia strój FJS-em.
 
@@ -115,8 +115,8 @@ Tutaj jest [aranżacja fortepianowa](https://youtu.be/JvnYEVxlDvc) muzyki z Mine
 
 ## Listy skal
 
-Używam FJS, aby zapisać pełną listę tonów użytych w konkretnej kompozycji JI-owej. Na przykład tutaj znajdują się [listy strojeniowe](../assets/examples/tuning.pdf) dla dwóch kompozycji: *Overture of Opulence* oraz *Meditations on a Medieval Theme Remix*, z *Justin Tonation*.
+FJS-em zapisuję pełną listę tonów użytych w konkretnej kompozycji JI-owej. Na przykład tutaj znajdują się [rozpiska](../assets/examples/tuning.pdf) dla dwóch kompozycji: *Overture of Opulence* oraz *Meditations on a Medieval Theme Remix* z mojego albumu *Justin Tonation*.
 
-Używanie tutaj FJS pozwala mi bez problemu rozpoznać funkcję jakiegoś tonu, nawet jeśli z samego ułamku nic nie rozpoznaję (a często używam skomplikowanych ułamków). Na przykład 243/200 mało mi mówi, ale zapis tego samego jako 3\><sub>25</sub> sprawia, że od razu rozpoznaję go jako 6/5 podniesione o jeszcze jeden komat syntoniczny. Inny przykład z innej mojej kompozycji, *Symphony of the Elements*: 729/640 nie jest szczególnie przejrzyste, ale 2<sub>5</sub> dużo bardziej; 9/8 podniesione o komat syntoniczny.
+FJS pozwala bez problemu rozpoznać funkcję jakiegoś tonu, nawet jeśli z samego ułamka nic nie rozpoznaję (a często używam skomplikowanych ułamków). Na przykład 243/200 mało mi mówi, ale po przetłumaczeniu na 3\><sub>25</sub> od razu rozpoznaję go jako 6/5 podniesione o jeszcze jeden komat syntoniczny. Inny przykład z innej mojej kompozycji, *Symphony of the Elements*: 729/640 nie jest szczególnie przejrzyste, ale 2<sub>5</sub> dużo bardziej; 9/8 podniesione o komat syntoniczny.
 
 ## Więcej?

@@ -1,10 +1,10 @@
 # Pełny opis techniczny FJS
 
-Ta strona to *de facto* podręcznik użytkowania FJS – zawiera wszystkie reguły, których będziesz potrzebował do używania go, włącznie z zapisami skrótowymi. Nie sprawi ci większego użytku, jeżeli nie przeczytałeś najpierw [intensywnego kursu](crash.html).
+Ta strona to *de facto* podręcznik użytkowania FJS – zawiera wszystkie reguły, włącznie z zapisami skrótowymi. Nie sprawi ci większego użytku, jeżeli nie przeczytałeś najpierw [intensywnego kursu](crash.html).
 
 Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
-## Redukcje
+## Rodzaje redukcji
 
 > Redukcja zwyczajna: $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
 >
@@ -19,7 +19,7 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 > 5. Jeżeli tak: *k* to przeniesienie kwintowe. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: weź następne *k* w kolejności z (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 >
-> W kroku 4 przez „różnicę” rozumiemy **wartość bezwzględną** rozmiaru centowego interwału: $$\text{reb}\left( \frac{p}{3^k} \right)$$
+> W kroku 4 przez „różnicę” rozumiemy **wartość bezwzględną** rozmiaru interwału: $$\text{reb}\left( \frac{p}{3^k} \right)$$
 
 ### Komat formalny
 
@@ -70,13 +70,13 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 6. Dodatnie i ujemne komaty przemnaża się osobno. Zapisuje się wtedy naraz indeks górny i dolny, np. *f*<sup>7</sup><sub>5</sub> przedstawia *f* obniżone o 64/63, następnie podniesione o 81/80 (lub w odwrotnej kolejności – najpierw podniesione o 81/80, potem obniżone o 64/63 – wynik jest taki sam). Zauważ, że te dwa iloczyny powinny zawsze być względnie pierwsze; w przeciwnym razie wystąpi niepotrzebne przesunięcie w jedną stronę, od razu niwelowane przez to samo przesunięcie w drugą: \**c*<sup>35</sup><sub>5</sub> to to samo, co *c*<sup>7</sup>.
 
-7. Liczbą 1 kasuje się wszystkie mikrotonalne alteracje, analogicznie do kasownika ♮, który kasuje pitagorejskie alteracje. Można zapisać go zarówno w indeksie górnym, jak i dolnym. Na przykład *c*–*d*–*e*<sup>5</sup>–*e*<sup>1</sup> (albo po prostu *c*–*d*–*e*<sup>5</sup>–*e*) przedstawia wysokości o 1/1, 9/8, 5/4 i 81/64 nad *c*.
+7. Liczbą 1 kasuje się wszystkie mikrotonowe alteracje, analogicznie do kasownika ♮, który kasuje pitagorejskie alteracje. Można zapisać go zarówno w indeksie górnym, jak i dolnym. Na przykład *c*–*d*–*e*<sup>5</sup>–*e*<sup>1</sup> (albo po prostu *c*–*d*–*e*<sup>5</sup>–*e*) przedstawia wysokości o 1/1, 9/8, 5/4 i 81/64 nad *c*.
 
 8. Interwałom można dostawiać alteracje tak samo, jak wysokościom.
 
 ## Zasady zapisu FJS na pięciolinii
 
-1. Aby przenieść wysokość o dodatnie komaty, zapisz liczbę odpowiadającą połączeniu tych przesunięć przed nutą, jakby znak chromatyczny. By zachować spójność z tradycyjnym zapisem, tak, jak alteracje chromatyczne zapisujemy z lewej nuty, ale na końcu (po prawej) nazwy, tak samo postępujemy z alteracjami mikrotonalnymi. Zapisujemy je po lewej (przed) główką nuty, a jeżeli przed nutą stoi już alteracja chromatyczna, przed tą alteracją.
+1. Aby przenieść wysokość o dodatnie komaty, zapisz liczbę odpowiadającą połączeniu tych przesunięć przed nutą, jakby znak chromatyczny. By zachować spójność z tradycyjnym zapisem, tak, jak alteracje chromatyczne zapisujemy z lewej nuty, ale na końcu (po prawej) nazwy, tak samo postępujemy z alteracjami mikrotonowymi. Zapisujemy je po lewej (przed) główką nuty, a jeżeli przed nutą stoi już alteracja chromatyczna, przed tą alteracją.
 
 2. Aby przenieść wysokość o komaty ujemne, zapisz podobnie liczbę odpowiadającą iloczynowi tych komatów przed główką nuty, ale poprzedź to znakiem minusa (np. „/35”). Uwaga: przykładowe „7/5” nie oznacza oczywiście przesunięcia o 7/5, tylko o 63/64 połączone z 81/80, czyli o 5103/5120.
 
@@ -92,15 +92,15 @@ Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
 1. Znaki przykluczowe w FJS-ie działają na tej samej zasadzie, jak zwyczajne; są zapisywane obok (po prawej stronie) pitagorejskich znaków przykluczowych, jeżeli miałyby się znaleźć naraz przy jednym kluczu.
 
-2. Domyślnie FJS-owe znaki przykluczowe mogą oddziaływać jedynie na te wysokości, które przewiduje klucz pitagorejski – na przykład, jeżeli utwór w *A*-dur posiada znaki przykluczowe ♯*fcg*, FJS-owe znaki przykluczowe mogą przydzielać alteracje mikrotonalne jedynie wysokościom *a*, *h*, *cis*, *d*, *e*, *fis* i *gis*. Ponieważ znaki przykluczowe FJS-u są niestandardowym dodatkiem do tradycyjnego zapisu nutowego, nie istnieje żaden ustalony porządek, w którym te alteracje muszą występować. Jednak z powodu pitagorejskich założeń FJS-u stwierdzam, że FJS-owe znaki przykluczowe często będą wykazywać pitagorejskie własności, więc prawdopodobnie będą występować w kolejności zawierającej się w jednym z pitagorejskich układów kwintowych: *fcgdeah* czy *headgcf*.
+2. Domyślnie FJS-owe znaki przykluczowe mogą oddziaływać jedynie na te wysokości, które przewiduje klucz pitagorejski – na przykład, jeżeli utwór w *A*-dur posiada znaki przykluczowe ♯*fcg*, FJS-owe znaki przykluczowe mogą przydzielać alteracje mikrotonowe jedynie wysokościom *a*, *h*, *cis*, *d*, *e*, *fis* i *gis*. Ponieważ znaki przykluczowe FJS-u są niestandardowym dodatkiem do tradycyjnego zapisu nutowego, nie istnieje żaden ustalony porządek, w którym te alteracje muszą występować. Jednak z powodu pitagorejskich założeń FJS-u stwierdzam, że FJS-owe znaki przykluczowe często będą wykazywać pitagorejskie własności, więc prawdopodobnie będą występować w kolejności zawierającej się w jednym z pitagorejskich układów kwintowych: *fcgdeah* czy *headgcf*.
 
-3. FJS-owy klucz może przydzielać alteracje mikrotonalne także tym wysokościom pitagorejskim, które nie przynależą do ustalonego szeregu diatonicznego, poprzez zapisanie na odpowiedniej linii czy polu alteracji mikrotonalnej, następnie alteracji pitagorejskiej zamkniętej w nawiasach, służącej do określenia wysokości pitagorejskiej, do której alteracja ma zostać przydzielona. Nawiasy wymagane są, by zakomunikować, że alteracja pitagorejska nie należy do klucza pitagorejskiego – zamiast tego alteracja mikrotonalna zostanie dodana wszędzie tam, gdzie doda się alterację pitagorejską. Na przykład klucz dla skali *C*-dur harmonicznej można by zapisać jako *h*<sup>5</sup> *e*<sup>5</sup> *a*<sup>5</sup> *a*<sub>5</sub>(♭), wskazując, że wszystkie *a* czyste powinny być przeniesione o +5, a *as* o −5. W tym przypadku *a* nie jest z domysłu interpretowane jako *as*, ale jeżeli bemol zostanie dodany, to *dopiero wtedy* podlega przypisanej *as*om −5.
+3. FJS-owy klucz może przydzielać alteracje mikrotonowe także tym wysokościom pitagorejskim, które nie przynależą do ustalonego szeregu diatonicznego, poprzez zapisanie na odpowiedniej linii czy polu alteracji mikrotonowej, następnie alteracji pitagorejskiej zamkniętej w nawiasach, służącej do określenia wysokości pitagorejskiej, do której alteracja ma zostać przydzielona. Nawiasy wymagane są, by zakomunikować, że alteracja pitagorejska nie należy do klucza pitagorejskiego – zamiast tego alteracja mikrotonowa zostanie dodana wszędzie tam, gdzie doda się alterację pitagorejską. Na przykład klucz dla skali *C*-dur harmonicznej można by zapisać jako *h*<sup>5</sup> *e*<sup>5</sup> *a*<sup>5</sup> *a*<sub>5</sub>(♭), wskazując, że wszystkie *a* czyste powinny być przeniesione o +5, a *as* o −5. W tym przypadku *a* nie jest z domysłu interpretowane jako *as*, ale jeżeli bemol zostanie dodany, to *dopiero wtedy* podlega przypisanej *as*om −5.
 
 4. Tak jak ze zwykłymi kluczami, FJS-owe klucze nie wchodzą w interakcję ze znakami przygodnymi. Zamiast tego znaki przygodne FJS-owe nadpisują te, które inaczej zostałyby dodane przez klucz. *e*<sub>7</sub> – zapisane poprzez poprzedzenie główki nuty postawionej na *e* liczbą −7 – będzie zawsze *e*<sub>7</sub>, nawet jeżeli klucz wyznacza *e*<sup>5</sup>. (Nie stanie się ta wysokość np. *e*<sup>5</sup><sub>7</sub> czy po prostu *e*<sup>5</sup>.)
 
 5. Zmiana klucza pitagorejskiego nie wymusza zmiany klucza FJS-owego. Jeżeli na przykład utwór zaczniemy kluczem ♯*fcg* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup>, po zmianie klucza (pitagorejskiego) na *As*-dur (♭*head*) *fis*, *cis* i *gis* nadal będą alterowane o +5. To może wydać się dziwne, ponieważ *fis* raczej nie występuje w *As*-dur, jednak jest to bardzo przydatne, gdyż nie musimy ponownie określać alteracji FJS-owych za każdym razem, gdy dokonujemy choćby bardzo bliskiej modulacji – na przykład z ♯*fcg* do ♯*fc*. W takich przypadkach pożądane jest nawet, by *fis* i *cis* były dalej alterowane o +5 (oraz *gis*, które może na przykład występować jako 4\< w subdominancie drugiego stopnia).
 
-6. Nowy klucz FJS-owy kasuje wszystkie alteracje wprowadzony przez poprzedni. Jeżeli klucz pitagorejski również był się zmienił, co musi się stać przed wprowadzeniem FJS-owego klucza, wtedy oczywiście nowe alteracje mikrotonalne oparte są na nowym zestawie wysokości diatonicznych. Na przykład ♯*fcg* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup> to *A*-dur kwintowe; zmiana pitagorejskiego klucza na ♭*head* prowadzi implicite do klucza ♭*head* *f*<sup>5</sup>(♯) *c*<sup>5</sup>(♯) *g*<sup>5</sup>(♯); jednak jeżeli zapiszemy ponownie *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup> zaraz po wprowadzeniu pitagorejskiej zamiany na ♭*head*, tzn. jeżeli dojdzie do zestawienia ♭*head* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup>, rezultat będzie inny niż przedtem, gdyż odpowiednie pola/linie *f*, *c* i *g* diatoniczne dla *As*-dur to już nie *fis*, *cis* i *gis*, lecz *f*, *c* i *g* czyste.
+6. Nowy klucz FJS-owy kasuje wszystkie alteracje wprowadzony przez poprzedni. Jeżeli klucz pitagorejski również był się zmienił, co musi się stać przed wprowadzeniem FJS-owego klucza, wtedy oczywiście nowe alteracje mikrotonowe oparte są na nowym zestawie wysokości diatonicznych. Na przykład ♯*fcg* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup> to *A*-dur kwintowe; zmiana pitagorejskiego klucza na ♭*head* prowadzi implicite do klucza ♭*head* *f*<sup>5</sup>(♯) *c*<sup>5</sup>(♯) *g*<sup>5</sup>(♯); jednak jeżeli zapiszemy ponownie *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup> zaraz po wprowadzeniu pitagorejskiej zamiany na ♭*head*, tzn. jeżeli dojdzie do zestawienia ♭*head* *f*<sup>5</sup> *c*<sup>5</sup> *g*<sup>5</sup>, rezultat będzie inny niż przedtem, gdyż odpowiednie pola/linie *f*, *c* i *g* diatoniczne dla *As*-dur to już nie *fis*, *cis* i *gis*, lecz *f*, *c* i *g* czyste.
 
 ## Zasady dotyczące przenośników FJS-owych (\*)
 
