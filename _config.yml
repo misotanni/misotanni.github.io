@@ -8,7 +8,7 @@ defaults:
       otherlang: "English · In other languages:"
       return: "Return to the main page"
       credits: "Credits and contact"
-      disclaimer: "" # no translation disclaimer
+      disclaimer: false
   -
     scope:
       path: "fjs/pl"
