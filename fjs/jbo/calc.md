@@ -1,11 +1,11 @@
 # loi fy jy sy kajytci
 
 <select id="computations">
-  <option value="">i ko cuxna lo ve kanji</option>
-  <option value="comma">i kanji lo togyfancyku'e lo dilcysle</option>
-  <option value="tofjs">i kanji lo fy jy sy togyku'e lo frinu</option>
-  <option value="fromfjs">i kanji lo frinu lo fy jy sy togyku'e</option>
-  <option value="setlambda">i zifre stika lo crulai</option>
+  <option value="">.i ko cuxna lo ve kanji</option>
+  <option value="comma">.i kanji lo togyfancyku'e lo dilcysle</option>
+  <option value="tofjs">.i kanji lo fy jy sy togyku'e lo frinu</option>
+  <option value="fromfjs">.i kanji lo frinu lo fy jy sy togyku'e</option>
+  <option value="setlambda">.i zifre stika lo crulai</option>
 </select>
 
 i pruce fe ti: <br />
@@ -24,23 +24,23 @@ i pruce fi ti: <br />
        outputComma: "togyfancyku'e:",
     outputInterval: "togyku'e cmene:",
              ratio: "frinu:",
-           noInput: "i claxu lo se pruce",
-     cantFactorize: "i na ka'e kanji lo'i dilcymu'o be la'oi %1",
-        notANumber: "i la'oi %1 na'e namcu",
-       wrongFormat: "i na ka'e turfa'i",
-   wrongIntVariant: "i la'oi %1 noi togyku'e ku'o la'oi %2 noi klesi cu na mapti",
-       wrongFactor: "i li re lo'o e li ci na jai se curmi fai lo ka ce'u dilcymu'o lo fy jy sy togystika",
-     noComputation: "i lo ve pruce cu na se cuxna i lo liste zo'u ko cuxna",
-          notPrime: "i la'oi %1 na'e dilcysle",
-    butPythagorean: "i li re fa'u li ci cu zelto'aku'e fa'u vonto'aku'e se cistrpitagora i na nitcu lo fy jy sy togystika",
-           notFrac: "i lo se pruce cu na'e frinu i mu'a li mu fi'u ci",
-              div0: "i mabla i'o nai fa lo nu dilcu fi li no",
-           notReal: "i zo'oi %1 na'e saclu lo mrena'u",
-         radiusSet: "i ca crulai fa li %1",
+           noInput: ".i claxu lo se pruce",
+     cantFactorize: ".i na ka'e kanji lo'i dilcymu'o be la'oi %1",
+        notANumber: ".i la'oi %1 na'e namcu",
+       wrongFormat: ".i na ka'e turfa'i",
+   wrongIntVariant: ".i la'oi %1 noi togyku'e ku'o la'oi %2 noi klesi cu na mapti",
+       wrongFactor: ".i li re lo'o e li ci na jai se curmi fai lo ka ce'u dilcymu'o lo fy jy sy togystika",
+     noComputation: ".i lo ve pruce cu na se cuxna .i lo liste zo'u ko cuxna",
+          notPrime: ".i la'oi %1 na'e dilcysle",
+    butPythagorean: ".i li re fa'u li ci cu zelto'aku'e fa'u vonto'aku'e se cistrpitagora .i na nitcu lo fy jy sy togystika",
+           notFrac: ".i lo se pruce cu na'e frinu .i mu'a li mu fi'u ci",
+              div0: ".i mabla i'o nai fa lo nu dilcu fi li no",
+           notReal: ".i zo'oi %1 na'e saclu lo mrena'u",
+         radiusSet: ".i ca crulai fa li %1",
 
-             comma: "i kanji fi lo dilcysle poi zmadu li ci ku'o fe ge lo togyfancylei gi lo togyfancyku'e to e lo toglai be ri toi",
-             tofjs: "i kanji fi lo frinu fe lo pa fy jy sy togyku'e noi srana ri <br>i la'e di'u zo'u lo fy jy sy togystika cu tolxre i lo togyku'e poi mleca lo nontogyku'e zo'u pilno lo mecna'u noi sinxa lo togyku'e poi cnita i mu'a li mu fi'u vo cu se sinxa zoi zoi <code>M3^5</code> zoi i ku'i li vo fi'u mi zo'u zoi zoi <code>M-3_5</code> zoi <br>i <strong>o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene i mu'a me'o tau my ci cmene lo zmarelto'aku'e",
-           fromfjs: "i kanji fi lo fy jy sy togyku'e fe lo frinu noi srana ri i bilga lo nu jarco lo du'u ma kau cfari lo galto'a e lo dzito'a i e'a zifre pilji lo togystika gi'e te smuni lo togyku'e poi cnita ku'o lo mecna'u <br>i <strong>o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene i mu'a me'o tau my ci cmene lo zmarelto'aku'e",
-         setlambda: "i zifre stika lo crulai lo namcu poi zmadu li pa gi'e mleca li re te'a pi mu sei lo saclu cu se ciska i ciska zoi gy default gy te zu'e lo nu xruti lo crulai lo fadni no'u li vei ci ci fi'u ci pa ve'o te'a pi mu"
+             comma: ".i kanji fi lo dilcysle poi zmadu li ci ku'o fe ge lo togyfancylei gi lo togyfancyku'e to e lo toglai be ri toi",
+             tofjs: ".i kanji fi lo frinu fe lo pa fy jy sy togyku'e noi srana ri <br>.i la'e di'u zo'u lo fy jy sy togystika cu tolxre .i lo togyku'e poi mleca lo nontogyku'e zo'u pilno lo mecna'u noi sinxa lo togyku'e poi cnita .i mu'a li mu fi'u vo cu se sinxa zoi zoi <code>M3^5</code> zoi .i ku'i li vo fi'u mi zo'u zoi zoi <code>M-3_5</code> zoi <br>.i <strong>o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a me'o tau my ci cmene lo zmarelto'aku'e",
+           fromfjs: ".i kanji fi lo fy jy sy togyku'e fe lo frinu noi srana ri .i bilga lo nu jarco lo du'u ma kau cfari lo galto'a e lo dzito'a .i e'a zifre pilji lo togystika gi'e te smuni lo togyku'e poi cnita ku'o lo mecna'u <br>.i <strong>o'i</strong> lo kanji cu pilno lo glico ke togyku'e cmene .i mu'a me'o tau my ci cmene lo zmarelto'aku'e",
+         setlambda: ".i zifre stika lo crulai lo namcu poi zmadu li pa gi'e mleca li re te'a pi mu sei lo saclu cu se ciska .i ciska zoi gy default gy te zu'e lo nu xruti lo crulai lo fadni no'u li vei ci ci fi'u ci pa ve'o te'a pi mu"
   };
 </script>
