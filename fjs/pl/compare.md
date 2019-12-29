@@ -1,14 +1,16 @@
-﻿# Porównanie FJS-u z innymi systemami
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
 
-FJS to nie jedyny istniejący system zapisu JI. Wielu kompozytorów pisze muzykę mikrotonalną na własną rękę, tworząc wiele osobistych systemów dla różnorakich skal mikrotonalnych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonalności, na przykład konkretnego mikrotonalnego podziału oktawy czy konkretnego limitu, zatem jest niezdatna do użycia do JI.
+# Porównanie FJS-u z innymi systemami
 
-FJS stworzyłem szczególnie dla JI. Jest on przez to dobrze dostosowany do jego zapisu; przez to niestety nie nadaje się do niczego innego. **Jeszcze dwa inne systemy, podobne w zakresie zastosowania, są często używane:** Helmholtza-Ellisa (HE) i Bena Johnstona (BJ).
+FJS to nie jest jedyny system zapisu JI, z którym można się spotkać. Wielu kompozytorów, pisząc muzykę mikrotonową na własną rękę, tworzą wiele osobistych systemów dla różnorakich skal mikrotonowych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonowości lub własnych potrzebach, na przykład konkretnego podziału oktawy czy limitu (ograniczenia ze względu na czynniki pierwsze), zatem jest niezdatna do użycia do ogólnego JI.
 
-Istnieje także Sagittal, przeznaczony do notowania wszelkiej muzyki mikrotonalnej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przybliżeniach wysokości, a więc niezależnie od przyjętej dokładności znaków zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI jako liczby wymierne są jednoznacznie, nieskończenie dokładne.
+FJS stworzyłem szczególnie dla ogółu JI; jest on przez to dobrze dostosowany do jego zapisu. Niestety oznacza to, że nie nadaje się do niczego innego. **Dwoma rozpowszechnionymi notacjami JI o podobnym zakresie** są notacje Helmholtza-Ellisa (HE) i Bena Johnstona (BJ).
 
-System Helmholtza-Ellisa (czasem rozszerzany do „HEWM” – Helmholtza-Ellisa-Wolfa-Monzo) to pierwsza znana próba rozszerzenia zapisu nutowego do JI. [Najmłodsze rozbudowanie HE](http://www.marcsabat.com/pdfs/notation.pdf), które mogłem znaleźć, jest autorstwa Marka Sabata i potrafi przedstawić 61-limit.
+Istnieje także Sagittal, system przeznaczony do notowania wszelkiej muzyki mikrotonowej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przybliżeniach wysokości, a więc niezależnie od przyjętej dokładności znaków zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI jako liczby wymierne są jednoznacznie, nieskończenie dokładne.
 
-W przeciwnym narożniku mamy system stworzony przez jednego człowieka – kompozytora JI Bena Johnstona. [Najbardziej szczegółowa rozprawa o tym systemie](https://www.jstor.org/stable/833435) wymienia znaki zapisujące aż do 31-limitu; tak samo jest w [poradniku Kyle'a Ganna](https://kylegann.com/BJNotation.html).
+System Helmholtza-Ellisa (czasem rozszerzany do „HEWM” – Helmholtza-Ellisa-Wolfa-Monzo) to pierwsza powszechnie znana próba rozszerzenia zapisu nutowego do JI. [Najmłodsze rozbudowanie HE](http://www.marcsabat.com/pdfs/notation.pdf), które mogłem znaleźć, autorstwa Marka Sabata, potrafi przedstawić 61-limit.
+
+W przeciwnym narożniku mamy system stworzony przez jednego człowieka – kompozytora JI Bena Johnstona. [Najbardziej szczegółowa rozprawa o tym systemie](https://www.jstor.org/stable/833435) wymienia znaki umożliwiające zapis 31-limitu; to samo przeczytać można w [poradniku Kyle'a Ganna](https://kylegann.com/BJNotation.html).
 
 Teraz będę porównywał obydwa te systemy z FJS-em.
 

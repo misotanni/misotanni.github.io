@@ -1,4 +1,6 @@
-﻿# Das FJS mit Alternativen verglichen
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
+# Das FJS mit Alternativen verglichen
 
 Das FJS ist nicht das einzige Notationssystem für JI. Viele Komponisten interessieren sich für mikrotonale Musik, deshalb gibt es eine Großzahl von individuellen Notationssystemen für viele erfundene mikrotonale Tonsysteme. Die allergrößte Mehrheit davon ist aber nur für einen speziellen Aspekt der Mikrotonalität, z.B. eine besondere Division der Oktave, und reicht deshalb für JI nicht aus.
 
