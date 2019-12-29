@@ -1,4 +1,6 @@
-﻿# Comparaison du FJS aux alternatives
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
+# Comparaison du FJS aux alternatives
 
 Le FJS n'est pas le seul système de notation pour JI. Beaucoup de compositeurs s'intéressent pour la musique microtonale, c'est pourquoi il y a beaucoup de systèmes très individuels pour la notation des accords microtonaux. Pourtant, la plupart d'entre eux est adaptée à un seul aspect de la microtonalité, par exemple une seule division de l'octave, donc ne suffit pas pour JI.
 
@@ -105,7 +107,7 @@ Donc, d'où viennent-elles ?
 
 La réponse facile : ni Helmholtz-Ellis ni Johnston n'ont aucune raison.
 
-Il est vrai que Helmholtz-Ellis a 81/80 (le **comma syntonique**) et 64/63 (le **comma céleste**, du nom anglais *celestial comma* créé par Michael Harrison) qui sont probablement dûs à leur importance historique. 33/32 et 27/26 sont similaires à des quarts de ton associés avec la 11- et la 13-limite. Les commas de 17 et 19 sont basés sur des coïncidences avec des exposants de 2 : 256/255 et 513/512. Les commas de 23 et 43 sont identiques dans le FJS. Et le reste ? Il semble commis au hasard, comme si ces commas étaient trouvés pendant une chasse aveugle dans l'échelle harmonique.
+Il est vrai que Helmholtz-Ellis a 81/80 (le **comma syntonique**) et 64/63 (le **comma septimal**) qui sont probablement dûs à leur importance historique. 33/32 et 27/26 sont similaires à des quarts de ton associés avec la 11- et la 13-limite. Les commas de 17 et 19 sont basés sur des coïncidences avec des exposants de 2 : 256/255 et 513/512. Les commas de 23 et 43 sont identiques dans le FJS. Et le reste ? Il semble commis au hasard, comme si ces commas étaient trouvés pendant une chasse aveugle dans l'échelle harmonique.
 
 Bien sûr que Johnston a 81/80 aussi, pour corriger ses contradictions ; mais le reste des commas n'est pas reconnu, parce que ce sont des transformations de la 5-limite aux intervalles premiers, dont quelques sont vraiment bizarres. On dirait que 256/255 arriverait plutôt chez Johnston que chez Helmholtz-Ellis ; mais ce n'est pas vrai, Johnston utilise 51/50 qui transforme le demi-ton *chromatique*, pas le diatonique, en 17/16.
 

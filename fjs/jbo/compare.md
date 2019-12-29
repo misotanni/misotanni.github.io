@@ -1,4 +1,6 @@
-﻿# lo xe karbi be fy jy sy bei lo drata
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
+# lo xe karbi be fy jy sy bei lo drata
 
 ni'o fy jy sy na se steci lo ka ce'u snici'e lo cuvyto'aci'e
 i so'i zgifi'i cu sezbanzu finti lo cmato'aku'e zgike

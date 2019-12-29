@@ -1,4 +1,6 @@
-﻿# FJS Compared With Alternatives
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
+# FJS Compared With Alternatives
 
 The FJS is not the only JI notation system in existence. Many composers make microtonal music independently and so a large number of idiosyncratic notation systems for many different microtonal scales have been invented. The overwhelming majority of these notation systems, however, is optimized for one particular aspect of microtonality, such as one particular microtonal division of the octave, and is inadequate for JI notation.
 
@@ -105,7 +107,7 @@ Where do these accidentals come from, then?
 
 The answer is quite simple: neither Helmholtz-Ellis nor Johnston give any reason.
 
-Helmholtz-Ellis has 81/80 (the **syntonic comma**) and 64/63 (the **celestial comma**, as named by Michael Harrison), which I assume are due to their historical importance. 33/32 and 27/26 also seem familiar as quarter-tone-esque intervals typical for the 11- and 13-limit respectively. The 17- and 19-comma are based on superparticular coincidences with powers of 2: 256/255 and 513/512 respectively. The 23-comma and 43-comma are the same as in the FJS. The rest of the commas seem quite random, like the result of a blind search for superparticular ratios within the harmonic series.
+Helmholtz-Ellis has 81/80 (the **syntonic comma**) and 64/63 (the **septimal comma**), which I assume are due to their historical importance. 33/32 and 27/26 also seem familiar as quarter-tone-esque intervals typical for the 11- and 13-limit respectively. The 17- and 19-comma are based on superparticular coincidences with powers of 2: 256/255 and 513/512 respectively. The 23-comma and 43-comma are the same as in the FJS. The rest of the commas seem quite random, like the result of a blind search for superparticular ratios within the harmonic series.
 
 Johnston has 81/80 obviously to counter its own inconsistency, but the remaining commas are not recognizable, since they are mappings from the 5-limit to the prime intervals, and some of these mappings are indeed quite odd. One would think that a comma such as 256/255 would rather show up in Johnston than in Helmholtz-Ellis; but no, Johnston uses 51/50, which maps the *chromatic* rather than the diatonic semitone to 17/16.
 

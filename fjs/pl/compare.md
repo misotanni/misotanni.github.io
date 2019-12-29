@@ -1,14 +1,16 @@
-﻿# Porównanie FJS-u z innymi systemami
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
 
-FJS to nie jedyny istniejący system zapisu JI. Wielu kompozytorów pisze muzykę mikrotonalną na własną rękę, tworząc wiele osobistych systemów dla różnorakich skal mikrotonalnych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonalności, na przykład konkretnego mikrotonalnego podziału oktawy czy konkretnego limitu, zatem jest niezdatna do użycia do JI.
+# Porównanie FJS-u z innymi systemami
 
-FJS stworzyłem szczególnie dla JI. Jest on przez to dobrze dostosowany do jego zapisu; przez to niestety nie nadaje się do niczego innego. **Jeszcze dwa inne systemy, podobne w zakresie zastosowania, są często używane:** Helmholtza-Ellisa (HE) i Bena Johnstona (BJ).
+FJS to nie jest jedyny system zapisu JI, z którym można się spotkać. Wielu kompozytorów, pisząc muzykę mikrotonową na własną rękę, tworzą wiele osobistych systemów dla różnorakich skal mikrotonowych. Większość tych systemów jest jednak zaprojektowana z myślą o szczególnych rodzajach mikrotonowości lub własnych potrzebach, na przykład konkretnego podziału oktawy czy limitu (ograniczenia ze względu na czynniki pierwsze), zatem jest niezdatna do użycia do ogólnego JI.
 
-Istnieje także Sagittal, przeznaczony do notowania wszelkiej muzyki mikrotonalnej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przybliżeniach wysokości, a więc niezależnie od przyjętej dokładności znaków zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI jako liczby wymierne są jednoznacznie, nieskończenie dokładne.
+FJS stworzyłem szczególnie dla ogółu JI; jest on przez to dobrze dostosowany do jego zapisu. Niestety oznacza to, że nie nadaje się do niczego innego. **Dwoma rozpowszechnionymi notacjami JI o podobnym zakresie** są notacje Helmholtza-Ellisa (HE) i Bena Johnstona (BJ).
 
-System Helmholtza-Ellisa (czasem rozszerzany do „HEWM” – Helmholtza-Ellisa-Wolfa-Monzo) to pierwsza znana próba rozszerzenia zapisu nutowego do JI. [Najmłodsze rozbudowanie HE](http://www.marcsabat.com/pdfs/notation.pdf), które mogłem znaleźć, jest autorstwa Marka Sabata i potrafi przedstawić 61-limit.
+Istnieje także Sagittal, system przeznaczony do notowania wszelkiej muzyki mikrotonowej. Nie będziemy jednak go rozważać, ponieważ jest oparty na przybliżeniach wysokości, a więc niezależnie od przyjętej dokładności znaków zawsze będzie niedokładny w zapisie JI, ponieważ interwały JI jako liczby wymierne są jednoznacznie, nieskończenie dokładne.
 
-W przeciwnym narożniku mamy system stworzony przez jednego człowieka – kompozytora JI Bena Johnstona. [Najbardziej szczegółowa rozprawa o tym systemie](https://www.jstor.org/stable/833435) wymienia znaki zapisujące aż do 31-limitu; tak samo jest w [poradniku Kyle'a Ganna](https://kylegann.com/BJNotation.html).
+System Helmholtza-Ellisa (czasem rozszerzany do „HEWM” – Helmholtza-Ellisa-Wolfa-Monzo) to pierwsza powszechnie znana próba rozszerzenia zapisu nutowego do JI. [Najmłodsze rozbudowanie HE](http://www.marcsabat.com/pdfs/notation.pdf), które mogłem znaleźć, autorstwa Marka Sabata, potrafi przedstawić 61-limit.
+
+W przeciwnym narożniku mamy system stworzony przez jednego człowieka – kompozytora JI Bena Johnstona. [Najbardziej szczegółowa rozprawa o tym systemie](https://www.jstor.org/stable/833435) wymienia znaki umożliwiające zapis 31-limitu; to samo przeczytać można w [poradniku Kyle'a Ganna](https://kylegann.com/BJNotation.html).
 
 Teraz będę porównywał obydwa te systemy z FJS-em.
 
@@ -103,7 +105,7 @@ Skąd więc pochodzą te alteracje?
 
 Odpowiedź jest całkiem prosta: ani HE, ani BJ nie udzielają wyjaśnień.
 
-W HE występują 81/80 (**komat syntoniczny**) i 64/63 (jak nazwał go Michael Harrison, **komat niebiański**), które, jak zakładam, znalazły się tam z powodu ich historycznego znaczenia. 33/32 i 27/26 przypominają znajome ćwierćtonowe interwały z 11- i 13-limitu. Komaty 17. i 19. wyglądają na przypadkowe \\(\frac{n+1}{n}\\) na potęgach dwójki: 256/255 i 513/512. Komaty 23. i 43. są identyczne do FJS-owych. Reszta wydaje się całkiem losowa, jakby poszukiwanie odpowiadających komu ułamków \\(\frac{n+1}{n}\\) w szeregu alikwotowym w ciemno.
+W HE występują 81/80 (**komat syntoniczny**) i 64/63 (**komat septymowy**), które, jak zakładam, znalazły się tam z powodu ich historycznego znaczenia. 33/32 i 27/26 przypominają znajome ćwierćtonowe interwały z 11- i 13-limitu. Komaty 17. i 19. wyglądają na przypadkowe \\(\frac{n+1}{n}\\) na potęgach dwójki: 256/255 i 513/512. Komaty 23. i 43. są identyczne do FJS-owych. Reszta wydaje się całkiem losowa, jakby poszukiwanie odpowiadających komu ułamków \\(\frac{n+1}{n}\\) w szeregu alikwotowym w ciemno.
 
 BJ oczywiście ma 81/80 dla złagodzenia swojej niespójności, ale pozostałe komaty są zupełnie nierozpoznawalne z powodu swojego 5-limitowego pochodzenia, a niektóre z nich rzeczywiście potrafią zadziwić. Mogłoby się wydawać, że komat taki jak 256/255 raczej wystąpi w BJ niż w HE; jednak BJ w tym celu wykorzystuje 51/50, które jest odwzorowaniem nie diatonicznego, lecz *chromatycznego* półtonu na 17/16.
 
