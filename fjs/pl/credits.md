@@ -1,6 +1,4 @@
-# Credits
+# Autorzy
 
-kohoi fanva
-
-- Original idea, music, audio, English text, French & German translations: **misotanni** <mailto:lamisotanis@gmail.com>
-- Programming, music engraving, English text, Polish translation: [**uakci**](https://uakci.pl)
+- Pomysł, muzyka, audio, tekst angielski, tłumaczenie francuskie oraz niemieckie: **misotanni** <mailto:lamisotanis@gmail.com>
+- Kod, skład nut, tekst angielski, tłumaczenie polskie: [**uakci**](https://uakci.pl)
