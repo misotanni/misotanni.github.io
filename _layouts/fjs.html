@@ -12,19 +12,25 @@
     {% endif %}
   </head>
   <body>
-    {{ page.otherlang }}
-    <a href="../de/{{ page.name | replace: ".md", ".html" }}">de</a>
-    · <a href="../en/{{ page.name | replace: ".md", ".html" }}">en</a>
-    · <a href="../fr/{{ page.name | replace: ".md", ".html" }}">fr</a>
-    · <a href="../pl/{{ page.name | replace: ".md", ".html" }}">pl</a>
-    <hr />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
-    {{ content }}
+    <header>
+      {{ page.otherlang }}
+      <a href="../de/{{ page.name | replace: ".md", ".html" }}">de</a>
+      · <a href="../en/{{ page.name | replace: ".md", ".html" }}">en</a>
+      · <a href="../fr/{{ page.name | replace: ".md", ".html" }}">fr</a>
+      · <a href="../pl/{{ page.name | replace: ".md", ".html" }}">pl</a>
+    </header>
     <hr />
-    <a href="credits.html">{{ page.credits }}</a>
-    · <a href="index.html">{{ page.return }}</a>
-  {{ if page.disclaimer }}
-    · {{ page.disclaimer }}
-  {{ endif }}
+    <main>
+      {{ content }}
+    </main>
+    <hr />
+    <footer>
+      <a href="credits.html">{{ page.credits }}</a>
+      · <a href="index.html">{{ page.return }}</a>
+    {{ if page.disclaimer != "" }}
+      · {{ page.disclaimer }}
+    {{ endif }}
+    </footer>
   </body>
 </html>

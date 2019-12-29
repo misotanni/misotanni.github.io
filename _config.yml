@@ -1,53 +1,46 @@
 plugins:
   - jekyll-redirect-from
 defaults:
-  -
-    scope:
+  - scope:
       path: "fjs/en"
     values:
       otherlang: "English · In other languages:"
       return: "Return to the main page"
       credits: "Credits and contact"
-      disclaimer: false
-  -
-    scope:
+      disclaimer: ""
+  - scope:
       path: "fjs/pl"
     values:
       otherlang: "Polski · W innych językach:"
       return: "Powróć do strony głównej"
       credits: "Autorzy, kontakt"
       disclaimer: "Tłumaczenie może nie być aktualne z główną wersją angielską."
-  -
-    scope:
+  - scope:
       path: "fjs/jbo"
     values:
       otherlang: "jbobau · i bau lo drata zo'u:"
       return: "xruzva lo ralju"
       credits: "lo finti datni jo'u lo jikca judri"
       disclaimer: "i cumki fa lo nu lo xe fanva na sarxe lo pe ca ralju ke glibau versiio"
-  -
-    scope:
+  - scope:
       path: "fjs/fr"
     values:
       otherlang: "Français · En d'autres langues:"
       return: "Retournez à la page d'accueil"
       credits: "À la page des crédits et du contact"
       disclaimer: "Il est possible que la traduction n'est pas à jour avec la version anglaise principale."
-  -
-    scope:
+  - scope:
       path: "fjs/de"
     values:
       otherlang: "Deutsch · In anderen Sprachen:"
       return: "Zurück zur Hauptseite"
       credits: "Zur Credits- und Kontaktseite"
       disclaimer: "Es ist möglich, dass die Übersetzung mit dem englischen Urtext nicht völlig übereinstimmt."
-  -
-    scope:
+  - scope:
       path: "fjs"
     values:
       layout: "fjs"
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
