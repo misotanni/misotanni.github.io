@@ -9,7 +9,7 @@ redirect_from: "/fjs/"
 
 ---
 
-<img src="../assets/index/impression.png" alt="This is what the FJS looks like!">
+<img src="../assets/index/impression.svg" alt="This is what the FJS looks like!">
 
 # Welcome
 

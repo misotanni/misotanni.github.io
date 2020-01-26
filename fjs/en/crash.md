@@ -21,11 +21,11 @@ We are all familiar with standard staff notation and its conventional sharps and
 
 For example, here is the 12-EDO chromatic scale:
 
-<img src="../assets/crash/chromatic-wrong.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
+<img src="../assets/crash/chromatic-wrong.svg" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–A♯–B–C">
 
 No, wait. Actually, the way that it is most commonly written is like this:
 
-<img src="../assets/crash/chromatic-right.png" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
+<img src="../assets/crash/chromatic-right.svg" alt="C–C♯–D–D♯–E–F–F♯–G–G♯–A–B♭–B–C">
 
 Replacing that A♯ with B♭ makes no difference to us, of course. We know that those are different names for two notes that are of the same pitch. Choosing between these names is just a matter of legibility, or consistency, or simplicity, as given by context, but they are equivalent.
 
@@ -130,7 +130,7 @@ You don't need to memorize this table. Memorization is not at all necessary to u
 
 1. Find the FJS intervals corresponding to the following Pythagorean ratios: 2187/2048, 1024/729, 8192/6561.
 2. Find the Pythagorean ratios corresponding to the following FJS representations: d7, A5, d3.
-3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/crash/pythagorean-scale.png" alt="E–F♯–A–B–D–E"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
+3. Find the Pythagorean ratios between consecutive steps in this scale: <img src="../assets/crash/pythagorean-scale.svg" alt="E–F♯–A–B–D–E"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Notate this scale in the FJS with D as tonic: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Find the ratio of the Pythagorean comma (d2 in the FJS).
 6. (HARD!) One particularly small interval in Pythagorean tuning, only about 3.6 cents, has the ratio 3<sup>53</sup>/2<sup>84</sup>. Find its FJS representation.
@@ -234,7 +234,7 @@ Here is the harmonic series on A, up to the eighth harmonic, notated using the F
 
 Here is the same using staff notation:
 
-<img src="../assets/crash/overtone-short.png" alt="A–A–E–A–C♯5–E–G7–A">
+<img src="../assets/crash/overtone-short.svg" alt="A–A–E–A–C♯5–E–G7–A">
 
 Listen to this scale:
 
@@ -251,7 +251,7 @@ At this point, I'd like to explain how these accidentals interact with each othe
 
 Why so? Because when this rule is considered in this way, it is much more logical, and because this is much more useful. Below is a demonstration of this rule:
 
-<img src="../assets/crash/accidentals.png" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
+<img src="../assets/crash/accidentals.svg" alt="C♯5–C, C♯5–C1, C♯5–C♮, C♯5–C♮5">
 
 <audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
@@ -319,7 +319,7 @@ Try using these methods to tackle the next exercise.
 1. Write the FJS representations of the following: 5/3, 6/5, 7/6, 9/5.
 2. Find the JI ratios of the following FJS intervals: M2<sup>5</sup>, M3<sub>7</sub>, m7<sup>11</sup>.
 3. Notate Ptolemy's intense diatonic scale in the FJS on C. The ratios are: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/crash/just-minor.png" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
+4. (HARD!) Take the following scale. Is it a mode of the above? <img src="../assets/crash/just-minor.svg" alt="C–D–E♭_5–F–G–A♭_5–B♭_5–C"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 You can check your answers [here](solutions.html).
 
@@ -342,7 +342,7 @@ As mentioned, otonal and utonal do not mix. So if a note G♭ happened to have b
 
 So the notes G♭<sup>7</sup><sub>5</sub> and F♯<sup>5</sup><sub>7</sub> (respectively 7/5 and 10/7 in the key of C) would be written in staff notation like this:
 
-<img src="../assets/crash/interval.png" alt="G♭7_5–F♯5_7">
+<img src="../assets/crash/interval.svg" alt="G♭7_5–F♯5_7">
 
 Here is what they sound like, respectively:
 
@@ -436,7 +436,7 @@ Now you can finally learn why the square root of 33/31 is my preferred choice fo
 	- ii chord: 10/9, 5/4, 4/3, 5/3, 1/1
 	- V chord: 3/2, 9/8, 21/16, 27/16, 15/8
 	- I chord: 1/1, 9/8, 5/4, 3/2, 15/8
-4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic: <img src="../assets/crash/cadence.png" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
+4. Translate the following chord progression from the FJS back into ratios above E♭, the tonic: <img src="../assets/crash/cadence.svg" alt="E♭–B♭–G5–E♭, C5–C5–G5–E♭, A♭–C5–A♭–F5, B♭–B♭–F1–D5, E♭–B♭–G5–E♭"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Given that the base note is A, notate the first audio example in this crash course using the FJS. Here it is again: 11/10, 10/9, 9/8, 8/7.
 	
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>

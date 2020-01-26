@@ -8,7 +8,7 @@ title: Le Système fonctionnel de l'intonation juste
 
 ---
 
-<img src="../assets/index/impression.png" alt="Voici le FJS !">
+<img src="../assets/index/impression.svg" alt="Voici le FJS !">
 
 # Bienvenue
 

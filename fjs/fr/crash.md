@@ -21,11 +21,11 @@ Nous sommes tous habitués à la notation de portée conventionnelle, et à ses 
 
 Par exemple, ici nous avons la gamme chromatique :
 
-<img src="../assets/crash/chromatic-wrong.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–La♯–Si–Do">
+<img src="../assets/crash/chromatic-wrong.svg" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–La♯–Si–Do">
 
 Non, attendez. On l'écrit normalement comme ça :
 
-<img src="../assets/crash/chromatic-right.png" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–Si♭–Si–Do">
+<img src="../assets/crash/chromatic-right.svg" alt="Do–Do♯–Ré–Ré♯–Mi–Fa–Fa♯–Sol–Sol♯–La–Si♭–Si–Do">
 
 Pour nous, bien sûr, il n'y a pas de différence entre La dièse et Si bémol. Nous savons que ce sont deux noms différents qui signifient deux notes différentes de hauteur identique. Le choix de la notation dépend donc de la lisibilité ou la cohérence ou la simplicité, selon le sens, mais les deux signifient le même.
 
@@ -130,7 +130,7 @@ Mais vous n'avez pas du tout besoin d'apprendre ce tableau par cœur, non ! Pou
 
 1. Calculez les intervalles FJS qui correspondent à ces rapports pythagoriciens : 2187/2048, 1024/729, 8192/6561.
 2. Calculez les rapports pythagoriciens qui correspondent à ces intervalles : septième diminuée, quinte augmentée, tierce diminuée.
-3. Trouvez les rapports entre les degrés de cette gamme : <img src="../assets/crash/pythagorean-scale.png" alt="Mi–Fa♯–La–Si–Ré–Mi"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
+3. Trouvez les rapports entre les degrés de cette gamme : <img src="../assets/crash/pythagorean-scale.svg" alt="Mi–Fa♯–La–Si–Ré–Mi"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Écrivez cette gamme dans le FJS avec la tonique Ré : 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Calculez le rapport du comma pythagoricien (dans le FJS, une seconde diminuée).
 6. (DIFFICILE !) Le rapport pythagoricien 3<sup>53</sup>/2<sup>84</sup> est minuscule : il ne compte qu'environ 3.6 cents. Trouvez sa représentation FJS.
@@ -234,7 +234,7 @@ Voyez l'échelle harmonique sur La jusqu'au huitième harmonique :
 
 Sur la portée :
 
-<img src="../assets/crash/overtone-short.png" alt="La–La–Mi–La–Do♯5–Mi–Sol7–La">
+<img src="../assets/crash/overtone-short.svg" alt="La–La–Mi–La–Do♯5–Mi–Sol7–La">
 
 Écoutez-la :
 
@@ -251,7 +251,7 @@ Je voudrais maintenant expliquer comment ces altérations interagissent.
 
 Pourquoi ? Parce que cette règle est plus logique et plus pratique. Voici une démonstration :
 
-<img src="../assets/crash/accidentals.png" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
+<img src="../assets/crash/accidentals.svg" alt="Do♯5–Do, Do♯5–Do1, Do♯5–Do♮, Do♯5–Do♮5">
 
 <audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
@@ -319,7 +319,7 @@ Essayez d'utiliser ces méthodes pour résoudre l'exercice suivant.
 1. Trouvez les formes FJS des rapports suivants : 5/3, 6/5, 7/6, 9/5.
 2. Trouvez les rapports correspondants aux formes FJS suivants : (seconde majeure)<sup>5</sup>, (tierce majeure)<sub>7</sub>, (septième mineure)<sup>11</sup>.
 3. Écrivez dans le FJS, sur Do, l'échelle ptolémaïque dont les rapports sont : 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/crash/just-minor.png" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
+4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/crash/just-minor.svg" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 
@@ -342,7 +342,7 @@ Comme j'ai déjà expliqué, l'otonalité et l'utonalité ne sont jamais mixtes.
 
 Donc, les notes Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub> (soit 7/5 et 10/7 sur Do) seraient représentés de la façon suivante :
 
-<img src="../assets/crash/interval.png" alt="Sol♭7_5–Fa♯5_7">
+<img src="../assets/crash/interval.svg" alt="Sol♭7_5–Fa♯5_7">
 
 Écoutez-les :
 
@@ -436,7 +436,7 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
-4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique : <img src="../assets/crash/cadence.png" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
+4. Traduisez cette progression du FJS en rapports sur Mi♭, la tonique : <img src="../assets/crash/cadence.svg" alt="Mi♭–Si♭–Sol5–Mi♭, Do5–Do5–Sol5–Mi♭, La♭–Do5–La♭–Fa5, Si♭–Si♭–Fa1–Ré5, Mi♭–Si♭–Sol5–Mi♭"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Écrivez le premier audio de ce cours dans le FJS. Vous le voyez ici : 11/10, 10/9, 9/8, 8/7. La tonique, c'est La.
 
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>

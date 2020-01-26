@@ -21,11 +21,11 @@ Wir sind alle an die gewöhnliche Notenschrift gewohnt, und an ihre üblichen Kr
 
 Hier zum Beispiel steht die chromatische Tonleiter:
 
-<img src="../assets/crash/chromatic-wrong.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
+<img src="../assets/crash/chromatic-wrong.svg" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–Ais–H–C">
 
 Ähm, nein. Normalerweise sieht sie so aus:
 
-<img src="../assets/crash/chromatic-right.png" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
+<img src="../assets/crash/chromatic-right.svg" alt="C–Cis–D–Dis–E–F–Fis–G–Gis–A–B–H–C">
 
 Ob dort Ais oder B steht, macht für uns natürlich keinen Unterschied. Wir wissen, dass das zwei unterschiedliche Namen für zwei Noten derselben Tonhöhe sind. Ob wir jetzt Ais oder B verwenden, kommt auf die Lesbarkeit oder Einheitlichkeit oder Einfachheit, je nach Kontext, aber sie bedeuten das Gleiche.
 
@@ -130,7 +130,7 @@ Du brauchst dir diese Tabelle gar nicht merken! Um das FJS zu benutzen, brauchst
 
 1. Berechne die FJS-Intervalle, die folgenden Frequenzverhältnissen entsprechen: 2187/2048, 1024/729, 8192/6561.
 2. Berechne die Frequenzverhältnisse, die folgenden Intervallen entsprechen: verminderte Septime, übermäßige Quinte, verminderte Terz.
-3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/crash/pythagorean-scale.png" alt="E–Fis–A–H–D–E"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
+3. Finde die Verhältnisse zwischen aufeinanderfolgenden Schritten dieser Tonleiter: <img src="../assets/crash/pythagorean-scale.svg" alt="E–Fis–A–H–D–E"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Notiere die folgende Tonleiter im FJS mit D als Grundton: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Bestimme das Frequenzverhältnis des sog. pythagoreischen Kommas (eine verminderte Sekunde im FJS).
 6. (SCHWIERIG!) Nur etwa 3.6 Cent beträgt das winzige pythagoreische Intervall 3<sup>53</sup>/2<sup>84</sup>. Stelle es im FJS dar.
@@ -234,7 +234,7 @@ So sieht die Obertonreihe von A bis zum achten Oberton im FJS aus:
 
 So sieht sie in Notenschrift aus:
 
-<img src="../assets/crash/overtone-short.png" alt="A–A–E–A–Cis5–E–G7–A">
+<img src="../assets/crash/overtone-short.svg" alt="A–A–E–A–Cis5–E–G7–A">
 
 So hört sie sich an:
 
@@ -251,7 +251,7 @@ Jetzt möchte ich erklären, wie diese Versetzungszeichen miteinander interagier
 
 Wieso? Weil es damit logischer und praktischer ist. Hier siehst du eine Veranschaulichung dieser Regel:
 
-<img src="../assets/crash/accidentals.png" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
+<img src="../assets/crash/accidentals.svg" alt="Cis5–C, Cis5–C1, Cis5–C♮, Cis5–C♮5">
 
 <audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
@@ -319,7 +319,7 @@ Versuche diese Methoden, um die nächste Aufgabe zu lösen.
 1. Schreibe die FJS-Darstellungen folgender Frequenzverhältnisse: 5/3, 6/5, 7/6, 9/5.
 2. Finde die Frequenzverhältnisse folgender FJS-Intervalle: (große Sekunde)<sup>5</sup>, (große Terz)<sub>7</sub>, (kleine Septime)<sup>11</sup>.
 3. Notiere die ptolemäische Tonleiter im FJS von C. Die Verhältnisse lauten: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/crash/just-minor.png" alt="C–D–Es_5–F–G–As_5–B_5–C"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
+4. (SCHWIERIG!) Betrachte die folgende Tonleiter. Ist sie ein Modus der oberen? <img src="../assets/crash/just-minor.svg" alt="C–D–Es_5–F–G–As_5–B_5–C"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
 
@@ -342,7 +342,7 @@ Wie ich schon erwähnt habe, Otonalität und Utonalität mischt man nicht. Falls
 
 Die Noten Ges<sup>7</sup><sub>5</sub> und Fis<sup>5</sup><sub>7</sub> (also 7/5 bzw. 10/7 in der Tonart C) würde man so aufschreiben:
 
-<img src="../assets/crash/interval.png" alt="Ges7_5–Fis5_7">
+<img src="../assets/crash/interval.svg" alt="Ges7_5–Fis5_7">
 
 So hören sie sich an:
 
@@ -436,7 +436,7 @@ Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den To
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
 	- 1/1, 9/8, 5/4, 3/2, 15/8
-4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/crash/cadence.png" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
+4. Übersetze die folgende Progression aus dem FJS zurück in JI-Verhältnisse zu Es, dem Grundton: <img src="../assets/crash/cadence.svg" alt="Es–B–G5–Es, C5–C5–G5–Es, As–C5–As–F5, B–B–F1–D5, Es–B–G5–Es"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Notiere das erste Hörbeispiel in diesem Crash-Kurs im FJS. Hier steht es noch mal: 11/10, 10/9, 9/8, 8/7. Dir ist gegeben, dass der Grundton A ist.
 	
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>

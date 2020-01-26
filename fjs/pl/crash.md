@@ -21,11 +21,11 @@ Wszyscy jesteśmy zaznajomieni z zapisem nutowym i występującymi w nim znak
 
 Oto na przykład skala dodekafoniczna w 12-EDO:
 
-<img src="../assets/crash/chromatic-wrong.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–ais–h–c">
+<img src="../assets/crash/chromatic-wrong.svg" alt="c–cis–d–dis–e–f–fis–g–gis–a–ais–h–c">
 
 Chwileczkę. Właściwie zwykle zapisujemy ją tak:
 
-<img src="../assets/crash/chromatic-right.png" alt="c–cis–d–dis–e–f–fis–g–gis–a–b–h–c">
+<img src="../assets/crash/chromatic-right.svg" alt="c–cis–d–dis–e–f–fis–g–gis–a–b–h–c">
 
 Oczywiście zamiana *ais* na *b* w tym miejscu nie robi naszym uszom różnicy. Wiemy, że to są dwie różne nazwy na jedną wysokość. To, którą wybierzemy, zależy od naszych potrzeb – od czytelności, konsekwencji czy prostoty – i zależnie od kontekstu, ale są mimo wszystko synonimiczne.
 
@@ -129,7 +129,7 @@ Nie musisz uczyć się tej tabeli na pamięć. Do opanowania FJS-u tego nie potr
 
 1. Znajdź FJS-owe interwały odpowiadające wymienionym ułamkom pitagorejskim: 2187/2048, 1024/729, 8192/6561.
 2. Znajdź wartości pitagorejskich interwałów odpowiadające następującym FJS-owym reprezentacjom: 7>, 5<, 3\>\>. (Pierwszy interwał to septyma zmniejszona, nie mała).
-3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/crash/pythagorean-scale.png" alt="e–fis–a–h–d–e"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
+3. Oblicz wartości ułamkowe interwałów pomiędzy kolejnymi stopniami tej skali: <img src="../assets/crash/pythagorean-scale.svg" alt="e–fis–a–h–d–e"> <audio controls><source src="../assets/crash/pythagorean-scale.mp3" type="audio/mpeg"></audio>
 4. Zapisz tę skalę w FJS-ie, przyjmując za tonikę *d*: 1/1, 81/64, 4/3, 3/2, 243/128, 2/1.
 5. Znajdź wartość tzw. komatu pitagorejskiego, czyli FJS-owego 2\>\>.
 6. (Trudne!). Pewien wyjątkowo wąski interwał w stroju pitagorejskim, mierzący ok. 3,6¢, to ułamek 3<sup>53</sup>/2<sup>84</sup>. Wynajdź jego odpowiednik w FJS-ie.
@@ -233,7 +233,7 @@ Oto seria alikwotów zbudowana na *a* aż do ósmego alikwotu, zapisana za pomoc
 
 To samo na pięciolinii:
 
-<img src="../assets/crash/overtone-short.png" alt="a–a–e–a–cis5–e–g7–a">
+<img src="../assets/crash/overtone-short.svg" alt="a–a–e–a–cis5–e–g7–a">
 
 W wersji audio:
 
@@ -250,7 +250,7 @@ Teraz wyjaśnię, jak alteracje oddziałują na siebie nawzajem na pięciolinii.
 
 Dlaczego akurat tak? Ponieważ w tej formie reguła ta jest spójna i użyteczna. Oto demonstracja:
 
-<img src="../assets/crash/accidentals.png" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
+<img src="../assets/crash/accidentals.svg" alt="c♯5–c, c♯5–c1, c♯5–c♮, c♯5–c♮5">
 
 <audio controls><source src="../assets/crash/accidentals.mp3" type="audio/mpeg"></audio>
 
@@ -318,7 +318,7 @@ Posłuż się dowolną z powyższych metod, by poradzić sobie z następnym ze
 1. Zapisz w FJS-ie następujące interwały: 5/3, 6/5, 7/6, 9/5.
 2. Znajdź wartości następujących FJS-owych interwałów: 2<sup>5</sup>, 3<sub>7</sub>, 7<sup>11</sup>.
 3. Zapisz ptolemejską skalę diatoniczną od *c* w FJS-ie. Oto ułamki: 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
-4. (Trudne!). Dana jest zapisana poniżej skala. Czy to tryb skali z poprzedniego ćwiczenia? <img src="../assets/crash/just-minor.png" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
+4. (Trudne!). Dana jest zapisana poniżej skala. Czy to tryb skali z poprzedniego ćwiczenia? <img src="../assets/crash/just-minor.svg" alt="c–d–es_5–f–g–as_5–b_5–c"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
@@ -341,7 +341,7 @@ Jak wspomniałem, otonalne i utonalne alteracje się nie mieszają, więc jeże
 
 Zatem wysokości *ges*<sup>7</sup><sub>5</sub> i *fis*<sup>5</sup><sub>7</sub> (odpowiednio 7/5 i 10/7 od *c*) zapisujemy następująco:
 
-<img src="../assets/crash/interval.png" alt="ges7_5–fis5_7">
+<img src="../assets/crash/interval.svg" alt="ges7_5–fis5_7">
 
 A brzmią one następująco:
 
@@ -435,7 +435,7 @@ Teraz mogę już wyjaśnić, dlaczego to właśnie pierwiastek kwadratowy z 33/3
 	- S<sub>II</sub>: 10/9, 5/4, 4/3,   5/3,   1/1
 	- D:              3/2,  9/8, 21/16, 27/16, 15/8
 	- T:              1/1,  9/8, 5/4,   3/2,   15/8
-4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki: <img src="../assets/crash/cadence.png" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
+4. Zapisz następującą sekwencję akordów jako ułamki – interwały od *es*, czyli toniki: <img src="../assets/crash/cadence.svg" alt="es–b–g5–es, c5–c5–g5–es, as–c5–as–f5, b–b–f1–d5, es–b–g5–es"> <audio controls><source src="../assets/crash/cadence.mp3" type="audio/mpeg"></audio>
 5. Wiedząc, że wysokością bazową jest *a*, zapisz pierwszy przykład muzyczny z tego kursu w FJS-ie. Dla przypomnienia: jest to 11/10, 10/9, 9/8, 8/7.
 
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>

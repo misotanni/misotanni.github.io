@@ -8,7 +8,7 @@ title: Das Naturtonfunktionssystem
 
 ---
 
-<img src="../assets/index/impression.png" alt="So sieht das FJS aus!">
+<img src="../assets/index/impression.svg" alt="So sieht das FJS aus!">
 
 # Willkommen
 

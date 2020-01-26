@@ -8,7 +8,7 @@ title: la fancu ke curve ciste
 
 ---
 
-<img src="../assets/index/impression.png" alt=".i ti jvinu fy jy sy">
+<img src="../assets/index/impression.svg" alt=".i ti jvinu fy jy sy">
 
 # fi'i
 

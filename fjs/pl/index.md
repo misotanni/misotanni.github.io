@@ -8,7 +8,7 @@ title: FJS (Funkcyjny System Stroju Naturalnego)
 
 ---
 
-<img src="../assets/index/impression.png" alt="Tak wygląda FJS!">
+<img src="../assets/index/impression.svg" alt="Tak wygląda FJS!">
 
 # Witamy
 
