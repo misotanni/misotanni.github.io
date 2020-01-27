@@ -304,7 +304,9 @@ Listen to it:
 
 <audio controls><source src="../assets/compare/chorale.mp3" type="audio/mpeg"></audio>
 
-You can find more comparisons among the [examples](examples.html).
+### More
+
+You can find even more comparisons among the [examples](examples.html).
 
 ## Verdict
 
@@ -331,6 +333,16 @@ Your guide to figuring out the ratios from notation does indeed start at looking
 You could have arrived at the fact that C to B♭ is 16/9 in so many different (and easier) ways than 243/128 times 2048/2187; in fact, you probably chose the most inconvenient possible way to arrive at 16/9 (the equivalent of the only possible way to arrive at 9/5 in Johnston).
 
 For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
+
+Here is an image of handwritten sheet music in Johnston notation from your online guide:
+
+<img src="../assets/compare/BJSQ9ex.jpg" alt="Excerpt from Ben Johnston's String Quartet No. 9">
+
+In just two measures and four staves of music in C (the "best" key for Johnston notation!) on just the harmonic series segment 16-32, this excerpt contains not one, not two, but **three** mistakes: the viola in bar 1, measure 4 plays 99/64 instead of 11/8; all instruments but the first violin in bar 2, measure 4 play 39/32 instead of 19/16; and finally, the last two notes of the viola read 153/128, 9/8, instead of 17/16, 1/1. (All these ratios are octave-reduced with C as 1/1.)
+
+It is not surprising that Johnston notation, being a cryptographic kaleidoscope, causes this much confusion while composing even in a key as simple as C (to say nothing of D or B♭). In contrast, here is the same excerpt translated into the FJS. Notice how much clearer and more apparent the mistakes become:
+
+<img src="../assets/compare/bj9.svg" alt="The same excerpt, in the FJS">
 
 The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
 
