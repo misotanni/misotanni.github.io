@@ -340,7 +340,7 @@ Here is an image of handwritten sheet music in Johnston notation from your onlin
 
 In just two measures and four staves of music in C (the "best" key for Johnston notation!) on just the harmonic series segment 16-32, this excerpt contains not one, not two, but **three** mistakes: the viola in bar 1, measure 4 plays 99/64 instead of 11/8; all instruments but the first violin in bar 2, measure 4 play 39/32 instead of 19/16; and finally, the last two notes of the viola read 153/128, 9/8, instead of 17/16, 1/1. (All these ratios are octave-reduced with C as 1/1.)
 
-It is not surprising that Johnston notation, being a cryptographic kaleidoscope, causes this much confusion while composing even in a key as simple as C (to say nothing of D or B♭). In contrast, here is the same excerpt translated into the FJS. Notice how much clearer and more apparent the mistakes become:
+It is not surprising that Johnston notation, being a cryptographic kaleidoscope, causes this much confusion while composing even in a key as simple as C (to say nothing of D or B♭). In contrast, here is the same excerpt (mistakes included) in the FJS. Notice how much clearer and more apparent the mistakes become:
 
 <img src="../assets/compare/bj9.svg" alt="The same excerpt, in the FJS">
 
