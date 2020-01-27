@@ -334,7 +334,7 @@ You could have arrived at the fact that C to B♭ is 16/9 in so many different (
 
 For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
 
-Here is an image of handwritten sheet music in Johnston notation from your online guide:
+Here is an image of handwritten sheet music in Johnston notation (an excerpt from Ben Johnston's String Quartet No. 9) from your online guide:
 
 <img src="../assets/compare/BJSQ9ex.jpg" alt="Excerpt from Ben Johnston's String Quartet No. 9">
 
