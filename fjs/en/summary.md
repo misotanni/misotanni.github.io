@@ -9,7 +9,7 @@ The goals of the FJS are:
 - To be much easier to use (both in reading and in writing) than existing notation systems for Just Intonation.
 - To be optimized for use with digital musical notation software, due to its ability to automatically generate all of its accidentals.
 
-The core of the FJS is the **FJS master algorithm**, which takes any prime number greater than 3 as its input, and makes use of a constant known as the **radius of tolerance** (whose standard value is $$\sqrt{\frac{33}{31}}$$, the geometric mean of 33/32 and 32/31). It looks for the simplest approximation of that prime number closer than the radius of tolerance within the 3-limit (*simplest* means lowest absolute value of the **fifth shift**, i.e. the exponent of three). The difference between the target and the approximation is then recorded as the so-called **formal comma** of that prime, always in the original direction, i.e. with the prime number factor in the numerator.
+The core of the FJS is the **FJS master algorithm**, which takes any prime number greater than 3 as its input, and makes use of a constant known as the **radius of tolerance** (whose standard value is 65/63, the mediant of 33/32 and 32/31). It looks for the simplest approximation of that prime number closer than the radius of tolerance within the 3-limit (*simplest* means lowest absolute value of the **fifth shift**, i.e. the exponent of three). The difference between the target and the approximation is then recorded as the so-called **formal comma** of that prime, always in the original direction, i.e. with the prime number factor in the numerator.
 
 Just Intonation is notated in the following way: 
 

@@ -169,7 +169,7 @@ Why should we choose the major third over the diminished fourth to notate 5/4? A
 
 OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question “How do we choose the approximations for each prime interval?” is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
 
-$$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
+$$\displaystyle \lambda =\frac{65}{63}$$
 
 The reason will be explained later.
 
@@ -186,7 +186,7 @@ The **FJS master algorithm** outputs the so-called **fifth shift** for each prim
 > 5. If so: *k* is the fifth shift. Output. End.
 > 6. If not: move to the next *k* in the sequence: (0, 1, −1, 2, −2, 3, −3, …) and repeat from step 3.
 >
-> **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = sqrt(33/31).) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
+> **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = 65/63.) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
 >
 > | Fifth shift | Pythagorean |   Comma   |                 Conclusions |
 > |------------:|:-----------:|:---------:|----------------------------:|
@@ -426,7 +426,7 @@ There's one last thing that you might want before trying your accumulated skills
 | 29    | −2          | 261/256      |
 | 31    | +5          | 248/243      |
 
-Now you can finally learn why the square root of 33/31 is my preferred choice for the radius of tolerance. This number is the geometric mean of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be an absurd d5). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8. Clever, huh?
+Now you can finally learn why 65/63 is the standard radius of tolerance. This number is the mediant of 33/32 and 32/31, being strictly greater than the former and strictly less than the latter. So 33/32 is accepted as a possible formal comma, allowing the representation of 11/8 as a P4 (if this was rejected, the next nearest approximation would be an absurd d5). But at the same time, 32/31 is rejected, disallowing the just as absurd representation of 31/16 as a P8. Clever, huh?
 
 ### Exercise 4
 
