@@ -65,7 +65,7 @@ function pow(s, n) {
   return [Math.pow(s[0], n), Math.pow(s[1], n)];
 }
 
-var lambda = Math.sqrt(33/31);
+var lambda = 65/63;
 var commaCache = {};
 function commaForPrime(p) {
   if(commaCache[p]) return commaCache[p];
