@@ -118,5 +118,3 @@ This [piano cover](https://youtu.be/JvnYEVxlDvc) of the Minecraft soundtrack in 
 I have used the FJS to list the pitches I have used in a Just Intonation piece. For example, here are the [tuning sets](../assets/examples/tuning.pdf) for two pieces, *Overture of Opulence* and *Meditations on a Medieval Theme Remix*, from *Justin Tonation*.
 
 Using the FJS in these contexts helps me immediately recognize the function of a note even if its ratio to the initial tonic is very complex (and I do use complex ratios). For instance, 243/200 may not tell me much, but seeing that it is a m3<sub>25</sub> helps me recognize it instantly; it's just a 6/5 raised by another syntonic comma. To give another example from another one of my pieces, *Symphony of the Elements*: 729/640 is confusing, but M2<sub>5</sub> is less so; a 9/8 raised by a syntonic comma.
-
-## More?
