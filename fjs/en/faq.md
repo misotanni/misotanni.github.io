@@ -22,9 +22,11 @@ You don't need one! Let the [calculators](calc.html) handle that.
 
 I've outlined some of my reasoning on the [comparison](compare.html) page.
 
-## What about (Sagittal / the H-system / Kite's color notation / Catherino's polychromatic notation / \[insert some other alternative notation system\])?
+## Why is 65/63 the radius of tolerance?
 
-Again, consult the [comparison](compare.html).
+I've explained this briefly in the [crash course](crash.html): what I really cared about was that the radius of tolerance be greater than 33/32 but less than 32/31. Why then 65/63 in particular? It is the mediant of these two, therefore the simplest possible number between them. As a matter of fact, for a long time the radius of tolerance used to be their geometric mean instead: the square root of 33/31. I would like to thank Kite Giedraitis, the creator of [color notation](http://tallkite.com/), for pointing out to me the simpler possibility of 65/63. The tiny difference does not break anything; in fact, it should be completely unnoticeable as the first prime number affected is 35617 (used to be m2<sup>35617</sup>, now A1<sup>35617</sup>).
+
+The radius of tolerance used to be many other strange things in the past… including 256/243, and even the square root of 256/243 (yuck!). Each of these numbers has had its rationalization, but it probably cannot get more rational than 65/63 (pun intended).
 
 ## Why the fuss if I can define my pitches at the top of a score?
 

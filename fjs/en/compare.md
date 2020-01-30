@@ -334,13 +334,13 @@ You could have arrived at the fact that C to B♭ is 16/9 in so many different (
 
 For example, you could have noticed that both C and B♭ have no microtonal accidentals, so by the definition of the natural notes, the minor seventh between them is Pythagorean, hence 16/9. Or you could have noticed that it is two 4/3 fourths, hence 16/9. Or you could have noticed that it is the inversion of a 9/8 whole tone, hence 16/9. The FJS gives you such a freedom of quickly and efficiently reading and writing, as opposed to the slow, tedious process that Johnston enforces.
 
-Here is an image of handwritten sheet music in Johnston notation from your online guide:
+Here is an image of handwritten sheet music in Johnston notation (an excerpt from Ben Johnston's String Quartet No. 9) from your online guide:
 
 <img src="../assets/compare/BJSQ9ex.jpg" alt="Excerpt from Ben Johnston's String Quartet No. 9">
 
 In just two measures and four staves of music in C (the "best" key for Johnston notation!) on just the harmonic series segment 16-32, this excerpt contains not one, not two, but **three** mistakes: the viola in bar 1, measure 4 plays 99/64 instead of 11/8; all instruments but the first violin in bar 2, measure 4 play 39/32 instead of 19/16; and finally, the last two notes of the viola read 153/128, 9/8, instead of 17/16, 1/1. (All these ratios are octave-reduced with C as 1/1.)
 
-It is not surprising that Johnston notation, being a cryptographic kaleidoscope, causes this much confusion while composing even in a key as simple as C (to say nothing of D or B♭). In contrast, here is the same excerpt translated into the FJS. Notice how much clearer and more apparent the mistakes become:
+It is not surprising that Johnston notation, being a cryptographic kaleidoscope, causes this much confusion while composing even in a key as simple as C (to say nothing of D or B♭). In contrast, here is the same excerpt (mistakes included) in the FJS. Notice how much clearer and more apparent the mistakes become:
 
 <img src="../assets/compare/bj9.svg" alt="The same excerpt, in the FJS">
 

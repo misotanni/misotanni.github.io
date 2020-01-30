@@ -4,6 +4,10 @@ This page is a *de facto* reference manual for using the FJS. It contains all th
 
 Everything concerning experimental elements is marked with the symbol (\*).
 
+## The Radius of Tolerance
+
+The radius of tolerance is a constant, by definition equal to 65/63.
+
 ## Reduced Forms
 
 > The regular reduced form is $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$
