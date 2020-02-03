@@ -294,7 +294,7 @@ So würde die Tonleiter bei Es als Grundton aussehen; ein bisschen länger.
 
 **Ben Johnston.** Angeblich für 5-Limit-Musik optimal. Es hat ungefähr drei Minuten gedauert, das umzurechnen.
 
-> C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, H−−, H♯−, C♯−.
+> C♯+, D, D♯+, E+, E♯+, F♯+, G, G♯+, A+, A♯+, H, H♯+, C♯+.
 
 ### Notationsvergleich
 

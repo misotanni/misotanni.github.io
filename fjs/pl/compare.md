@@ -292,7 +292,7 @@ Tak wyglądałoby to, gdybyśmy ustalili za tonikę *es*, zgodnie z zapisem You
 
 **Ben Johnston.** Podobno sprawny dla 5-limitów… a jednak zajęło mi trzy minuty, zanim poprawnie wyprowadziłem ten szereg:
 
-> c♯−, d−−, d♯−, e−, e♯−, f♯−, g−−, g♯−, a−, a♯−, h−−, h♯−, c♯−.
+> c♯+, d, d♯+, e+, e♯+, f♯+, g, g♯+, a+, a♯+, h, h♯+, c♯+.
 
 ### Porównanie notacji obok siebie
 

@@ -294,7 +294,7 @@ L'échelle sur Mi♭ est un peu plus longue.
 
 **Ben Johnston.** Dit optimal pour la musique de la 5-limite. Les calculs pour cette séquence ont duré environ trois minutes.
 
-> Do♯−, Ré−−, Ré♯−, Mi−, Mi♯−, Fa♯−, Sol−−, Sol♯−, La−, La♯−, Si−−, Si♯−, Do♯−.
+> Do♯+, Ré, Ré♯+, Mi+, Mi♯+, Fa♯+, Sol, Sol♯+, La+, La♯+, Si, Si♯+, Do♯+.
 
 ### Comparaison de notation
 

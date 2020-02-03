@@ -294,7 +294,7 @@ Here is what it would be if it used E♭ to notate the tonic; a little less conc
 
 **Ben Johnston.** Allegedly optimized for 5-limit harmony. This sequence took me about three minutes to correctly derive.
 
-> C♯−, D−−, D♯−, E−, E♯−, F♯−, G−−, G♯−, A−, A♯−, B−−, B♯−, C♯−.
+> C♯+, D, D♯+, E+, E♯+, F♯+, G, G♯+, A+, A♯+, B, B♯+, C♯+.
 
 ### Notation Comparison
 
