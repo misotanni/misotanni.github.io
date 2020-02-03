@@ -20,14 +20,14 @@
 
 ## Aufgabe 3
 
-1. (Große Sexte)<sup>5</sup>, (kleine Terz)<sub>5</sub>, (kleine Terz)<sup>7</sup>, (kleine Septime)<sub>5</sub>.
+1. 6+<sup>5</sup>, 3−<sub>5</sub>, 3−<sup>7</sup>, 7−<sub>5</sub>.
 2. 10/9, 9/7, 11/6.
 3. <img src="../assets/solutions/just-major.svg" alt="C–D–E5–F–G–A5–H5–C"> <audio controls><source src="../assets/solutions/just-major.mp3" type="audio/mpeg"></audio>
 4. Nein. Sie wäre der sechste Modus, wenn wir F<sub>5</sub> anstatt F hätten. Diese zwei Tonleitern sind nach der Tonika, Subdominante, und Dominante gebaut, mit entweder 4:5:6 (5/4-Dur-Dreiklängen) oder 10:12:15 (6/5-Moll-Dreiklängen). Die Tonleiter mit 3 Dur-Dreiklängen enthält nur 2 Moll-Dreiklänge und umgekehrt.
 
 ## Aufgabe 4
 
-1. (Kleine Sekunde)<sup>7</sup>, (übermäßige Sekunde)<sup>5</sup><sub>13</sub>, (verminderte Quarte)<sup>11</sup><sub>25</sub>.
+1. 2−<sup>7</sup>, 2&lt;<sup>5</sup><sub>13</sub>, 4&gt;<sup>11</sup><sub>25</sub>.
 2. 12/7, 13/10, 243/200.
 3. <img src="../assets/solutions/ii-v-i.svg" alt="C5–D5–Es–G5–B, F–C1–Es7–F–A5, B–C–D5–F–A5"> <audio controls><source src="../assets/solutions/ii-v-i.mp3" type="audio/mpeg"></audio>
 4. Die folgenden fünf Akkorde:
@@ -37,4 +37,4 @@
 	- 3/2, 3/2, 9/8, 15/8
 	- 1/1, 3/2, 5/4, 1/1
 5. <img src="../assets/solutions/seconds.svg" alt="A–♭11-5, A–H5, A–H, A–H-7"> <audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
-6. (Reine Prime)<sup>55</sup>. Das Intervall ist 440/432 = 55/54. Bitte glaube an diesen 432-Hz-Quatsch nicht, danke.
+6. 1<sup>55</sup>. Das Intervall ist 440/432 = 55/54. Bitte glaube an diesen 432-Hz-Quatsch nicht, danke.

@@ -48,7 +48,7 @@ Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 > 2. Für jedes otonale Versetzungszeichen *p*, multipliziere mit dem formalen Komma von *p*. Für utonale Versetzungszeichen dividiere.
 > 3. Reduziere, und reguliere die Oktave.
 
-## FJS Interval Arithmetic
+## FJS-Intervallarithmetik
 
 > - Die Summe zweier FJS-Intervalle zweier Frequenzverhältnisse ist die FJS-Darstellung des Produktes der Verhältnisse.
 > - Die Differenz zweier FJS-Intervalle zweier Frequenzverhältnisse ist die FJS-Darstellung des Quotients der Verhältnisse.

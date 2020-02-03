@@ -45,15 +45,15 @@ Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus M
 
 ### Die 43-stufige Genesis-Skala von Harry Partch
 
-| (reine Prime)                               | (reine Prime)<sub>5</sub>    | (reine Prime)<sup>11</sup> | (kleine Sekunde)<sup>7</sup><sub>5</sub> | (kleine Sekunde)<sub>5</sub>             | (große Sekunde)<sub>11</sub>  | (kleine Sekunde)<sup>11</sup><sub>5</sub> | (große Sekunde)<sup>5</sup>             | (große Sekunde)             | (große Sekunde)<sub>7</sub> | (kleine Terz)<sup>7</sup>                    |
-| (kleine Terz)                               | (kleine Terz)<sub>5</sub>    | (kleine Terz)<sup>11</sup> | (große Terz)<sup>5</sup>                 | (reine Quarte)<sup>7</sup><sub>11</sub>  | (große Terz)<sub>7</sub>      | (reine Quarte)<sup>7</sup>                | (reine Quarte)                          | (reine Quarte)<sub>5</sub>  | (reine Quarte)<sup>11</sup> | (verminderte Quinte)<sup>7</sup><sub>5</sub> |
-| (übermäßige Quarte)<sup>5</sup><sub>7</sub> | (reine Quinte)<sub>11</sub>  | (reine Quinte)<sup>5</sup> | (reine Quinte)                           | (reine Quinte)<sub>7</sub>               | (kleine Sexte)<sup>7</sup>    | (reine Quinte)<sup>11</sup><sub>7</sub>   | (kleine Sexte)<sub>5</sub>              | (große Sexte)<sub>11</sub>  | (große Sexte)<sup>5</sup>   | (große Sexte)                                |
-| (große Sexte)<sub>7</sub>                   | (kleine Septime)<sup>7</sup> | (kleine Septime)           | (kleine Septime)<sub>5</sub>             | (große Septime)<sup>5</sup><sub>11</sub> | (kleine Septime)<sup>11</sup> | (große Septime)<sup>5</sup>               | (große Septime)<sup>5</sup><sub>7</sub> | (reine Oktave)<sub>11</sub> | (reine Oktave)<sup>5</sup>  | (reine Oktave)                               |
+| 1                             | 1<sub>5</sub>  | 1<sup>11</sup>  | 2−<sup>7</sup><sub>5</sub> | 2−<sub>5</sub>              | 2+<sub>11</sub> | 2−<sup>11</sup><sub>5</sub> | 2+<sup>5</sup>             | 2+              | 2+<sub>7</sub> | 3−<sup>7</sup>                |
+| 3−                            | 3−<sub>5</sub> | 3−<sup>11</sup> | 3+<sup>5</sup>             | 4<sup>7</sup><sub>11</sub>  | 3+<sub>7</sub>  | 4<sup>7</sup>               | 4                          | 4<sub>5</sub>   | 4<sup>11</sup> | 5&gt;<sup>7</sup><sub>5</sub> |
+| 4&lt;<sup>5</sup><sub>7</sub> | 5<sub>11</sub> | 5<sup>5</sup>   | 5                          | 5<sub>7</sub>               | 6−<sup>7</sup>  | 5<sup>11</sup><sub>7</sub>  | 6−<sub>5</sub>             | 6+<sub>11</sub> | 6+<sup>5</sup> | 6+                            |
+| 6+<sub>7</sub>                | 7−<sup>7</sup> | 7−              | 7−<sub>5</sub>             | 7+<sup>5</sup><sub>11</sub> | 7−<sup>11</sup> | 7+<sup>5</sup>              | 7+<sup>5</sup><sub>7</sub> | 8<sub>11</sub>  | 8<sup>5</sup>  | 8                             |
 
 ### Die 21-stufige Skala von Dante Rosati
 
-| (reine Prime)                               | (kleine Sekunde)<sub>5</sub> | (große Sekunde)<sup>5</sup> | (große Sekunde)            | (große Sekunde)<sub>7</sub> | (kleine Terz)<sup>7</sup> | (kleine Terz)<sub>5</sub>    | (große Terz)<sup>5</sup> | (große Terz)<sub>7</sub>     | (reine Quarte)              | (verminderte Quinte)<sup>7</sup><sub>5</sub> |
-| (übermäßige Quarte)<sup>5</sup><sub>7</sub> | (reine Quinte)               | (kleine Sexte)<sup>7</sup>  | (kleine Sexte)<sub>5</sub> | (große Sexte)<sup>5</sup>   | (große Sexte)<sub>7</sub> | (kleine Septime)<sup>7</sup> | (kleine Septime)         | (kleine Septime)<sub>5</sub> | (große Septime)<sup>5</sup> | (reine Oktave)                               |
+| 1                             | 2−<sub>5</sub> | 2+<sup>5</sup> | 2+             | 2+<sub>7</sub> | 3−<sup>7</sup> | 3−<sub>5</sub> | 3+<sup>5</sup> | 3+<sub>7</sub> | 4              | 5&gt;<sup>7</sup><sub>5</sub> |
+| 4&lt;<sup>5</sup><sub>7</sub> | 5              | 6−<sup>7</sup> | 6−<sub>5</sub> | 6+<sup>5</sup> | 6+<sub>7</sub> | 7−<sup>7</sup> | 7−             | 7−<sub>5</sub> | 7+<sup>5</sup> | 8                             |
 
 ### Die Revelation-Stimmung von Michael Harrison
 
@@ -77,12 +77,12 @@ Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus M
 
 ### Der „Tonality Diamond“ von Harry Partch im 11-Limit
 
-| (reine Prime)                               | (kleine Terz)<sup>7</sup>     | (reine Quarte)<sup>7</sup><sub>11</sub>  | (verminderte Quinte)<sup>7</sup><sub>5</sub> | (kleine Sexte)<sup>7</sup>  | (kleine Septime)<sup>7</sup> |
-| (große Sexte)<sub>7</sub>                   | (reine Prime)                 | (große Sekunde)<sub>11</sub>             | (kleine Terz)<sub>5</sub>                    | (reine Quarte)              | (reine Quinte)               |
-| (reine Quinte)<sup>11</sup><sub>7</sub>     | (kleine Septime)<sup>11</sup> | (reine Prime)                            | (kleine Sekunde)<sup>11</sup><sub>5</sub>    | (kleine Terz)<sup>11</sup>  | (reine Quarte)<sup>11</sup>  |
-| (übermäßige Quarte)<sup>5</sup><sub>7</sub> | (große Sexte)<sup>5</sup>     | (große Septime)<sup>5</sup><sub>11</sub> | (reine Prime)                                | (große Sekunde)<sup>5</sup> | (große Terz)<sup>5</sup>     |
-| (große Terz)<sub>7</sub>                    | (reine Quinte)                | (große Sexte)<sub>11</sub>               | (kleine Septime)<sub>5</sub>                 | (reine Prime)               | (große Sekunde)              |
-| (große Sekunde)<sub>7</sub>                 | (reine Quarte)                | (reine Quinte)<sub>11</sub>              | (kleine Sexte)<sub>5</sub>                   | (kleine Septime)            | (reine Prime)                |
+| 1                             | 3−<sup>7</sup>  | 4<sup>7</sup><sub>11</sub>  | 5&gt;<sup>7</sup><sub>5</sub> | 6−<sup>7</sup>  | 7−<sup>7</sup> |
+| 6+<sub>7</sub>                | 1               | 2+<sub>11</sub>             | 3−<sub>5</sub>                | 4               | 5              |
+| 5<sup>11</sup><sub>7</sub>    | 7−<sup>11</sup> | 1                           | 2−<sup>11</sup><sub>5</sub>   | 3−<sup>11</sup> | 4<sup>11</sup> |
+| 4&lt;<sup>5</sup><sub>7</sub> | 6+<sup>5</sup>  | 7+<sup>5</sup><sub>11</sub> | 1                             | 2+<sup>5</sup>  | 3+<sup>5</sup> |
+| 3+<sub>7</sub>                | 5               | 6+<sub>11</sub>             | 7−<sub>5</sub>                | 1               | 2+             |
+| 2+<sub>7</sub>                | 4               | 5<sub>11</sub>              | 6−<sub>5</sub>                | 7−              | 1              |
 
 ### JI-Erweiterungen der Dur-Tonleiter
 
@@ -117,6 +117,4 @@ Dieses [Klavier-Arrangement](https://youtu.be/JvnYEVxlDvc) des Soundtracks aus M
 
 Ich habe das FJS dazu benutzt, um alle verwendeten Töne in einem JI-Stück aufzulisten. Hier zum Beispiel befinden sich die [Stimmungen](../assets/examples/tuning.pdf) für zwei Stücke, *Overture of Opulence* und *Meditations on a Medieval Theme Remix*, aus *Justin Tonation*.
 
-In diesen Kontexten hilft mir das FJS, die Funktion einer Note auf einmal zu erkennen, auch wenn das Verhältnis zum Grundton komplex ist (und ich verwende oft komplexe Verhältnisse). Zum Beispiel sagt mir 243/200 nicht viel, aber wenn ich sehe, dass es eine (kleine Terz)<sub>25</sub> ist, dann weiß ich gleich: es ist 6/5, erhöht um ein syntonisches Komma. Ein anderes Beispiel aus einem anderen meiner Stücke, *Symphony of the Elements*: 729/640 verwirrt, aber eine (große Sekunde)<sub>5</sub> nicht; es ist 9/8 erhöht um ein syntonisches Komma.
-
-## Mehr?
+In diesen Kontexten hilft mir das FJS, die Funktion einer Note auf einmal zu erkennen, auch wenn das Verhältnis zum Grundton komplex ist (und ich verwende oft komplexe Verhältnisse). Zum Beispiel sagt mir 243/200 nicht viel, aber wenn ich sehe, dass es eine 3−<sub>25</sub> ist, dann weiß ich gleich: es ist 6/5, erhöht um ein syntonisches Komma. Ein anderes Beispiel aus einem anderen meiner Stücke, *Symphony of the Elements*: 729/640 verwirrt, aber eine 2+<sub>5</sub> nicht; es ist 9/8 erhöht um ein syntonisches Komma.
