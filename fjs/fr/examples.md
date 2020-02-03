@@ -45,15 +45,15 @@ Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecra
 
 ### L'échelle Genesis de 43 tons par Harry Partch
 
-| (unisson)                                  | (unisson)<sub>5</sub>          | (unisson)<sup>11</sup>        | (seconde mineure)<sup>7</sup><sub>5</sub> | (seconde mineure)<sub>5</sub>               | (seconde majeure)<sub>11</sub>  | (seconde mineure)<sup>11</sup><sub>5</sub> | (seconde majeure)<sup>5</sup>              | (seconde majeure)            | (seconde majeure)<sub>7</sub> | (tierce mineure)<sup>7</sup>              |
-| (tierce mineure)                           | (tierce mineure)<sub>5</sub>   | (tierce mineure)<sup>11</sup> | (tierce majeure)<sup>5</sup>              | (quarte juste)<sup>7</sup><sub>11</sub>     | (tierce majeure)<sub>7</sub>    | (quarte juste)<sup>7</sup>                 | (quarte juste)                             | (quarte juste)<sub>5</sub>   | (quarte juste)<sup>11</sup>   | (quinte diminuée)<sup>7</sup><sub>5</sub> |
-| (quarte augmentée)<sup>5</sup><sub>7</sub> | (quinte juste)<sub>11</sub>    | (quinte juste)<sup>5</sup>    | (quinte juste)                            | (quinte juste)<sub>7</sub>                  | (sixte mineure)<sup>7</sup>     | (quinte juste)<sup>11</sup><sub>7</sub>    | (sixte mineure)<sub>5</sub>                | (sixte majeure)<sub>11</sub> | (sixte majeure)<sup>5</sup>   | (sixte majeure)                           |
-| (sixte majeure)<sub>7</sub>                | (septième mineure)<sup>7</sup> | (septième mineure)            | (septième mineure)<sub>5</sub>            | (septième majeure)<sup>5</sup><sub>11</sub> | (septième mineure)<sup>11</sup> | (septième majeure)<sup>5</sup>             | (septième majeure)<sup>5</sup><sub>7</sub> | (octave juste)<sub>11</sub>  | (octave juste)<sup>5</sup>    | (octave juste)                            |
+| 1                          | 1<sub>5</sub>  | 1<sup>11</sup>  | 2m<sup>7</sup><sub>5</sub> | 2m<sub>5</sub>             | 2<sub>11</sub>  | 2m<sup>11</sup><sub>5</sub> | 2<sup>5</sup>             | 2              | 2<sub>7</sub>  | 3m<sup>7</sup>             |
+| 3m                         | 3m<sub>5</sub> | 3m<sup>11</sup> | 3<sup>5</sup>              | 4<sup>7</sup><sub>11</sub> | 3<sub>7</sub>   | 4<sup>7</sup>               | 4                         | 4<sub>5</sub>  | 4<sup>11</sup> | 5°<sup>7</sup><sub>5</sub> |
+| 4+<sup>5</sup><sub>7</sub> | 5<sub>11</sub> | 5<sup>5</sup>   | 5                          | 5<sub>7</sub>              | 6m<sup>7</sup>  | 5<sup>11</sup><sub>7</sub>  | 6m<sub>5</sub>            | 6<sub>11</sub> | 6<sup>5</sup>  | 6                          |
+| 6<sub>7</sub>              | 7m<sup>7</sup> | 7m              | 7m<sub>5</sub>             | 7<sup>5</sup><sub>11</sub> | 7m<sup>11</sup> | 7<sup>5</sup>               | 7<sup>5</sup><sub>7</sub> | 8<sub>11</sub> | 8<sup>5</sup>  | 8                          |
 
 ### L'échelle de 21 tons par Dante Rosati
 
-| (unisson)                                  | (seconde mineure)<sub>5</sub> | (seconde majeure)<sup>5</sup> | (seconde majeure)           | (seconde majeure)<sub>7</sub> | (tierce mineure)<sup>7</sup> | (tierce mineure)<sub>5</sub>   | (tierce majeure)<sup>5</sup> | (tierce majeure)<sub>7</sub>   | (quarte juste)                 | (quinte diminuée)<sup>7</sup><sub>5</sub> |
-| (quarte augmentée)<sup>5</sup><sub>7</sub> | (quinte juste)                | (sixte mineure)<sup>7</sup>   | (sixte mineure)<sub>5</sub> | (sixte majeure)<sup>5</sup>   | (sixte majeure)<sub>7</sub>  | (septième mineure)<sup>7</sup> | (septième mineure)           | (septième mineure)<sub>5</sub> | (septième majeure)<sup>5</sup> | (octave juste)                            |
+| 1                          | 2m<sub>5</sub> | 2<sup>5</sup>  | 2              | 2<sub>7</sub> | 3m<sup>7</sup> | 3m<sub>5</sub> | 3<sup>5</sup> | 3<sub>7</sub>  | 4             | 5°<sup>7</sup><sub>5</sub> |
+| 4+<sup>5</sup><sub>7</sub> | 5              | 6m<sup>7</sup> | 6m<sub>5</sub> | 6<sup>5</sup> | 6<sub>7</sub>  | 7m<sup>7</sup> | 7m            | 7m<sub>5</sub> | 7<sup>5</sup> | 8                          |
 
 ### L'accord de *Revelation* par Michael Harrison
 
@@ -77,12 +77,12 @@ Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecra
 
 ### Le *tonality diamond* de la 11-limite par Harry Partch
 
-| (unisson)                                  | (tierce mineure)<sup>7</sup>    | (quarte juste)<sup>7</sup><sub>11</sub>     | (quinte diminuée)<sup>7</sup><sub>5</sub>  | (sixte mineure)<sup>7</sup>   | (septième mineure)<sup>7</sup> |
-| (sixte majeure)<sub>7</sub>                | (unisson)                       | (seconde majeure)<sub>11</sub>              | (tierce mineure)<sub>5</sub>               | (quarte juste)                | (quinte juste)                 |
-| (quinte juste)<sup>11</sup><sub>7</sub>    | (septième mineure)<sup>11</sup> | (unisson)                                   | (seconde mineure)<sup>11</sup><sub>5</sub> | (tierce mineure)<sup>11</sup> | (quarte juste)<sup>11</sup>    |
-| (quarte augmentée)<sup>5</sup><sub>7</sub> | (sixte majeure)<sup>5</sup>     | (septième majeure)<sup>5</sup><sub>11</sub> | (unisson)                                  | (seconde majeure)<sup>5</sup> | (tierce majeure)<sup>5</sup>   |
-| (tierce majeure)<sub>7</sub>               | (quinte juste)                  | (sixte majeure)<sub>11</sub>                | (septième mineure)<sub>5</sub>             | (unisson)                     | (seconde majeure)              |
-| (seconde majeure)<sub>7</sub>              | (quarte juste)                  | (quinte juste)<sub>11</sub>                 | (sixte mineure)<sub>5</sub>                | (septième mineure)            | (unisson)                      |
+| 1                          | 3m<sup>7</sup>  | 4<sup>7</sup><sub>11</sub> | 5°<sup>7</sup><sub>5</sub>  | 6m<sup>7</sup>  | 7m<sup>7</sup> |
+| 6<sub>7</sub>              | 1               | 2<sub>11</sub>             | 3m<sub>5</sub>              | 4               | 5              |
+| 5<sup>11</sup><sub>7</sub> | 7m<sup>11</sup> | 1                          | 2m<sup>11</sup><sub>5</sub> | 3m<sup>11</sup> | 4<sup>11</sup> |
+| 4+<sup>5</sup><sub>7</sub> | 6<sup>5</sup>   | 7<sup>5</sup><sub>11</sub> | 1                           | 2<sup>5</sup>   | 3<sup>5</sup>  |
+| 3<sub>7</sub>              | 5               | 6<sub>11</sub>             | 7m<sub>5</sub>              | 1               | 2              |
+| 2<sub>7</sub>              | 4               | 5<sub>11</sub>             | 6m<sub>5</sub>              | 7m              | 1              |
 
 ### Extensions JI de l'échelle majeure
 
@@ -117,6 +117,4 @@ Cette [reprise de piano](https://youtu.be/JvnYEVxlDvc) de la musique de *Minecra
 
 J'ai utilisé le FJS pour énumérer les tons que j'ai utilisés dans une pièce en JI. Par exemple, voici les [listes d'accords](../assets/examples/tuning.pdf) pour deux pièces, *Overture of Opulence* et *Meditations on a Medieval Theme Remix*, dans *Justin Tonation*.
 
-L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une (tierce mineure)<sub>25</sub>, je la reconnais tout de suite : c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements* : 729/640 est déroutant, mais une (seconde majeure)<sub>5</sub> ne l'est pas ; un 9/8 élevé d'un comma syntonique.
-
-## Plus ?
+L'utilisation du FJS dans ces contextes m'aide à reconnaître tout de suite la fonction d'une note même si son rapport de la tonique est très complexe (et moi, j'utilise des rapports complexes). Par exemple, 243/200 ne me dit pas beaucoup, mais lorsque je vois que c'est une 3m<sub>25</sub>, je la reconnais tout de suite : c'est 6/5 élevé d'un comma syntonique. Un autre exemple d'une autre pièce, *Symphony of the Elements* : 729/640 est déroutant, mais une 2<sub>5</sub> ne l'est pas ; un 9/8 élevé d'un comma syntonique.

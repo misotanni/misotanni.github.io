@@ -260,7 +260,7 @@ Pourquoi ? Parce que cette règle est plus logique et plus pratique. Voici une 
 - Dans la troisième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre. Puisque ce n'est plus le même ton pythagoricien, il n'absorbe plus le +5, donc cela signifie Do♯<sup>5</sup>, Do.
 - Dans la quatrième mesure, il y a un Do♯<sup>5</sup> puis un Do bécarre avec +5. Nous avons ici Do♯<sup>5</sup>, Do<sup>5</sup> ; ce cas serait probablement le plus rare.
 
-Encore une remarque : le FJS permet aussi d'ajouter ces altérations en indice supérieur et inférieur aux noms des intervalles. C'est comment les rapports de l'intonation juste sont formellement nommés dans le FJS. Par exemple, 5/4 « s'appelle » une (tierce majeure)<sup>5</sup>. Cela signifie soit Mi<sup>5</sup> de Do, soit La<sup>5</sup> de Fa, soit Si<sup>5</sup> de Sol, etc.
+Encore une remarque : le FJS permet aussi d'ajouter ces altérations en indice supérieur et inférieur aux noms des intervalles (comme 3, 6m, 5°). C'est comment les rapports de l'intonation juste sont formellement nommés dans le FJS. Par exemple, 5/4 « s'appelle » 3<sup>5</sup>. Cela signifie soit Mi<sup>5</sup> de Do, soit La<sup>5</sup> de Fa, soit Si<sup>5</sup> de Sol, etc.
 
 D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles premiers. Vous allez apprendre une nouvelle technique maintenant. Vous n'avez plus besoin du rayon de tolérance : il n'est utilisé que dans l'algorithme principal pour calculer le déplacement.
 
@@ -270,7 +270,7 @@ D'accord. C'est tout que vous devez savoir pour pouvoir écrire les intervalles 
 > 2. Écrivez l'intervalle qui correspond à ce nombre de quintes.
 > 3. Ajoutez une altération de ce nombre premier. Par exemple, 23/16 recevrait un +23.
 >
-> **Exemple :** Pour convertir 7/4 en forme FJS, nous trouvons d'abord le déplacement de 7 : −2. Nous écrivons l'intervalle de −2 quintes : Do–Fa–Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient une (septième mineure)<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
+> **Exemple :** Pour convertir 7/4 en forme FJS, nous trouvons d'abord le déplacement de 7 : −2. Nous écrivons l'intervalle de −2 quintes : Do–Fa–Si♭, donc une septième mineure. Finalement, nous ajoutons un +7 et on obtient 7m<sup>7</sup>. (Oui, ça peut sembler un peu bizarre.)
 
 (La calculation inverse est banale : pour trouver le rapport d'un intervalle dans le FJS, si on sait qu'il s'agit d'un intervalle premier otonal, on prend tout simplement le nombre premier de l'altération en forme réduite !)
 
@@ -306,7 +306,7 @@ Vous pouvez déjà représenter le premier groupe, même si vous ne le savez pas
 
 Ces identités ont beaucoup de corollaires très pratiques pour devenir encore plus courant. Considérez par exemple que deux notes avec les mêmes altérations FJS sont toujours séparées par un intervalle pythagoricien. Mi<sup>5</sup> et Fa♯<sup>5</sup> ? Vous ne savez peut-être pas du tout ce qu'ils sont dans la tonalité de Si♭<sub>7</sub>, mais vous savez que l'intervalle entre eux est une seconde majeure pythagoricienne, alors 9/8. Élégant, n'est-ce pas ?
 
-Vous pouvez aussi utiliser ces identités pour représenter le premier groupe d'intervalles manquants. Imaginez par exemple 15/8. Nous le divisons en deux parties : la pythagoricienne et le reste. Nous obtenons 3/2 et 5/4. Nous traduisons maintenant dans le FJS et puis nous additionnons les intervalles obtenus. 3/2 est une (quinte juste) et 5/4 est une (tierce majeure)<sup>5</sup>. La somme est une (septième majeure)<sup>5</sup>. C'est tout simplement l'addition conventionnelle d'intervalles, mais nous ajoutons les altérations FJS, et nous obtenons vraiment la représentation de 15/8 dans le FJS !
+Vous pouvez aussi utiliser ces identités pour représenter le premier groupe d'intervalles manquants. Imaginez par exemple 15/8. Nous le divisons en deux parties : la pythagoricienne et le reste. Nous obtenons 3/2 et 5/4. Nous traduisons maintenant dans le FJS et puis nous additionnons les intervalles obtenus. 3/2 est une 5 et 5/4 est une 3<sup>5</sup>. La somme est une 7<sup>5</sup>. C'est tout simplement l'addition conventionnelle d'intervalles, mais nous ajoutons les altérations FJS, et nous obtenons vraiment la représentation de 15/8 dans le FJS !
 
 D'une manière différente : Le quinzième harmonique est comme le cinquième harmonique dans la tonalité de dominante. Pour représenter 15/8 sur Do, nous commençons avec une « modulation imaginaire » vers Sol. Ici, notre cible est tout simplement le cinquième harmonique, alors Si<sup>5</sup>, ce qui est donc aussi la représentation de 15/8 sur Do.
 
@@ -317,7 +317,7 @@ Essayez d'utiliser ces méthodes pour résoudre l'exercice suivant.
 ### Exercice 3
 
 1. Trouvez les formes FJS des rapports suivants : 5/3, 6/5, 7/6, 9/5.
-2. Trouvez les rapports correspondants aux formes FJS suivants : (seconde majeure)<sup>5</sup>, (tierce majeure)<sub>7</sub>, (septième mineure)<sup>11</sup>.
+2. Trouvez les rapports correspondants aux formes FJS suivants : 2<sup>5</sup>, 3<sub>7</sub>, 3m<sup>11</sup>.
 3. Écrivez dans le FJS, sur Do, l'échelle ptolémaïque dont les rapports sont : 1/1, 9/8, 5/4, 4/3, 3/2, 5/3, 15/8, 2/1.
 4. (DIFFICILE !) Considérez l'échelle suivante. Est-elle un mode de celle ci-dessus ? <img src="../assets/crash/just-minor.svg" alt="Do–Ré–Mi♭_5–Fa–Sol–La♭_5–Si♭_5–Do"> <audio controls><source src="../assets/crash/just-minor.mp3" type="audio/mpeg"></audio>
 
@@ -325,7 +325,7 @@ Vous pouvez vérifier vos réponses [ici](solutions.html).
 
 (À la fin de cette méthode, vous allez connaître des techniques pour pouvoir convertir *chaque* rapport possible en intervalle FJS et inversement. Mais c'est une bonne idée de connaître les méthodes ci-dessus aussi puisqu'elles sont beaucoup plus rapides et vous vous en servirez beaucoup plus. C'est similaire aux méthodes différentes de résoudre une équation du second degré. Il y a une formule pour cela qui fonctionne toujours, mais elle est la méthode la plus lente.)
 
-Pendant que vous utilisiez ces identités pour résoudre cet exercice, vous vous êtes posé ou posée peut-être la question : « Comment est-ce que j'additionnerais deux (tierces majeures)<sup>5</sup> ? Qu'est-ce qui serait le résultat ? » Est-ce que ce serait une (quinte augmentée)<sup>5</sup> ? Non. Elle serait la somme d'une (tierce majeure) et une (tierce majeure)<sup>5</sup>. Ici, nous additionnons une (tierce majeure)<sup>5</sup> à une autre (tierce majeure)<sup>5</sup>.
+Pendant que vous utilisiez ces identités pour résoudre cet exercice, vous vous êtes posé ou posée peut-être la question : « Comment est-ce que j'additionnerais deux 3<sup>5</sup> ? Qu'est-ce qui serait le résultat ? » Est-ce que ce serait une 5+<sup>5</sup> ? Non. Elle serait la somme d'une 3 et une 3<sup>5</sup>. Ici, nous additionnons une 3<sup>5</sup> à une autre 3<sup>5</sup>.
 
 La réponse à cette question est aussi la méthode que le FJS utilise pour représenter le deuxième groupe d'intervalles manquants : des *altérations composées*.
 
@@ -333,7 +333,7 @@ Chaque note ou intervalle FJS peut avoir plus qu'une altération FJS – ils en 
 
 Si les altérations composées sont assez grandes que vous ne reconnaissez plus les facteurs (par exemple, 119 = 7 × 17), vous pouvez aussi écrire les facteurs en séquence, avec des virgules entre nombres premiers. Un Ré<sup>7,17</sup> serait donc identique à un Ré<sup>119</sup>. Il est habituel d'écrire ces facteurs dans un ordre non décroissant, mais chaque ordre est correct. Vous pouvez aussi les multiplier comment vous voulez. Par exemple, écrire Sol<sup>11,125</sup> est correct (bien que je n'aie pas multiplié que certains facteurs).
 
-Alors, la réponse à la question : La somme de deux (tierces majeures)<sup>5</sup> est une (quinte augmentée)<sup>25</sup> qui convient beaucoup à être la forme FJS du rapport 25/16. En sachant aussi que 7/4 est représenté par une (septième mineure)<sup>7</sup>, vous savez aussi tout de suite que 49/32 est une (sixte mineure)<sup>49</sup> et 35/32 une (seconde majeure)<sup>35</sup>.
+Alors, la réponse à la question : La somme de deux 3<sup>5</sup> est une 5+<sup>25</sup> qui convient beaucoup à être la forme FJS du rapport 25/16. En sachant aussi que 7/4 est représenté par une 7m<sup>7</sup>, vous savez aussi tout de suite que 49/32 est une 6m<sup>49</sup> et 35/32 une 2<sup>35</sup>.
 
 Comme j'ai déjà expliqué, l'otonalité et l'utonalité ne sont jamais mixtes. Si un Sol♭ aurait des altérations +7 et −5 simultanément, on aurait un Sol♭<sup>7</sup><sub>5</sub>. Les règles exactes sont suivantes :
 
@@ -348,7 +348,7 @@ Donc, les notes Sol♭<sup>7</sup><sub>5</sub> et Fa♯<sup>5</sup><sub>7</sub> 
 
 <audio controls><source src="../assets/crash/interval.mp3" type="audio/mpeg"></audio>
 
-Depuis que vous savez utiliser des altérations composées, vous pouvez faire beaucoup plus avec le FJS. Vous pouvez maintenant additionner, soustraire, et renverser des intervalles FJS comme vous voulez. Vous pouvez aussi additionner un intervalle à une note (Sol + (tierce majeure)<sup>5</sup> = Si<sup>5</sup>) et soustraire deux notes (Fa<sup>7</sup> − C = (quarte juste)<sup>7</sup>). Donc vous pouvez maintenant utiliser les identités de l'addition, la soustraction et le renversement pour trouver vite les formes FJS des intervalles que vous ne pouviez pas représenter avant.
+Depuis que vous savez utiliser des altérations composées, vous pouvez faire beaucoup plus avec le FJS. Vous pouvez maintenant additionner, soustraire, et renverser des intervalles FJS comme vous voulez. Vous pouvez aussi additionner un intervalle à une note (Sol + 3<sup>5</sup> = Si<sup>5</sup>) et soustraire deux notes (Fa<sup>7</sup> − C = 4<sup>7</sup>). Donc vous pouvez maintenant utiliser les identités de l'addition, la soustraction et le renversement pour trouver vite les formes FJS des intervalles que vous ne pouviez pas représenter avant.
 
 > ### Arithmétique des intervalles FJS
 >
@@ -357,15 +357,15 @@ Depuis que vous savez utiliser des altérations composées, vous pouvez faire be
 > - Pour renverser un intervalle FJS, renversez la partie pythagoricienne, puis échangez l'otonal avec l'utonal.
 > - Vous pouvez aussi additionner un intervalle à une note ou soustraire deux notes.
 
-Quand vous composez des altérations, vous pouvez (et devez) annuler des facteurs identiques dans l'otonal et l'utonal. Par exemple, si vous additionnez une (tierce majeure)<sup>5</sup> (5/4) et une (tierce mineure)<sub>5</sub> (6/5), vous obtenez une « (quinte juste)<sup>5</sup><sub>5</sub> », ce qui est identique à une quinte juste, ce que nous avons prévu (3/2). Un autre exemple : En additionnant une (seconde mineure)<sup>49</sup> (49/48) et une (seconde majeure)<sub>7</sub> (8/7), on obtient une « (tierce mineure)<sup>49</sup><sub>7</sub> » donc une (tierce mineure)<sup>7</sup> (7/6).
+Quand vous composez des altérations, vous pouvez (et devez) annuler des facteurs identiques dans l'otonal et l'utonal. Par exemple, si vous additionnez une 3<sup>5</sup> (5/4) et une 3m<sub>5</sub> (6/5), vous obtenez une « 5<sup>5</sup><sub>5</sub> », ce qui est identique à une quinte juste, ce que nous avons prévu (3/2). Un autre exemple : En additionnant une 2m<sup>49</sup> (49/48) et une 2<sub>7</sub> (8/7), on obtient une « 3m<sup>49</sup><sub>7</sub> » donc une 3m<sup>7</sup> (7/6).
 
 Vous pouvez déjà utiliser l'arithmétique des intervalles pour représenter *n'importe quel* rapport JI dans le FJS et convertir *n'importe quelle* forme FJS en rapport JI. Pour ce but, vous pouvez utiliser les méthodes suivantes si les rapports ne sont pas trop compliqués.
 
-Pour convertir un rapport simple en forme FJS : Factorisez d'abord le numérateur pour obtenir une partie pythagoricienne et des parties premières. Construisez un intervalle pythagoricien et chaque intervalle premier, puis additionnez. Répétéz pour le dénominateur. Finalement, trouvez la différence entre l'intervalle du numérateur et celui du dénominateur. Par exemple, pour convertir 36/25, nous construisons d'abord le numérateur : 36, donc 9/8, donc une seconde majeure. Puis le dénominateur : 25, donc 5 et 5, donc deux (tierces majeures)<sup>5</sup>, donc une (quinte augmentée)<sup>25</sup>. Finalement nous soustrayons : (seconde majeure) − (quinte augmentée) = (quinte diminuée). Les altérations : (0) − (+25) = (−25). La réponse : (quinte diminuée)<sub>25</sub>.
+Pour convertir un rapport simple en forme FJS : Factorisez d'abord le numérateur pour obtenir une partie pythagoricienne et des parties premières. Construisez un intervalle pythagoricien et chaque intervalle premier, puis additionnez. Répétéz pour le dénominateur. Finalement, trouvez la différence entre l'intervalle du numérateur et celui du dénominateur. Par exemple, pour convertir 36/25, nous construisons d'abord le numérateur : 36, donc 9/8, donc une seconde majeure. Puis le dénominateur : 25, donc 5 et 5, donc deux 3<sup>5</sup>, donc une 5+<sup>25</sup>. Finalement nous soustrayons : 2 − 5+ = 5°. Les altérations : (0) − (+25) = (−25). La réponse : 5°<sub>25</sub>.
 
-Pour convertir un intervalle FJS en rapport JI : Essayez d'abord $$\frac{\text{altération otonale}}{\text{altération utonale}}$$. (Vous ne devez pas même factoriser l'altération, puisqu'elle est composée en multipliant.) Vous obtenez soit déjà la réponse correcte, soit une erreur pythagoricienne. Ajustez. Par exemple, nous essayons de convertir la (prime augmentée)<sup>5</sup><sub>7</sub>. Nous essayons d'abord 5/7, donc 10/7 ; après avoir utilisé la méthode ci-dessus, on obtient la (quarte augmentée)<sup>5</sup><sub>7</sub>. L'erreur n'est qu'une quinte, donc nous additionnons une quinte pythagoricienne. La réponse : (3/2) × (5/7) = 15/14.
+Pour convertir un intervalle FJS en rapport JI : Essayez d'abord $$\frac{\text{altération otonale}}{\text{altération utonale}}$$. (Vous ne devez pas même factoriser l'altération, puisqu'elle est composée en multipliant.) Vous obtenez soit déjà la réponse correcte, soit une erreur pythagoricienne. Ajustez. Par exemple, nous essayons de convertir 1+<sup>5</sup><sub>7</sub>. Nous essayons d'abord 5/7, donc 10/7 ; après avoir utilisé la méthode ci-dessus, on obtient 4+<sup>5</sup><sub>7</sub>. L'erreur n'est qu'une quinte, donc nous additionnons une quinte pythagoricienne. La réponse : (3/2) × (5/7) = 15/14.
 
-Pour 99% des calculs, c'est tout ce dont vous avez besoin pour lire et écrire dans le FJS. Ces méthodes sont très simples, comme vous voyez. Souvent, vous pouvez même éviter ces méthodes ; souvent, il ne vous faut que parcourir l'échelle harmonique pour convertir l'un à l'autre en quelques secondes. Par exemple, pour convertir 14/13 en FJS : vous savez que 13 est une sixte mineure et 14 une septième mineure, donc 14/13 sera une seconde majeure. En raison du 14 dans le numérateur, vous ajoutez un +7, et en raison du 13 dans le dénominateur, vous ajoutez un −13, et magiquement vous avez déjà trouvé la représentation correcte : (seconde majeure)<sup>7</sup><sub>13</sub>.
+Pour 99% des calculs, c'est tout ce dont vous avez besoin pour lire et écrire dans le FJS. Ces méthodes sont très simples, comme vous voyez. Souvent, vous pouvez même éviter ces méthodes ; souvent, il ne vous faut que parcourir l'échelle harmonique pour convertir l'un à l'autre en quelques secondes. Par exemple, pour convertir 14/13 en FJS : vous savez que 13 est une sixte mineure et 14 une septième mineure, donc 14/13 sera une seconde majeure. En raison du 14 dans le numérateur, vous ajoutez un +7, et en raison du 13 dans le dénominateur, vous ajoutez un −13, et magiquement vous avez déjà trouvé la représentation correcte : 2<sup>7</sup><sub>13</sub>.
 
 Mais : l'avantage le plus puissant du FJS est qu'il peut être complètement automatisé. Les méthodes ci-dessus peuvent souvent dépendre de l'intuition, et elles ne sont pas très utiles pour des intervalles complexes. Mais vous pouvez *toujours* convertir dans les deux directions en utilisant les techniques suivantes :
 
@@ -382,7 +382,7 @@ Mais : l'avantage le plus puissant du FJS est qu'il peut être complètement au
 > 4. Ajoutez maintenant les α<sub>*p*</sub> comme altérations : positif-otonal, négatif-utonal.
 > 5. Réduisez et ajustez l'octave.
 >
-> **Exemple :** Convertissons le demi-ton chromatique faible, 25/24, en FJS en utilisant cette technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. En raison du 5<sup>2</sup> nous enregistrons 2 et multiplions par (80/81)<sup>−2</sup>. On obtient 2187/2048 qui est pythagoricien et devient une prime augmentée. Nous ajoutons maintenant un +5 double (en raison du 2) et obtenons alors la réponse : (prime augmentée)<sup>25</sup>.
+> **Exemple :** Convertissons le demi-ton chromatique faible, 25/24, en FJS en utilisant cette technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. En raison du 5<sup>2</sup> nous enregistrons 2 et multiplions par (80/81)<sup>−2</sup>. On obtient 2187/2048 qui est pythagoricien et devient une prime augmentée. Nous ajoutons maintenant un +5 double (en raison du 2) et obtenons alors la réponse : 1+<sup>25</sup>.
 
 > ### Technique FJS \#5 : Convertir chaque représentation FJS en rapport JI automatiquement.
 >
@@ -390,7 +390,7 @@ Mais : l'avantage le plus puissant du FJS est qu'il peut être complètement au
 > 2. Pour chaque altération otonale de *p*, multipliez par le comma formel de *p*. Pour les utonales, divisez.
 > 3. Réduisez et ajustez l'octave.
 >
-> **Exemple :** L'une des harmonies iconiques du *Well-Tuned Piano* de La Monte Young est représentée dans le FJS avec une (tierce mineure)<sup>49</sup>. Pour trouver le rapport, nous convertissons d'abord la tierce mineure en 32/27. L'altération +49 signifie une double multiplication par le comma formel de 7. Donc (32/27) × (63/64)<sup>2</sup> = 147/128.
+> **Exemple :** L'une des harmonies iconiques du *Well-Tuned Piano* de La Monte Young est représentée dans le FJS avec 3m<sup>49</sup>. Pour trouver le rapport, nous convertissons d'abord la tierce mineure en 32/27. L'altération +49 signifie une double multiplication par le comma formel de 7. Donc (32/27) × (63/64)<sup>2</sup> = 147/128.
 
 Une dernière remarque est à propos de la prononciation et ASCII. Si vous voulez communiquer en FJS, il faudrait qu'il soit possible dans plus qu'un seul médium. Voici les règles de prononciation, simples et logiques :
 
@@ -400,17 +400,17 @@ Une dernière remarque est à propos de la prononciation et ASCII. Si vous voule
 > 2. Ajoutez l'altération otonale composée (s'il y en a) : prononcez le nombre lui-même, avec un préfixe « super » qui est optionnel.
 > 3. Ajoutez l'altération utonale composée (s'il y en a) : prononcez le nombre lui-même avec un préfixe « sub ».
 
-Par exemple, on prononce Mi<sup>5</sup> comme « Mi-cinq » ou « Mi-super-cinq », et Mi♭<sub>5</sub> comme « Mi-bémol-sub-cinq ». Un intervalle comme la (quarte juste)<sup>7</sup><sub>11</sub> serait « quarte-juste-(super)-sept-sub-onze » où le mot « super » est optionnel, pour accentuer la séparation entre le nom conventionnel et le début des altérations FJS.
+Par exemple, on prononce Mi<sup>5</sup> comme « Mi-cinq » ou « Mi-super-cinq », et Mi♭<sub>5</sub> comme « Mi-bémol-sub-cinq ». Un intervalle comme 4<sup>7</sup><sub>11</sub> serait « quarte-juste-(super)-sept-sub-onze » où le mot « super » est optionnel, pour accentuer la séparation entre le nom conventionnel et le début des altérations FJS.
 
 Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup><sub>13</sub> serait « La-(super)-cinq-dix-sept-sub-treize ». Le mot « sub » est tout simplement un terminateur de la partie otonale. Il indique que les nombres suivants appartiennent à la partie utonale.
 
-À propos d'ASCII : Ce serait problématique d'écrire ces noms avec un clavier conventionnel à cause des indices supérieurs et inférieurs. Alternativement, on peut indiquer l'utonal avec une barre de soulignement, comme d'habitude, et vous pouvez ainsi indiquer l'otonal avec un signe caret, mais vous n'avez jamais besoin du signe caret en français. Mi<sup>5</sup> serait `Mi^5` ou `Mi5` ; une (tierce majeure)<sup>5</sup> serait une `(tierce majeure)^5` ou une `(tierce majeure)5`.
+À propos d'ASCII : Ce serait problématique d'écrire ces noms avec un clavier conventionnel à cause des indices supérieurs et inférieurs. Alternativement, on peut indiquer l'utonal avec une barre de soulignement, comme d'habitude, et vous pouvez ainsi indiquer l'otonal avec un signe caret, mais vous n'en avez besoin que pour les intervalles majeurs et justes en français. Mi<sup>5</sup> serait `Mi^5` ou `Mi5` ; une (tierce majeure)<sup>5</sup> serait `3^5`, mais `35` serait 243/8.
 
 **C'est tout !**
 
 C'est tout ce dont vous avez besoin pour utiliser *tout* le FJS et représenter *toute* l'intonation juste ! Vous n'avez pas besoin d'apprendre aucuns nombres par cœur ou chercher dans des tableaux, rien ! L'un des plus grands avantages de ce système est qu'il est complètement portable. Tout ce dont vous avez besoin pour le construire à partir de zéro, c'est le rayon de tolérance et des calculs. Les techniques que vous avez appris peuvent être automatisées et le système entier peut être géré par un ordinateur.
 
-Le FJS a encore beaucoup de belles qualités grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste ; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé : le FJS a un *isomorphisme* ; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations ; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une (seconde majeure)<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
+Le FJS a encore beaucoup de belles qualités grâce auxquelles il est tellement logique. La plus importante, c'est qu'il crée une *bijection* à l'intonation juste ; chaque nombre rationnel n'a qu'une forme FJS, et chaque forme FJS ne correspond qu'à un nombre rationnel. Une autre qualité dont je vous ai déjà parlé : le FJS a un *isomorphisme* ; il n'y a aucune différence si vous composez des rapports JI puis les transformez en FJS, ou d'abord transformez en FJS puis composez les transformations ; le résultat est le même. Grâce à ces qualités, il est très facile de transposer dans le FJS. Pour transposer d'une 2<sup>5</sup>, on transpose d'abord d'une seconde majeure comme d'habitude, sans changer les altérations FJS, puis, on ajoute partout un +5 et compose (par exemple, pour que +5 devienne +25, ou +7 devienne +35, ou −5 devienne 1).
 
 Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez vos nouvelles connaissances à l'essai. Ce sont encore des astuces ; vous auriez pu calculer ce tableau vous-même si vous aviez voulu (mais vous ne voudriez pas, donc je l'ai fait pour vous).
 
@@ -431,7 +431,7 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 ### Exercice 4
 
 1. Trouvez la forme FJS des rapports suivants, en utilisant n'importe quelle technique : 28/27, 15/13, 33/25.
-2. Trouvez le rapport qui correspond aux représentations FJS suivantes, en utilisant n'importe quelle technique : (sixte majeure)<sub>7</sub>, (quarte diminuée)<sup>13</sup><sub>5</sub>, (tierce mineure)<sub>25</sub>.
+2. Trouvez le rapport qui correspond aux représentations FJS suivantes, en utilisant n'importe quelle technique : 6<sub>7</sub>, 4°<sup>13</sup><sub>5</sub>, 3m<sub>25</sub>.
 3. Écrivez une traduction de cette progression d'accords célèbre en Si♭ majeur. Vous voyez les rapports de chaque note sur Si♭ (sans octaves).
 	- 10/9, 5/4, 4/3, 5/3, 1/1
 	- 3/2, 9/8, 21/16, 27/16, 15/8
