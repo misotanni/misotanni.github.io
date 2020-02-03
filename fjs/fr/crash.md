@@ -442,6 +442,7 @@ Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/3
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 	
 6. (DIFFICILE !) Il y a une communité qui supporte la « musique 432 Hz », dont les membres affirment qu'un accord de la note La sur 432 Hz au lieu de 440 Hz améliore la qualité acoustique et spirituelle de la musique. (Cette question n'a aucune importance pour nous.) Trouvez l'intervalle FJS dont un morceau serait transposé si cet accord était adopté.
+7. (DIFFICILE !) Le rayon de tolérance lui-même, 65/63, qu'est-ce qu'il égale dans le FJS?
 
 Vous pouvez vérifier vos réponses [ici](solutions.html).
 

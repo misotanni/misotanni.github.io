@@ -38,3 +38,4 @@
 	- I chord: 1/1, 3/2, 5/4, 1/1
 5. <img src="../assets/solutions/seconds.svg" alt="A–B♭11-5, A–B5, A–B, A–B-7"> <audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 6. P1<sup>55</sup>. The interval is 440/432 = 55/54. Please don't buy into 432 Hz stuff, thanks.
+7. P1<sup>65</sup><sub>7</sub>.

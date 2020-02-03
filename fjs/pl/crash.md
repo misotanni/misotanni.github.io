@@ -441,6 +441,7 @@ Teraz mogę już wyjaśnić, dlaczego to właśnie pierwiastek kwadratowy z 33/3
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 	
 6. (Trudne!). Tak zwany „ruch 432-hercowy” uparcie twierdzi, że przestrajanie *a* z 440 na 432 Hz poprawia fizyczny i duchowy aspekt muzyki. (W tym zadaniu nie ma znaczenia, czy mają rację). Wynajdź FJS-owy interwał odpowiadający takiemu przestrojeniu.
+7. (Trudne!). Jak wygląda w FJS-ie sam promień tolerancji, czyli 65/63?
 
 Rozwiązania znajdziesz [tutaj](solutions.html).
 
