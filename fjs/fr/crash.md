@@ -188,16 +188,16 @@ L'**algorithme principal du FJS** trouve le **déplacement de quintes** pour cha
 >
 > **Exemple :** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
 >
-> | Déplacement | Pythagoricienne |   Comma   |     Taille | Conclusions     |
-> |------------:|:---------------:|:---------:|-----------:|:----------------|
-> |        0    |       1/1       |    5/4    |  386.31¢   | ≥ λ ; continuer |
-> |       +1    |       3/2       |    5/6    |  315.64¢   | ≥ λ ; continuer |
-> |       −1    |       4/3       |   15/16   |  111.73¢   | ≥ λ ; continuer |
-> |       +2    |       9/8       |   10/9    |  182.40¢   | ≥ λ ; continuer |
-> |       −2    |      16/9       |   45/32   |  590.22¢   | ≥ λ ; continuer |
-> |       +3    |      27/16      |   20/27   |  519.55¢   | ≥ λ ; continuer |
-> |       −3    |      32/27      |  135/128  |   92.18¢   | ≥ λ ; continuer |
-> |     **+4**  |    **81/64**    | **80/81** | **21.51¢** | < λ ; arrêter   |
+> | Déplacement | Pythagoricienne |   Comma   |     Taille | Résultat | Conclusion |
+> |------------:|:---------------:|:---------:|-----------:|:---------|:-----------|
+> |        0    |       1/1       |    5/4    |  386.31¢   | ≥ λ      | continuer  |
+> |       +1    |       3/2       |    5/6    |  315.64¢   | ≥ λ      | continuer  |
+> |       −1    |       4/3       |   15/16   |  111.73¢   | ≥ λ      | continuer  |
+> |       +2    |       9/8       |   10/9    |  182.40¢   | ≥ λ      | continuer  |
+> |       −2    |      16/9       |   45/32   |  590.22¢   | ≥ λ      | continuer  |
+> |       +3    |      27/16      |   20/27   |  519.55¢   | ≥ λ      | continuer  |
+> |       −3    |      32/27      |  135/128  |   92.18¢   | ≥ λ      | continuer  |
+> |     **+4**  |    **81/64**    | **80/81** | **21.51¢** | < λ      | arrêter    |
 
 Comme vous voyez, l'algorithme est assez simple que vous pouvez le réaliser mentalement (peut-être sauf la 4. étape qui est difficile jusqu'à ce que vous pouvez imaginer ou vous souvenir des dimensions approximatives de plusieurs intervalles).
 

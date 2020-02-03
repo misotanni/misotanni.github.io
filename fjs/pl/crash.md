@@ -187,16 +187,16 @@ Do czego będziemy wykorzystywać *λ*? Co następuje, jest jednym z najważnie
 >
 > **Przykład.** Poniżej: demonstracja działania algorytmu dla 5 przy promieniu tolerancji *λ* = 54.12…¢. „Komaty” to wartości różnic pomiędzy 5/4 a przybliżeniami „pitagorejskimi”.
 >
-> | Przeniesienie | Pitagorejskie |   Komat   |    Rozmiar | Wniosek           |
-> |--------------:|:-------------:|:---------:|-----------:|:------------------|
-> |           0   |      1/1      |    5/4    |  386.31¢   | ≥ λ; kontynuujemy |
-> |          +1   |      3/2      |    5/6    |  315.64¢   | ≥ λ; kontynuujemy |
-> |          −1   |      4/3      |   15/16   |  111.73¢   | ≥ λ; kontynuujemy |
-> |          +2   |      9/8      |   10/9    |  182.40¢   | ≥ λ; kontynuujemy |
-> |          −2   |     16/9      |   45/32   |  590.22¢   | ≥ λ; kontynuujemy |
-> |          +3   |     27/16     |   20/27   |  519.55¢   | ≥ λ; kontynuujemy |
-> |          −3   |     32/27     |  135/128  |   92.18¢   | ≥ λ; kontynuujemy |
-> |        **+4** |   **81/64**   | **80/81** | **21.51¢** | < λ; kończymy     |
+> | Przeniesienie | Pitagorejskie |   Komat   |    Rozmiar | Wynik | Wniosek      |
+> |--------------:|:-------------:|:---------:|-----------:|:------|:-------------|
+> |           0   |      1/1      |    5/4    |  386.31¢   | ≥ λ   | kontynuujemy |
+> |          +1   |      3/2      |    5/6    |  315.64¢   | ≥ λ   | kontynuujemy |
+> |          −1   |      4/3      |   15/16   |  111.73¢   | ≥ λ   | kontynuujemy |
+> |          +2   |      9/8      |   10/9    |  182.40¢   | ≥ λ   | kontynuujemy |
+> |          −2   |     16/9      |   45/32   |  590.22¢   | ≥ λ   | kontynuujemy |
+> |          +3   |     27/16     |   20/27   |  519.55¢   | ≥ λ   | kontynuujemy |
+> |          −3   |     32/27     |  135/128  |   92.18¢   | ≥ λ   | kontynuujemy |
+> |        **+4** |   **81/64**   | **80/81** | **21.51¢** | < λ   | kończymy     |
 
 Jak widać, sam algorytm jest na tyle prosty, że można by go przeprowadzić bez ołówka i kartki – oprócz kroku 4, który wymaga zdolności szybkiego przybliżania wielkości interwałów w pamięci (centami lub wyobraźnią).
 
