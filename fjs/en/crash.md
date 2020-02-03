@@ -188,16 +188,16 @@ The **FJS master algorithm** outputs the so-called **fifth shift** for each prim
 >
 > **Example:** The following is a demonstration of the algorithm with 5 as input. (The radius of tolerance is assumed to be λ = 65/63.) Here, ‘Commas’ are candidates for the comma, calculated by dividing 5/4 by the candidate ‘Pythagorean’ approximations. 
 >
-> | Fifth shift | Pythagorean |   Comma   |                 Conclusions |
-> |------------:|:-----------:|:---------:|----------------------------:|
-> |         0   |     1/1     |    5/4    |  386.31¢   ≥ λ; continuing. |
-> |        +1   |     3/2     |    5/6    |  315.64¢   ≥ λ; continuing. |
-> |        −1   |     4/3     |   15/16   |  111.73¢   ≥ λ; continuing. |
-> |        +2   |     9/8     |   10/9    |  182.40¢   ≥ λ; continuing. |
-> |        −2   |    16/9     |   45/32   |  590.22¢   ≥ λ; continuing. |
-> |        +3   |    27/16    |   20/27   |  519.55¢   ≥ λ; continuing. |
-> |        −3   |    32/27    |  135/128  |   92.18¢   ≥ λ; continuing. |
-> |      **+4** |  **81/64**  | **80/81** | **21.51¢** < λ; halting.    |
+> | Fifth shift | Pythagorean |   Comma   |       Size | Conclusions   |
+> |------------:|:-----------:|:---------:|-----------:|:--------------|
+> |         0   |     1/1     |    5/4    |  386.31¢   | ≥ λ; continue |
+> |        +1   |     3/2     |    5/6    |  315.64¢   | ≥ λ; continue |
+> |        −1   |     4/3     |   15/16   |  111.73¢   | ≥ λ; continue |
+> |        +2   |     9/8     |   10/9    |  182.40¢   | ≥ λ; continue |
+> |        −2   |    16/9     |   45/32   |  590.22¢   | ≥ λ; continue |
+> |        +3   |    27/16    |   20/27   |  519.55¢   | ≥ λ; continue |
+> |        −3   |    32/27    |  135/128  |   92.18¢   | ≥ λ; continue |
+> |      **+4** |  **81/64**  | **80/81** | **21.51¢** | < λ; halt     |
 
 As you can see, the algorithm is simple enough that you can implement it in your mind yourself, except for step 4, which is difficult to realize with mental arithmetic until you know the approximate sizes of many intervals by heart, either as cents or by being able to imagine them.
 

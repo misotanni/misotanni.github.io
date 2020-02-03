@@ -188,16 +188,16 @@ Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede
 >
 > **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
 >
-> | Verschiebung | Pythagoreisch |   Komma   |          Schlussfolgerungen |
-> |-------------:|:-------------:|:---------:|----------------------------:|
-> |          0   |      1/1      |    5/4    |  386.31¢   ≥ λ; fortfahren. |
-> |         +1   |      3/2      |    5/6    |  315.64¢   ≥ λ; fortfahren. |
-> |         −1   |      4/3      |   15/16   |  111.73¢   ≥ λ; fortfahren. |
-> |         +2   |      9/8      |   10/9    |  182.40¢   ≥ λ; fortfahren. |
-> |         −2   |     16/9      |   45/32   |  590.22¢   ≥ λ; fortfahren. |
-> |         +3   |     27/16     |   20/27   |  519.55¢   ≥ λ; fortfahren. |
-> |         −3   |     32/27     |  135/128  |   92.18¢   ≥ λ; fortfahren. |
-> |       **+4** |   **81/64**   | **80/81** | **21.51¢** < λ; halten.     |
+> | Verschiebung | Pythagoreisch |   Komma   |     Betrag | Ergebnis        |
+> |-------------:|:-------------:|:---------:|-----------:|:----------------|
+> |          0   |      1/1      |    5/4    |  386.31¢   | ≥ λ; fortfahren |
+> |         +1   |      3/2      |    5/6    |  315.64¢   | ≥ λ; fortfahren |
+> |         −1   |      4/3      |   15/16   |  111.73¢   | ≥ λ; fortfahren |
+> |         +2   |      9/8      |   10/9    |  182.40¢   | ≥ λ; fortfahren |
+> |         −2   |     16/9      |   45/32   |  590.22¢   | ≥ λ; fortfahren |
+> |         +3   |     27/16     |   20/27   |  519.55¢   | ≥ λ; fortfahren |
+> |         −3   |     32/27     |  135/128  |   92.18¢   | ≥ λ; fortfahren |
+> |       **+4** |   **81/64**   | **80/81** | **21.51¢** | < λ; halten     |
 
 Wie du siehst, ist der Algorithmus so einfach, dass du ihn im Kopf durchführen kannst (vielleicht außer dem 4. Schritt, der schwierig ist, bis du die Größe vieler Intervalle ungefähr auswendig weißt, ob als Cent oder du kannst sie dir vorstellen).
 
