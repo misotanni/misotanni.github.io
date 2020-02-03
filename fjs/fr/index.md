@@ -74,6 +74,4 @@ Il n'y a que sept règles pour tout ce dont on a besoin pour écrire toute l'int
 - Utilisez les [calculatrices](calc.html) sur ce site pour faire des calculs FJS automatiquement. **Conseil :** Sauvegardez-les tout de suite.
 - Trouvez beaucoup plus d'[exemples](examples.html) du FJS en usage.
 
-**Le FJS, que signifiera-t-il pour toi ?**
-
 <audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>

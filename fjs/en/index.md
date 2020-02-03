@@ -75,6 +75,4 @@ The following seven rules govern everything required to notate an arbitrary piec
 - Use the website's [calculators](calc.html) to automatically perform FJS-related calculations. **Advice:** bookmark these immediately.
 - See many more [examples](examples.html) of the FJS in usage.
 
-**What will the FJS mean for you?**
-
 <audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>

@@ -74,6 +74,4 @@ Te siedem reguł wystarczy, by móc zapisać dowolny utwór naturalny w FJS-ie.
 - Skorzystaj z [kalkulatora](calc.html), by pomóc sobie z FJS-owymi obliczeniami. **Porada:** dodaj je od razu do zakładek.
 - Przestudiuj [przykłady](examples.html) zastosowania FJS-u.
 
-**Czym FJS będzie dla Ciebie?**
-
 <audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>

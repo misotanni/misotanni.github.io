@@ -74,6 +74,4 @@ Es gibt nur sieben Regeln, die alles, was man zur Notation jeglicher JI-Musik mi
 - Benutze die [Rechner](calc.html) der Webseite, um automatisch FJS-Berechnungen durchzuführen. **Vorschlag:** Speichere sie jetzt.
 - Hier findest du mehr [Beispiele](examples.html) des FJS im Einsatz.
 
-**Was wird das FJS für dich bedeuten?**
-
 <audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>
