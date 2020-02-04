@@ -322,13 +322,25 @@ BJ faktycznie zmusza do ciągłego mnożenia i dzielenia, ponieważ nawet najpr
 
 Gdy próbuje Pan używać HE, zakłada Pan od razu wszystkie ograniczenia notacji BJ: próbuje Pan wyliczyć septymę małą z septymy wielkiej obniżonej o półton chromatyczny. Krytykuje Pan HE za to, że jeden z tych interwałów teraz ma cztery cyfry, podczas gdy BJ ładnie sobie radzi z dwucyfrowymi.
 
-Panie Gannie, septyma mała jest tuż-tuż na kole kwintowym; są to dwie kwarty czyste, obie równe 4/3 (chociaż nie ma tak łatwo w BJ, gdzie *c*–*f*, 4/3, nie równa się *f*–*b*, 27/20). Po co wchodziłby Pan o pięć kwint do góry (septyma wielka), aby potem od razu zejść o siedem (półton chromatyczny)? Czy podróż z Warszawy do Trójmiasta przez Zakopane brzmi tak samo zachęcająco? Czy *g*–*f* przez *fis*, co w FJS-ie nie różni się niczym od wcześniejszego przykładu, brzmi tak samo logicznie? Tylko dlatego, że w *C* septymę małą pisze się z bemolem, nie oznacza, że musi Pan tak o niej myśleć. Zmusza Pana do tego BJ. Niech Pan spróbuje przenieść się do tonacji *D*, gdzie septyma mała nie ma alteracji, ale w przeciwieństwie do BJ ma ten sam rozmiar.
+Panie Gannie, septyma mała jest tuż-tuż na kole kwintowym; są to dwie kwarty czyste, obie równe 4/3 (chociaż nie ma tak łatwo w BJ, gdzie *c*–*f*, 4/3, nie równa się *f*–*b*, 27/20). Po co wchodziłby Pan o pięć kwint do góry (septyma wielka), aby potem od razu zejść o siedem (półton chromatyczny)? Czy podróż z Warszawy do Trójmiasta przez Zakopane brzmi tak samo zachęcająco? Czy *g*–*f* przez *fis*, co w FJS-ie nie różni się niczym od wcześniejszego przykładu, brzmi tak samo logicznie? Tylko dlatego, że w *C* septymę małą pisze się z bemolem, nie oznacza, że musi Pan tak o niej myśleć. Zmusza Pana do tego BJ. Niech Pan spróbuje przenieść się do tonacji *G*, albo *D*, albo *A*, *E*, *H*, gdzie septyma mała nie ma alteracji, ale w przeciwieństwie do BJ ma ten sam rozmiar.
 
 Pana poradnik do wyliczania ułamków z notacji faktycznie każe zaczynać od nut niealterowanych i wyliczenia interwału między nimi: dlatego, że interwał JI *zależy* od interwału ptolemejskiego w BJ, co oznacza, że innego sposobu nie ma. Na przykład *d*–*e* to 10/9, czyli interwał różny od *c*–*d*, 9/8. Ani w HE, ani w FJS-ie nie znajdzie Pan takiego absurdalnego ograniczenia. Każda sekunda wielka to 9/8. Pozwala to kompozytorom uwolnić się od skali diatonicznej, gdy myślą w JI, i tłumaczyć od razu z ułamków na nazwy interwałów bez kroku pośredniego, czyli konkretnych nut bazowych.
 
 Pan mógł wyliczyć 16/9 z *c*–*b* na tyle różnych (dużo łatwiejszych) sposobów niż 243/128 razy 2187/2048. Właściwie wybrał Pan prawdopodobnie najtrudniejszy z możliwych sposobów wyliczenia 16/9 (ale pamiętajmy, jest to ekwiwalent jedynego możliwego sposobu w BJ, żeby wyliczyć 9/5).
 
 Mógł Pan na przykład zauważyć, że *c* i *b* oba nie mają żadnych mikrotonowych alteracji, czyli z definicji niealterowanych dźwięków septyma mała między nimi musi być pitagorejska, czyli 16/9. Albo że składa się z dwóch kwart czystych 4/3, czyli 16/9. Albo że jest to odwrócenie całego tonu 9/8, czyli 16/9. FJS daje ogromną wolność szybkiego i wydajnego czytania i pisania w przeciwieństwie do powolnego i mozolnego procesu, do którego zobowiązuje BJ.
+
+Poniżej widnieje przykład z Pańskiego poradnika do notacji BJ, który jest fragmentem z Kwartetu smyczkowego nr. 9 samego Johnstona:
+
+<img src="../assets/compare/BJSQ9ex.jpg" alt="Ben Johnston, Kwartet smyczkowy nr. 9, fragment">
+
+Tylko dwa takty, cztery pięciolinie. Toniką jest *c*, czyli podobno najprostsza możliwa tonika dla BJ. Skalą są banalne alikwoty, do 32. A jednak ten fragment zawiera nie jeden, nie dwa, ale **trzy** błędy. Oto i one: po pierwsze, altówka w 1. takcie w 4. mierze gra nie 11/8, ale 99/64; po drugie, wszystkie instrumenty poza pierwszymi skrzypcami w 2. takcie w 4. mierze mają nie 19/16, lecz 39/32; po trzecie, partia altówki kończy się nie na dźwiękach 17/16 i 1/1, ale 153/128 i 9/8. (Wszystkie te ułamki są interwałami od *c*, nie licząc oktaw).
+
+Prawie kryptograficzny harmider, którym jest notacja BJ, sprawia, że to nie tylko może wystąpić – to wcale nie dziwi. Tyle zamieszania podczas kompozycji, i to – powtarzam – w tonacji *C* (nie wspominając na przykład *D*, albo *B*!)
+
+Poniżej dla porównania ten sam fragment przepisany w FJS-ie (łącznie z błędami, ale tym razem rzucają się od razu w oczy):
+
+<img src="../assets/compare/bj9.svg" alt="The same excerpt, in the FJS">
 
 Ja widzę to tak, że Pan przyzwyczaił się przez lata do cugli, które założył Panu BJ, a gdy HE (czy też FJS) Pana z nich uwalnia, bierze Pana paraliż.
 
