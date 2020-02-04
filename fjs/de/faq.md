@@ -22,9 +22,11 @@ So etwas brauchst du gar nicht! Dafür gibt es die [Rechner](calc.html).
 
 Dazu erfahrst du vieles auf [dieser](compare.html) Seite.
 
-## Was mit (Sagittal / dem H-System / Kites Farbennotation / Catherinos polychromatische Notation / \[noch ein alternatives Notationssystem\])?
+## Warum ist 65/63 der Toleranzradius?
 
-Sehe dir dazu wieder den [Vergleich](compare.html) an.
+Der [Crash-Kurs](crash.html) enthält meine Denkprozesse dabei. Wirklich wichtig war mir, dass der Toleranzradius größer als 33/32, aber kleiner als 32/31 sei. Warum denn genau 65/63? 65/63 ist die Mediante der zwei oben genannten Zahlen, also die einfachste mögliche Zahl, die zwischen ihnen liegt. Das war es aber nicht immer. Es hat lange gedauert, bis das FJS von dem vorherigen Toleranzradius auf 65/63 umgestellt wurde: vorher war es der geometrische Mittelwert aus 32/31 und 33/32, also die Quadratwurzel von 33/31. Ich danke dabei Kite Giedraitis, dem Erfinder der [Farbennotation](http://tallkite.com), dafür, dass er mir diese einfachere Möglichkeit gezeigt hat. Der winzige Unterschied wird man gar nicht merken; die erste Primzahl, deren Quintenverschiebung sich ändert, ist 35617 (vorher 2−<sup>35617</sup>, jetzt 1+<sup>35617</sup>).
+
+In der Vergangenheit hatte der Toleranzradius viele merkwürdige Formen… darunter 256/243 und sogar dessen Quadratwurzel (igitt!). Jede von diesen Zahlen hatte ihre Begründung, aber mehr rational als 65/63 geht es wahrscheinlich nicht (entschuldige das Wortspiel).
 
 ## Warum überhaupt, wenn ich die Tonhöhen am Anfang der Partitur definieren kann?
 

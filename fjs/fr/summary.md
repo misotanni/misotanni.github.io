@@ -9,7 +9,7 @@ Les objectifs du FJS :
 - Être beaucoup plus facile (à lire et à écrire) que les autres systèmes de notation.
 - Être optimal pour l'utilisation dans des logiciels de musique puisque toutes ses altérations peuvent être automatiquement construites. 
 
-Le cœur du FJS est **l'algorithme principal** dont l'entrée peut être chaque nombre premier au-delà de 3 et qui utilise une constante appelée **rayon de tolérance** (dont la valeur normale est le moyen géométrique de 33/32 et 32/31, donc $$\sqrt{\frac{33}{31}}$$), pour trouver l'approximation la plus simple de ce nombre premier d'entre les rapports de la 3-limite dans les limites du rayon de tolérance. (*La plus simple* signifie que le **déplacement de quintes**, l'exposant de 3, a une valeur absolue minimale.) La différence devient ainsi un **comma formel** pour ce nombre premier, toujours dans la direction originale, avec le facteur du nombre premier dans le numérateur.
+Le cœur du FJS est **l'algorithme principal** dont l'entrée peut être chaque nombre premier au-delà de 3 et qui utilise une constante appelée **rayon de tolérance** (dont la valeur normale est la médiante de 33/32 et 32/31, donc 65/63), pour trouver l'approximation la plus simple de ce nombre premier d'entre les rapports de la 3-limite dans les limites du rayon de tolérance. (*La plus simple* signifie que le **déplacement de quintes**, l'exposant de 3, a une valeur absolue minimale.) La différence devient ainsi un **comma formel** pour ce nombre premier, toujours dans la direction originale, avec le facteur du nombre premier dans le numérateur.
 
 On peut ainsi représenter l'intonation juste :
 

@@ -22,9 +22,11 @@ Nie potrzebujesz tabeli – od tego masz [kalkulator](calc.html).
 
 Na ten temat wypowiedziałem się na stronie [porównania](compare.html).
 
-## A czemu nie (Sagittal / H-system / notacja kolorowa Kitea / zapis polichromatyczny Catherino / \[wstaw tutaj wybrany alternatywny system notacji\])?
+## Dlaczego promień tolerancji wynosi akurat 65/63?
 
-Proszę raz jeszcze zajrzeć do [porównania](compare.html).
+Wyjaśnienie ogólnej motywacji umieściłem na końcu [kursu intensywnego](crash.html): chodziło mi o liczbę mieszczącą się pomiędzy 33/32 a 32/31. Wybór dokładnie liczby 65/63 pochodzi stąd, że jest to medianta tych dwóch liczb, a medianta dwóch ułamków jest najprostszą liczbą znajdującą się między nimi. Przez długi czas promieniem tolerancji była jednak nie ich medianta, a średnia geometryczna, czyli pierwiastek kwadratowy z 33/31. Kite Giedraitis, autor [notacji kolorów](http://tallkite.com/), wskazał mi prostszą możliwość, którą jest medianta, za co jestem mu wdzięczny. Różnica niczego nie psuje, zresztą jest tak mała, że niezauważalna. Najmniejsza liczba pierwsza, której postać FJS-owa się przez to zmienia, to 35617 (wcześniej 2&gt;<sup>35617</sup>, teraz 1&lt;<sup>35617</sup>).
+
+Ale nawet średnia geometryczna była lepsza od innych koszmarów, które używałem jako promień tolerancji w jeszcze dalszej przeszłości FJS-u: takie liczby jak 256/243 albo jej pierwiastek kwadratowy… fuj! Oczywiście, każda z nich miała swoje wytłumaczenie, natomiast na chwilę obecną 65/63 wydaje mi się najbardziej racjonalnym wyborem (nieprzetłumaczalna gra słów; ang. „rational” oznacza zarówno „wymierny”, jak i „racjonalny”).
 
 ## Skąd tyle zachodu, skoro mogę wszystkie wysokości zdefiniować na początku partytury?
 

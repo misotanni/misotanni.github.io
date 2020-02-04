@@ -168,7 +168,7 @@ Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej d
 
 Nie musisz się usprawiedliwiać – to była parodia konkurencyjnych systemów JI, które wybierają sobie te przybliżenia wedle własnego kaprysu. FJS na pytanie „Jakie przybliżenia powinienem wybierać dla interwałów pierwszych?” odpowiada: w ogóle nie powinieneś. Zamiast tego uzgadniamy stałą nazywaną **promieniem tolerancji**. Po dłuższym eksperymentowaniu z różnymi promieniami tolerancji i rozpatrywaniu ich zalet i wad doszedłem do wniosku, że w standardowym FJS-ie będziemy używać *λ* o następującej wartości:
 
-$$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
+$$\displaystyle \lambda =\frac{65}{63}$$
 
 Wyjaśnię, dlaczego, później.
 
@@ -185,7 +185,7 @@ Do czego będziemy wykorzystywać *λ*? Co następuje, jest jednym z najważnie
 > 5. Jeżeli tak: *k* to przeniesienie. Zwróć *k*. Koniec.
 > 6. Jeżeli nie: przejdź do następnego *k* w kolejności z szeregu (0, 1, −1, 2, −2, 3, −3, …) i wróć do kroku 3.
 >
-> **Przykład.** Poniżej: demonstracja działania algorytmu dla 5 przy promieniu tolerancji *λ* = 54.12…¢. „Komaty” to wartości różnic pomiędzy 5/4 a przybliżeniami „pitagorejskimi”.
+> **Przykład.** Poniżej: demonstracja działania algorytmu dla 5 przy promieniu tolerancji *λ* = 65/63. „Komaty” to wartości różnic pomiędzy 5/4 a przybliżeniami „pitagorejskimi”.
 >
 > | Przeniesienie | Pitagorejskie |   Komat   |    Rozmiar | Wynik | Wniosek      |
 > |--------------:|:-------------:|:---------:|-----------:|:------|:-------------|
@@ -425,7 +425,7 @@ Jeszcze jedna rzecz, zanim wypróbujesz swoich nagromadzonych sił przy następn
 | 29       | −2            | 261/256        |
 | 31       | +5            | 248/243        |
 
-Teraz mogę już wyjaśnić, dlaczego to właśnie pierwiastek kwadratowy z 33/31 wybrałem na λ. To średnia geometryczna 33/32 i 32/31, a więc większa od pierwszego, a mniejsza od drugiego. 33/32 jest więc dozwolonym komatem, dając przybliżenie kwarty czystej dla 11/8 (inaczej musielibyśmy posługiwać się absurdalnym 5>). Ale naraz 32/31 nie jest dozwolone, przez co uniemożliwiając przybliżenie oktawy czystej dla 31/16. Sprytne, nie?
+Teraz mogę już wyjaśnić, dlaczego to właśnie 65/63 wybrałem na λ. To medianta 33/32 i 32/31, a więc większa od pierwszego, a mniejsza od drugiego. 33/32 jest więc dozwolonym komatem, dając przybliżenie kwarty czystej dla 11/8 (inaczej musielibyśmy posługiwać się absurdalnym 5>). Ale naraz 32/31 nie jest dozwolone, przez co uniemożliwiając przybliżenie oktawy czystej dla 31/16. Sprytne, nie?
 
 ### Ćwiczenia – zestaw 4
 

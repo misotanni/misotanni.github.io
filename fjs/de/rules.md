@@ -4,6 +4,10 @@ Diese Seite ist *de facto* ein Handbuch des FJS. Es enthält alle Regeln, die du
 
 Alles, was experimentelle Elemente angeht, ist mit dem Symbol (\*) markiert.
 
+## Der Toleranzradius
+
+Eine Konstante, definitionsgemäß gleich 65/63.
+
 ## Reduzierte Formen
 
 > Die übliche reduzierte Form beträgt $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$

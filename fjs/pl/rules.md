@@ -4,6 +4,10 @@ Ta strona to *de facto* podręcznik użytkowania FJS – zawiera wszystkie regu�
 
 Wszystkie elementy eksperymentalne zaznaczyłem gwiazdką (\*).
 
+## Promień tolerancji
+
+Jest to w FJS-ie stała. Jej wartość wynosi 65/63 – z definicji.
+
 ## Rodzaje redukcji
 
 > Redukcja zwyczajna: $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$

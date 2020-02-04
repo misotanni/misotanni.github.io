@@ -169,13 +169,13 @@ Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/
 
 Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. „Wie wählen wir also die Annäherungen für jedes Primzahlintervall?“ Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
 
-$$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
+$$\displaystyle \lambda =\frac{65}{63}$$
 
 Wieso, erkläre ich später.
 
 Wie benutzt das FJS diese Zahl? Der nächste Schritt ist das wichtigste Element des ganzen FJS. Es ist dasjenige Element, das das FJS von allen anderen JI-Notationssystemen unterscheidet. Es ist der **FJS-Master-Algorithmus**. Hier steht er lesbar für Menschen. Andere Formen in Programmiersprachen, darunter auch ein Rechner auf dieser Webseite, gibt es auch.
 
-Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus so tut, wie er benutzt wird, und wozu die Quintenverschiebung dient.
+Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede Primzahl mithilfe des Toleranzradius. Ich erkläre, was der Algorithmus tut, wie er benutzt wird, und wozu die Quintenverschiebung dient.
 
 > ### Der FJS-Master-Algorithmus
 > 
@@ -186,7 +186,7 @@ Der **FJS-Master-Algorithmus** findet die sog. **Quintenverschiebung** für jede
 > 5. Falls ja, dann ist *k* die Verschiebung. Ende.
 > 6. Falls nicht, gehe zum nächsten *k* in der folgenden Reihe: (0, 1, −1, 2, −2, 3, −3, …) und wiederhole ab dem 3. Schritt.
 >
-> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = sqrt(33/31).) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
+> **Beispiel:** Hier siehst du eine Vorführung des Algorithmus mit 5 als Eingabe. (Der Toleranzradius beträgt λ = 65/63.) Die „Kommas“ sind hier Kandidaten für ein formales Komma, die Quotienten von 5/4 und des jeweiligen Kandidaten für die pythagoreische Annäherung.
 >
 > | Verschiebung | Pythagoreisch |   Komma   |     Betrag | Ergebnis | Folgen     |
 > |-------------:|:-------------:|:---------:|-----------:|:---------|:-----------|
@@ -426,7 +426,7 @@ Es gibt noch eine Sache, die du vielleicht möchtest, bevor du deine neu erlernt
 | 29       | −2           | 261/256        |
 | 31       | +5           | 248/243        |
 
-Du kannst jetzt auch erfahren, wieso ich die Quadratwurzel aus 33/31 für den Toleranzradius gewählt habe. Sie ist das geometrische Mittel von 33/32 und 32/31, dabei ist sie größer als 33/32 und kleiner als 32/31. Daher wird 33/32 als mögliches formales Komma akzeptiert, deshalb kann 11/8 als reine Quarte dargestellt werden (falls nicht, dann wäre es die verminderte Quinte; Unsinn). Aber gleichzeitig wird die genauso unsinnige Darstellung von 31/16 als reine Oktave verworfen, weil 32/31 nicht als formales Komma akzeptiert wird. Schlau, oder?
+Du kannst jetzt auch erfahren, wieso ich 65/63 für den Toleranzradius gewählt habe. Diese Zahl ist die Mediante von 33/32 und 32/31, dabei ist sie größer als 33/32 und kleiner als 32/31. Daher wird 33/32 als mögliches formales Komma akzeptiert, deshalb kann 11/8 als reine Quarte dargestellt werden (falls nicht, dann wäre es die verminderte Quinte; Unsinn). Aber gleichzeitig wird die genauso unsinnige Darstellung von 31/16 als reine Oktave verworfen, weil 32/31 nicht als formales Komma akzeptiert wird. Schlau, oder?
 
 ### Aufgabe 4
 

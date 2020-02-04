@@ -22,9 +22,11 @@ Vous n'en avez pas besoin ! Les [calculatrices](calc.html) servent à cela.
 
 J'ai examiné ce sujet à la page de la [comparaison](compare.html).
 
-## Pourquoi pas (Sagittal / le H-System / la notation de couleurs de Kite / la notation polychromatique de Catherino / \[encore un autre système de notation alternatif\]) ?
+## Pourquoi est-ce que le rayon de tolérance égale 65/63 ?
 
-Je répète : voyez la page de la [comparaison](compare.html).
+Il y a une explication courte dans le [cours intensif](crash.html). L'important pour moi, c'était d'avoir un rayon de tolérance plus grand que 33/32 mais plus petit que 32/31. Pourquoi donc 65/63 en particulier ? 65/63 est la médiante de ces deux nombres, ainsi, c'est le nombre le plus simple entre eux. Mais en fait, pour longtemps, le rayon de tolérance était leur moyenne géométrique : la racine carrée de 33/31. Je remercie Kite Giedraitis, le créateur de la [notation de couleurs](http://tallkite.com/), pour me montrer cette possibilité beaucoup plus simple. La différence est si petite que l'on ne remarquera rien ; 35617 est le nombre le plus petit entre les nombres premiers influencés (auparavant 2m<sup>35617</sup>, maintenant 1+<sup>35617</sup>).
+
+Le rayon de tolérance avait eu beaucoup d'autres formes encore plus bizarres dans l'histoire du FJS… y compris 256/243, et même la racine carrée de 256/243 (beurk !). Mais chacun de ces nombres avait eu sa rationalisation. Cependant, je ne crois pas qu'il soit possible d'avoir un rayon plus rational que 65/63 (excusez le jeu de mots).
 
 ## Pourquoi s'en préoccuper si je peux définir tous les tons au-dessus d'une partition ?
 

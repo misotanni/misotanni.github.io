@@ -4,6 +4,10 @@ Ce site est *de facto* un manuel du FJS. Vous trouvez ici toutes les règles don
 
 Tout ce qui concerne des éléments expérimentaux est marqué avec le symbole (\*).
 
+## Rayon de tolérance
+
+Une constante qui égale 65/63, par définition.
+
 ## Formes réduites
 
 > La forme réduite conventionnelle est $$\text{red}(d)=d \cdot 2^{-\lfloor\log_2 d\rfloor}$$

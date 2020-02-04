@@ -9,7 +9,7 @@ Die Ziele des FJS:
 - Viel benutzerfreundlicher zu sein (sowohl beim Lesen, als auch beim Schreiben) als andere Notationssysteme.
 - Optimal zur Verknüpfung mit Musik-Notationssoftware zu sein, da alle Versetzungszeichen automatisch generiert werden können.
 
-Am Herz des FJS liegt der **FJS-Master-Algorithmus**, der jede Primzahl größer als 3 akzeptiert, und mithilfe des sog. **Toleranzradius** (einer Konstante, deren Standardwert $$\sqrt{\frac{33}{31}}$$ beträgt, also der geometrische Mittelwert von 33/32 und 32/31) die einfachste Annäherung im 3-Limit dieser Primzahl sucht, die sich weniger als um den Toleranzradius unterscheidet. (*Einfachste* bedeutet: der Betrag der **Quintenverschiebung**, also der Potenz von 3, ist minimal). Die Differenz ist nun der Wert des **formalen Kommas** für diese Primzahl, und zwar immer in der Originalrichtung, wo der Faktor der Primzahl im Zähler steht.
+Am Herz des FJS liegt der **FJS-Master-Algorithmus**, der jede Primzahl größer als 3 akzeptiert, und mithilfe des sog. **Toleranzradius** (einer Konstante, deren Standardwert 65/63 beträgt, also die Mediante von 33/32 und 32/31) die einfachste Annäherung im 3-Limit dieser Primzahl sucht, die sich weniger als um den Toleranzradius unterscheidet. (*Einfachste* bedeutet: der Betrag der **Quintenverschiebung**, also der Potenz von 3, ist minimal). Die Differenz ist nun der Wert des **formalen Kommas** für diese Primzahl, und zwar immer in der Originalrichtung, wo der Faktor der Primzahl im Zähler steht.
 
 Dann wird die Naturtonstimmung folgendermaßen notiert:
 

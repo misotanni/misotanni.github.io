@@ -9,7 +9,7 @@ Cele FJS-u są następujące:
 - Być dużo łatwiejszym w użyciu (zarówno w czytaniu, jak i pisaniu) niż reszta systemów notacji dla strojów naturalnych.
 - Pasować do użycia w programach do notacji muzycznej, jako że wszystkie alteracje mogą być automatycznie wygenerowane.
 
-Sercem FJS-u jest **główny algorytm FJS**, który za pomocą **promienia tolerancji** (stałej, której wartość standardowo wynosi $$\sqrt{\frac{33}{31}}$$, czyli średnia geometryczna z 33/32 i 32/31) wylicza z dowolnej liczby pierwszej większej niż 3 jej najprostsze przybliżenie, które jest oddalone o mniej niż promień tolerancji, wśród ułamków 3-limitowych (*najprostsze* oznacza, że wartość bezwzględna **przeniesienia kwintowego**, czyli potęgi 3, jest jak najmniejsza). Różnica między nimi wtedy staje się tzw. **komatem formalnym** dla tej liczby pierwszej, zawsze w pierwotnym kierunku, czyli z liczbą pierwszą w liczniku.
+Sercem FJS-u jest **główny algorytm FJS**, który za pomocą **promienia tolerancji** (stałej, której wartość standardowo wynosi 65/63, czyli medianta 33/32 i 32/31) wylicza z dowolnej liczby pierwszej większej niż 3 jej najprostsze przybliżenie, które jest oddalone o mniej niż promień tolerancji, wśród ułamków 3-limitowych (*najprostsze* oznacza, że wartość bezwzględna **przeniesienia kwintowego**, czyli potęgi 3, jest jak najmniejsza). Różnica między nimi wtedy staje się tzw. **komatem formalnym** dla tej liczby pierwszej, zawsze w pierwotnym kierunku, czyli z liczbą pierwszą w liczniku.
 
 Wtedy stroje naturalne zapisuje się następująco:
 

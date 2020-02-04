@@ -169,7 +169,7 @@ Pourquoi alors utiliser la tierce majeure et pas la quarte diminuée pour 5/4 ?
 
 Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question « Comment choisissons-nous les approximations pour chaque intervalle premier ? » a une réponse très simple : *nous*, nous ne le faisons pas. Une constante fixe le fait pour nous : le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant :
 
-$$\displaystyle \lambda =\sqrt{\frac{33}{31}}$$
+$$\displaystyle \lambda =\frac{33}{31}$$
 
 J'expliquerai ce choix plus tard.
 
@@ -186,7 +186,7 @@ L'**algorithme principal du FJS** trouve le **déplacement de quintes** pour cha
 > 5. Si oui, *k* égale le déplacement. Fin.
 > 6. Si non, avancez au *k* suivant dans la séquence : (0, 1, −1, 2, −2, 3, −3, …), et retournez à l'étape 3.
 >
-> **Exemple :** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = sqrt(33/31).) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
+> **Exemple :** Vous voyez ici une démonstration de l'algorithme avec l'entrée 5. (On suppose que rayon de tolérance est λ = 65/63.) Les « Commas » sont des candidats pour le comma formel, on les obtient en divisant 5/4 par l'approximation pythagoricienne qui convient.
 >
 > | Déplacement | Pythagoricienne |   Comma   |     Taille | Résultat | Conclusion |
 > |------------:|:---------------:|:---------:|-----------:|:---------|:-----------|
@@ -426,7 +426,7 @@ Il y a encore une chose que vous voudriez peut-être voir avant que vous mettiez
 | 29     | −2          | 261/256      |
 | 31     | +5          | 248/243      |
 
-Vous pouvez maintenant découvrir pourquoi j'ai choisi la racine carrée de 33/31 comme rayon de tolérance. Ce nombre est la moyenne géométrique de 33/32 et 32/31, alors il est plus grand que 33/32 et plus petit que 32/31. Donc 33/32 serait accepté comme comma formel. Grâce à cela, 11/8 peut être représenté comme quarte juste (si elle était rejetée, la prochaine approximation serait la quinte diminuée, ce qui est ridicule). Mais en même temps, ce rayon rejette la représentation de 31/16 comme octave, parce que 32/31 est trop grand pour être un comma formel. N'est-ce pas ingénieux ?
+Vous pouvez maintenant découvrir pourquoi j'ai choisi 65/63 comme rayon de tolérance. Ce nombre est la médiante de 33/32 et 32/31, alors il est plus grand que 33/32 et plus petit que 32/31. Donc 33/32 serait accepté comme comma formel. Grâce à cela, 11/8 peut être représenté comme quarte juste (si elle était rejetée, la prochaine approximation serait la quinte diminuée, ce qui est ridicule). Mais en même temps, ce rayon rejette la représentation de 31/16 comme octave, parce que 32/31 est trop grand pour être un comma formel. N'est-ce pas ingénieux ?
 
 ### Exercice 4
 
