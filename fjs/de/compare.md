@@ -332,6 +332,16 @@ Dass C zu B 16/9 beträgt, könntest du auf vielerlei Weisen herausfinden, alle 
 
 Du könntest zum Beispiel bemerken, dass C und B beide keine mikrotonalen Versetzungszeichen haben, deshalb per Definition der Stammtöne muss die kleine Septime zwischen ihnen pythagoreisch sein, also 16/9. Oder du könntest bemerken, dass sie aus zwei 4/3–Quarten besteht, also 16/9. Oder du könntest bemerken, dass sie die Umkehrung des 9/8–Ganztons ist, also 16/9. Das FJS gibt dir so eine Freiheit schneller und effektiver Wege, zu lesen und zu schreiben, nicht wie der langsame, langweilige Prozess Johnstons.
 
+Dein Handbuch gibt Folgendes als Beispiel von Notenschrift in Johnstons Notation, einen Auszug aus Ben Johnstons Streichquartett Nr. 9:
+
+<img src="../assets/compare/BJSQ9ex.jpg" alt="Auszug aus Johnstons Streichquartett Nr. 9">
+
+In nur zwei Takten und vier Instrumenten, dazu in der Tonart C, der angeblich besten für die Johnston-Notation, in einer Skala, die nur aus der Obertonreihe 16-32 besteht, gelingt es ihm, nicht einen und nicht zwei, sondern **drei** Fehler zu machen: erstens, 99/64 anstatt 11/8 im ersten Takt bei der Bratsche, zweitens, 39/32 anstatt 19/16 im zweiten Takt bei allen Instrumenten außer der ersten Violine, und letztens, die letzten zwei Noten für die Bratsche betragen 153/128 und 9/8 anstatt 17/16 und 1/1. (Alle Verhältnisse sind hier von C und ohne Oktaven gemeint.)
+
+Mich überrascht das gar nicht, dass ein Wirrwarr wie Johnstons Notation so viel Durcheinander verursacht, auch wenn in einer so einfachen Tonart komponiert wird (geschweige denn D oder B). Im Gegensatz dazu steht hier derselbe Auszug (inklusive Fehler) im FJS. Bemerke, wie die Fehler jetzt viel klarer werden.
+
+<img src="../assets/compare/bj9.svg" alt="Der gleiche Auszug im FJS">
+
 So wie ich es sehe, bist du zu Handschellen bei Johnston gewohnt, und paralysiert, wenn Helmholtz–Ellis oder das FJS dich befreien, wegen der vielen Jahre in den Handschellen.
 
 Schalte dich auf das FJS um. Es wird die Mathematik und Notation deiner Kompositionen **vielfach vereinfachen**.
