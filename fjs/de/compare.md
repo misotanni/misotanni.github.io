@@ -338,7 +338,9 @@ Dein Handbuch gibt Folgendes als Beispiel von Notenschrift in Johnstons Notation
 
 In nur zwei Takten und vier Instrumenten, dazu in der Tonart C, der angeblich besten für die Johnston-Notation, in einer Skala, die nur aus der Obertonreihe 16-32 besteht, gelingt es ihm, nicht einen und nicht zwei, sondern **drei** Fehler zu machen: erstens, 99/64 anstatt 11/8 im ersten Takt bei der Bratsche, zweitens, 39/32 anstatt 19/16 im zweiten Takt bei allen Instrumenten außer der ersten Violine, und letztens, die letzten zwei Noten für die Bratsche betragen 153/128 und 9/8 anstatt 17/16 und 1/1. (Alle Verhältnisse sind hier von C und ohne Oktaven gemeint.)
 
-Mich überrascht das gar nicht, dass ein Wirrwarr wie Johnstons Notation so viel Durcheinander verursacht, auch wenn in einer so einfachen Tonart komponiert wird (geschweige denn D oder B). Im Gegensatz dazu steht hier derselbe Auszug (inklusive Fehler) im FJS. Bemerke, wie die Fehler jetzt viel klarer werden.
+Mich überrascht das gar nicht, dass ein Wirrwarr wie Johnstons Notation so viel Durcheinander verursacht, auch wenn in einer so einfachen Tonart komponiert wird (geschweige denn D oder B).
+
+Im Gegensatz dazu steht hier derselbe Auszug (inklusive Fehler) im FJS. Bemerke, wie die Fehler jetzt viel klarer werden.
 
 <img src="../assets/compare/bj9.svg" alt="Der gleiche Auszug im FJS">
 

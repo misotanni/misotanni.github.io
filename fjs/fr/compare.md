@@ -332,6 +332,18 @@ Vous auriez pu déterminer que Do–Si♭ s'élève à 16/9 avec beaucoup, beauc
 
 Vous auriez pu remarquer que Do et Si♭ n'ont aucune altération microtonale, donc par définition des notes diatoniques, la septième mineure entre eux est pythagoricienne, alors 16/9. Ou vous auriez pu remarquer qu'elle est composée de deux quartes 4/3, alors 16/9. Ou vous auriez pu remarquer qu'elle est le renversement de la seconde majeure 9/8, donc 16/9. Le FJS vous donne une telle liberté de méthodes très rapides et efficaces pour lire et pour écrire, qui n'est pas du tout comme le processus lent et ennuyeux chez Johnston.
 
+Voici un extrait du Quatuor n<sup>o</sup> 9 de Ben Johnston, qui est un exemple de la notation de Johnston que vous présentez dans votre manuel :
+
+<img src="../assets/compare/BJSQ9ex.jpg" alt="Extrait du Quatuor no. 9 de Ben Johnston">
+
+Il ne faut que deux mesures et quatre instruments, en Do (ce qui devrait être la meilleure tonalité pour la notation de Johnston !), dans l'une des échelles les plus simples : celle des harmoniques, du seizième jusqu'au trente-deuxième… et malgré tout cela, on trouve ici une – non, deux – non, **trois** erreurs ! Les voici : premièrement, chez l'alto dans la première mesure, on trouve 99/64 au lieu de 11/8 ; deuxièmement, dans la seconde mesure, tous les instruments sauf le premier violon ont 39/32 au lieu de 19/16 ; et finalement, les deux dernières notes de l'alto s'élèvent à 153/128 et 9/8 au lieu de 17/16 et 1/1. (Les rapports signifient toujours les intervalles par rapport à Do, sans octaves.)
+
+Cela n'est aucune surprise que le brouillamini qui est la notation de Johnston cause autant de confusion même si on compose en une tonalité tellement simple, avec Do comme tonique (sans parler de Ré, par exemple, ou Si♭).
+
+En revanche, voici le même extrait écrit dans le FJS, y compris les erreurs. Remarquez comment les erreurs deviennent claires et visibles:
+
+<img src="../assets/compare/bj9.svg" alt="Le même extrait dans le FJS">
+
 Je vois que vous êtes habitué aux menottes de Johnston et vous êtes paralysé lorsque Helmholtz-Ellis ou le FJS vous libèrent parce que vous aviez été menotté pour tellement longtemps.
 
 Passez au FJS. Il simplifiera **beaucoup** les mathématiques et la notation de vos compositions.
