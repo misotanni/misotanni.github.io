@@ -404,7 +404,7 @@ Par exemple, on prononce Mi<sup>5</sup> comme « Mi-cinq » ou « Mi-super-ci
 
 Si vous séparez les altérations, il n'y a aucune différence. La<sup>5,17</sup><sub>13</sub> serait « La-(super)-cinq-dix-sept-sub-treize ». Le mot « sub » est tout simplement un terminateur de la partie otonale. Il indique que les nombres suivants appartiennent à la partie utonale.
 
-À propos d'ASCII : Ce serait problématique d'écrire ces noms avec un clavier conventionnel à cause des indices supérieurs et inférieurs. Alternativement, on peut indiquer l'utonal avec une barre de soulignement, comme d'habitude, et vous pouvez ainsi indiquer l'otonal avec un signe caret, mais vous n'en avez besoin que pour les intervalles majeurs et justes en français. Mi<sup>5</sup> serait `Mi^5` ou `Mi5` ; une (tierce majeure)<sup>5</sup> serait `3^5`, mais `35` serait 243/8.
+À propos d'ASCII : Ce serait problématique d'écrire ces noms avec un clavier conventionnel à cause des indices supérieurs et inférieurs. Alternativement, on peut indiquer l'utonal avec une barre de soulignement, comme d'habitude, et vous pouvez ainsi indiquer l'otonal avec un signe caret, mais vous n'en avez besoin que pour les intervalles majeurs et justes en français. Mi<sup>5</sup> serait `Mi^5` ou `Mi5` ; une (tierce majeure)<sup>5</sup> serait `3^5`, mais `35` serait 243/8. Malgré cela, il est une bonne idée de ne pas éliminer le signe caret parce qu'un nombre sans aucun signe pourrait aussi signifier l'octave.
 
 **C'est tout !**
 

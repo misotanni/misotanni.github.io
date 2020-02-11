@@ -404,7 +404,7 @@ Beispielsweise wird E<sup>5</sup> als „E-fünf“ oder „E-super-fünf“ aus
 
 Falls du die Versetzungszeichen trennst, gibt es keinen Unterschied. A<sup>5,17</sup><sub>13</sub> wäre „A-(super)-fünf-siebzehn-sub-dreizehn“. Das wort „sub“ ist nur ein Terminator des otonalen Teils. Er markiert also, dass das Folgende zum utonalen Teil gehört.
 
-Was ASCII angeht: Es wäre problematisch, diese Namen auf dem Computer zu tippen, wegen der hoch- und tiefgestellten Zahlen. Alternativ kannst du tiefgestellte Versetzungszeichen mit einem Unterstrich markieren, wie üblich, und du kannst in demselben Sinne das Einschaltungszeichen für hochgestellte Versetzungszeichen benutzen. Das Einschaltungszeichen brauchst du aber im Deutschen selten, nur bei reinen Intervallen. E<sup>5</sup> wäre `E^5` oder einfach `E5`, und eine 3+<sup>5</sup> wäre eine `3+^5` oder einfach eine `3+5`, aber eine 4<sup>7</sup> muss als `4^7` und nicht as `47` geschrieben werden. 47 wäre 96/1.
+Was ASCII angeht: Es wäre problematisch, diese Namen auf dem Computer zu tippen, wegen der hoch- und tiefgestellten Zahlen. Alternativ kannst du tiefgestellte Versetzungszeichen mit einem Unterstrich markieren, wie üblich, und du kannst in demselben Sinne das Einschaltungszeichen für hochgestellte Versetzungszeichen benutzen. Das Einschaltungszeichen brauchst du aber im Deutschen selten, nur bei reinen Intervallen. E<sup>5</sup> wäre `E^5` oder einfach `E5`, und eine 3+<sup>5</sup> wäre eine `3+^5` oder einfach eine `3+5`, aber eine 4<sup>7</sup> muss als `4^7` und nicht as `47` geschrieben werden. 47 wäre 96/1. Es ist gut, sowieso das Einschaltungszeichen zu behalten, denn es macht den Unterschied zwischen FJS-Zeichen und Oktaven.
 
 **Fertig!**
 
