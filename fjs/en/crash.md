@@ -404,7 +404,7 @@ So for example, E<sup>5</sup> is pronounced “E-five” or “E-super-five”, 
 
 If you split, there's no change. So A<sup>5,17</sup><sub>13</sub> is pronounced “A-(super)-five-seventeen-sub-thirteen”. The word “sub” is just a terminator for the otonal part, and marks that the utonal part follows.
 
-As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written `E^5` or simply `E5`, but M3<sup>5</sup> can only be written `M3^5` (not `M35`, obviously, as that would be a “major thirty-fifth”, or a major seventh plus four octaves; M35 would be 243/8 in the FJS). It is good to include the caret anyway, to avoid confusion with octave notation, which the FJS is compatible with.
+As for ASCII, it might be problematic to type these names because of the super- and subscripts. You can alternatively indicate a subscript with a preceding underscore, like you usually would, and you can do the same for a superscript using a caret symbol. But you can usually omit the caret; it is only required if you're describing intervals to split the number describing the interval from the FJS accidental. So E<sup>5</sup> can be written `E^5` or simply `E5`, but M3<sup>5</sup> can only be written `M3^5` (not `M35`, obviously, as that would be a “major thirty-fifth”, or a major seventh plus four octaves; M35 would be 243/8 in the FJS).
 
 **That's it!**
 
