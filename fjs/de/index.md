@@ -37,12 +37,6 @@ Die überwiegende Mehrheit der heutigen Musik benutzt die **zwölfstufige gleich
 
 Vorausgesetzt wird ein elementares Wissen und Verständnis der Naturtonstimmung (zusätzlich zu Grundlagen der Musiktheorie), um das FJS verstehen und effektiv benutzen zu können. Im Allgemeinen bedeutet **mehr Erfahrung** mit JI eine **höhere Geläufigkeit** mit dem FJS.
 
-Für eine Grundkenntnis der Naturtonstimmung:
-
-- [Reine Stimmung](https://de.wikipedia.org/wiki/Reine_Stimmung) bei Wikipedia.
-- [Just Intonation Explained](https://www.kylegann.com/tuning.html) von Kyle Gann.
-- [The Just Intonation Primer](http://www.dbdoty.com/Words/Primer1.html) von David B. Doty.
-
 ## Wie einfach ist das FJS?
 
 Es gibt nur sieben Regeln, die alles, was man zur Notation jeglicher JI-Musik mithilfe des FJS braucht, beschreiben. Richtig, nur sieben.

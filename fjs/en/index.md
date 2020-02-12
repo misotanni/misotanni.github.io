@@ -38,12 +38,6 @@ Most modern music relies on a tuning system known as **twelve-tone equal tempera
 
 A basic level of familiarity with, and understanding of, Just Intonation is required (in addition to elementary music theory) to be able to understand and use the FJS effectively. In general, **more experience** with Just Intonation leads to **higher proficiency and fluency** in using the FJS.
 
-For the most basic acquaintance with Just Intonation:
-
-- [Just Intonation](https://en.wikipedia.org/wiki/Just_intonation) on Wikipedia.
-- [Just Intonation Explained](https://www.kylegann.com/tuning.html) by Kyle Gann.
-- [The Just Intonation Primer](http://www.dbdoty.com/Words/Primer1.html) by David B. Doty.
-
 ## How Simple Is the FJS?
 
 The following seven rules govern everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right – only seven rules.

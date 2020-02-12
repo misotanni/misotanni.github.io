@@ -37,12 +37,6 @@ Przeważająca większość współczesnej (a także nowożytnej) muzyki opiera 
 
 By zrozumieć i móc sprawnie posługiwać się FJS-em, potrzebna jest podstawowa znajomość strojów naturalnych (oprócz niezaawansowanych zasad muzyki). **Im większe doświadczenie** ze strojami naturalnymi i muzyką tworzoną w tych strojach posiądziesz, **tym sprawniej i płynniej** będziesz operował FJS-em.
 
-Jeżeli życzysz sobie zapoznać się z podstawową teorią strojenia naturalnego:
-
-- [Strój naturalny](https://pl.wikipedia.org/wiki/Str%C3%B3j_naturalny) na Wikipedii.
-- [Just Intonation Explained](https://www.kylegann.com/tuning.html) (ang.) autorstwa Kyle'a Ganna.
-- [The Just Intonation Primer](http://www.dbdoty.com/Words/Primer1.html) (ang.) autorstwa Davida B. Doty'ego.
-
 ## Jak prosty jest FJS?
 
 Te siedem reguł wystarczy, by móc zapisać dowolny utwór naturalny w FJS-ie. Tak jest – tylko siedem.
