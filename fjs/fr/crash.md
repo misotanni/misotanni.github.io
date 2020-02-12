@@ -382,7 +382,7 @@ Mais : l'avantage le plus puissant du FJS est qu'il peut être complètement au
 > 4. Ajoutez maintenant les α<sub>*p*</sub> comme altérations : positif-otonal, négatif-utonal.
 > 5. Réduisez et ajustez l'octave.
 >
-> **Exemple :** Convertissons le demi-ton chromatique faible, 25/24, en FJS en utilisant cette technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. En raison du 5<sup>2</sup> nous enregistrons 2 et multiplions par (80/81)<sup>−2</sup>. On obtient 2187/2048 qui est pythagoricien et devient une prime augmentée. Nous ajoutons maintenant un +5 double (en raison du 2) et obtenons alors la réponse : 1+<sup>25</sup>.
+> **Exemple :** Convertissons le demi-ton chromatique 25/24 en FJS en utilisant cette technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. En raison du 5<sup>2</sup> nous enregistrons 2 et multiplions par (80/81)<sup>−2</sup>. On obtient 2187/2048 qui est pythagoricien et devient une prime augmentée. Nous ajoutons maintenant un +5 double (en raison du 2) et obtenons alors la réponse : 1+<sup>25</sup>.
 
 > ### Technique FJS \#5 : Convertir chaque représentation FJS en rapport JI automatiquement.
 >

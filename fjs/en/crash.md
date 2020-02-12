@@ -382,7 +382,7 @@ However, one of the virtues of the FJS is that it can be fully automated. The ab
 > 4. Now add the α<sub>*p*</sub> as accidentals – if positive, then otonal; if negative, then utonal.
 > 5. Take the reduced form and adjust octaves as required.
 >
-> **Example:** Let's convert the weak just chromatic semitone, 25/24, into FJS form using this technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Because of 5<sup>2</sup>, remember 2 and multiply by (80/81)<sup>−2</sup>. The result is 2187/2048, which is Pythagorean and converts to A1. Now we add a double +5 (because of the 2) and we get A1<sup>25</sup>.
+> **Example:** Let's convert the chromatic semitone 25/24 into FJS form using this technique. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Because of 5<sup>2</sup>, remember 2 and multiply by (80/81)<sup>−2</sup>. The result is 2187/2048, which is Pythagorean and converts to A1. Now we add a double +5 (because of the 2) and we get A1<sup>25</sup>.
 
 > ### FJS Technique \#5: To convert any FJS representation automatically into a JI ratio.
 >

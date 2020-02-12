@@ -382,7 +382,7 @@ Aber: eine der großen Tugenden des FJS ist, dass man es komplett automatisieren
 > 4. Füge jetzt die α<sub>*p*</sub> als Versetzungszeichen hinzu – positiv heißt otonal, negativ utonal.
 > 5. Reduziere, und reguliere die Oktave.
 >
-> **Beispiel:** Rechnen wir den schwachen chromatischen Halbton, 25/24, ins FJS mithilfe dieser Technik um. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Wegen 5<sup>2</sup>, speichern wir 2 und multiplizieren mit (80/81)<sup>−2</sup>. Das Ergebnis ist 2187/2048, was pythagoreisch ist und einer übermäßigen Prime entspricht. Wir fügen jetzt ein doppeltes +5 (wegen der 2) und die Antwort lautet 1&lt;<sup>25</sup>.
+> **Beispiel:** Rechnen wir den chromatischen Halbton 25/24 ins FJS mithilfe dieser Technik um. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Wegen 5<sup>2</sup>, speichern wir 2 und multiplizieren mit (80/81)<sup>−2</sup>. Das Ergebnis ist 2187/2048, was pythagoreisch ist und einer übermäßigen Prime entspricht. Wir fügen jetzt ein doppeltes +5 (wegen der 2) und die Antwort lautet 1&lt;<sup>25</sup>.
 
 > ### FJS-Technik \#5: Jede FJS-Darstellung zurück in ein JI-Verhältnis automatisch umrechnen.
 >

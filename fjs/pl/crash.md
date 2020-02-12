@@ -381,7 +381,7 @@ Jednak jedną z zalet FJS-u jest to, że może on być całkowicie zautomatyzow
 > 4. Teraz dodaj α<sub>*p*</sub> jako alteracje – jeżeli dodatnie, to otonalne; jeżeli ujemne, to utonalne.
 > 5. Zredukuj i dostosuj oktawy.
 >
-> **Przykład.** Zamieńmy tzw. słaby naturalny półton chromatyczny – 25/24 – na FJS za pomocą tej techniki. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Mamy 5<sup>2</sup>, więc zapamiętaj α<sub>5</sub> = 2 i pomnóż przez (80/81)<sup>−2</sup>. Uzyskujemy 2187/2048 – pitagorejskie 1&lt;. Teraz dodajemy +5 dwa (= α<sub>5</sub>) razy i otrzymujemy wynik: 1&lt;<sup>25</sup>.
+> **Przykład.** Zamieńmy półton chromatyczny 25/24 na FJS za pomocą tej techniki. 25/24 = 2<sup>3</sup> 3<sup>−1</sup> 5<sup>2</sup>. Mamy 5<sup>2</sup>, więc zapamiętaj α<sub>5</sub> = 2 i pomnóż przez (80/81)<sup>−2</sup>. Uzyskujemy 2187/2048 – pitagorejskie 1&lt;. Teraz dodajemy +5 dwa (= α<sub>5</sub>) razy i otrzymujemy wynik: 1&lt;<sup>25</sup>.
 
 > ### Technika FJS-owa nr 5: Automatyczna zamiana FJS-owego interwału na ułamek.
 >
