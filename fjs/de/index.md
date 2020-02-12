@@ -47,7 +47,7 @@ Es gibt nur sieben Regeln, die alles, was man zur Notation jeglicher JI-Musik mi
 
 3. Alle Versetzungszeichen des FJS sind positiv in der Richtung, in der die pythagoreische Annäherung eines Primzahlintervalls zum Intervall selbst wird. Das heißt, positiv ist nicht immer nach oben, und negativ ist nicht immer nach unten. Stattdessen ist positiv immer otonal und negativ immer utonal.
 
-4. Versetzungszeichen kann man miteinander verbinden. Alle otonalen Teile werden dazu miteinander multipliziert, ebenso für die utonalen, z.B. +25 steht für eine verdoppelte +5. Das Otonale wird immer vom Utonalen getrennt. Falls die Zahlen zu groß werden, kann man die Faktoren auch voneinander mit Kommas trennen.
+4. Versetzungszeichen kann man miteinander verbinden. Alle otonalen Teile werden dazu miteinander multipliziert, ebenso für die utonalen, z.B. +25 steht für eine verdoppelte +5. Das Otonale wird immer vom Utonalen getrennt. Falls die Zahlen zu groß werden, kann man die Faktoren auch voneinander mit Kommas (Satzzeichen) trennen.
 
 5. Für Notennamen gilt: das verbundene positive Versetzungszeichen wird hochgestellt, das negative tiefgestellt, nach dem üblichen Namen dazugeschrieben.
 

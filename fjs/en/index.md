@@ -48,7 +48,7 @@ The following seven rules govern everything required to notate an arbitrary piec
 
 3. All FJS accidentals are positive in the direction in which the Pythagorean approximation becomes the target prime interval, and negative otherwise. Positive is not always upward and negative is not always downward; positive is always otonal, while negative is always utonal.
 
-4. Compound accidentals are represented by multiplying the otonal parts and multiplying the utonal parts, so a double +5 is +25. Otonal and utonal are always written separately. If the numbers are too large, the factors may be written out with commas in between.
+4. Compound accidentals are represented by multiplying the otonal parts and multiplying the utonal parts, so a double +5 is +25. Otonal and utonal are always written separately. If the numbers are too large, the factors may be written out with commas (punctuation marks) in between.
 
 5. For note names, the positive compound accidental is added as a superscript and the negative compound accidental is added as a subscript to the right of the conventional name.
 
