@@ -128,15 +128,15 @@ On pourrait associer le nombre 3 avec le comma pythagoricien. De cette façon, i
 
 L'algorithme principal du FJS accepte chaque entrée, pas seulement des nombres premiers. Bien que le FJS ne soit pas construit à cet usage, on peut réaliser toute l'algorithmerie pour des nombres irrationnels aussi bien que des rationnels. Cela fonctionne pour tous nombres réels, mais certains (en particulier, des racines entières des nombres rationnels) détruisent la bijection virginale et délicate du FJS et ne la transforment qu'en surjection. (Vous pouvez alors lire, mais ne plus écrire, sans équivoque.)
 
-Cela signifie que vous pouvez écrire par exemple l'échelle de 833 cents dans le FJS. C'est une échelle composée des facteurs de 2, 3, et φ (le nombre d'or). Dans le FJS, φ/1 est une (sixte mineure)<sup>φ</sup>.
+Cela signifie que vous pouvez écrire par exemple l'échelle de 833 cents dans le FJS. C'est une échelle composée des facteurs de 2, 3, et φ (le nombre d'or). Dans le FJS, φ/1 est une 6m<sup>φ</sup>.
 
 En outre, cette expansion du FJS préserve toutes ses qualités stupéfiantes.
 
 Parmi d'autres, on peut aussi utiliser les constantes irrationelles suivantes :
 
-- π ; (sixte mineure)<sup>π</sup> (τ, la [vraie constante du cercle](https://tauday.com/tau-manifesto), a la même représentation puisqu'elle égale 2π, donc une octave de π)
-- e ; (quarte juste)<sup>e</sup>
-- γ ; (seconde majeure)<sup>γ</sup> (constante d'Euler-Mascheroni)
+- π ; 6m<sup>π</sup> (τ, la [vraie constante du cercle](https://tauday.com/tau-manifesto), a la même représentation puisqu'elle égale 2π, donc une octave de π)
+- e ; 4<sup>e</sup>
+- γ ; 2<sup>γ</sup> (constante d'Euler-Mascheroni)
 
 Vous pouvez également utiliser tous les nombres transcendants.
 

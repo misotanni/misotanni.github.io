@@ -128,15 +128,15 @@ Der Faktor 3 kann für das pythagoreische Komma benutzt werden. Damit kann man z
 
 Der FJS-Master-Algorithmus akzeptiert jede Zahl, nicht nur Primzahlen. Obwohl das FJS für diesen Zweck nicht gedacht war, kann die ganze Serie von Algorithmen auch für die allermeisten irrationalen Zahlen durchgeführt werden. Jede positive reelle Zahl passt, aber manche davon (darunter namentlich jede Zahl, die als Wurzel einer rationalen Zahl dargestellt werden kann) werden die wunderschöne und zerbrechliche Bijektion des FJS zerstören und sie in eine bloße Surjektion verändern. (Lesen ist also noch eindeutig, Schreiben aber nicht mehr.)
 
-Das heißt: du kannst das FJS benutzen, um z.B. die 833-Cent-Tonleiter zu notieren, eine Tonleiter aus Faktoren von 2, 3, und φ (den Goldenen Schnitt). φ/1 wird als (kleine Sexte)<sup>φ</sup> im FJS dargestellt.
+Das heißt: du kannst das FJS benutzen, um z.B. die 833-Cent-Tonleiter zu notieren, eine Tonleiter aus Faktoren von 2, 3, und φ (den Goldenen Schnitt). φ/1 wird als 6−<sup>φ</sup> im FJS dargestellt.
 
 Das ist aber nicht alles: die tollen Eigenschaften des FJS bleiben bei so einer Erweiterung auch erhalten.
 
 Das geht u.A. auch mit den folgenden irrationalen Konstanten:
 
-- π; (kleine Sexte)<sup>π</sup> (τ, die [echte Kreiskonstante](https://tauday.com/tau-manifesto), wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
-- e; (reine Quarte)<sup>e</sup>
-- γ; (große Sekunde)<sup>γ</sup> (Euler-Mascheroni-Konstante)
+- π; 6−<sup>π</sup> (τ, die [echte Kreiskonstante](https://tauday.com/tau-manifesto), wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
+- e; 4<sup>e</sup>
+- γ; 2+<sup>γ</sup> (Euler-Mascheroni-Konstante)
 
 Es funktioniert bei jeder transzendenter Zahl.
 
