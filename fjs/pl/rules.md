@@ -138,9 +138,9 @@ Między innymi działają również poniższe znane stałe niewymierne:
 
 Działają wszystkie liczby przestępne.
 
-Niektóre z tych liczb naprawdę się muzycznie przydają. φ na przykład pojawia się, gdy szukamy interwałów, których oba tony kombinacyjne są równie oddalone od faktycznych dźwięków interwału (co zresztą jest konsekwencją faktu, że φ pojawia się w liczbach Fibonacciego). Być może znane jest Ci także stwierdzenie, że φ jest liczbą *najbardziej niewymierną*, to oznacza, że muzyka oparta na φ jest jakby całkowitym przeciwieństwem stroju naturalnego. I tutaj już φ nie jest wzorem na piękno, wręcz przeciwnie! Z kolei liczba e, z definicji, jest asymptotą następującego ciągu: oktawa, dwie kwinty 3/2, trzy kwarty 4/3, cztery tercje 5/4, pięć tercji 6/5 (tak, to ciąg rosnący; cholerne pozory 12-EDO-owe czasami mylą!), itd. (Nie dotyczy nas użycie tych stałych jako *logarytmiczne* proporcje, np. w stroju średniotonowym złotym (*golden meantone*) albo stroju Lucy (*Lucy Tuning*)).
+Niektóre z tych liczb naprawdę się muzycznie przydają. φ na przykład pojawia się, gdy szukamy interwałów, których oba tony kombinacyjne są równie oddalone od faktycznych dźwięków interwału (co zresztą jest konsekwencją faktu, że φ pojawia się w liczbach Fibonacciego). Być może znane jest Ci także stwierdzenie, że φ jest liczbą *najbardziej niewymierną*, to oznacza, że muzyka oparta na φ jest jakby całkowitym przeciwieństwem stroju naturalnego. I tutaj już φ nie jest wzorem na piękno, wręcz przeciwnie! Z kolei liczba e, z definicji, jest asymptotą następującego ciągu: oktawa, dwie kwinty 3/2, trzy kwarty 4/3, cztery tercje 5/4, pięć tercji 6/5, itd. (Nie dotyczy nas użycie tych stałych jako *logarytmiczne* proporcje, np. w stroju średniotonowym złotym (*golden meantone*) albo stroju Lucy (*Lucy Tuning*)).
 
-Nie było dotąd próby przedstawienia liczb ujemnych ani zespolonych w FJS-ie. :)
+Nie było dotąd próby przedstawienia liczb ujemnych ani zespolonych w FJS-ie. Co by w ogóle oznaczały?
 
 ## Dalsze rozszerzenia systemu (\*)
 
