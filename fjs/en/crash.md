@@ -169,7 +169,7 @@ Why should we choose the major third over the diminished fourth to notate 5/4? A
 
 OK, calm down, that was satire. Satire of other JI notation systems which hand-pick these approximations. In the FJS, the answer to the question “How do we choose the approximations for each prime interval?” is simple – we don't. A fixed constant, called the **radius of tolerance**, does this for us. After experimenting with many different possible radii of tolerance and considering the advantages and disadvantages of each, I have come to the conclusion that the standard version of the FJS will use the following radius:
 
-$$\displaystyle \lambda =\frac{65}{63}$$
+$$\displaystyle \lambda =\frac{65}{63}=54.10546743...\mathrm{c}$$
 
 The reason will be explained later.
 

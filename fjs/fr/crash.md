@@ -169,7 +169,7 @@ Pourquoi alors utiliser la tierce majeure et pas la quarte diminuée pour 5/4 ?
 
 Calmez-vous. C'était une satire des autres notations de JI. Elles choisissent ces approximations sans aucune logique. Dans le FJS, la question « Comment choisissons-nous les approximations pour chaque intervalle premier ? » a une réponse très simple : *nous*, nous ne le faisons pas. Une constante fixe le fait pour nous : le **rayon de tolérance**. Après avoir expérimenté avec beaucoup de différents rayons et considéré les avantages et les inconvénients de chacun, j'ai décidé que la version courante du FJS utilisera le rayon suivant :
 
-$$\displaystyle \lambda =\frac{33}{31}$$
+$$\displaystyle \lambda =\frac{65}{63}=54.10546743...\mathrm{c}$$
 
 J'expliquerai ce choix plus tard.
 

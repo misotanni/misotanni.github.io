@@ -169,7 +169,7 @@ Wieso sollten wir also die große Terz, und nicht die verminderte Quarte, als 5/
 
 Keine Panik. Das war eine Satire anderer JI-Notationssysteme; sie wählen nämlich selbst diese Annäherungen ohne jede Logik. „Wie wählen wir also die Annäherungen für jedes Primzahlintervall?“ Im FJS lautet die Antwort: Wir tun es nicht. Stattdessen tut es für uns eine bestimmte Konstante: der **Toleranzradius**. Nachdem ich mit mehreren Möglichkeiten experimentiert habe, und die Vorteile und Nachteile berücksichtigte, habe ich mich entschieden, dass die Standardversion des FJS den folgenden Radius benutzen wird:
 
-$$\displaystyle \lambda =\frac{65}{63}$$
+$$\displaystyle \lambda =\frac{65}{63}=54.10546743...\mathrm{c}$$
 
 Wieso, erkläre ich später.
 
