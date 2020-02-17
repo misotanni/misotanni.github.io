@@ -126,7 +126,7 @@ Liczbie 3 można przyporządkować komat pitagorejski. Czyli żeby wygodnie zapi
 
 Główny algorytm FJS działa dla każdej liczby, nie tylko liczb pierwszych. Chociaż FJS nie został stworzony w tym celu, cały proces algorytmów może być równie dobrze zastosowany dla większości liczb niewymiernych. Działa każda dodatnia liczba rzeczywista, ale niektóre z nich – dokładniej mówiąc, pierwiastki całkowitego stopnia z liczb wymiernych – zniszczą w trymiga dziewiczą i jakże kruchą bijekcję FJS-u, zostawiając po sobie tylko marną surjekcję (jednoznaczne czytanie, ale już nie pisanie).
 
-Za pomocą FJS-u możesz więc zanotować np. skalę 833 centów, skalę powtarzającą się w oktawie zawierającą czynniki 3 oraz φ (złotego podziału). φ/1 w FJS-ie to 6><sup>φ</sup>.
+Za pomocą FJS-u możesz więc zanotować np. skalę 833 centów, skalę powtarzającą się w oktawie zawierającą czynniki φ (złotego podziału). φ/1 w FJS-ie to 6><sup>φ</sup>.
 
 Więcej: takie rozszerzenie FJS-a pokrywające dodatkowo potęgi φ zachowuje wszystkie jego niesamowite własności.
 

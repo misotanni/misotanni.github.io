@@ -128,7 +128,7 @@ Der Faktor 3 kann für das pythagoreische Komma benutzt werden. Damit kann man z
 
 Der FJS-Master-Algorithmus akzeptiert jede Zahl, nicht nur Primzahlen. Obwohl das FJS für diesen Zweck nicht gedacht war, kann die ganze Serie von Algorithmen auch für die allermeisten irrationalen Zahlen durchgeführt werden. Jede positive reelle Zahl passt, aber manche davon (darunter namentlich jede Zahl, die als Wurzel einer rationalen Zahl dargestellt werden kann) werden die wunderschöne und zerbrechliche Bijektion des FJS zerstören und sie in eine bloße Surjektion verändern. (Lesen ist also noch eindeutig, Schreiben aber nicht mehr.)
 
-Das heißt: du kannst das FJS benutzen, um z.B. die 833-Cent-Tonleiter zu notieren, eine Tonleiter aus Faktoren von 2, 3, und φ (den Goldenen Schnitt). φ/1 wird als 6−<sup>φ</sup> im FJS dargestellt.
+Das heißt: du kannst das FJS benutzen, um z.B. die 833-Cent-Tonleiter zu notieren, eine Tonleiter aus Faktoren von 2 und φ (dem Goldenen Schnitt). φ/1 wird als 6−<sup>φ</sup> im FJS dargestellt.
 
 Das ist aber nicht alles: die tollen Eigenschaften des FJS bleiben bei so einer Erweiterung auch erhalten.
 

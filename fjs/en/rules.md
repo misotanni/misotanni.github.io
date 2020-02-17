@@ -126,7 +126,7 @@ The Pythagorean comma can be allocated to the factor of 3. Hence e.g. 15/14 (a t
 
 Any number, not just primes, can be the input of the FJS master algorithm. In fact, although the FJS was not constructed for this purpose, the entire algorithmic procedure can be carried out for many irrational numbers. Any positive real number works, but a few (in particular, integer roots of rational numbers) will obliterate the FJS's pristine and fragile bijection, leaving a mere surjection behind (unambiguous reading, but no longer unambiguous writing).
 
-This means the FJS can be used to notate e.g. the 833 cents scale, an octave-repeating scale from a lattice of 3/2 and φ (the golden ratio). In the FJS, φ/1 is a m6<sup>φ</sup>.
+This means the FJS can be used to notate e.g. the 833 cents scale, an octave-repeating scale from factors of φ (the golden ratio). In the FJS, φ/1 is a m6<sup>φ</sup>.
 
 Moreover, expanding the FJS to notate powers of φ in addition to the rational numbers preserves all its amazing properties.
 
