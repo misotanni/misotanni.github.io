@@ -37,7 +37,7 @@ ni'o fau lo nu do na djuno kei e'o do mo'u facki pu lo nu di'a tcidu zo'ei dei
 
 ni'o so'a ca'arxe zgike cu se jicmu lo togyci'e pe lo **pa re dunli tonga** (to zo «**dunto'aci'e**» jaxcafne valsi ty toi) .i ty zo'u la'e li re fi'u pa cu se fendi fi lo pa re mei .i lo **cuvyto'aci'e** zo'u frica sai le bi'u nai jaxfadni togyci'e .i le cy ty tonga jicmu cu se krasi lo piljyto'a je lo jinzi se ckaji be lo'e sance .i cy ty ba'o ta'e se pilno fi tu'a lo jaxfadni zgike .i to'e se mu'i nai bo za'o vajni lo zgike ente'ori mu'i lo du'u cy ty jai tcaci lo purci kulnu je lo te ritli je lo cabna finti be lo fange zgike (to li'a vajni fa ji'a lo ka melbi toi)
 
-ni'o lo nu su'o va'e se slabu je jimpe tu'a cy ty kei je lo nu su'o va'e certu lo zgike ente'ori cu se sarcu lo nu jimpe je pilno tu'a fy jy sy .i su'a lo nu **zenba lo ka certu** cy ty cu rinka lo nu **zenba lo ka filpli** fy jy sy
+ni'o lo nu su'o va'e se slabu je jimpe tu'a cy ty kei je lo nu su'o va'e certu lo zgike ente'ori cu sarcu lo nu jimpe je pilno tu'a fy jy sy .i su'a lo nu **zenba lo ka certu** cy ty cu rinka lo nu **zenba lo ka filpli** fy jy sy
 
 ## .i fy jy sy xo va'e frili
 
