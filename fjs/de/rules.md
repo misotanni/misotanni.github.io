@@ -134,7 +134,7 @@ Das ist aber nicht alles: die tollen Eigenschaften des FJS bleiben bei so einer 
 
 Das geht u.A. auch mit den folgenden irrationalen Konstanten:
 
-- π; 6−<sup>π</sup> (τ, die [echte Kreiskonstante](https://tauday.com/tau-manifesto), wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
+- π; 6−<sup>π</sup> (τ, die „echte Kreiskonstante“, wird genauso dargestellt, denn sie beträgt 2π, also eine Oktave von π)
 - e; 4<sup>e</sup>
 - γ; 2+<sup>γ</sup> (Euler-Mascheroni-Konstante)
 

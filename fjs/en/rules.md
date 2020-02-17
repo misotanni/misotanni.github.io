@@ -132,7 +132,7 @@ Moreover, expanding the FJS to notate powers of φ in addition to the rational n
 
 Among others, the following famous irrational constants work, too:
 
-- π; m6<sup>π</sup> (τ, the [true circle constant](https://tauday.com/tau-manifesto), has the same representation, since it's just 2π, so an octave of π)
+- π; m6<sup>π</sup> (τ, the “true circle constant”, has the same representation, since it's just 2π, so an octave of π)
 - e; P4<sup>e</sup>
 - γ; M2<sup>γ</sup> (Euler-Mascheroni constant)
 

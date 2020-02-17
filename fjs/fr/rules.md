@@ -134,7 +134,7 @@ En outre, cette expansion du FJS préserve toutes ses qualités stupéfiantes.
 
 Parmi d'autres, on peut aussi utiliser les constantes irrationelles suivantes :
 
-- π ; 6m<sup>π</sup> (τ, la [vraie constante du cercle](https://tauday.com/tau-manifesto), a la même représentation puisqu'elle égale 2π, donc une octave de π)
+- π ; 6m<sup>π</sup> (τ, la « vraie constante du cercle », a la même représentation puisqu'elle égale 2π, donc une octave de π)
 - e ; 4<sup>e</sup>
 - γ ; 2<sup>γ</sup> (constante d'Euler-Mascheroni)
 

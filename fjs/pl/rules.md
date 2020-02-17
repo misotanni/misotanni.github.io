@@ -132,7 +132,7 @@ Więcej: takie rozszerzenie FJS-a pokrywające dodatkowo potęgi φ zachowuje ws
 
 Między innymi działają również poniższe znane stałe niewymierne:
 
-- π; 6><sup>π</sup> (τ, czyli [prawdziwa ludolfina](https://tauday.com/tau-manifesto), ma dokładnie taki sam interwał FJS, bo równa się po prostu 2π, czyli oktawie π)
+- π; 6><sup>π</sup> (τ, czyli „prawdziwa ludolfina”, ma dokładnie taki sam interwał FJS, bo równa się po prostu 2π, czyli oktawie π)
 - e; 4<sup>e</sup>
 - γ; 2<sup>γ</sup> (stała Eulera-Mascheroniego)
 
