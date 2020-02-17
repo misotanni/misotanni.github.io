@@ -1,102 +1,77 @@
-﻿---
-title: la fancu ke curve ciste
+---
+title: la fancykemcuvyci'e
 ---
 
-> *.i prali fi lo ka pilno lo se gerna poi xamgu se zbasu kei fa lo du'u lo frili snici'e pe gy cu rinka tu'a so'i smucfu ente'ori*
+> *.i prali fi lo nu pilno lo bangu poi xamgu se zbasu kei fa lo du'u le by sinxa cu so'e roi krasi lo smucfu sidbo*
 >
-> — sei la pi'er simon laplas cu cusku
+> — sei la'o fy Pierre-Simon Laplace fy cusku
 
 ---
 
-<img src="../assets/index/impression.svg" alt=".i ti jvinu fy jy sy">
+<img src="../assets/index/impression.svg" alt=".i ti mupli tu'a fy jy sy">
 
 # fi'i
 
-ni'o ui friti tu'a ti noi kibystu pe la fancu ke curve ciste ku goi fy jy sy
+ni'o ui fi'i vitke .i ti kibystu tu'a la fancykemcuvyci'e ku goi fy jy sy
 
-## fy jy sy mo
+## .i fy jy sy mo
 
-[ni'o e'e kinzga lo panra](https://youtu.be/38I3cylJlW4)
+[ni'o e'u do kinzga lo se urli be ti](https://youtu.be/38I3cylJlW4)
 
-ni'o la **fancu ke curve ciste** ku noi zoi gy **Functional Just System** gy e lu **fy jy sy** li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike
-.i cumki fa lo nu pilno lo zgisnici'e poi panra lo fadni ciste ku'o lo ka sepli skicu ro cuvyto'aci'e
-.i te zu'e bo zmadu lo'e drata ciste ne mu'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston lo ka melbi je finkai je frili
-.i fy jy sy traji lo ka mi jgira kei fo lo'i se ke snada co finti ke'e be mi be'o poi srana lo cmato'aku'e zgike
+ni'o la **fancykemcuvyci'e** noi fe ke'a fa zoi gy **Functional Just System** gy ne lu «**fy jy sy**» li'u glico cmene cu cnino ciste te pi'o tu'a lo **cuvyto'aci'e** zgike .i le go'i cu se jicmu lo poi se banro vau tcaci zgisnici'e ja'e lo nu tu'a vo'a ka'e sinxa ro cuvyto'aci'e .i se kai lo ka melbi je si'ocfu je jaxfrili kei le go'i cu traji fo lo purci ke simsa ciste ne mu'u ge zo'ei la'o me Helmholtz-Ellis me gi zo'ei la'o me Ben Johnston me .i fy jy sy traji lo ka banli je lo ka mi jgira kei fo lo se finti be mi be'o poi srana lo fangyto'aci'e zgike
 
-ni'o la fancu ke curve ciste ku zo'u tu'e
+ni'o la fancykemcuvyci'e zo'u tu'e
 
-- .i jai tadji lo nu **fanva** fi lo parbi pe lo cuvyto'aci'e lo zgike bangu poi jai se jimpe ro zgipre ku'o no'u lo zgisnici'e ge'u soi vo'i vo'o
-- .i lo ka cilre lo nu tcidu je ciska do'e cu **tcetce frili** .i je fy jy sy mutce zmadu lo cuvyto'aci'e snici'e poi drata vau lo ka sampu
-- .i nibli lo nu ro sinxa e ro sance cu **pavysmu** .i je ro tonga cu se sinxa pa da
-- .i jai tadji lo nu ciska lu'e **lo cuvyto'aci'e be li ci'i** e nai lo jai se xusra .i ja'e bo **zmadu** lo drata lo ka skicu se pi'o ce'u xo kau tonga
-- .i **cimni** lo ka lo ce'u sinxa cu satci .i ja'e bo ro tonga cu se sinxa lo traji
-- .i jicmu fa lo **algoritma** be ve pu'e ro da .i ja'e bo mapti lo nu skami zgifi'i .i je ka'e zmiku se cau lo nu morji cilre ja zvafa'i lo datni .i to ti noi urli cu sitna so'o tutci be lo nu kanji dy toi
+- .i tadji lo nu **fanva** fi jo'u fo lo parbi pe lo cuvyto'aci'e ge'u jo'u lo zgisnici'e noi jai kampu ro zgipre
+- .i jai **frili sai** fai lo nu tcidu jo'u ciska kei .i je zmadu sai lo drata ke cuvyto'aci'e snici'e lo ka go'i
+- .i se **pavysmu** va'o lo nu fanva ge fi lo tonga fo lo sinxa gi fo fi
+- .i ka'e jai sinxa lo poi **ci'i mei** vau **ro** cuvyto'aci'e .i fi'o te karbi bo lo'e cuvyto'aci'e snici'e cu se **jimte** su'o dilcysle lo ka ka'e jai sinxa dy
+- .i **ci'i va'e satci** .i ja'e bo ro sinxa cu sinxa pa tonga je nai lo te diklo be fi ty
+- .i **ve pu'e se zbasu** .i ta'i bo ro ve pruce cu jai se krasi lo algoritma .i ja'e bo mapti sai lo skami zgike .i je bo ka'e zmiku se pilno se cau lo nu mojyzu'e ja liste catlu (to lo dei kibystu cu se pagbu so'o kanji tutci be la'e dei toi)
 
 tu'u
 
-## lo cuvyto'aci'e cu mo
+## .i lo cuvyto'aci'e cu mo
 
-ni'o do kucli di'u .i jo o'i do ca tcidu lo tolmapti la'a
+ni'o fau lo nu do na djuno kei e'o do mo'u facki pu lo nu di'a tcidu zo'ei dei
 
-ni'o so'e zgike poi cabna cu se jicmu lo togyci'e poi se cmene lu **dunto'aci'e li pa re** li'u e sa'u zo **dunto'aci'e**
-.i dy jai nu dunli fendi lo togyku'e be li re lo pa re da
-.i lo **cuvyto'aci'e** goi **cy ty** cu mutce frica lo bi'u nai fadni togyci'e
-.i lo tonga jicmu be cy ty cu jai se jdice fai tu'a lo rarna jinzi be lo sance
-.i cy ty na so'i roi jai se pilno lo fadni zgike
-.i to'e ki'u nai bo vajni lo zgike ente'ori
-.i ki'u bo cy ty fadni fi ge lo kulnu poi purci ku'o gi lo te ritli be fi lo nu zgipli kei gi'e di'i ve finti lo zgike poi nalfadni
-.i to li'a na ra'asku fu lo du'u melbi toi
+ni'o so'a ca'arxe zgike cu se jicmu lo togyci'e pe lo **pa re dunli tonga** (to zo «**dunto'aci'e**» jaxcafne valsi ty toi) .i ty zo'u la'e li re fi'u pa cu se fendi fi lo pa re mei .i lo **cuvyto'aci'e** zo'u frica sai le bi'u nai jaxfadni togyci'e .i le cy ty tonga jicmu cu se krasi lo piljyto'a je lo jinzi se ckaji be lo'e sance .i cy ty ba'o ta'e se pilno fi tu'a lo jaxfadni zgike .i to'e se mu'i nai bo za'o vajni lo zgike ente'ori mu'i lo du'u cy ty jai tcaci lo purci kulnu je lo te ritli je lo cabna finti be lo fange zgike (to li'a vajni fa ji'a lo ka melbi toi)
 
-ni'o sarcu fa lo nu djuno je jimpe fi cy ty e so'u lo zgike ente'ori fe so'o da kei lo nu certu binxo tu'a fy jy sy
-.i su'a do zenba lo ka jimpe fi lo sidbo be cy ty kei na a lo ka sutra jijnu fi fy jy sy
+ni'o lo nu su'o va'e se slabu je jimpe tu'a cy ty kei je lo nu su'o va'e certu lo zgike ente'ori cu se sarcu lo nu jimpe je pilno tu'a fy jy sy .i su'a lo nu **zenba lo ka certu** cy ty cu rinka lo nu **zenba lo ka filpli** fy jy sy
 
-ni'o lo ka frili ke binxo co slabu cy ty zo'u tu'e
+## .i fy jy sy xo va'e frili
 
-- .i lo [cuvyto'aci'e](https://en.wikipedia.org/wiki/Just_intonation) cu se karni la uitki
-- .i la'o gy [Just Intonation Explained](https://www.kylegann.com/tuning.html) gy fi'e la kail gan
-- .i la'o gy [The Just Intonation Primer](http://www.dbdoty.com/Words/Primer1.html) gy fi'e la david b dotys
+The following seven rules govern everything required to notate an arbitrary piece of Just Intonation music in the FJS. That's right – only seven rules.
 
-tu'u
+1. All notes with conventional accidentals represent Pythagorean tuning. All octaves are 2/1 and all perfect fifths are 3/2.
 
-## ma ni fy jy sy frili
+2. Every prime interval above 3/2 (that is, 5/4, 7/4, 11/8, etc.) is given a unique Pythagorean approximation according to the FJS master algorithm. This algorithm finds the simplest Pythagorean approximation that is within the radius of tolerance of the target. The difference between them is assigned a unique accidental for that prime, and the prime number itself is used as the symbol.
 
-ni'o ro da poi cuvyto'aci'e zgiselfi'i zo'u la'e do'e lu'u noi javni ze moi cu banzu lo nu snici'a da do'e fy jy sy
-.i ja'a ze po'o mei
-.i tu'e
+3. All FJS accidentals are positive in the direction in which the Pythagorean approximation becomes the target prime interval, and negative otherwise. Positive is not always upward and negative is not always downward; positive is always otonal, while negative is always utonal.
 
-1. .i ro lo zgika'usni joi lo togystika poi fadni cu se skicu fo tu'a lo cistrpitagora .i me'o py bi fa'u me'o py mu cu sinxa lo togyku'e pe li re fi'u fa'u li ci fi'u re
+4. Compound accidentals are represented by multiplying the otonal parts and multiplying the utonal parts, so a double +5 is +25. Otonal and utonal are always written separately. If the numbers are too large, the factors may be written out with commas (punctuation marks) in between.
 
-2. .i lo ro togyku'e poi frinu fe ja fi su'o dilcysle poi zmadu li ci ku'o ne mu'u li mu ce li ze cu se ke steci fancu fi lo jibni poi se cistrpitagora kei la fy jy sy ralju algoritma .i a bu kanji tu'a lo sampu je simsa be lo dilcysle banzu .i lo ve vimcu be ri bei lo dilcysle cu ckini lo pa togystika pe dy .i lu'e dy sinxa lo togystika
+5. For note names, the positive compound accidental is added as a superscript and the negative compound accidental is added as a subscript to the right of the conventional name.
 
-3. .i lo fy jy sy togystika cu jmina .i jo galfi lo jibni poi se cistrpitagora ku'o lo togyku'e pe lo dilcysle .i lo nu jmina fa'u vimcu na srana lo nu zenba fa'u jdika lo ni gapru .i ja'a go'i lo su'u galto'a fa'u dzito'a
+6. For staff notation, the positive compound accidental is written first (if any), then the negative compound accidental with a stroke in front (if any), then any conventional accidental, then the note.
 
-4. .i lo togystika poi pluja cu se sinxa lo pilji be lo galto'a be'o jo'u lo pilji be lo dzito'a .i mu'a li ma'u mu cu se kurtenfa li ma'u re mu .i lo galto'a jo'u lo dzito'a ka'e nai mixre .i cumki fa lo nu cusku lu'e lo dilcysle jo'u lo lerkoma fau lo nu lo pilji cu barda dukse
+7. All else is shorthand.
 
-5. .i lo cmene be lo zgika'u zo'u lo togystika cu jmina fa'u vimcu gi'o se ke li'erla'i tcita la'e zo ma'u fa'u zo ni'u
+## .i xu da cafrai preti liste
 
-6. .i lo zgisnici'e zo'u cusku lu'e lo togystika poi zenba lu'u ce'o lu'e lo togystika poi jdika lu'u se ce'o bo lu'e me'o vi'i bu lu'u ce'o lu'e lo fadni togystika lu'u ce'o lu'e lo zgika'u
+[ni'o go'i sai](faq.html)
 
-7. .i lo ro drata cu jai nu ciska sutra
-
-tu'u
-
-## xu zvati fa la cafrai preti
-
-[ni'o ja'a go'i](faq.html)
-
-## ca zukte ma
+## .i ca zukte ma
 
 ni'o tu'e
 
-- .i zvati ti fa [la janli xe ctuca](crash.html) ku pe fy jy sy .i fau lo ji'a nu so'o va'e jimpe fi cy ty cu sarcu lo nu cilre lo jicmu be lo fy jy sy sidbo kei fa tu'a lo mentu be li so'o po'o
-- .i zgana [lo torveki](summary.html) be fy jy sy
-- .i tcidu [lo se javni](rules.html) fau lo nu fa'idji fi lo se senpi
-- .i mencti [lo xe karbi](compare.html) be fy jy sy bei lo re jivna snici'e no'u zo'e pe la xelmxolts elis ge'u e zo'e pe la ben djonston .i ba'o la'e di'u jimpe lo du'u fy jy sy zmadu re zo'e ma kau
-- .i pilno [lo kajytci seljmaji](calc.html) .i **e'e** ca zi kibytci tcitygau fi ri
-- .i lanli [lo so'i mupli](examples.html) be lo ka fy jy sy se pilno fi ce'u
+- .i ko cilre fi fy jy sy fu la [janli xe ctuca](crash.html) .i va'o lo nu so'o va'e jimpe fi cy ty kei lo'e nu cilre fi fy jy sy cu mentu li so'u
+- .i ko tcidu lo [cmavelski](summary.html) be pi ro le ciste
+- .i ko tcidu lo [mulno ke formale velski](rules.html) fau lo nu senpi tu'a lo satci javni
+- .i ko lanli lo [xe karbi](compare.html) be fy jy sy bei re se jivna no'u zo'ei la xelmxolts elis lu'u jo'u zo'ei la ben djonston .i ja'e bo jimpe fi lo krinu be lo du'u fy jy sy jinga fi ro re ra
+- .i ko pilno lo [kanji tutci](calc.html) pe le kibystu lo nu zmiku kanji tu'a fy jy sy .i **e'u** do kibytci tcitygau fi le se go'i
+- .i ko catlu lo so'i drata [mupli](examples.html) lo nu pilno fy jy sy
 
 tu'u
-
-**ni'o fy jy sy ba mo do**
 
 <audio controls><source src="../assets/index/impression.mp3" type="audio/mpeg"></audio>
