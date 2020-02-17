@@ -35,7 +35,6 @@ Owszem, możesz, ale przez to utracisz parę dogodności:
 - możliwość modulacji do dowolnej „tonacji”, kiedy tylko zechcesz, bez potrzeby zawiłych adnotacji albo zmiany przypisań nut do wysokości;
 - uniwersalnego podejście, dzięki któremu mała liczba dodatkowych symboli daje ci możliwość wykorzystywania tego samego systemu do *dowolnej części* JI, a co z tego wynika – możliwość pogłębienia intuicji FJS-owej i JI-owej, łącznie ze skrótami myślowymi;
 - zachowanie arytmetyki interwałów – dodawanie działa tak, jak powinno, co nie jest pewne przy chaotycznym przydzieleniu wysokości wszerz dostępnej przestrzeni na papierze;
-- natychmiastowa rozpoznawalność – jeśli rozpoznajesz 3<sup>5</sup> jako 5/4, to rozpoznasz także 6<sup>5</sup>, 2<sup>5</sup>, 7&lt;<sup>5</sup> oraz 4&lt;<sup>5</sup> jako interwały *pochodne*, a jeśli wiesz, co to jest 7<sup>7</sup>, to również i 4<sup>7</sup>, 3><sup>7</sup> i 6><sup>7</sup>;
 - zanurzenie w systemie – u innych ułamki zamienia się na nuty tylko po to, żeby w ogóle móc je zapisać, natomiast całe myślenie wykonuje się drogą okrężną (od nut do ułamków i z powrotem), kiedy w FJS-ie można działać już na nutach, co dużo ułatwia i przyspiesza – to tak, jakbyś dodawał dwie liczby w systemie dwójkowym, zamiast najpierw je przeliczyć na dziesiętny, wtedy dodać, a potem wynik znowu przekonwertować na dwójkowy;
 - szybkie czytanie a vista różnych partytur.
 

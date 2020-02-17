@@ -35,7 +35,6 @@ Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
 - die Fähigkeit, zu jeder möglichen Tonart zu modulieren, wie du willst, ohne verwickelte Neudefinitionen oder unhandliche Anmerkungen;
 - die Eigenschaft des FJS, dass mit sehr wenigen zusätzlichen Notationselementen die *ganze* Naturtonstimmung mit dem gleichen System funktioniert, was dir eine Intuition und gründliches Verständnis der Fähigkeiten und Abkürzungen ermöglicht;
 - unveränderte Intervallarithmetik – Rechnen mit Intervallen funktioniert immer noch genauso wie üblich, was nicht bei einer zufälligen Zuordnung der Verhältnisse zu Noten der Fall ist;
-- die Fähigkeit, auf einmal zu erkennen, was los ist – falls du weißt, dass eine 3+<sup>5</sup> 5/4 beträgt, weißt du auch, was eine 6+<sup>5</sup>, 2+<sup>5</sup>, 7+<sup>5</sup> und 4&lt;<sup>5</sup> sind, nämlich die *Verwandten* von 5/4, und falls du 7−<sup>7</sup> erkennst, erkennst du auch 4<sup>7</sup>, 3−<sup>7</sup> und 6−<sup>7</sup>;
 - das Denken innerhalb des Systems selbst – bei anderen Notationssystemen verwandelt man Verhältnisse in Noten nur dazu, um die Musik darzustellen, das ganze Denken aber findet außerhalb dieser Noten statt, im FJS dagegen kannst du in den Noten denken, was viel einfacher und schneller ist – als würdest du zwei Binärzahlen direkt addieren, ohne die Umrechnung in die Basis zehn und dann wieder zurück;
 - schnelles Blattspiel, mit verschiedenen Partituren.
 
