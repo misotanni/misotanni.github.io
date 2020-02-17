@@ -441,7 +441,7 @@ Now you can finally learn why 65/63 is the standard radius of tolerance. This nu
 	
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 
-6. (HARD!) There are supporters of the “432 Hz movement”, which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed in the FJS when such a pitch shift is carried out.
+6. (HARD!) There are supporters of the “432 Hz movement”, which insists that re-tuning A down from 440 Hz to 432 Hz improves the physical and spiritual quality of music. (Whether or not this is true is insignificant here.) Determine the FJS representation of the interval by which a piece of music is transposed when such a pitch shift is carried out.
 7. (HARD!) What about the radius of tolerance itself, 65/63? What is its FJS representation?
 
 You can check your answers [here](solutions.html).

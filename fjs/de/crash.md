@@ -441,7 +441,7 @@ Du kannst jetzt auch erfahren, wieso ich 65/63 für den Toleranzradius gewählt 
 	
 	<audio controls><source src="../assets/crash/seconds.mp3" type="audio/mpeg"></audio>
 	
-6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück im FJS transponiert wird, wenn so eine Verstimmung geschieht.
+6. (SCHWIERIG!) Es gibt Anhänger der „432-Hz-Trends“, die bestehen, dass eine Verstimmung der Note A von 440 Hz unten auf 432 Hz sowohl die physische als auch die geistige Qualität der Musik verbessert. (Ob das jetzt wahr oder falsch ist, geht uns nicht an.) Bestimme die FJS-Darstellung des Intervalls, durch welches ein Musikstück transponiert wird, wenn so eine Verstimmung geschieht.
 7. (SCHWIERIG!) Wie lautet die FJS-Darstellung des Toleranzradius, 65/63, selbst?
 
 Du kannst die Antworten [hier](solutions.html) nachschlagen.
