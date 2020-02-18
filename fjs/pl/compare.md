@@ -229,7 +229,7 @@ Punkt dla HE i FJS-u.
 
 No dobrze – mówisz – mam tu tę całą abstrakcyjną analizę, ale co z rzeczywistymi przykładami? Jak sprawdzają się te trzy systemy *w praktyce*?
 
-Poniżej podaję kilka przykładów częstych użyć JI, żebyś mógł samemu prześledzić i porównać wydajność trzech systemów w tych kontekstach. (Wysokości w HE nazywam, zapisując +5, +7 itp. dla alteracji przenoszących w górę, a −5, −7 itp. – w dół, by odzwierciedlić HE-owy zapis nutowy).
+Poniżej podaję kilka przykładów częstych użyć JI, żebyś mógł samemu prześledzić i porównać wydajność trzech systemów w tych kontekstach. (Wysokości w HE nazywam, zapisując +5, +7 itp. dla alteracji przenoszących w górę, a −5, −7 itp. – w dół, by odzwierciedlić HE-owy zapis nutowy. W BJ piszę krzyżyki i bemole oddzielnie, nie jako końcówki -is oraz -es, ponieważ czasami pojawiają się dodatkowe znaki pomiędzy nimi.)
 
 ### Seria alikwotowa (1.–32.)
 
