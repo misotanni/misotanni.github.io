@@ -65,12 +65,12 @@ The following seven rules govern everything required to notate an arbitrary piec
 
 ni'o tu'e
 
-- .i ko cilre fi fy jy sy fu la [janli xe ctuca](crash.html) .i va'o lo nu so'o va'e jimpe fi cy ty kei lo'e nu cilre fi fy jy sy cu mentu li so'u
-- .i ko tcidu lo [cmavelski](summary.html) be pi ro le ciste
-- .i ko tcidu lo [mulno ke formale velski](rules.html) fau lo nu senpi tu'a lo satci javni
-- .i ko lanli lo [xe karbi](compare.html) be fy jy sy bei re se jivna no'u zo'ei la xelmxolts elis lu'u jo'u zo'ei la ben djonston .i ja'e bo jimpe fi lo krinu be lo du'u fy jy sy jinga fi ro re ra
-- .i ko pilno lo [kanji tutci](calc.html) pe le kibystu lo nu zmiku kanji tu'a fy jy sy .i **e'u** do kibytci tcitygau fi le se go'i
-- .i ko catlu lo so'i drata [mupli](examples.html) lo nu pilno fy jy sy
+- .i cilre fi fy jy sy fu la [janli xe ctuca](crash.html) .i va'o lo nu so'o va'e jimpe fi cy ty kei lo'e nu cilre fi fy jy sy cu mentu li so'u
+- .i tcidu lo [cmavelski](summary.html) be pi ro le ciste
+- .i tcidu lo [mulno ke formale velski](rules.html) fau lo nu senpi tu'a lo satci javni
+- .i lanli lo [xe karbi](compare.html) be fy jy sy bei re se jivna no'u zo'ei la xelmxolts elis lu'u jo'u zo'ei la ben djonston .i ja'e bo jimpe fi lo krinu be lo du'u fy jy sy jinga fi ro re ra
+- .i pilno lo [kanji tutci](calc.html) pe le kibystu lo nu zmiku kanji tu'a fy jy sy .i **e'u** do kibytci tcitygau fi le se go'i
+- .i catlu lo so'i drata [mupli](examples.html) lo nu pilno fy jy sy
 
 tu'u
 
