@@ -306,7 +306,7 @@ Więcej porównań znajdziesz m.in. w [przykładach](examples.html).
 
 ## Werdykt
 
-To żadna niespodzianka, że FJS jest najlepszym systemem zapisu JI spośród tych trzech. HE niestety wypada całkiem źle jako pierwsza chronologicznie próba. Wyobrażam sobie, że BJ, biorąc pod uwagę dziwny wybór wysokości niealterowanych, jest jeszcze gorszy niż sam HE – równy wynik musi być więc błędem statystycznym! FJS znacząco prześciga i HE, i BJ w sprawnym zapisie JI.
+To żadna niespodzianka, że FJS jest najlepszym systemem zapisu JI spośród tych trzech. Zarówno HE, jak i BJ mają sporo wad, które sprawiają, że dużo mniej przydają się do zapisu JI, czyli ich pierwotnego celu. FJS znacząco prześciga i HE, i BJ w sprawnym zapisie JI.
 
 ## Wiadomość dla Kyle'a Ganna
 

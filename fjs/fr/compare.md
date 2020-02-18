@@ -308,7 +308,7 @@ Vous trouverez plus de comparaisons entre les [exemples](examples.html).
 
 ## Jugement
 
-Ce n'est aucune surprise que le FJS est le meilleur système de notation pour l'intonation juste. Ce n'est pas non plus une surprise que la notation de Helmholtz-Ellis est mauvaise puisqu'elle était le premier essai. Parce que Johnston a choisi ses tons diatoniques d'une manière vraiment stupide, il est beaucoup pire que Helmholtz-Ellis : il a autant de points grâce à une erreur transferte, métaphoriquement. Le FJS est donc beaucoup meilleur que Helmholtz-Ellis et meilleur que Johnston en ce qui concerne la notation de l'intonation juste.
+Ce n'est aucune surprise que le FJS est le meilleur système de notation pour l'intonation juste. Helmholtz-Ellis et Johnston ne sont pas efficaces pour la notation de JI à cause de leurs nombreux points faibles. Le FJS est donc beaucoup meilleur que Helmholtz-Ellis et meilleur que Johnston en ce qui concerne la notation de l'intonation juste.
 
 ## Une remarque à Kyle Gann
 

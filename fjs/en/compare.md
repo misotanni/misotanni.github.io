@@ -310,7 +310,7 @@ You can find even more comparisons among the [examples](examples.html).
 
 ## Verdict
 
-Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis notation, unsurprisingly, is quite bad, being the first attempt at such a task. Johnston notation, given its absurd choice of the natural notes, is considerably worse than even Helmholtz-Ellis; its equal score is a result of figurative transfer error. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
+Unsurprisingly, the FJS is the best existing notation system for Just Intonation. Helmholtz-Ellis and Johnston notations both have many points that make them illogical and unpractical to use. The FJS significantly exceeds both Helmholtz-Ellis and Johnston notation in its task of notating JI.
 
 ## A Note to Kyle Gann
 

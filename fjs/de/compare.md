@@ -308,7 +308,7 @@ Mehr Vergleiche findest du unter den [Beispielen](examples.html).
 
 ## Entscheidung
 
-Es wundert nicht, dass das FJS das beste Notationssystem für die Naturtonstimmung ist. Es wundert auch nicht, dass Helmholtz-Ellis-Notation ziemlich schlecht ist, da sie der erste Versuch davon war. Dass Johnston lächerlich seine Stammtöne gewählt hat, ist der Grund, warum er viel schlechter als sogar Helmholtz-Ellis ist: dass er genauso viele Punkte hat, ist eine Folge bildlichen Übertragungsfehlers. Das FJS ist viel besser als sowohl Helmholtz-Ellis als auch Johnston, was die Notation der Naturtonstimmung angeht.
+Es wundert nicht, dass das FJS das beste Notationssystem für die Naturtonstimmung ist. Sowohl Helmholtz-Ellis als auch Johnston sind wegen ihrer vielen Schwachpunkte schwierig zu benutzen und weniger effektiv. Das FJS ist viel besser als sowohl Helmholtz-Ellis als auch Johnston, was die Notation der Naturtonstimmung angeht.
 
 ## Eine Anmerkung für Kyle Gann
 
