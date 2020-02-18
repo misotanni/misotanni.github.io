@@ -128,7 +128,7 @@ On pourrait associer le nombre 3 avec le comma pythagoricien. De cette façon, i
 
 L'algorithme principal du FJS accepte chaque entrée, pas seulement des nombres premiers. Bien que le FJS ne soit pas construit à cet usage, on peut réaliser toute l'algorithmerie pour des nombres irrationnels aussi bien que des rationnels. Cela fonctionne pour tous nombres réels, mais certains (en particulier, des racines entières des nombres rationnels) détruisent la bijection virginale et délicate du FJS et ne la transforment qu'en surjection. (Vous pouvez alors lire, mais ne plus écrire, sans équivoque.)
 
-Cela signifie que vous pouvez écrire par exemple l'échelle de 833 cents dans le FJS. C'est une échelle composée des facteurs de 2 et φ (le nombre d'or). Dans le FJS, φ/1 est une 6m<sup>φ</sup>.
+Cela signifie que vous pouvez écrire par exemple l'échelle de 833 cents dans le FJS. C'est une échelle composée des facteurs de φ (le nombre d'or). Dans le FJS, φ/1 est une 6m<sup>φ</sup>.
 
 En outre, cette expansion du FJS préserve toutes ses qualités stupéfiantes.
 
