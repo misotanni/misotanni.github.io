@@ -20,7 +20,7 @@ Just Intonation is notated in the following way:
 	- Every formal comma is a bridge number, since they all are the difference between a 3-limit ratio and a prime ratio.
 	- Therefore every ratio starting from the 5-limit is represented as a 3-limit ratio, which is given an interval class, multiplied by integer powers of formal commas, which are given FJS accidentals. 
 
-For every prime, the FJS master algorithm outputs two values: the fifth shift, and the formal comma. Both are useful to describe the FJS fully, but only one of them must be known for a given prime for both to be uniquely determined without having to use the FJS master algorithm or the radius of tolerance (cf. the [formal description](rules.html)).
+In the FJS, every prime is associated with two values: the fifth shift, and the formal comma. Both are useful to describe the FJS fully, but only one of them must be known for a given prime for both to be uniquely determined without having to use the FJS master algorithm or the radius of tolerance (cf. the [formal description](rules.html)).
 
 Below is the FJS master algorithm.
 

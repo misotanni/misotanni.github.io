@@ -20,7 +20,7 @@ Wtedy stroje naturalne zapisuje się następująco:
 	- Każdy komat formalny jest liczbą mostem, ponieważ każdy komat formalny jest różnicą między interwałem pierwszym a interwałem 3-limitowym.
 	- Zatem każdy ułamek począwszy od 5-limitowych można zapisać jako ułamek 3-limitowy, któremu odpowiada zwykły interwał, pomnożony przez całkowite potęgi komatów formalnych, którym odpowiadają alteracje FJS-owe.
 
-Dla każdej liczby pierwszej główny algorytm FJS znajduje dwie wartości: przeniesienie kwintowe oraz komat formalny. Obie są przydatne, aby FJS w pełni opisać, ale tylko jedna jest potrzebna, żeby drugą obliczyć bez potrzeby użycia głównego algorytmu ani promienia tolerancji (zobacz [opis formalny](rules.html)).
+Każdej liczbie pierwszej FJS przypisuje dwie wartości: przeniesienie kwintowe oraz komat formalny. Obie są przydatne, aby FJS w pełni opisać, ale tylko jedna jest potrzebna, żeby drugą obliczyć bez potrzeby użycia głównego algorytmu ani promienia tolerancji (zobacz [opis formalny](rules.html)).
 
 Poniżej znajduje się główny algorytm FJS.
 

@@ -20,7 +20,7 @@ Dann wird die Naturtonstimmung folgendermaßen notiert:
 	- Jedes formale Komma ist eine Brückenzahl, denn es handelt sich immer um das Intervall zwischen einer Primzahl und einem 3-Limit-Verhältnis.
 	- Deshalb kann man jedes höhere Intervall als 3-Limit-Verhältnis (welches eine Intervalldarstellung hat) mal formale Kommas mit Ganzzahlpotenzen (welche FJS-Versetzungszeichen haben) darstellen.
 
-Der FJS-Master-Algorithmus findet für jede Primzahl zwei Werte: die Quintenverschiebung und das formale Komma. Obwohl beide nützlich sind, um das FJS vollständig zu beschreiben, ist nur einer notwendig, um den anderen berechnen zu können, ohne den Master-Algorithmus oder den Toleranzradius zu benutzen (sehe die [formale Beschreibung](rules.html)).
+Das FJS findet für jede Primzahl zwei Werte: die Quintenverschiebung und das formale Komma. Obwohl beide nützlich sind, um das FJS vollständig zu beschreiben, ist nur einer notwendig, um den anderen berechnen zu können, ohne den Master-Algorithmus oder den Toleranzradius zu benutzen (sehe die [formale Beschreibung](rules.html)).
 
 Hier steht der FJS-Master-Algorithmus.
 
