@@ -13,7 +13,7 @@ var loc = {
       wrongFactor: "2 nor 3 may not be factors of FJS modifiers.",
     noComputation: "No computation specified; please select one from the list.",
          notPrime: "“%1” is not a prime number.",
-   butPythagorean: "2 and 3 are Pythagorean octaves and fifths which don't need FJS modifiers.",
+   butPythagorean: "2 and 3 are Pythagorean octaves and fifths, which don't need FJS modifiers.",
           notFrac: "Input is not a natural fraction (like 5/3 or 928/777).",
              div0: "Why would you divide by zero?",
           notReal: "“%1” is not a real number.",
