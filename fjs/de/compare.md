@@ -167,7 +167,7 @@ Wir sehen uns jetzt etwas anderes an: Notennamen (also auch Intervallnamen). Wä
 
 Das Benennen von Noten ist praktisch unmöglich in Helmholtz-Ellis wegen der zufälligen Zeichen, es sei denn, man würde entweder ein komplett anderes System benutzen oder mit der speziellen Helmholtz-Ellis-Schriftart tippen. Das habe ich bisher nicht gesehen.
 
-Was Johnston angeht, sieht es aus, als ob seine Versetzungszeichen so etwas ermöglichen würden. Die Johnston-Notation hat aber auch ein seltsames System, indem manche Versetzungszeichen zwischen dem Stammton und dem pythagoreischen Versetzungszeichen geschrieben werden, und zwar keine Regel, welche. Was man Es<sup>7</sup> im FJS nennen würde, wäre bei Johnston E7♭+ (sic). Das 7-Zeichen wird zwischen dem E und dem Be geschrieben, der Plus aber nach dem Be. Was am meisten wehtut, ist, dass das „septimale Komma“ bei Johnston mit zwei Versetzungszeichen dargestellt wird: zuerst „herunter um ein syntonisches plus ein septimales Komma“, dann „wieder zurück um ein syntonisches“.
+Was Johnston angeht, sieht es aus, als ob seine Versetzungszeichen so etwas ermöglichen würden. Die Johnston-Notation hat aber auch ein seltsames System, indem manche Versetzungszeichen zwischen dem Stammton und dem pythagoreischen Versetzungszeichen geschrieben werden, und zwar keine Regel, welche. Was man Es<sup>7</sup> im FJS nennen würde, wäre bei Johnston E7♭+ ([sic](https://en.wikipedia.org/wiki/The_Well-Tuned_Piano#Tuning)). Das 7-Zeichen wird zwischen dem E und dem Be geschrieben, der Plus aber nach dem Be. Was am meisten wehtut, ist, dass das „septimale Komma“ bei Johnston mit zwei Versetzungszeichen dargestellt wird: zuerst „herunter um ein syntonisches plus ein septimales Komma“, dann „wieder zurück um ein syntonisches“.
 
 Johnston hat auch ein hochentwickeltes System der Aussprache seiner Notennamen. Es ähnelt dem des FJS, aber ist viel komplizierter, weil die 5-, 7-, und 11-Kommas unregelmäßige Zeichen haben. Kyle Gann zeigt uns dazu ein Beispiel auf Englisch: „G-sharp-up-arrow-double-sub-seven-minus“: etwa „Gis-Pfeil-nach-oben-doppel-sub-sieben-Minus“. Das ist viel komplizierter, als das vertrackteste, was man bei dem FJS erfinden könnte, immer genau nach dem Schema: (pythagoreischer Teil)-(optionales „super“)-(Otonales)-(„sub“)-(Utonales), in dieser Reihenfolge. Gann schreibt, dass die Verbindungen der Versetzungszeichen keine standardisierte Reihenfolge haben.
 
@@ -345,6 +345,8 @@ Im Gegensatz dazu steht hier derselbe Auszug (inklusive Fehler) im FJS. Bemerke,
 <img src="../assets/compare/bj9.svg" alt="Der gleiche Auszug im FJS">
 
 So wie ich es sehe, bist du zu Handschellen bei Johnston gewohnt, und paralysiert, wenn Helmholtz–Ellis oder das FJS dich befreien, wegen der vielen Jahre in den Handschellen.
+
+Gib zu: das FJS, und nicht die Johnston-Notation, ist „elegant“, „intuitiv und genau“, „sehr logisch“ und „harmonisch sinnvoll“, „die die harmonischen Verhältnisse untermalt“.
 
 Schalte dich auf das FJS um. Es wird die Mathematik und Notation deiner Kompositionen **vielfach vereinfachen**.
 

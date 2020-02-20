@@ -167,9 +167,9 @@ We will now look at another aspect: note naming (and by extension, interval nami
 
 Given its arbitrary glyphs, note naming is practically impossible in Helmholtz-Ellis, unless one were to use either a completely different system or type using the dedicated Helmholtz-Ellis font. I have not seen any such attempt so far.
 
-As for Johnston, its accidentals look promising to allow something like this. But Johnston notation also has a strange system of arbitrary division of its accidentals when it is used to name notes. Some Johnston accidentals are written between the diatonic pitch class and a Pythagorean accidental, but there is no rule which ones. For example, representing a septimal comma below E♭ requires one to write E7♭+ (sic). The septimal accidental goes between the E and the ♭, while the + required to adjust is then written after the ♭. What is most hurtful is that the deviation downwards by a septimal comma is, in Johnston notation, expressed using two accidentals, as “downwards by a syntonic plus septimal comma, but then upwards by a syntonic comma again”.
+As for Johnston, its accidentals look promising to allow something like this. But Johnston notation also has a strange system of arbitrary division of its accidentals when it is used to name notes. Some Johnston accidentals are written between the diatonic pitch class and a Pythagorean accidental, but there is no rule which ones. For example, representing a septimal comma below E♭ requires one to write E7♭+ ([sic](https://en.wikipedia.org/wiki/The_Well-Tuned_Piano#Tuning)). The septimal accidental goes between the E and the ♭, while the + required to adjust is then written after the ♭. What is most hurtful is that the deviation downwards by a septimal comma is, in Johnston notation, expressed using two accidentals, as “downwards by a syntonic plus septimal comma, but then upwards by a syntonic comma again”.
 
-Johnston also has an elaborate system of pronunciation for its note names, which parallels that of the FJS but is much more complicated due to the 5-, 7-, and 11-commas having special glyphs. Kyle Gann gives “G-sharp-up-arrow-double-sub-seven-minus” as a possible note name. This is far more complicated than the most complicated possible note name in the FJS, consisting always of exactly (Pythagorean part)-(optional “super”)-(otonal)-(“sub”)-(utonal), in that order. Gann writes that the combinations of accidentals have not been standardized in Johnston notation.
+Johnston also has an elaborate system of pronunciation for its note names, which parallels that of the FJS but is much more complicated due to the 5-, 7-, and 11-commas having special glyphs. Kyle Gann gives “G-sharp-up-arrow-double-sub-seven-minus” as a possible note name. This is far more complicated than the most complicated possible note name in the FJS, consisting always of exactly three parts: (Pythagorean part)-(optional “super”, otonal)-(“sub”, utonal), in that order. Gann writes that the combinations of accidentals have not been standardized in Johnston notation.
 
 Still, this system is better than nothing. Sigh.
 
@@ -338,7 +338,7 @@ Here is an image of handwritten sheet music in Johnston notation (an excerpt fro
 
 <img src="../assets/compare/BJSQ9ex.jpg" alt="Excerpt from Ben Johnston's String Quartet No. 9">
 
-In just two measures and four staves of music in C (the "best" key for Johnston notation!) on just the harmonic series segment 16-32, this excerpt contains not one, not two, but **three** mistakes: the viola in bar 1, measure 4 plays 99/64 instead of 11/8; all instruments but the first violin in bar 2, measure 4 play 39/32 instead of 19/16; and finally, the last two notes of the viola read 153/128, 9/8, instead of 17/16, 1/1. (All these ratios are octave-reduced with C as 1/1.)
+In just two measures and four staves of music in C (the “best” key for Johnston notation!) on just the harmonic series segment 16-32, this excerpt contains not one, not two, but **three** mistakes: the viola in bar 1, measure 4 plays 99/64 instead of 11/8; all instruments but the first violin in bar 2, measure 4 play 39/32 instead of 19/16; and finally, the last two notes of the viola read 153/128, 9/8, instead of 17/16, 1/1. (All these ratios are octave-reduced with C as 1/1.)
 
 It is not surprising that Johnston notation, being a cryptographic kaleidoscope, causes this much confusion while composing even in a key as simple as C (to say nothing of D or B♭).
 
@@ -347,6 +347,8 @@ In contrast, here is the same excerpt (mistakes included) in the FJS. Notice how
 <img src="../assets/compare/bj9.svg" alt="The same excerpt, in the FJS">
 
 The way I see it, you are used to handcuffed maneuvers in Johnston notation, and are paralyzed when Helmholtz-Ellis (or the FJS) free you, because you got used to the handcuffs over the years of being handcuffed.
+
+Admit it. It is the FJS, not Johnston notation, that is “elegant”, “wonderfully intuitive and exact”, “very logical” and “harmonically meaningful”, “clarifying the harmonic relationships”.
 
 Switch to the FJS. It will make the math and notation part of your compositional pursuit **so much easier**.
 

@@ -20,11 +20,11 @@ Z drugiej strony podejście zastosowane w BJ jest trochę bardziej… innowacy
 
 - *f*–*c*–*g*–*d* to ciąg kwint po 3/2.
 - *f*–*a*, *c*–*e* i *g*–*h* to naturalne tercje wielkie, czyli 5/4.
-- Standardowe krzyżyki i bemole przenoszą o 25/24, czyli Pitagorejski półton chromatyczny minus dwa komaty syntoniczne (1&lt;<sup>25</sup>; komat syntoniczny to 81/80).
+- Standardowe krzyżyki i bemole przenoszą o 25/24, czyli pitagorejski półton chromatyczny minus dwa komaty syntoniczne (1&lt;<sup>25</sup>; komat syntoniczny to 81/80).
 
-Celem tego zabiegu było zapewne to, by *c*–*e*–*g*, *f*–*a*–*c* i *g*–*h*–*d* wszystkie były trójdźwiękami durowymi 4:5:6, a *c*–*es*–*g*, *f*–*as*–*c* i *g*–*b*–*d* – molowymi 10:12:15. *c*–*d*–*e*–*f*–*g*–*a*–*h*–*c* tworzy wtedy skalę diatoniczną Ptolemeusza, czyli naturalną skalę durową, a w *c*–*d*–*es*–*f*–*g*–*as*–*b*–*c* – naturalną molową.
+Celem tego zabiegu było zapewne to, by *c*–*e*–*g*, *f*–*a*–*c* i *g*–*h*–*d* wszystkie były trójdźwiękami durowymi 4:5:6, a *c*–*es*–*g*, *f*–*as*–*c* i *g*–*b*–*d* – molowymi 10:12:15. *c*–*d*–*e*–*f*–*g*–*a*–*h*–*c* tworzy wtedy skalę diatoniczną Ptolemeusza, czyli naturalną skalę durową, a *c*–*d*–*es*–*f*–*g*–*as*–*b*–*c* – naturalną molową.
 
-Ułatwia to diatoniczny zapis notacji 5-limitowej, kosztem dosłownie wszystkiego innego.
+Podobno ułatwia to diatoniczny zapis notacji 5-limitowej, kosztem dosłownie wszystkiego innego.
 
 Ale i to się nie zgadza – i 5-limitową harmonię diatoniczną trudno czasem w ten sposób zapisać. *d*–*a* to nie kwinta czysta, tylko 40/27. Również kwinta przejściowa (czyli *h*–*fis* bądź *b*–*f*) jest równie rozstrojona. To oznacza, że BJ-owe znaki dla komatu syntonicznego, czyli plus i minus, bywają rozsypane po całej kartce. Joe Monzo w encyklopedii muzyki mikrotonowej Tonalsoftu [pisze](http://www.tonalsoft/enc/j/johnston.aspx) o BJ następująco:
 
@@ -165,7 +165,7 @@ Zwrócimy teraz uwagę na coś innego: nazwy nut (a także interwałów). Chocia
 
 Z powodu losowych symboli niewiarygodnie trudno nazywać nuty w HE, chyba że chcesz używać całkowicie innego systemu lub specjalnej czcionki, a takiej jeszcze nie spotkałem.
 
-A co z BJ? Jego alteracje w końcu wyglądają obiecująco. Ale BJ z kolei dokonuje dziwnej klasyfikacji swoich alteracji przy nazywaniu nut. Niektóre z nich są pisane między tonem diatonicznym a alteracją pitagorejską, ale nigdzie nie podaje się, które. Na przykład nuta o komat septymowy niżej od *es* to *e*7♭+ (sic!). Alteracja 7 znajduje się między *e* a bemolem, ale `+` już po tym bemolu. Najboleśniejsze jest to, że komat septymowy w dół u BJ to: „komat septymowy plus syntoniczny w dół, ale potem od razu z powrotem o syntoniczny w górę”.
+A co z BJ? Jego alteracje w końcu wyglądają obiecująco. Ale BJ z kolei dokonuje dziwnej klasyfikacji swoich alteracji przy nazywaniu nut. Niektóre z nich są pisane między tonem diatonicznym a alteracją pitagorejską, ale nigdzie nie podaje się, które. Na przykład nuta o komat septymowy niżej od *es* to *e*7♭+ ([sic!](https://en.wikipedia.org/wiki/The_Well-Tuned_Piano#Tuning)). Alteracja 7 znajduje się między *e* a bemolem, ale `+` już po tym bemolu. Najboleśniejsze jest to, że komat septymowy w dół u BJ to: „komat septymowy plus syntoniczny w dół, ale potem od razu z powrotem o syntoniczny w górę”.
 
 BJ także ma zaawansowany system wypowiadania tych nazw. Jest podobny do FJS-u, ale dużo bardziej skomplikowany, skoro komaty dla 5, 7, i 11 mają nieregularne symbole. Kyle Gann podaje hipotetyczną nazwę „G-sharp-up-arrow-double-sub-seven-minus” (czyli mniej więcej „**gis**-strzałka-w-górę-podwójnie-pod-siedem-minus”). To już o wiele bardziej skomplikowane, niż najwymyślniejsza możliwa nazwa w FJS-ie, która i tak rozłoży się na trzy części: (część pitagorejska)–(ewentualne „nad” i otonalne)–(„pod” i utonalne). A według Ganna składanie alteracji nie jest unormowane.
 
@@ -343,6 +343,8 @@ Poniżej dla porównania ten sam fragment przepisany w FJS-ie (łącznie z błę
 <img src="../assets/compare/bj9.svg" alt="The same excerpt, in the FJS">
 
 Ja widzę to tak, że Pan przyzwyczaił się przez lata do cugli, które założył Panu BJ, a gdy HE (czy też FJS) Pana z nich uwalnia, bierze Pana paraliż.
+
+Mam nadzieję, że może Pan teraz przyznać: to nie BJ, ale FJS jest „symetryczny”, „jednocześnie intuicyjny i dokładny”, „bardzo logiczny”, „harmonicznie wyrazisty”, czy „ułatwiający zrozumienie stosunków harmonicznych”.
 
 Niech się Pan przeniesie na FJS. To **ogromnie ułatwi** matematykę i notację Pańskiej działalności kompozytorskiej.
 
