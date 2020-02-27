@@ -19,8 +19,8 @@ Wie auch das FJS nimmt Helmholtz-Ellis an, dass die übliche Notenschrift die py
 Ben Johnston dagegen ist da ein bisschen… innovativer. Er benutzt eine andere Definition der Stammtöne und üblichen Versetzungszeichen. Traditionelle Notenschrift hat die folgende Bedeutung bei Ben Johnston:
 
 - F – C – G – D ist eine Kette reiner Quinten (3/2).
-- F – A, C – E, and G – H sind Naturterzen (5/4).
-- Das Kreuz und das Be erhöhen bzw. erniedrigen um 25/24 (ein pythagoreischer chromatischer Halbton minus zwei syntonische Kommas; (übermäßige Prime)<sup>25</sup>).
+- F – A, C – E, und G – H sind Naturterzen (5/4).
+- Das Kreuz und das Be erhöhen bzw. erniedrigen um 25/24 (ein pythagoreischer chromatischer Halbton minus zwei syntonische Kommas; 1&lt;<sup>25</sup>).
 
 (Ein syntonisches Komma ist 81/80.)
 

@@ -20,7 +20,7 @@ En revanche, Ben Johnston est un peu plus… innovatif. Il utilise une définiti
 
 - Fa – Do – Sol – Ré est une chaîne de quintes justes (3/2).
 - Fa – La, Do – Mi, et Sol – Si sont des tierces majeures justes (5/4).
-- Le dièse et le bémol sont des altérations de 25/24 (un demi-ton chromatique pythagoricien moins deux commas syntoniques ; (prime augmentée)<sup>25</sup>).
+- Le dièse et le bémol sont des altérations de 25/24 (un demi-ton chromatique pythagoricien moins deux commas syntoniques ; 1+<sup>25</sup>).
 
 (Un comma syntonique, c'est 81/80.)
 
