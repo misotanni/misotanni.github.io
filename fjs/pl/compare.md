@@ -71,7 +71,7 @@ Większość pozostałych alteracji – 17., 29., 31., 37., 41., 47., 53., 57. i
 
 Dlaczego to problem? Chociaż komaty pierwsze jako takie można wciąż wyrazić, wymaga to dwóch odrębnych alteracji, co jest niepotrzebnie mylące. Zdaje mi się, że wszystkie komaty po 23. dobrano ze zbioru ułamków postaci $$\frac{n+1}{n}$$, często kosztem złożonego rozkładu pierwszego. (Warto zauważyć, że taka postać nie gwarantuje, że powstały komat jest mały. Jednym dobrze znanym komatem w teorii mikrotonowej muzyki jest 1029/1024 – różnica pomiędzy kwintą 3/2 a trzema septymowymi całymi tonami (8/7) – czyli liczba nie takiej postaci, a jednak wyjątkowo drobna).
 
-HE wykorzystuje niektóre liczby pierwsze więcej niż raz i niepotrzebnie komplikuje reprezentacje bardziej złożonych interwałów JI. Na przykład 17/16 wymaga zapisania 16/15 przesuniętego o 256/255, a samo 16/15 to 256/243 przesunięte o 81/80. Używanie dwóch znaków przygodnych dla prostego interwału pierwszego? Przynajmniej do interwałów pierwszych do 61 nie potrzeba *trzech* lub więcej znaków.
+HE wykorzystuje niektóre liczby pierwsze więcej niż raz i niepotrzebnie komplikuje reprezentacje bardziej złożonych interwałów JI. Na przykład 17/16 wymaga zapisania 16/15 przesuniętego o 256/255, a samo 16/15 to 256/243 przesunięte o 81/80. Używanie dwóch znaków przygodnych dla prostego interwału pierwszego? Przynajmniej do interwałów pierwszych do 31 nie potrzeba *trzech* lub więcej znaków.
 
 Jest też dużo różnorodności w szerokościach tych komatów: trzynasty – 27/26 – jest ogromny w porównaniu do 41. – 6561/6560.
 

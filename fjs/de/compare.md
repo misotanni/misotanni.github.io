@@ -73,7 +73,7 @@ Was man am deutlichsten sieht, ist, dass die Versetzungszeichen für 17, 29, 31,
 
 Warum ist das ein Problem? Obwohl sie immer noch aufgeschrieben werden können, brauchen sie zwei Versetzungszeichen aus zwei verschiedenen Primzahlen, was total überflüssig ist. Es sieht aus, als ob alle Kommas nach dem 23-Komma genau so ausgewählt wurden, damit ihr Verhältnis die Form $$\frac{n+1}{n}$$ hat, auch wenn das eine komplizierte Primfaktorzerlegung bedeutet. (Was besonders auffällt, ist, dass so eine Form gar nicht garantiert, dass das Komma auch klein ist. Ein berühmtes Komma: 1029/1024, ist sehr klein: der Unterschied zwischen einer 3/2-Quinte und drei Intervallen von 8/7.)
 
-Indem Helmholtz-Ellis diese Kommas ablehnt, benutzt es recycelte Primzahlen, und dadurch macht die Darstellung höherer JI-Intervalle viel komplizierter. Die Darstellung von 17/16 beispielsweise benötigt 16/15 erniedrigt um 256/255, wobei 16/15 selbst 256/243 erhöht um 81/80 ist. Zwei Versetzungszeichen für ein einfaches Primzahlintervall? Mindestens benötigt keines der Intervalle bis zum 61-Limit *mehr* als zwei Versetzungszeichen.
+Indem Helmholtz-Ellis diese Kommas ablehnt, benutzt es recycelte Primzahlen, und dadurch macht die Darstellung höherer JI-Intervalle viel komplizierter. Die Darstellung von 17/16 beispielsweise benötigt 16/15 erniedrigt um 256/255, wobei 16/15 selbst 256/243 erhöht um 81/80 ist. Zwei Versetzungszeichen für ein einfaches Primzahlintervall? Mindestens benötigt keines der Intervalle bis zum 31-Limit *mehr* als zwei Versetzungszeichen.
 
 Es gibt auch große Unterschiede zwischen Größen der Kommas; 27/26 ist enorm im Vergleich zu 6561/6560.
 

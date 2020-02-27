@@ -73,7 +73,7 @@ What stands out most is that the accidentals for 17, 29, 31, 37, 41, 47, 53, 57,
 
 Why is this a problem? While these can still be represented, they require two accidentals combined from two different primes, which is unnecessarily confusing. It seems as though all commas after the 23-comma were specifically selected to be a ratio of the form $$\frac{n+1}{n}$$ (referred to as superparticular), often at the cost of having a complicated prime factorization. (What is particularly notable is that such a form does not even guarantee that the resulting comma is small. One famous comma in microtonal music theory, 1029/1024, the difference between a 3/2 fifth and three 8/7 septimal whole tones, is not of this form, yet it is particularly small.)
 
-Helmholtz-Ellis, rejecting these commas, starts reusing primes and needlessly complicates the representation of higher JI intervals. For example, representing 17/16 requires one to write 16/15 modified by 256/255, and 16/15 itself is 256/243 modified by 81/80. Using two accidentals for a simple prime interval? Mercifully, no prime interval up to the 61-limit requires *three* or more accidentals.
+Helmholtz-Ellis, rejecting these commas, starts reusing primes and needlessly complicates the representation of higher JI intervals. For example, representing 17/16 requires one to write 16/15 modified by 256/255, and 16/15 itself is 256/243 modified by 81/80. Using two accidentals for a simple prime interval? Mercifully, no prime interval up to the 31-limit requires *three* or more accidentals.
 
 There also is a huge imbalance between comma sizes; 27/26 is a huge 13-comma in comparison to the tiny 6561/6560 for the 41-comma.
 

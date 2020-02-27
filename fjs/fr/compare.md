@@ -73,7 +73,7 @@ On voit le plus clairement que les altérations pour 17, 29, 31, 37, 41, 47, 53,
 
 Pourquoi est-ce que c'est un problème ? Bien qu'on puisse les noter sans problème, ils nécessitent deux altérations de deux nombres premiers différents, ce qui est beaucoup trop compliqué. Il semble que tous les commas après celui de 23 soient choisis pour que leur rapport soit toujours de la forme $$\frac{n+1}{n}$$, même si cela signifierait une factorisation compliquée. (Il saute aux yeux que cette forme ne garantit pas que le comma soit petit. Un comma bien connu, 1029/1024, n'a pas cette forme, mais pourtant il est très petit : la différence entre une quinte 3/2 et trois intervalles de 8/7.)
 
-En ignorant ces commas alternatifs, Helmholtz-Ellis utilise des nombres premiers recyclés, et à cause de cela, les intervalles plus hauts deviennent beaucoup plus compliqués. La représentation de 17/16, par exemple, nécessite 16/15 baissé de 256/255, où 16/15 lui-même est 256/243 élevé de 81/80. Deux altérations pour un seul intervalle premier assez simple ? Soyons content qu'aucun intervalle jusqu'à la 61-limite n'en nécessite pas *plus* que deux.
+En ignorant ces commas alternatifs, Helmholtz-Ellis utilise des nombres premiers recyclés, et à cause de cela, les intervalles plus hauts deviennent beaucoup plus compliqués. La représentation de 17/16, par exemple, nécessite 16/15 baissé de 256/255, où 16/15 lui-même est 256/243 élevé de 81/80. Deux altérations pour un seul intervalle premier assez simple ? Soyons content qu'aucun intervalle jusqu'à la 31-limite n'en nécessite pas *plus* que deux.
 
 Il y a aussi de grandes différences entre les dimensions des commas ; 27/26 est énorme comparé à 6561/6560.
 
