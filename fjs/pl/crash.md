@@ -168,7 +168,7 @@ Dlaczego więc mielibyśmy wybrać tercję wielką zamiast kwarty zmniejszonej d
 
 Nie musisz się usprawiedliwiać – to była parodia konkurencyjnych systemów JI, które wybierają sobie te przybliżenia wedle własnego kaprysu. FJS na pytanie „Jakie przybliżenia powinienem wybierać dla interwałów pierwszych?” odpowiada: w ogóle nie powinieneś. Zamiast tego uzgadniamy stałą nazywaną **promieniem tolerancji**. Po dłuższym eksperymentowaniu z różnymi promieniami tolerancji i rozpatrywaniu ich zalet i wad doszedłem do wniosku, że w standardowym FJS-ie będziemy używać *λ* o następującej wartości:
 
-$$\displaystyle \lambda =\frac{65}{63}=54.10546743...\mathrm{c}$$
+$$\displaystyle \lambda =\frac{65}{63}=54,10546743...\mathrm{c}$$
 
 Wyjaśnię, dlaczego, później.
 

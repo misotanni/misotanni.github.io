@@ -28,6 +28,10 @@ I've explained this briefly in the [crash course](crash.html): what I really car
 
 The radius of tolerance used to be many other strange things in the past… including 256/243, and even the square root of 256/243 (yuck!). Each of these numbers has had its rationalization, but it probably cannot get more rational than 65/63 (pun intended).
 
+## Why is 11/8 a P4<sup>11</sup>, not an A4<sup>11</sup>?
+
+I do agree this is a bit controversial, as microtonalists have split opinions about which notation of 11/8 is more intuitive (especially since the FJS uses no quarter tone accidentals). However, I have an alibi: this was not my choice. In fact, it is **impossible** for 11/8 to be notated as A4<sup>11</sup> under *any* radius of tolerance. This is because 4/3 (P4) exceeds 729/512 (A4) in *both* proximity to 11/8 (53.27…¢ vs. 60.41…¢) *and* simplicity (−1 vs. +6 fifths). So if there is a radius of tolerance under which A4 qualifies, then P4 will qualify under that radius of tolerance as well, therefore P4 will be chosen since it is simpler. That's just how the algorithm works. (If P4 is rejected under a certain radius, then d5 is the next best approximation, which is definitely not favorable.)
+
 ## Why the fuss if I can define my pitches at the top of a score?
 
 Sure, you can do that, but there are a few things you'll be missing out on:

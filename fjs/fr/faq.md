@@ -28,6 +28,10 @@ Il y a une explication courte dans le [cours intensif](crash.html). L'important 
 
 Le rayon de tolérance avait eu beaucoup d'autres formes encore plus bizarres dans l'histoire du FJS… y compris 256/243, et même la racine carrée de 256/243 (beurk !). Mais chacun de ces nombres avait eu sa rationalisation. Cependant, je ne crois pas qu'il soit possible d'avoir un rayon plus rational que 65/63 (excusez le jeu de mots).
 
+## Pourquoi est-ce que 4<sup>11</sup> au lieu de 4+<sup>11</sup> est la représentation de 11/8 ?
+
+Je suis conscient que cela semble controversé, puisque les compositeurs JI ont de nombreuses opinions sur la notation optimale du onzième harmonique (en particulier, vu que le FJS n'utilise aucune altération de quart de ton). Mais je suis aussi innocent : ce n'était pas mon choix. En fait, il est **impossible** que 11/8 ait la représentation 4+<sup>11</sup> avec n'importe quel rayon de tolérance. Ceci est dû au fait que 4/3 (la quarte juste) est meilleure que 729/512 (la quarte augmentée) en *deux* aspects : premièrement, elle est plus proche (53.27…¢ au lieu de 60.41…¢), et deuxièmement, elle est plus simple (déplacement de −1 au lieu de +6). Donc, si l'on utilise un rayon de tolérance qui accepte la quarte augmentée comme approximation de 11/8, le même rayon va aussi accepter la quarte juste, et va choisir cette dernière, parce qu'elle est plus simple. C'est tout simplement la façon dont l'algorithme marche. (D'ailleurs, si l'on rejette la quarte juste, l'approximation la plus proche serait la quinte diminuée : ça, nous ne le voulons pas du tout.)
+
 ## Pourquoi s'en préoccuper si je peux définir tous les tons au-dessus d'une partition ?
 
 Bien sûr que vous le pouvez, mais certaines choses vous manqueront :

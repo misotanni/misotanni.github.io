@@ -28,6 +28,10 @@ Der [Crash-Kurs](crash.html) enthält meine Denkprozesse dabei. Wirklich wichtig
 
 In der Vergangenheit hatte der Toleranzradius viele merkwürdige Formen… darunter 256/243 und sogar dessen Quadratwurzel (igitt!). Jede von diesen Zahlen hatte ihre Begründung, aber mehr rational als 65/63 geht es wahrscheinlich nicht (entschuldige das Wortspiel).
 
+## Warum wird 11/8 als 4<sup>11</sup>, nicht 4&lt;<sup>11</sup>, notiert?
+
+Ich gebe zu, dass es umstritten ist, welche Notation von 11/8 intuitiver für mikrotonale Komponisten ist (besonders deshalb, dass das FJS keine Viertelton-Versetzungszeichen hat). Jedoch bin ich unschuldig, denn es war nicht meine Wahl. In Wirklichkeit ist es **unmöglich**, dass 4&lt;<sup>11</sup> die Darstellung von 11/8 sein könnte, und zwar *egal*, was der Toleranzradius beträgt. Das liegt daran, dass 4/3 (die reine Quarte) gegenüber 729/512 (der übermäßigen Quarte) *zwei* Vorteile hat: sowohl eine bessere Annäherung (53.27…¢ anstatt 60.41…¢) als auch eine einfachere Struktur (−1 anstatt +6 Quinten). Wenn also ein Toleranzradius die übermäßige Quarte als Quintenverschiebung für 11 akzeptiert, dann akzeptiert er auch die reine Quarte, und die letzte wird gewählt, weil sie einfacher ist. So funktioniert der Algorithmus. (Falls ein Toleranzradius die reine Quarte nicht akzeptiert, wäre die darauffolgende Annäherung die verminderte Quinte… das wollen wir auf keinen Fall!)
+
 ## Warum überhaupt, wenn ich die Tonhöhen am Anfang der Partitur definieren kann?
 
 Das kannst du natürlich, aber ein paar Sachen werden dir dadurch fehlen:
