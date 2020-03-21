@@ -62,12 +62,12 @@ Oto lista aż do komatu 61. dla HE:
 - 129/128, czyli komat 43.
 - 2304/2303, czyli komat 47. z dodanym czynnikiem czterdziestu dziewięciu.
 - 160/159, czyli komat 53. z dodanym czynnikiem pięciu.
-- 768/767, czyli komat 57. z dodanym czynnikiem trzynastu.
+- 768/767, czyli komat 59. z dodanym czynnikiem trzynastu.
 - 1281/1280, czyli komat 61. z dodanym czynnikiem siedmiu i pięciu.
 
 Kilka z tych alteracji może wyglądać dla Ciebie znajomo: 5., 7., 11., 19., 23. i 43. Pokrywają się one z FJS-owymi.
 
-Większość pozostałych alteracji – 17., 29., 31., 37., 41., 47., 53., 57. i 61. – zawiera oprócz 2, 3 i danej liczby pierwszej inne czynniki. Tak naprawdę jedyne komaty w HE, które ich nie zawierają, to te, które pokrywają się z FJS-owymi, plus 13. (Spośród tych pomiędzy 32 a 64 tylko jeden, 43., ma taką formę).
+Większość pozostałych alteracji – 17., 29., 31., 37., 41., 47., 53., 59. i 61. – zawiera oprócz 2, 3 i danej liczby pierwszej inne czynniki. Tak naprawdę jedyne komaty w HE, które ich nie zawierają, to te, które pokrywają się z FJS-owymi, plus 13. (Spośród tych pomiędzy 32 a 64 tylko jeden, 43., ma taką formę).
 
 Dlaczego to problem? Chociaż komaty pierwsze jako takie można wciąż wyrazić, wymaga to dwóch odrębnych alteracji, co jest niepotrzebnie mylące. Zdaje mi się, że wszystkie komaty po 23. dobrano ze zbioru ułamków postaci $$\frac{n+1}{n}$$, często kosztem złożonego rozkładu pierwszego. (Warto zauważyć, że taka postać nie gwarantuje, że powstały komat jest mały. Jednym dobrze znanym komatem w teorii mikrotonowej muzyki jest 1029/1024 – różnica pomiędzy kwintą 3/2 a trzema septymowymi całymi tonami (8/7) – czyli liczba nie takiej postaci, a jednak wyjątkowo drobna).
 
